@@ -1,0 +1,15 @@
+version="1.19.*"
+tags={
+	"Culture"
+	"Decisions"
+	"Events"
+	"Gameplay"
+	"Historical"
+	"Religion"
+	"Map"
+	"Total Conversion"
+	"Warfare"
+	"Graphics"
+}
+name="Iron Age:Ab Urbae Condita"
+supported_version="1.19.0.5"
