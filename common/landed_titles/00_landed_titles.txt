@@ -2,60 +2,10 @@
 @better_than_the_alternatives_score = 50
 @always_primary_score = 1000
 
-e_maghreb = {
-	color = { 209 63 44 }
-	
-	capital = c_canarias # Canarias
-	
-	ai_primary_priority = {
-		if = {
-			limit = {
-				OR = {
-					culture = culture:baranis
-				}
-			}
-			add = @correct_culture_primary_score
-		}
-	}
-	
-	k_maghreb = {
-		color = { 196 36 18 }
-		
-		capital = c_canarias # Canarias
-		
-		ai_primary_priority = {
-			if = {
-				limit = {
-					OR = {
-						culture = culture:baranis
-					}
-				}
-				add = @correct_culture_primary_score
-			}
-		}
-		
-		d_canarias = {
-			color = { 42 127 201 }
-			
-			capital = c_canarias # Gran Canaria
-			
-			c_canarias = {
-				color = { 22 107 181 }
-				
-				b_grancanaria = {
-					province = 1
-					
-					color = { 22 107 181 }
-				}
-			}
-		}
-	}
-}
-
 e_westernrome = {
 	color = { 209 63 44 }
 	
-	capital = c_latium # Latium
+	capital = c_roma # Roma
 	
 	ai_primary_priority = {
 		if = {
@@ -71,7 +21,7 @@ e_westernrome = {
 	k_italia = {
 		color = { 196 36 18 }
 		
-		capital = c_latium # Latium
+		capital = c_roma # Roma
 		
 		ai_primary_priority = {
 			if = {
@@ -87,10 +37,10 @@ e_westernrome = {
 		d_latium = {
 			color = { 42 127 201 }
 			
-			capital = c_latium # Latium
+			capital = c_latium # Roma
 			
-			c_latium = {
-				color = { 22 107 181 }
+			c_roma = {
+				color = { 166 9 7 }
 				
 				b_roma = {
 					province = 313
@@ -103,8 +53,98 @@ e_westernrome = {
 					
 					color = { 22 107 181 }
 				}
+				
+				b_tibur = {
+					province = 315
+					
+					color = { 22 107 181 }
+				}
+				
+				b_albalonga = {
+					province = 314
+					
+					color = { 22 107 181 }
+				}
+				
+				b_ardea = {
+					province = 312
+					
+					color = { 22 107 181 }
+				}
+			}
+			
+			c_antium = {
+				color = { 166 9 7 }
+				
+				b_antium = {
+					province = 299
+					
+					color = { 22 107 181 }
+				}
+				
+				b_camaracum = {
+					province = 298
+					
+					color = { 22 107 181 }
+				}
+				
+				b_hoiusvicus = {
+					province = 301
+					
+					color = { 22 107 181 }
+				}
+			}
+			
+			c_vizeliacum = {
+				color = { 166 9 7 }
+				
+				b_vizeliacum = {
+					province = 325
+					
+					color = { 22 107 181 }
+				}
+				
+				b_celaenae = {
+					province = 317
+					
+					color = { 22 107 181 }
+				}
+				
+			}
+			
+			c_cillium = {
+				color = { 166 9 7 }
+				
+				b_cillium = {
+					province = 303
+					
+					color = { 22 107 181 }
+				}
+				
 			}
 		}
+		
+		d_etruria = {
+			color = { 42 127 201 }
+			
+			capital = c_latium # Roma
+			
+			c_veii = {
+				color = { 166 9 7 }
+				
+				b_veii = {
+					province = 340
+					
+					color = { 22 107 181 }
+				}
+				
+				b_caisra = {
+					province = 341
+					
+					color = { 22 107 181 }
+				}
+				
+			}
 	}
 }
 		
