@@ -52,6 +52,63 @@ e_maghreb = {
 	}
 }
 
+e_westernrome = {
+	color = { 209 63 44 }
+	
+	capital = c_latium # Latium
+	
+	ai_primary_priority = {
+		if = {
+			limit = {
+				OR = {
+					culture = culture:baranis
+				}
+			}
+			add = @correct_culture_primary_score
+		}
+	}
+	
+	k_italia = {
+		color = { 196 36 18 }
+		
+		capital = c_latium # Latium
+		
+		ai_primary_priority = {
+			if = {
+				limit = {
+					OR = {
+						culture = culture:baranis
+					}
+				}
+				add = @correct_culture_primary_score
+			}
+		}
+		
+		d_latium = {
+			color = { 42 127 201 }
+			
+			capital = c_latium # Latium
+			
+			c_latium = {
+				color = { 22 107 181 }
+				
+				b_roma = {
+					province = 313
+					
+					color = { 22 107 181 }
+				}
+				
+				b_ostia = {
+					province = 311
+					
+					color = { 22 107 181 }
+				}
+			}
+		}
+	}
+}
+		
+
 # These titles cut hundreds of errors from logs. 
 e_hre = { landless = yes }
 e_byzantium = { landless = yes }
