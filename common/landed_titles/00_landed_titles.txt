@@ -42,6 +42,11 @@ e_westernrome = {
 			c_roma = {
 				color = { 166 9 7 }
 				
+				b_roma_313 = {
+					color = { 168 75 182 }
+					province = 313
+				}
+				
 				b_ostia_311 = {
 					color = { 84 69 181 }
 					province = 311
@@ -50,11 +55,6 @@ e_westernrome = {
 				b_ardea_312 = {
 					color = { 126 72 54 }
 					province = 312
-				}
-
-				b_roma_313 = {
-					color = { 168 75 182 }
-					province = 313
 				}
 
 				b_alba_longa_314 = {
@@ -71,16 +71,16 @@ e_westernrome = {
 			c_antium = {
 				color = { 168 30 47 }
 				
-				b_camaracum_298 = {
-					color = { 168 30 47 }
-					province = 298
-				}
-
 				b_antium_299 = {
 					color = { 0 33 175 }
 					province = 299
 				}
 				
+				b_camaracum_298 = {
+					color = { 168 30 47 }
+					province = 298
+				}
+
 				b_hoius_vicus_301 = {
 					color = { 84 39 176 }
 					province = 301
