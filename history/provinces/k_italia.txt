@@ -289,31 +289,31 @@
 311 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = city_holding
 }
 
 312 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = city_holding
 }
 
 313 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = castle_holding
 }
 
 314 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = city_holding
 }
 
 315 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 316 = {		

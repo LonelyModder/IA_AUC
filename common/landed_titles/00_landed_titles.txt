@@ -35,113 +35,100 @@ e_westernrome = {
 		}
 		
 		d_latium = {
-			color = { 42 127 201 }
+			color = { 168 75 182 }
 			
-			capital = c_latium # Roma
+			capital = c_roma # Roma
 			
 			c_roma = {
 				color = { 166 9 7 }
 				
-				b_roma = {
-					province = 313
-					
-					color = { 22 107 181 }
-				}
-				
-				b_ostia = {
+				b_ostia_311 = {
+					color = { 84 69 181 }
 					province = 311
-					
-					color = { 22 107 181 }
 				}
-				
-				b_tibur = {
-					province = 315
-					
-					color = { 22 107 181 }
-				}
-				
-				b_albalonga = {
-					province = 314
-					
-					color = { 22 107 181 }
-				}
-				
-				b_ardea = {
+
+				b_ardea_312 = {
+					color = { 126 72 54 }
 					province = 312
-					
-					color = { 22 107 181 }
+				}
+
+				b_roma_313 = {
+					color = { 168 75 182 }
+					province = 313
+				}
+
+				b_alba_longa_314 = {
+					color = { 0 78 55 }
+					province = 314
+				}
+
+				b_tibur_315 = {
+					color = { 42 81 183 }
+					province = 315
 				}
 			}
 			
 			c_antium = {
-				color = { 166 9 7 }
+				color = { 168 30 47 }
 				
-				b_antium = {
-					province = 299
-					
-					color = { 22 107 181 }
-				}
-				
-				b_camaracum = {
+				b_camaracum_298 = {
+					color = { 168 30 47 }
 					province = 298
-					
-					color = { 22 107 181 }
+				}
+
+				b_antium_299 = {
+					color = { 0 33 175 }
+					province = 299
 				}
 				
-				b_hoiusvicus = {
+				b_hoius_vicus_301 = {
+					color = { 84 39 176 }
 					province = 301
-					
-					color = { 22 107 181 }
 				}
 			}
 			
 			c_vizeliacum = {
-				color = { 166 9 7 }
+				color = { 42 111 188 }
 				
-				b_vizeliacum = {
+				b_vizeliacum_325 = {
+					color = { 42 111 188 }
 					province = 325
-					
-					color = { 22 107 181 }
 				}
 				
-				b_celaenae = {
+				b_celaenae_317 = {
+					color = { 126 87 184 }
 					province = 317
-					
-					color = { 22 107 181 }
 				}
 				
 			}
 			
 			c_cillium = {
-				color = { 166 9 7 }
+				color = { 43 81 138 }
 				
-				b_cillium = {
+				b_cillium_303 = {
+					color = { 43 81 138 }
 					province = 303
-					
-					color = { 22 107 181 }
 				}
 				
 			}
 		}
 		
 		d_etruria = {
-			color = { 42 127 201 }
+			color = { 42 156 68 }
 			
-			capital = c_latium # Roma
+			capital = c_veii # Veii
 			
 			c_veii = {
-				color = { 166 9 7 }
+				color = { 42 156 68 }
 				
-				b_veii = {
+				b_veii_340 = {
+					color = { 42 156 68 }
 					province = 340
-					
-					color = { 22 107 181 }
 				}
-				
-				b_caisra = {
+
+				b_caisra_341 = {
+					color = { 84 159 196 }
 					province = 341
-					
-					color = { 22 107 181 }
 				}
 				
 			}
