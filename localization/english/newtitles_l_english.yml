@@ -12,6 +12,9 @@
  c_vizeliacum:0 "Vizeliacum"
  c_antium:0 "Antium"
  c_roma:0 "Roma"
+ c_hoius_vicus:0 "Hoius Vicus"
+ c_abellinum:0 "Abellinum"
+ c_minturnae:0 "Minturnae"
  # Baronies
  b_syracuse_11:0 "Syracuse"
  b_lyncestis_12:0 "Lyncestis"

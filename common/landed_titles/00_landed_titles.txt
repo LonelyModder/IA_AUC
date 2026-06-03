@@ -87,6 +87,38 @@ e_westernrome = {
 				}
 			}
 			
+			c_hoius_vicus = {
+				color = { 84 39 176 }
+				
+				b_hoius_vicus_301 = {
+					color = { 84 39 176 }
+					province = 301
+				}
+				
+				b_avennio_302 = {
+					color = { 126 42 49 }
+					province = 302
+				}
+			}
+			
+			c_abellinum = {
+				color = { 118 86 150 }
+				
+				b_abellinum_300 = {
+					color = { 118 86 150 }
+					province = 300
+				}
+			}
+
+			c_minturnae = {
+				color = { 126 195 39 }
+				
+				b_minturnae_282 = {
+					color = { 126 195 39 }
+					province = 282
+				}
+			}			
+			
 			c_vizeliacum = {
 				color = { 42 111 188 }
 				
@@ -113,6 +145,13 @@ e_westernrome = {
 			}
 		}
 		
+		d_umbria = {
+			color = { 42 156 68 }
+			
+			
+			
+		}
+		
 		d_etruria = {
 			color = { 42 156 68 }
 			
@@ -132,6 +171,7 @@ e_westernrome = {
 				}
 				
 			}
+		}
 	}
 }
 		

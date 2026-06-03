@@ -299,8 +299,8 @@
 }
 
 313 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = rlatin
+	religion = italic_pagan
 	holding = castle_holding
 }
 
