@@ -81,10 +81,6 @@ e_westernrome = {
 					province = 298
 				}
 
-				b_hoius_vicus_301 = {
-					color = { 84 39 176 }
-					province = 301
-				}
 			}
 			
 			c_hoius_vicus = {
@@ -143,13 +139,6 @@ e_westernrome = {
 				}
 				
 			}
-		}
-		
-		d_umbria = {
-			color = { 42 156 68 }
-			
-			
-			
 		}
 		
 		d_etruria = {
