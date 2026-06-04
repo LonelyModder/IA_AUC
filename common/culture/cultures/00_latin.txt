@@ -1,4 +1,4 @@
-﻿italic = {
+﻿italic_group = {
 	color = { 0.82 0.1 0.26 }
 
 	ethos = ethos_bellicose
@@ -35,7 +35,6 @@ rlatin = {
 	traditions = {
 		tradition_formation_fighting
 		tradition_legalistic
-		tradition_roman_legacy
 		tradition_poetry
 		tradition_hereditary_hierarchy
 		tradition_noble_adoption
