@@ -3,6 +3,7 @@
  e_westernrome:0 "Western Roman Empire"
  # Kingdoms
  k_italia:0 "Italia"
+ k_sicilia:0 "Sicily"
  # Duchies
  d_latium:0 "Latium"
  d_etruria:0 "Etruria"
@@ -12,7 +13,12 @@
  d_lukania:0 "Lukania"
  d_messapia:0 "Messapia"
  d_bruttium:0 "Bruttium"
+ d_syracuse:0 "Syracuse"
+ d_messina:0 "Messina"
  # Couties
+ c_melita:0 "Melita"
+ c_messina:0 "Messina"
+ c_syracuse:0 "Syracuse"
  c_suessa:0 "Suessa"
  c_scylletum:0 "Scylletum"
  c_consentia:0 "Consentia"

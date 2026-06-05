@@ -7,14 +7,61 @@ e_westernrome = {
 	
 	capital = c_roma # Roma
 	
-	ai_primary_priority = {
-		if = {
-			limit = {
-				OR = {
-					culture = culture:baranis
+	k_sicilia = {
+		color = { 84 21 131 }
+		
+		capital = c_syracuse # Syracuse
+		
+		d_syracuse = {
+			color = { 84 21 131 }
+			
+			capital = c_syracuse # Syracuse
+			
+			c_syracuse = {
+				color = { 84 21 131 }
+				
+				b_syracuse_11 = {
+					color = { 84 21 131 }
+					province = 11
 				}
+
+				b_lyncestis_12 = {
+					color = { 126 24 4 }
+					province = 12
+				}
+			
 			}
-			add = @correct_culture_primary_score
+			
+			c_melita = {
+				color = { 84 21 131 }
+				
+				b_melita_26 = {
+					color = { 84 66 11 }
+					province = 26
+				}
+				
+			}
+		}
+		
+		d_messina = {
+			color = { 84 21 131 }
+			
+			capital = c_messina # Messina
+				
+			c_messina = {
+				color = { 166 9 7 }
+				
+				b_messina_21 = {
+					color = { 84 51 136 }
+					province = 21
+				}
+
+				b_naxos_22 = {
+					color = { 126 54 9 }
+					province = 22
+				}
+				
+			}
 		}
 	}
 	
@@ -22,17 +69,6 @@ e_westernrome = {
 		color = { 196 36 18 }
 		
 		capital = c_roma # Roma
-		
-		ai_primary_priority = {
-			if = {
-				limit = {
-					OR = {
-						culture = culture:baranis
-					}
-				}
-				add = @correct_culture_primary_score
-			}
-		}
 		
 		d_latium = {
 			color = { 168 75 182 }
