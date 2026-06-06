@@ -7,6 +7,368 @@ e_westernrome = {
 	
 	capital = c_roma # Roma
 	
+	k_corsicaetsardinia = {
+		color = { 126 96 179 }
+		
+		capital = c_caralis # Caralis
+		
+		d_gymnesian = {
+			color = { 129 123 194 }
+			
+			capital = c_mallorca # Mallorca
+			
+			c_mallorca = {
+				color = { 129 123 194 }
+				
+				b_palmaria_3733 = {
+					color = { 129 123 194 }
+					province = 3733
+				}
+
+				b_pollentia_3734 = {
+					color = { 171 126 67 }
+					province = 3734
+				}
+
+				b_kada_3735 = {
+					color = { 3 129 195 }
+					province = 3735
+				}
+
+				b_maszane_3736 = {
+					color = { 45 132 68 }
+					province = 3736
+				}
+				
+			}
+			
+			c_ebesus = {
+				color = { 45 117 193 }
+				
+				b_ebesus_3731 = {
+					color = { 45 117 193 }
+					province = 3731
+				}
+				
+			}
+			
+			c_mago = {
+				color = { 87 120 66 }
+				
+				b_mago_3732 = {
+					color = { 87 120 66 }
+					province = 3732
+				}
+				
+			}
+			
+		}
+		
+		d_corsica = {
+			color = { 126 96 179 }
+			
+			capital = c_aleria # Aleria
+			
+			c_aleria = {
+				color = { 126 96 179 }
+				
+				b_aleria_107 = {
+					color = { 126 96 179 }
+					province = 107
+				}
+				
+			}
+			
+			c_mariana = {
+				color = { 42 105 53 }
+				
+				b_mariana_110 = {
+					color = { 42 105 53 }
+					province = 110
+				}
+
+				b_martis_109 = {
+					color = { 0 102 180 }
+					province = 109
+				}
+
+				b_aesim_112 = {
+					color = { 126 111 54 }
+					province = 112
+				}
+				
+			}
+			
+			c_pallas = {
+				color = { 126 96 179 }
+				
+				b_pallas_101 = {
+					color = { 84 78 176 }
+					province = 101
+				}
+
+				b_ceuniacum_106 = {
+					color = { 84 93 51 }
+					province = 106
+				}
+				
+			}
+			
+			c_adiacium = {
+				color = { 126 81 49 }
+				
+				b_adiacium_103 = {
+					color = { 126 81 49 }
+					province = 103
+				}
+
+				b_condate_102 = {
+					color = { 168 84 177 }
+					province = 102
+				}
+
+				b_olicana_104 = {
+					color = { 0 87 50 }
+					province = 104
+				}
+				
+			}
+
+			c_populonium = {
+				color = { 168 99 52 }
+				
+				b_populonium_108 = {
+					color = { 168 99 52 }
+					province = 108
+				}
+
+				b_vitudurum_111 = {
+					color = { 84 108 181 }
+					province = 111
+				}
+
+				b_atuaticorum_105 = {
+					color = { 42 90 178 }
+					province = 105
+				}
+
+			}
+		}
+		
+		d_caralis = {
+			color = { 168 147 152 }
+			
+			capital = c_caralis # Caralis
+			
+			c_caralis = {
+				color = { 168 147 152 }
+				
+				b_caralis_53 = {
+					color = { 168 147 152 }
+					province = 53
+				}
+				
+				b_viminiacum_73 = {
+					color = { 168 207 162 }
+					province = 73
+				}
+				
+			}
+			
+			c_sulci = {
+				color = { 84 3 36 }
+				
+				b_sulci_76 = {
+					color = { 84 3 36 }
+					province = 76
+				}
+				
+				b_nora_75 = {
+					color = { 42 0 163 }
+					province = 75
+				}
+				
+			}
+			
+			c_nolza = {
+				color = { 168 24 167 }
+				
+				b_nolza_83 = {
+					color = { 168 24 167 }
+					province = 83
+				}
+				
+				b_raetinium_82 = {
+					color = { 126 21 39 }
+					province = 82
+				}
+				
+				b_condatomagus_91 = {
+					color = { 84 48 171 }
+					province = 91
+				}
+
+				b_haenna_92 = {
+					color = { 125 51 44 }
+					province = 92
+				}
+
+				b_iulium_93 = {
+					color = { 168 54 172 }
+					province = 93
+				}
+				
+			}
+			
+			c_tuder = {
+				color = { 0 27 40 }
+				
+				b_tuder_84 = {
+					color = { 0 27 40 }
+					province = 84
+				}
+
+				b_bilachinium_81 = {
+					color = { 84 18 166 }
+					province = 81
+				}
+				
+			}
+
+			c_pompaelo = {
+				color = { 84 33 141 }
+				
+				b_pompaelo_86 = {
+					color = { 84 33 141 }
+					province = 86
+				}
+				
+				b_bosona_85 = {
+					color = { 42 30 168 }
+					province = 85
+				}
+
+				b_lucium_87 = {
+					color = { 126 36 169 }
+					province = 87
+				}
+				
+			}
+
+			c_usellis = {
+				color = { 0 27 40 }
+				
+				b_usellis_79 = {
+					color = { 0 12 65 }
+					province = 79
+				}
+
+				b_tigurum_74 = {
+					color = { 0 210 35 }
+					province = 74
+				}
+
+				b_nerviorum_77 = {
+					color = { 126 6 164 }
+					province = 77
+				}
+
+				b_neapolis_78 = {
+					color = { 168 9 37 }
+					province = 78
+				}
+				
+			}
+			
+		}
+		
+		d_olbia = {
+			color = { 168 39 42 }
+			
+			capital = c_olbia # Olbia
+			
+			c_olbia = {
+				color = { 168 39 42 }
+				
+				b_olbia_88 = {
+					color = { 168 39 42 }
+					province = 88
+				}
+
+				b_limonum_89 = {
+					color = { 0 42 170 }
+					province = 89
+				}
+
+				b_caere_90 = {
+					color = { 42 45 43 }
+					province = 90
+				}
+				
+			}
+			
+			c_tharros = {
+				color = { 42 15 138 }
+				
+				b_tharros_80 = {
+					color = { 42 15 138 }
+					province = 80
+				}
+				
+			}
+			
+			c_praesidium = {
+				color = { 42 60 173 }
+				
+				b_praesidium_95 = {
+					color = { 42 60 173 }
+					province = 95
+				}
+
+				b_bosa_94 = {
+					color = { 0 57 45 }
+					province = 94
+				}
+				
+			}
+			
+			c_mogontiacum = {
+				color = { 42 75 48 }
+				
+				b_mogontiacum_100 = {
+					color = { 42 75 48 }
+					province = 100
+				}
+
+				b_suessionum_96 = {
+					color = { 84 63 46 }
+					province = 96
+				}
+				
+			}
+
+			c_turris = {
+				color = { 42 15 138 }
+				
+				b_turris_97 = {
+					color = { 126 66 174 }
+					province = 97
+				}
+
+				b_lentia_98 = {
+					color = { 168 69 47 }
+					province = 98
+				}
+
+				b_sassari_99 = {
+					color = { 0 72 175 }
+					province = 99
+				}
+				
+			}	
+		}
+	}	
+	
 	k_sicilia = {
 		color = { 84 21 131 }
 		
@@ -29,11 +391,60 @@ e_westernrome = {
 					color = { 126 24 4 }
 					province = 12
 				}
+				
+				b_comarina_13 = {
+					color = { 168 27 132 }
+					province = 13
+				}
 			
 			}
 			
+			c_gela = {
+				color = { 84 96 16 }
+				
+				b_gela_36 = {
+					color = { 84 96 16 }
+					province = 36
+				}
+				
+			}
+			c_centuripa = {
+				color = { 126 84 14 }
+				
+				b_centuripa_31 = {
+					color = { 126 84 14 }
+					province = 31
+				}
+				
+				b_heraclea_30 = {
+					color = { 42 78 13 }
+					province = 30
+				}
+				
+				b_henna_37 = {
+					color = { 126 99 144 }
+					province = 37
+				}
+
+				b_herculaneum_35 = {
+					color = { 42 93 143 }
+					province = 35
+				}
+				
+			}
+			
+			c_leontini = {
+				color = { 168 72 12 }
+				
+				b_leontini_28 = {
+					color = { 168 72 12 }
+					province = 28
+				}
+				
+			}	
+			
 			c_melita = {
-				color = { 84 21 131 }
+				color = { 84 66 11 }
 				
 				b_melita_26 = {
 					color = { 84 66 11 }
@@ -43,13 +454,138 @@ e_westernrome = {
 			}
 		}
 		
+		d_elymia = {
+			color = { 42 138 23 }
+			
+			capital = c_motya # Motya
+			
+			c_motya = {
+				color = { 42 138 23 }
+				
+				b_motya_50 = {
+					color = { 42 138 23 }
+					province = 50
+				}
+				
+			}
+			
+			c_elymia = {
+				color = { 126 129 149 }
+				
+				b_entella_47 = {
+					color = { 126 129 149 }
+					province = 47
+				}
+
+				b_hyccara_46 = {
+					color = { 84 126 21 }
+					province = 46
+				}
+
+				b_egesta_49 = {
+					color = { 0 35 150 }
+					province = 49
+				}
+				
+			}
+			
+			c_selinus = {
+				color = { 168 132 22 }
+				
+				b_selinus_48 = {
+					color = { 168 132 22 }
+					province = 48
+				}
+				
+			}
+			
+		}
+		
+		d_sicania = {
+			color = { 42 108 18 }
+			
+			capital = c_emerita # emerita
+			
+			c_emerita = {
+				color = { 42 108 18 }
+				
+				b_emerita_40 = {
+					color = { 42 108 18 }
+					province = 40
+				}
+
+				b_oppidum_39 = {
+					color = { 0 105 145 }
+					province = 39
+				}
+
+				b_batavorum_43 = {
+					color = { 158 117 147 }
+					province = 43
+				}
+				
+			}
+			
+			c_glevensium = {
+				color = { 42 123 148 }
+				
+				b_glevensium_45 = {
+					color = { 42 123 148 }
+					province = 45
+				}
+				
+			}
+			
+			c_panormus = {
+				color = { 0 120 20 }
+				
+				b_panormus_44 = {
+					color = { 0 120 20 }
+					province = 44
+				}
+				
+			}
+			
+			c_himera = {
+				color = { 168 102 17 }
+				
+				b_himera_38 = {
+					color = { 168 102 17 }
+					province = 38
+				}
+				
+			}
+			
+			c_agrigentum = {
+				color = { 84 111 146 }
+				
+				b_agrigentum_41 = {
+					color = { 84 111 146 }
+					province = 41
+				}
+				
+			}
+			
+			c_minoa = {
+				color = { 126 114 19 }
+				
+				b_minoa_42 = {
+					color = { 126 114 19 }
+					province = 42
+				}
+				
+			}
+			
+		}
+		
+		
 		d_messina = {
-			color = { 84 21 131 }
+			color = { 126 54 9 }
 			
 			capital = c_messina # Messina
 				
 			c_messina = {
-				color = { 166 9 7 }
+				color = { 126 54 9 }
 				
 				b_messina_21 = {
 					color = { 84 51 136 }
@@ -59,6 +595,66 @@ e_westernrome = {
 				b_naxos_22 = {
 					color = { 126 54 9 }
 					province = 22
+				}
+				
+			}
+			
+			c_veralamium = {
+				color = { 84 81 141 }
+				
+				b_veralamium_32 = {
+					color = { 84 81 141 }
+					province = 32
+				}
+
+				b_inessa_29 = {
+					color = { 0 75 140 }
+					province = 29
+				}
+				
+			}
+
+			c_catana = {
+				color = { 126 69 139 }
+				
+				b_catana_27 = {
+					color = { 126 69 139 }
+					province = 27
+				}
+				
+				b_gariannonum_25 = {
+					color = { 42 63 138 }
+					province = 25
+				}
+				
+			}
+			
+			c_tyndaris = {
+				color = { 168 57 137 }
+				
+				b_tyndaris_23 = {
+					color = { 168 57 137 }
+					province = 23
+				}
+
+				b_zarytus_24 = {
+					color = { 0 60 10 }
+					province = 24
+				}
+				
+			}
+			
+			c_thermae = {
+				color = { 0 90 15 }
+				
+				b_thermae_34 = {
+					color = { 0 90 15 }
+					province = 34
+				}
+				
+				b_halaesa_33 = {
+					color = { 168 87 142 }
+					province = 33
 				}
 				
 			}

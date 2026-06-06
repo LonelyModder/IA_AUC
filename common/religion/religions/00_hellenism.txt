@@ -232,7 +232,7 @@
 			icon = hellenic
 			reformed_icon = hellenic_reformed
 
-			holy_site = rome
+			holy_site = jenne
 
 			doctrine = unreformed_faith_doctrine
 

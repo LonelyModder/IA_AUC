@@ -1,5 +1,5 @@
 ﻿l_english:
- #Latin Culture
+ #Italic Cultures
  italic_group:0 "Italic"
  italic_group_collective_noun:0 "Italics"
  rlatin:0 "Latin"
@@ -11,6 +11,9 @@
  umbrian:0 "Umbrian"
  umbrian_prefix:0 "Umbrian"
  umbrian_collective_noun:2 "Umbriann"
- Picenian:0 "Picenian"
- Picenian_prefix:0 "Picenian"
- Picenian_collective_noun:2 "Picenians"
+ picenian:0 "Picenian"
+ picenian_prefix:0 "Picenian"
+ picenian_collective_noun:2 "Picenians"
+ elymian:0 "Elymian"
+ elymian_prefix:0 "Elymian"
+ elymian_collective_noun:2 "Elymians"

@@ -5,7 +5,7 @@
 #Hellenic:
 #Latin
 
-rome = { # An important centre of Siguic influence, albeit not an intrinsically sacred one.
+jenne = { # An important centre of Siguic influence, albeit not an intrinsically sacred one.
 	county = c_roma
 
 	character_modifier = {
