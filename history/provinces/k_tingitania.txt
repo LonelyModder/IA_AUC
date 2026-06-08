@@ -7,7 +7,7 @@
 4053 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 4054 = {		
@@ -37,7 +37,7 @@
 4058 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 4059 = {		
@@ -49,7 +49,7 @@
 4060 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 4061 = {		
@@ -91,7 +91,7 @@
 4067 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 4068 = {		
@@ -103,7 +103,7 @@
 4069 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 4070 = {		
@@ -169,13 +169,13 @@
 4080 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = castle_holding
 }
 
 4081 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 4082 = {		
@@ -205,7 +205,7 @@
 4086 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 4087 = {		
@@ -217,7 +217,7 @@
 4088 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 4089 = {		
@@ -235,7 +235,7 @@
 4091 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = castle_holding
 }
 
 4092 = {		
@@ -253,7 +253,7 @@
 4094 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 4095 = {		
@@ -265,7 +265,7 @@
 4096 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 4097 = {		
@@ -301,11 +301,11 @@
 4102 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 4103 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = castle_holding
 }

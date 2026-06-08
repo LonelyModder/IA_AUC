@@ -8,8 +8,22 @@
 #	counties = { }, takes county title names declared in landed_titles.txt
 #	provinces = { }, takes province id numbers declared in /history/provinces
 
-island_region_canarias = {
-	counties = {
-		c_canarias
+island_region_menorca = {
+	counties = { b_mago_3732 }
+}
+
+island_region_mallorca = {
+	counties = { c_mallorca }
+}
+
+island_region_iviza = {
+	counties = { c_ebesus }
+}
+
+island_region_sardinia_corsica = {
+	duchies = {
+		d_olbia
+		d_caralis
+		d_corsica
 	}
 }
