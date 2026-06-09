@@ -13,7 +13,7 @@ island_region_menorca = {
 }
 
 island_region_mallorca = {
-	counties = { c_mallorca }
+	counties = { c_balearismaior }
 }
 
 island_region_iviza = {

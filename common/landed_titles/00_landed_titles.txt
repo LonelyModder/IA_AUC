@@ -2,6 +2,1197 @@
 @better_than_the_alternatives_score = 50
 @always_primary_score = 1000
 
+e_easternrome = {
+	color = { 80 128 54 }
+	
+	capital = c_memphis # Memphis
+	
+	k_kemet = {
+		color = { 80 128 54 }
+		
+		capital = c_memphis # Memphis
+		
+		d_hammamat = {
+			color = { 128 87 44 }
+			
+			capital = c_quseir # Quseir
+			
+			c_quseir = {
+				color = { 128 87 44 }
+				
+				b_quseir_2092 = {
+					color = { 128 87 44 }
+					province = 2092
+				}
+
+				b_farbubenu_2090 = {
+					color = { 44 81 43 }
+					province = 2090
+				}
+
+				b_amru_2091 = {
+					color = { 86 84 171 }
+					province = 2091
+				}
+				
+			}
+			
+			c_berenice = {
+				color = { 2 108 175 }
+				
+				b_berenice_2099 = {
+					color = { 2 108 175 }
+					province = 2099
+				}
+
+				b_shetneizum_2100 = {
+					color = { 44 111 48 }
+					province = 2100
+				}
+
+				b_khetesir_2098 = {
+					color = { 170 105 47 }
+					province = 2098
+				}
+
+				b_cuszubu_2057 = {
+					color = { 128 195 154 }
+					province = 2057
+				}
+				
+				b_qiskhe_2097 = {
+					color = { 128 102 174 }
+					province = 2097
+				}
+				
+			}
+			
+			c_bepesa = {
+				color = { 86 204 191 }
+				
+				b_bepesa_2131 = {
+					color = { 86 204 191 }
+					province = 2131
+				}
+				
+				b_aksadet_2127 = {
+					color = { 128 192 189 }
+					province = 2127
+				}
+
+				b_saksounein_2128 = {
+					color = { 170 195 62 }
+					province = 2128
+				}
+
+				b_dehbysy_2129 = {
+					color = { 2 198 190 }
+					province = 2129
+				}
+
+				b_qinorun_2130 = {
+					color = { 44 201 63 }
+					province = 2130
+				}
+				
+				b_anfubu_2125 = {
+					color = { 44 186 188 }
+					province = 2125
+				}
+
+				b_kersefu_2126 = {
+					color = { 86 189 61 }
+					province = 2126
+				}
+				
+			}
+			
+			c_terresma = {
+				color = { 128 177 59 }
+				
+				b_tarresma_2122 = {
+					color = { 128 177 59 }
+					province = 2122
+				}
+
+				b_farfumunein_2123 = {
+					color = { 170 180 187 }
+					province = 2123
+				}
+
+				b_besruta_2124 = {
+					color = { 2 183 60 }
+					province = 2124
+				}
+
+				b_sakte_2121 = {
+					color = { 86 174 186 }
+					province = 2121
+				}
+				
+			}
+			
+			c_tappo = {
+				color = { 128 177 59 }
+				
+				b_tappo_2089 = {
+					color = { 2 78 170 }
+					province = 2089
+				}
+
+				b_setbymhat_2119 = {
+					color = { 2 168 185 }
+					province = 2119
+				}
+
+				b_fartetaten_2120 = {
+					color = { 44 171 58 }
+					province = 2120
+				}
+
+				b_desfutunis_2088 = {
+					color = { 170 75 42 }
+					province = 2088
+				}
+				
+			}
+			
+			c_kuva = {
+				color = { 44 3 193 }
+				
+				b_kuva_2135 = {
+					color = { 44 3 193 }
+					province = 2135
+				}
+
+				b_gessapet_2134 = {
+					color = { 2 0 65 }
+					province = 2134
+				}
+
+				b_abrus_2132 = {
+					color = { 128 207 64 }
+					province = 2132
+				}
+
+				b_shetsaibenu_2136 = {
+					color = { 86 6 66 }
+					province = 2136
+				}
+
+				b_djebysut_2137 = {
+					color = { 128 9 194 }
+					province = 2137
+				}
+
+				b_napmaruna_2133 = {
+					color = { 170 210 192 }
+					province = 2133
+				}
+				
+			}
+			
+			c_clyssa = {
+				color = { 2 93 45 }
+				
+				b_clyssa_2094 = {
+					color = { 2 93 45 }
+					province = 2094
+				}
+
+				b_kusi_2093 = {
+					color = { 170 90 172 }
+					province = 2093
+				}
+
+				b_emzupis_2095 = {
+					color = { 44 96 173 }
+					province = 2095
+				}
+
+				b_qisdena_2096 = {
+					color = { 86 99 46 }
+					province = 2096
+				}
+				
+			}	
+			
+		}	
+		
+		d_deshret = {
+			color = { 86 24 161 }
+			
+			capital = c_kharga # Kharga
+			
+			c_kharga = {
+				color = { 86 24 161 }
+				
+				b_hibeos_2071 = {
+					color = { 86 24 161 }
+					province = 2071
+				}
+				
+				b_ekdjedju_2075 = {
+					color = { 44 36 163 }
+					province = 2075
+				}
+
+				b_kysis_2076 = {
+					color = { 86 39 36 }
+					province = 2076
+				}
+
+				b_tjebsurun_2072 = {
+					color = { 128 27 34 }
+					province = 2072
+				}
+
+				b_menseris_2073 = {
+					color = { 170 30 162 }
+					province = 2073
+				}
+
+				b_clybytunis_2074 = {
+					color = { 2 33 35 }
+					province = 2074
+				}
+				
+			}
+			
+			c_setre = {
+				color = { 170 150 182 }
+				
+				b_cusnoris_2113 = {
+					color = { 170 150 182 }
+					province = 2113
+				}
+				
+				b_qudjuyut_2111 = {
+					color = { 86 144 181 }
+					province = 2111
+				}
+
+				b_setre_2112 = {
+					color = { 128 147 54 }
+					province = 2112
+				}
+
+				b_kenetaten_2109 = {
+					color = { 2 138 180 }
+					province = 2109
+				}
+
+				b_faneibu_2110 = {
+					color = { 44 141 53 }
+					province = 2110
+				}
+
+				b_curudet_2114 = {
+					color = { 2 153 55 }
+					province = 2114
+				}
+
+				b_behpotunis_2115 = {
+					color = { 44 156 183 }
+					province = 2115
+				}
+				
+			}
+			
+			c_djanpodet = {
+				color = { 2 123 50 }
+				
+				b_djanpodet_2104 = {
+					color = { 2 123 50 }
+					province = 2104
+				}
+				
+				b_qubyrma_2103 = {
+					color = { 170 120 177 }
+					province = 2103
+				}
+
+			}
+			
+			c_menkhatunis = {
+				color = { 128 132 179 }
+				
+				b_menkhatunis_2107 = {
+					color = { 128 132 179 }
+					province = 2107
+				}
+
+				b_sanouma_2105 = {
+					color = { 44 126 178 }
+					province = 2105
+				}
+
+				b_khemsoupata_2106 = {
+					color = { 86 129 51 }
+					province = 2106
+				}
+
+				b_avnouty_2108 = {
+					color = { 170 135 52 }
+					province = 2108
+				}
+				
+			}
+			
+			c_mothis = {
+				color = { 128 42 164 }
+				
+				b_mothis_2077 = {
+					color = { 128 42 164 }
+					province = 2077
+				}
+
+				b_sharpesheh_2080 = {
+					color = { 44 51 38 }
+					province = 2080
+				}
+				
+				b_qime_2101 = {
+					color = { 86 114 176 }
+					province = 2101
+				}
+				
+			}
+			
+			c_parva = {
+				color = { 127 33 64 }
+				
+				b_parva_1932 = {
+					color = { 127 33 64 }
+					province = 1932
+				}
+
+				b_tapse_2063 = {
+					color = { 170 0 157 }
+					province = 2063
+				}
+
+				b_kuteris_2064 = {
+					color = { 2 3 30 }
+					province = 2064
+				}
+
+				b_gesse_2066 = {
+					color = { 86 9 31 }
+					province = 2066
+				}
+
+				b_apsoupata_2067 = {
+					color = { 128 12 159 }
+					province = 2067
+				}
+				
+				b_sasokhen_2065 = {
+					color = { 44 6 158 }
+					province = 2065
+				}
+				
+			}
+
+			c_khenei = {
+				color = { 127 33 64 }
+				
+				b_khenei_2061 = {
+					color = { 86 207 156 }
+					province = 2061
+				}
+				
+				b_ennesy_2068 = {
+					color = { 170 15 32 }
+					province = 2068
+				}
+
+				b_ashtun_2069 = {
+					color = { 2 18 160 }
+					province = 2069
+				}
+				
+				b_nakhatennu_2062 = {
+					color = { 128 210 29 }
+					province = 2062
+				}
+
+			}
+
+			c_dakhla = {
+				color = { 85 30 191 }
+				
+				b_dakhla_1931 = {
+					color = { 85 30 191 }
+					province = 1931
+				}
+
+				b_nekzu_2078 = {
+					color = { 170 45 37 }
+					province = 2078
+				}
+
+				b_tjebpenutjer_2079 = {
+					color = { 2 48 165 }
+					province = 2079
+				}
+
+				b_kuvamty_2070 = {
+					color = { 44 21 33 }
+					province = 2070
+				}
+
+				b_djekhesiris_2102 = {
+					color = { 128 117 49 }
+					province = 2102
+				}
+				
+			}				
+			
+		}	
+		
+		d_upperegypt = {
+			color = { 170 153 147 }
+			
+			capital = c_thebes # Thebes
+			
+			c_thebes = {
+				color = { 170 153 147 }
+				
+				b_thebes_2043 = {
+					color = { 170 153 147 }
+					province = 2043
+				}
+				
+				b_tod_2044 = {
+					color = { 2 156 20 }
+					province = 2044
+				}
+
+				b_koptos_2042 = {
+					color = { 128 150 19 }
+					province = 2042
+				}
+				
+			}
+			
+			c_komombo = {
+				color = { 86 177 151 }
+				
+				b_komombo_2051 = {
+					color = { 86 177 151 }
+					province = 2051
+				}
+				
+				b_shetru_2048 = {
+					color = { 170 168 22 }
+					province = 2048
+				}
+
+				b_behdpesy_2049 = {
+					color = { 2 171 150 }
+					province = 2049
+				}
+				
+				b_kisdjebu_2053 = {
+					color = { 170 183 152 }
+					province = 2053
+				}
+
+				b_syene_2055 = {
+					color = { 44 189 153 }
+					province = 2055
+				}
+				
+			}
+			
+			c_hierakonpolis = {
+				color = { 170 138 17 }
+				
+				b_hierakonpolis_2047 = {
+					color = { 128 165 149 }
+					province = 2047
+				}
+
+				b_nekhnudjed_2046 = {
+					color = { 86 162 21 }
+					province = 2046
+				}
+
+				b_edfu_2050 = {
+					color = { 44 174 23 }
+					province = 2050
+				}
+
+				b_setsou_2052 = {
+					color = { 128 180 24 }
+					province = 2052
+				}
+
+				b_nevam_2054 = {
+					color = { 2 186 25 }
+					province = 2054
+				}
+				
+			}
+			
+			c_nadjurmeru = {
+				color = { 170 138 17 }
+				
+				b_nadjurmeru_2038 = {
+					color = { 170 138 17 }
+					province = 2038
+				}
+
+				b_behta_2041 = {
+					color = { 86 147 146 }
+					province = 2041
+				}
+
+				
+			}
+			
+			c_philae = {
+				color = { 86 192 26 }
+				
+				b_philae_2056 = {
+					color = { 86 192 26 }
+					province = 2056
+				}
+				
+				b_behkhedet_2058 = {
+					color = { 170 198 27 }
+					province = 2058
+				}
+
+				b_dehmu_2059 = {
+					color = { 2 201 155 }
+					province = 2059
+				}
+
+				b_sesoumty_2060 = {
+					color = { 44 204 28 }
+					province = 2060
+				}
+
+				b_tjenby_1994 = {
+					color = { 1 6 95 }
+					province = 1994
+				}
+				
+			}
+			
+			c_dendera = {
+				color = { 2 141 145 }
+				
+				b_dendera_2039 = {
+					color = { 2 141 145 }
+					province = 2039
+				}
+
+				b_qudety_2045 = {
+					color = { 44 159 148 }
+					province = 2045
+				}
+
+				b_setby_2040 = {
+					color = { 44 144 18 }
+					province = 2040
+				}
+
+				b_nebsynis_2037 = {
+					color = { 128 135 144 }
+					province = 2037
+				}
+				
+			}
+			
+			c_abydos = {
+				color = { 44 129 143 }
+				
+				b_abydos_2035 = {
+					color = { 44 129 143 }
+					province = 2035
+				}
+
+				b_thinis_2034 = {
+					color = { 2 126 15 }
+					province = 2034
+				}
+				
+			}
+			
+			c_asyut = {
+				color = { 44 114 13 }
+				
+				b_asyut_2030 = {
+					color = { 44 114 13 }
+					province = 2030
+				}
+				
+				b_shetkhahdet_2026 = {
+					color = { 86 102 11 }
+					province = 2026
+				}
+
+				b_qisdjutunis_2028 = {
+					color = { 170 108 12 }
+					province = 2028
+				}
+
+				b_tatenis_2032 = {
+					color = { 128 120 14 }
+					province = 2032
+				}
+				
+			}
+			
+			c_qau = {
+				color = { 86 117 141 }
+				
+				b_qau_2031 = {
+					color = { 86 117 141 }
+					province = 2031
+				}
+				
+				b_badari_2029 = {
+					color = { 2 111 140 }
+					province = 2029
+				}
+
+				b_djedsunis_2027 = {
+					color = { 128 105 139 }
+					province = 2027
+				}
+
+				b_akhmim_2033 = {
+					color = { 170 123 142 }
+					province = 2033
+				}
+				
+				b_farsipet_2036 = {
+					color = { 86 132 16 }
+					province = 2036
+				}
+
+			}
+			
+		}	
+		
+		d_middleegypt = {
+			color = { 2 66 5 }
+			
+			capital = c_heracleopolis # Memphis
+			
+			c_heracleopolis = {
+				color = { 2 66 5 }
+				
+				b_heracleopolis_2014 = {
+					color = { 2 66 5 }
+					province = 2014
+				}
+				
+				b_dashur_2011 = {
+					color = { 86 57 131 }
+					province = 2011
+				}
+
+				b_lahun_2012 = {
+					color = { 128 60 4 }
+					province = 2012
+				}
+
+				b_faiyum_2013 = {
+					color = { 170 63 132 }
+					province = 2013
+				}
+				
+			}
+			
+			c_ebri = {
+				color = { 170 165 57 }
+				
+				b_ebri_2118 = {
+					color = { 170 165 57 }
+					province = 2118
+				}
+
+				b_kusfunet_2116 = {
+					color = { 86 159 56 }
+					province = 2116
+				}
+
+				b_djedjenein_2117 = {
+					color = { 128 162 184 }
+					province = 2117
+				}
+				
+			}
+			
+			c_gessumty = {
+				color = { 44 66 168 }
+				
+				b_gessumty_2085 = {
+					color = { 44 66 168 }
+					province = 2085
+				}
+
+				b_aksaiten_2086 = {
+					color = { 86 69 41 }
+					province = 2086
+				}
+
+				b_nekhfuna_2087 = {
+					color = { 128 72 169 }
+					province = 2087
+				}
+
+				b_memena_2084 = {
+					color = { 2 63 40 }
+					province = 2084
+				}
+				
+			}
+			
+			c_abtesa = {
+				color = { 170 60 167 }
+				
+				b_abtesa_2083 = {
+					color = { 170 60 167 }
+					province = 2083
+				}
+				
+				b_beru_2081 = {
+					color = { 86 54 166 }
+					province = 2081
+				}
+
+				b_kisbeset_2082 = {
+					color = { 128 57 39 }
+					province = 2082
+				}
+
+			}
+			
+			c_helwan = {
+				color = { 86 72 6 }
+				
+				b_helwan_2016 = {
+					color = { 86 72 6 }
+					province = 2016
+				}
+
+				b_apmanutjer_2017 = {
+					color = { 128 75 134 }
+					province = 2017
+				}
+
+				b_nebno_2018 = {
+					color = { 170 78 7 }
+					province = 2018
+				}
+				
+			}
+			
+			c_hermapolis = {
+				color = { 2 96 10 }
+				
+				b_hermapolis_2024 = {
+					color = { 2 96 10 }
+					province = 2024
+				}
+				
+				b_behdmebesheh_2022 = {
+					color = { 128 90 9 }
+					province = 2022
+				}
+
+				b_ashpohenet_2020 = {
+					color = { 44 84 8 }
+					province = 2020
+				}
+
+				b_gesahdet_2015 = {
+					color = { 44 69 133 }
+					province = 2015
+				}
+				
+			}
+			
+			c_hardai = {
+				color = { 2 96 10 }
+				
+				b_hardai_2023 = {
+					color = { 170 93 137 }
+					province = 2023
+				}
+
+				b_amarna_2025 = {
+					color = { 44 99 138 }
+					province = 2025
+				}
+
+				b_gespo_2021 = {
+					color = { 86 87 136 }
+					province = 2021
+				}
+
+				b_waporemu_2019 = {
+					color = { 2 81 135 }
+					province = 2019
+				}
+				
+			}
+			
+		}
+
+		d_westerndelta = {
+			color = { 127 30 99 }
+			
+			capital = c_tanis # Tanis
+			
+			c_tanis = {
+				color = { 80 128 54 }
+				
+				b_tanis_1981 = {
+					color = { 216 165 85 }
+					province = 1981
+				}
+				
+				b_avaris_1991 = {
+					color = { 30 62 221 }
+					province = 1991
+				}
+
+				b_bubastis_1992 = {
+					color = { 127 0 94 }
+					province = 1992
+				}
+
+				b_gepibenu_1990 = {
+					color = { 43 207 93 }
+					province = 1990
+				}
+
+				b_ebfunutjer_1982 = {
+					color = { 127 183 89 }
+					province = 1982
+				}
+
+				b_pelusium_1983 = {
+					color = { 169 186 217 }
+					province = 1983
+				}
+				
+			}
+			
+			c_clysma = {
+				color = { 43 147 83 }
+				
+				b_clysma_1999 = {
+					color = { 1 21 225 }
+					province = 1999
+				}
+				
+				b_fadjesir_2001 = {
+					color = { 85 27 226 }
+					province = 2001
+				}
+
+				b_besbu_2000 = {
+					color = { 43 24 98 }
+					province = 2000
+				}
+
+			}
+			
+			c_busiris = {
+				color = { 43 147 83 }
+				
+				b_busiris_1970 = {
+					color = { 43 147 83 }
+					province = 1970
+				}
+				
+			}
+			
+			c_tjebfuthis = {
+				color = { 169 156 212 }
+				
+				b_tjebfuthis_1973 = {
+					color = { 169 156 212 }
+					province = 1973
+				}
+
+				b_fanoyut_1971 = {
+					color = { 85 150 211 }
+					province = 1971
+				}
+
+				b_behdsosouk_1972 = {
+					color = { 127 153 84 }
+					province = 1972
+				}
+				
+			}
+			
+			c_damietta = {
+				color = { 1 159 85 }
+				
+				b_damietta_1974 = {
+					color = { 1 159 85 }
+					province = 1974
+				}
+
+				b_setusut_1975 = {
+					color = { 43 162 213 }
+					province = 1975
+				}
+
+				b_acsamu_1976 = {
+					color = { 85 165 86 }
+					province = 1976
+				}
+
+				b_khasnouna_1979 = {
+					color = { 1 174 215 }
+					province = 1979
+				}
+				
+			}
+			
+			c_rinocolura = {
+				color = { 85 195 91 }
+				
+				b_rinocolura_1986 = {
+					color = { 85 195 91 }
+					province = 1986
+				}
+
+				b_djasiris_1984 = {
+					color = { 1 189 90 }
+					province = 1984
+				}
+
+				b_sharsoun_1985 = {
+					color = { 213 104 161 }
+					province = 1985
+				}
+				
+			}
+
+			c_heroonpolis = {
+				color = { 1 159 85 }
+				
+				b_heroonpolis_1993 = {
+					color = { 169 3 222 }
+					province = 1993
+				}
+
+				b_dehkhaten_2005 = {
+					color = { 44 39 128 }
+					province = 2005
+				}
+
+				b_besainemhat_2007 = {
+					color = { 128 45 129 }
+					province = 2007
+				}
+
+				b_zazu_1998 = {
+					color = { 169 18 97 }
+					province = 1998
+				}
+
+			}
+			
+			c_helioupolis = {
+				color = { 85 12 96 }
+				
+				b_helioupolis_1996 = {
+					color = { 85 12 96 }
+					province = 1996
+				}
+
+				b_avdjetaten_1997 = {
+					color = { 127 15 224 }
+					province = 1997
+				}
+
+				b_ashsima_1995 = {
+					color = { 121 188 151 }
+					province = 1995
+				}
+
+				b_wanemhat_2006 = {
+					color = { 86 42 1 }
+					province = 2006
+				}
+				
+			}
+			
+			c_leontopolis = {
+				color = { 127 168 214 }
+				
+				b_leontopolis_1977 = {
+					color = { 127 168 214 }
+					province = 1977
+				}
+
+				b_qulnenutjer_1978 = {
+					color = { 169 171 87 }
+					province = 1978
+				}
+
+				b_athribis_1980 = {
+					color = { 43 177 88 }
+					province = 1980
+				}
+				
+			}
+		}		
+		
+		d_easterndelta = {
+			color = { 80 128 54 }
+			
+			capital = c_memphis # Memphis
+			
+			c_memphis = {
+				color = { 80 128 54 }
+				
+				b_memphis_1989 = {
+					color = { 80 128 54 }
+					province = 1989
+				}
+				
+				b_merimda_1988 = {
+					color = { 169 201 92 }
+					province = 1988
+				}
+				
+			}
+			
+			c_natrun = {
+				color = { 127 30 99 }
+				
+				b_natrun_2002 = {
+					color = { 127 30 99 }
+					province = 2002
+				}
+
+				b_aknokhen_2003 = {
+					color = { 169 33 227 }
+					province = 2003
+				}
+
+				b_farru_2004 = {
+					color = { 2 36 0 }
+					province = 2004
+				}
+				
+			}
+
+			c_cussameru = {
+				color = { 127 108 204 }
+				
+				b_cussameru_1957 = {
+					color = { 127 108 204 }
+					province = 1957
+				}
+
+				b_abzusma_1958 = {
+					color = { 169 111 77 }
+					province = 1958
+				}
+				
+			}
+			
+			c_sais = {
+				color = { 169 141 82 }
+				
+				b_sais_1968 = {
+					color = { 169 141 82 }
+					province = 1968
+				}
+				
+				b_tapdenet_1969 = {
+					color = { 1 144 210 }
+					province = 1969
+				}
+
+				b_buto_1966 = {
+					color = { 85 135 81 }
+					province = 1966
+				}
+
+				b_xois_1967 = {
+					color = { 127 138 209 }
+					province = 1967
+				}
+				
+			}
+			
+			c_djetu = {
+				color = { 169 141 82 }
+				
+				b_djetu_1965 = {
+					color = { 43 132 208 }
+					province = 1965
+				}
+
+				b_nebenemhat_1964 = {
+					color = { 1 129 80 }
+					province = 1964
+				}
+				
+			}
+
+			c_naukratis = {
+				color = { 127 198 219 }
+				
+				b_naucratis_1987 = {
+					color = { 127 198 219 }
+					province = 1987
+				}
+				
+			}
+
+			c_thonis = {
+				color = { 85 120 206 }
+				
+				b_thonis_1961 = {
+					color = { 85 120 206 }
+					province = 1961
+				}
+
+				b_clypomeru_1963 = {
+					color = { 169 126 207 }
+					province = 1963
+				}
+
+				b_tapfurmeru_1960 = {
+					color = { 43 117 78 }
+					province = 1960
+				}
+
+				b_alexandria_1959 = {
+					color = { 1 114 205 }
+					province = 1959
+				}
+
+				b_kissopata_1962 = {
+					color = { 127 123 79 }
+					province = 1962
+				}
+				
+			}				
+			
+		}
+		
+	}
+	
+}
+
 e_westernrome = {
 	color = { 166 9 7 }
 	
@@ -2128,9 +3319,9 @@ e_westernrome = {
 		d_gymnesian = {
 			color = { 129 123 194 }
 			
-			capital = c_mallorca # Mallorca
+			capital = c_balearismaior # Mallorca
 			
-			c_mallorca = {
+			c_balearismaior = {
 				color = { 129 123 194 }
 				
 				b_palmaria_3733 = {

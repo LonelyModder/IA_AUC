@@ -1,1042 +1,1078 @@
-﻿3789 = {		
+﻿1957 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
+}
+
+1958 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1959 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1960 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1961 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1962 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1963 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
 }
 
-3790 = {		
+1964 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3799 = {		
+1965 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
-3800 = {		
+1966 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3801 = {		
+1967 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3802 = {		
+1968 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3804 = {		
+1969 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
-3805 = {		
+1970 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3806 = {		
+1971 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3807 = {		
+1972 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
-3808 = {		
+1973 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3809 = {		
+1974 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3810 = {		
+1975 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3812 = {		
+1976 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3813 = {		
+1977 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3814 = {		
+1978 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3815 = {		
+1979 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3816 = {		
+1980 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
-3817 = {		
+1981 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3818 = {		
+1982 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
-3819 = {		
+1983 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3820 = {		
+1984 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
-3821 = {		
+1985 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3822 = {		
+1986 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3823 = {		
+1987 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
-3824 = {		
+1988 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
-3825 = {		
+1989 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3826 = {		
+1990 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3827 = {		
+1991 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3828 = {		
+1992 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3829 = {		
+1993 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3830 = {		
+1995 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3831 = {		
+1996 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3832 = {		
+1997 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
-3833 = {		
+1998 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3834 = {		
+1999 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
-3835 = {		
+2000 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3836 = {		
+2001 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3837 = {		
+2002 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
-3838 = {		
+2003 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3839 = {		
+2004 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
-3840 = {		
+2005 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3841 = {		
+2006 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3842 = {		
+2007 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3843 = {		
+2011 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3844 = {		
+2012 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3845 = {		
+2013 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
-3846 = {		
+2014 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3847 = {		
+2015 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3848 = {		
+2016 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3849 = {		
+2017 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3850 = {		
+2018 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
-3851 = {		
+2019 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
-3852 = {		
+2020 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3853 = {		
+2021 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3854 = {		
+2022 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3855 = {		
+2023 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
-3856 = {		
+2024 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
-3857 = {		
+2025 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3858 = {		
+2026 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
-3859 = {		
+2027 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3860 = {		
+2028 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3861 = {		
+2029 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3862 = {		
+2030 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3863 = {		
+2031 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3864 = {		
+2032 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
-3865 = {		
+2116 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
-3866 = {		
+2117 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3867 = {		
+2118 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3868 = {		
+2081 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3869 = {		
+2082 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3870 = {		
+2083 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3871 = {		
+2084 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3872 = {		
+2085 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3873 = {		
+2086 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3874 = {		
+2087 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3875 = {		
+2061 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3876 = {		
+2062 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
-3877 = {		
+2063 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3878 = {		
+2064 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3879 = {		
+2065 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3880 = {		
+2066 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3881 = {		
+2067 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3882 = {		
+2068 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3883 = {		
+2069 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3884 = {		
+1932 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3885 = {		
+1931 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3886 = {		
+2070 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3887 = {		
+2078 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3888 = {		
+2079 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3889 = {		
+2101 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
-3890 = {		
+2102 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3891 = {		
+2077 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3892 = {		
+2105 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
-3893 = {		
+2106 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3894 = {		
+2107 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3895 = {		
+2108 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3896 = {		
+2080 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3897 = {		
+2033 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
-3898 = {		
+2034 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3899 = {		
+2035 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3900 = {		
+2036 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3901 = {		
+2037 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
-3902 = {		
+2038 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3903 = {		
+2039 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
-3904 = {		
+2040 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3905 = {		
+2041 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3906 = {		
+2042 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3907 = {		
+2043 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3908 = {		
+2044 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
-3909 = {		
+2045 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3910 = {		
+2046 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3911 = {		
+2047 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3912 = {		
+2048 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
-3913 = {		
+2049 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3914 = {		
+2050 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
-3915 = {		
+2051 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3916 = {		
+2052 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
-3917 = {		
+2053 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3918 = {		
+2054 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3737 = {		
+2055 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3738 = {		
+2056 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
-3739 = {		
+2057 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3740 = {		
+2058 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3741 = {		
+2059 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3742 = {		
+2060 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
-3743 = {		
+2071 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3744 = {		
+2072 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3745 = {		
+2073 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3746 = {		
+1994 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3747 = {		
+2074 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3748 = {		
+2075 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3749 = {		
+2076 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3750 = {		
+2088 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
-3751 = {		
+2089 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3752 = {		
+2090 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3753 = {		
+2091 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3754 = {		
+2092 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
-3755 = {		
+2093 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3756 = {		
+2094 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
-3757 = {		
+2095 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3758 = {		
+2096 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3759 = {		
+2097 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3760 = {		
+2098 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3761 = {		
+2099 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3762 = {		
+2100 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3763 = {		
+2103 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
-3764 = {		
+2104 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3765 = {		
+2109 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3766 = {		
+2110 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3767 = {		
+2111 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3768 = {		
+2112 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3769 = {		
+2113 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3770 = {		
+2114 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3777 = {		
+2115 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
-3778 = {		
+2119 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3779 = {		
+2120 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
-3780 = {		
+2121 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3781 = {		
+2122 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
-3782 = {		
+2123 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3783 = {		
+2124 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3784 = {		
+2125 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3785 = {		
+2126 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
-3787 = {		
+2127 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3788 = {		
+2128 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3791 = {		
+2129 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
-3792 = {		
+2130 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3794 = {		
+2131 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3795 = {		
+2132 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3796 = {		
+2133 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
-3797 = {		
+2134 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3798 = {		
+2135 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3803 = {		
+2136 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-3793 = {		
+2137 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
