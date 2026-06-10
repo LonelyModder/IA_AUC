@@ -493,7 +493,7 @@
 2061 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 2062 = {		
@@ -547,13 +547,13 @@
 1932 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 1931 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 2070 = {		
@@ -589,7 +589,7 @@
 2077 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 2105 = {		
@@ -607,7 +607,7 @@
 2107 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 2108 = {		
@@ -919,7 +919,7 @@
 2104 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 2109 = {		
@@ -949,7 +949,7 @@
 2113 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 2114 = {		
@@ -1073,6 +1073,312 @@
 }
 
 2137 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1898 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1899 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1900 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1901 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1902 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1903 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1904 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1905 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1906 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1907 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1908 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1909 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1910 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1911 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1912 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1913 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1914 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1915 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1916 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1917 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1918 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1920 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1921 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1922 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1923 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1924 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1925 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1926 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1927 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1928 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1929 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1930 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1933 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1934 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1935 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1936 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1937 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1938 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1939 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1940 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1941 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = tribal_holding
+}
+
+1942 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1943 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1944 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = tribal_holding
+}
+
+1945 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1946 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1947 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = tribal_holding
+}
+
+1948 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1949 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1950 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1951 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
