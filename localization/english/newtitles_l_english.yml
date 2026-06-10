@@ -11,6 +11,7 @@
  k_africa:0 "Africa"
  k_kemet:0 "Egypt"
  k_cyrene:0 "Cyrenaica"
+ k_palestina:0 "Palestina"
  # Duchies
  d_latium:0 "Latium"
  d_etruria:0 "Etruria"
@@ -49,7 +50,11 @@
  d_cyrene:0 "Cyrene"
  d_ammonium:0 "Ammonium"
  d_berenike:0 "Berenike"
+ d_pelusium:0 "Pelusium"
+ d_judah:0 "Judah"
  # Couties
+ c_beersheba:0 "Beersheba"
+ c_jerusalem:0 "Jerusalem"
  c_pelusium:0 "Pelusium"
  c_leukapsis:0 "Leukapsis"
  c_kharerun:0 "Kharerun"

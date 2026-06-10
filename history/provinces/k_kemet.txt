@@ -1,7 +1,7 @@
 ﻿1957 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 1958 = {		
@@ -247,7 +247,7 @@
 1999 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 2000 = {		
@@ -265,7 +265,7 @@
 2002 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 2003 = {		
@@ -445,7 +445,7 @@
 2118 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 2081 = {		
@@ -463,7 +463,7 @@
 2083 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 2084 = {		
@@ -841,7 +841,7 @@
 2089 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 2090 = {		
@@ -859,7 +859,7 @@
 2092 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = castle_holding
 }
 
 2093 = {		
@@ -871,7 +871,7 @@
 2094 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 2095 = {		
@@ -901,7 +901,7 @@
 2099 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 2100 = {		
@@ -985,7 +985,7 @@
 2122 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 2123 = {		
@@ -1039,7 +1039,7 @@
 2131 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 2132 = {		
@@ -1063,7 +1063,7 @@
 2135 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 2136 = {		
@@ -1093,7 +1093,7 @@
 1900 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 1901 = {		
@@ -1111,13 +1111,13 @@
 1903 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 1904 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 1905 = {		
@@ -1129,7 +1129,7 @@
 1906 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 1907 = {		
@@ -1159,7 +1159,7 @@
 1911 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 1912 = {		
@@ -1231,19 +1231,19 @@
 1924 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 1925 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 1926 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 1927 = {		
@@ -1307,78 +1307,6 @@
 }
 
 1939 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
-}
-
-1940 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
-}
-
-1941 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = tribal_holding
-}
-
-1942 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
-}
-
-1943 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
-}
-
-1944 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = tribal_holding
-}
-
-1945 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
-}
-
-1946 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
-}
-
-1947 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = tribal_holding
-}
-
-1948 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
-}
-
-1949 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
-}
-
-1950 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
-}
-
-1951 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none

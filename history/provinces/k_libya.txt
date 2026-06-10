@@ -7,13 +7,13 @@
 1874 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1875 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 1876 = {		
@@ -143,6 +143,78 @@
 }
 
 1897 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1940 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1941 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = tribal_holding
+}
+
+1942 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1943 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1944 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = tribal_holding
+}
+
+1945 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1946 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1947 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = tribal_holding
+}
+
+1948 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1949 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1950 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1951 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none

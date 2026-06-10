@@ -7,6 +7,59 @@ e_easternrome = {
 	
 	capital = c_memphis # Memphis
 	
+	k_palestina = {
+		color = { 44 6 8 }
+		
+		capital = c_jerusalem # Jerusalem
+		
+		d_judah = {
+			color = { 44 6 8 }
+			
+			capital = c_jerusalem # Jerusalem
+			
+			c_jerusalem = {
+				color = { 170 0 7 }
+				
+				b_jerusalem_2414 = {
+					color = { 170 0 7 }
+					province = 2414
+				}
+
+				b_hebron_2416 = {
+					color = { 44 6 8 }
+					province = 2416
+				}
+
+				b_lahish_2419 = {
+					color = { 170 15 137 }
+					province = 2419
+				}
+				
+			}
+			
+			c_beersheba = {
+				color = { 86 9 136 }
+				
+				b_beersheba_2417 = {
+					color = { 86 9 136 }
+					province = 2417
+				}
+
+				b_al_ramas_2418 = {
+					color = { 128 12 9 }
+					province = 2418
+				}
+
+				b_al_hamanah_2415 = {
+					color = { 2 3 135 }
+					province = 2415
+				}
+				
+			}
+			
+		}	
+	}
+	
 	k_cyrene = {
 		color = { 43 105 168 }
 		
@@ -1350,36 +1403,11 @@ e_easternrome = {
 			}
 			
 		}
-
-		d_westerndelta = {
-			color = { 127 30 99 }
+		
+		d_pelusium = {
+			color = { 169 186 217 }
 			
-			capital = c_tanis # Tanis
-			
-			c_tanis = {
-				color = { 80 128 54 }
-				
-				b_tanis_1981 = {
-					color = { 216 165 85 }
-					province = 1981
-				}
-				
-				b_avaris_1991 = {
-					color = { 30 62 221 }
-					province = 1991
-				}
-
-				b_bubastis_1992 = {
-					color = { 127 0 94 }
-					province = 1992
-				}
-
-				b_ebfunutjer_1982 = {
-					color = { 127 183 89 }
-					province = 1982
-				}
-
-			}
+			capital = c_pelusium # Pelusium
 			
 			c_pelusium = {
 				color = { 169 186 217 }
@@ -1413,6 +1441,83 @@ e_easternrome = {
 				b_besbu_2000 = {
 					color = { 43 24 98 }
 					province = 2000
+				}
+
+			}
+			
+			c_rinocolura = {
+				color = { 85 195 91 }
+				
+				b_rinocolura_1986 = {
+					color = { 85 195 91 }
+					province = 1986
+				}
+
+				b_djasiris_1984 = {
+					color = { 1 189 90 }
+					province = 1984
+				}
+
+				b_sharsoun_1985 = {
+					color = { 213 104 161 }
+					province = 1985
+				}
+				
+			}
+
+			c_heroonpolis = {
+				color = { 1 159 85 }
+				
+				b_heroonpolis_1993 = {
+					color = { 169 3 222 }
+					province = 1993
+				}
+
+				b_dehkhaten_2005 = {
+					color = { 44 39 128 }
+					province = 2005
+				}
+
+				b_besainemhat_2007 = {
+					color = { 128 45 129 }
+					province = 2007
+				}
+
+				b_zazu_1998 = {
+					color = { 169 18 97 }
+					province = 1998
+				}
+
+			}
+			
+		}
+
+		d_westerndelta = {
+			color = { 127 30 99 }
+			
+			capital = c_tanis # Tanis
+			
+			c_tanis = {
+				color = { 80 128 54 }
+				
+				b_tanis_1981 = {
+					color = { 216 165 85 }
+					province = 1981
+				}
+				
+				b_avaris_1991 = {
+					color = { 30 62 221 }
+					province = 1991
+				}
+
+				b_bubastis_1992 = {
+					color = { 127 0 94 }
+					province = 1992
+				}
+
+				b_ebfunutjer_1982 = {
+					color = { 127 183 89 }
+					province = 1982
 				}
 
 			}
@@ -1472,51 +1577,6 @@ e_easternrome = {
 				
 			}
 			
-			c_rinocolura = {
-				color = { 85 195 91 }
-				
-				b_rinocolura_1986 = {
-					color = { 85 195 91 }
-					province = 1986
-				}
-
-				b_djasiris_1984 = {
-					color = { 1 189 90 }
-					province = 1984
-				}
-
-				b_sharsoun_1985 = {
-					color = { 213 104 161 }
-					province = 1985
-				}
-				
-			}
-
-			c_heroonpolis = {
-				color = { 1 159 85 }
-				
-				b_heroonpolis_1993 = {
-					color = { 169 3 222 }
-					province = 1993
-				}
-
-				b_dehkhaten_2005 = {
-					color = { 44 39 128 }
-					province = 2005
-				}
-
-				b_besainemhat_2007 = {
-					color = { 128 45 129 }
-					province = 2007
-				}
-
-				b_zazu_1998 = {
-					color = { 169 18 97 }
-					province = 1998
-				}
-
-			}
-			
 			c_helioupolis = {
 				color = { 85 12 96 }
 				
@@ -1561,27 +1621,12 @@ e_easternrome = {
 				}
 				
 			}
-		}		
-		
-		d_easterndelta = {
-			color = { 80 128 54 }
+		}	
+
+		d_natrun = {
+			color = { 127 30 99 }
 			
-			capital = c_memphis # Memphis
-			
-			c_memphis = {
-				color = { 80 128 54 }
-				
-				b_memphis_1989 = {
-					color = { 80 128 54 }
-					province = 1989
-				}
-				
-				b_merimda_1988 = {
-					color = { 169 201 92 }
-					province = 1988
-				}
-				
-			}
+			capital = c_natrun # Natrun
 			
 			c_natrun = {
 				color = { 127 30 99 }
@@ -1614,6 +1659,28 @@ e_easternrome = {
 				b_abzusma_1958 = {
 					color = { 169 111 77 }
 					province = 1958
+				}
+				
+			}
+			
+		}
+		
+		d_easterndelta = {
+			color = { 80 128 54 }
+			
+			capital = c_memphis # Memphis
+			
+			c_memphis = {
+				color = { 80 128 54 }
+				
+				b_memphis_1989 = {
+					color = { 80 128 54 }
+					province = 1989
+				}
+				
+				b_merimda_1988 = {
+					color = { 169 201 92 }
+					province = 1988
 				}
 				
 			}
