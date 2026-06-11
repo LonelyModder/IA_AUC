@@ -1,197 +1,289 @@
-﻿11 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = castle_holding
-}
-
-12 = {		
+﻿53 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-13 = {		
+73 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-21 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = castle_holding
-}
-
-22 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = city_holding
-}
-
-23 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = tribal_holding
-}
-
-24 = {		
+74 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-25 = {		
+75 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-26 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = castle_holding
-}
-
-27 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = tribal_holding
-}
-
-28 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = tribal_holding
-}
-
-29 = {		
+76 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-30 = {		
+77 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-31 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = tribal_holding
-}
-
-32 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = tribal_holding
-}
-
-33 = {		
+78 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-34 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = tribal_holding
-}
-
-35 = {		
+79 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-36 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = tribal_holding
-}
-
-37 = {		
+80 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-38 = {		
+81 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-39 = {		
+82 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-40 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = tribal_holding
-}
-
-41 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = tribal_holding
-}
-
-42 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = tribal_holding
-}
-
-43 = {		
+83 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-44 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = castle_holding
-}
-
-45 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = tribal_holding
-}
-
-46 = {		
+84 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-47 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = tribal_holding
-}
-
-48 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = tribal_holding
-}
-
-49 = {		
+85 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
 }
 
-50 = {		
+86 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
+}
+
+87 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+88 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+89{ 
+	terrain="hills"
+	trade_goods="stone"
+	religion="nuragian_pantheon"
+	culture="corsi"
+	civilization_value=0
+	barbarian_power=0
+	province_rank="settlement"
+	freemen = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+90 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+91 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+92 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+93 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+94 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+95 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+96 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+97 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+98 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+99 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+100 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+101 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+102 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+103 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+104 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+105 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+106 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+107 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+108 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+109 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+110 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+111 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+112 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+3731 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+3732 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+3733 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+3734 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+3735 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+3736 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
 }

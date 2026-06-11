@@ -1,21 +1,21 @@
-﻿bm_1066_canarias = {
-	start_date = 1066.10.1
+﻿bm_753BC_aburbaecondita = {
+	start_date = 437.4.21
 	is_playable = yes
-	group = bm_group_1066
+	group = bm_group_437
 
 	weight = { value = 100 }
 
-	# Guanarigato
+	# Romulus
 	character = {
 		name = "bookmark_canarias_guanarigato"
 		dynasty = 100848
 		dynasty_splendor_level = 1
 		type = male
-		birth = 1039.1.1
+		birth = 400.1.1
 		title = c_roma
-		government = tribal_government
-		culture = baranis
-		religion = "west_african_pagan"
+		government = feudal_government
+		culture = rlatin
+		religion = "italic_pagan"
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
 		history_id = 20842
 		position = { 250 750 }
