@@ -1279,7 +1279,7 @@
 1934 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 1935 = {		

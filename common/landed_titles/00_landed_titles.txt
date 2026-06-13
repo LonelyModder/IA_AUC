@@ -7,6 +7,124 @@ e_easternrome = {
 	
 	capital = c_memphis # Memphis
 	
+	k_osrhoene = {
+		color = { 70 107 177 }
+		
+		capital = c_harran # Harran
+		
+		d_harran = {
+			color = { 70 107 177 }
+			
+			capital = c_harran # Harran
+			
+			c_harran = {
+				color = { 70 107 177 }
+				
+				b_harran_2554 = {
+					color = { 70 107 177 }
+					province = 2554
+				}
+				
+			}
+			
+		}
+		
+	}
+	
+	k_aram = {
+		color = { 2 36 205 }
+		
+		capital = c_damascus # Damascus
+		
+		d_aram = {
+			color = { 2 36 205 }
+			
+			capital = c_damascus # Damascus
+			
+			c_damascus = {
+				color = { 2 36 205 }
+				
+				b_damascus_2359 = {
+					color = { 2 36 205 }
+					province = 2359
+				}
+				
+				b_ma_bahi_2366 = {
+					color = { 86 57 81 }
+					province = 2366
+				}
+
+				b_at_tumran_2367 = {
+					color = { 128 60 209 }
+					province = 2367
+				}
+
+				b_latasayr_2368 = {
+					color = { 170 63 82 }
+					province = 2368
+				}
+				
+			}
+			
+			c_beqaavalley = {
+				color = { 86 0 36 }
+				
+				b_baalbeck_2276 = {
+					color = { 86 0 36 }
+					province = 2276
+				}
+
+				b_caiter_2277 = {
+					color = { 128 3 164 }
+					province = 2277
+				}
+
+				b_ardaveh_2273 = {
+					color = { 170 204 162 }
+					province = 2273
+				}
+
+				b_tel_kesra_2274 = {
+					color = { 2 207 35 }
+					province = 2274
+				}
+
+				b_mokrit_2275 = {
+					color = { 44 210 163 }
+					province = 2275
+				}
+				
+			}
+			
+			c_hurariyah = {
+				color = { 44 54 208 }
+				
+				b_hurariyah_2365 = {
+					color = { 44 54 208 }
+					province = 2365
+				}
+
+				b_qallireen_2360 = {
+					color = { 44 39 78 }
+					province = 2360
+				}
+
+				b_al_falluysan_2374 = {
+					color = { 2 81 85 }
+					province = 2374
+				}
+
+				b_azawda_2312 = {
+					color = { 128 108 54 }
+					province = 2312
+				}
+				
+			}
+			
+		}
+		
+	}
+	
 	k_truekebab = {
 		color = { 44 18 173 }
 		
@@ -340,10 +458,10 @@ e_easternrome = {
 					color = { 128 165 99 }
 					province = 2398
 				}
-
-				b_bonadoab_2399 = {
-					color = { 170 168 227 }
-					province = 2399
+				
+				b_mishedin_2397 = {
+					color = { 86 162 226 }
+					province = 2397
 				}
 				
 			}
@@ -428,6 +546,11 @@ e_easternrome = {
 					province = 2497
 				}
 				
+				b_bademli_2460 = {
+					color = { 2 138 30 }
+					province = 2460
+				}
+				
 			}
 			
 			c_sumutara = {
@@ -456,6 +579,11 @@ e_easternrome = {
 				b_babyna_2442 = {
 					color = { 86 84 21 }
 					province = 2442
+				}
+				
+				b_ramayji_2498 = {
+					color = { 128 39 49 }
+					province = 2498
 				}
 				
 			}
