@@ -592,12 +592,6 @@
 	holding = none
 }
 
-2364 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
-}
-
 2365 = {		
 	culture = baranis
 	religion = west_african_pagan

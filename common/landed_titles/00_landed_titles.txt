@@ -66,6 +66,26 @@ e_easternrome = {
 				
 			}
 			
+			c_sumerra = {
+				color = { 44 84 213 }
+				
+				b_sumerra_2375 = {
+					color = { 44 84 213 }
+					province = 2375
+				}
+
+				b_banisae_2377 = {
+					color = { 128 90 214 }
+					province = 2377
+				}
+
+				b_mobs_2380 = {
+					color = { 44 99 88 }
+					province = 2380
+				}
+				
+			}
+			
 			c_beqaavalley = {
 				color = { 86 0 36 }
 				
@@ -117,6 +137,182 @@ e_easternrome = {
 				b_azawda_2312 = {
 					color = { 128 108 54 }
 					province = 2312
+				}
+				
+			}
+			
+		}
+		
+		d_palmyra = {
+			color = { 128 30 204 }
+			
+			capital = c_palmyra # Palmyra
+			
+			c_palmyra = {
+				color = { 128 30 204 }
+				
+				b_palmyra_2357 = {
+					color = { 128 30 204 }
+					province = 2357
+				}
+				
+				b_al_lizah_2379 = {
+					color = { 2 96 215 }
+					province = 2379
+				}
+
+				b_tehrabod_2372 = {
+					color = { 128 75 84 }
+					province = 2372
+				}
+
+				b_saratian_2373 = {
+					color = { 170 78 212 }
+					province = 2373
+				}
+				
+			}
+			
+		}
+		
+		d_hamath = {
+			color = { 44 192 68 }
+			
+			capital = c_hamath # Hamath
+			
+			c_hamath = {
+				color = { 44 192 68 }
+				
+				b_hamath_2340 = {
+					color = { 44 192 68 }
+					province = 2340
+				}
+				
+				b_al_qa_ijaf_2341 = {
+					color = { 86 195 196 }
+					province = 2341
+				}
+
+				b_ramafar_2339 = {
+					color = { 2 189 195 }
+					province = 2339
+				}
+				
+			}
+			
+			c_qarqar = {
+				color = { 128 30 204 }
+				
+				b_qarqar_2304 = {
+					color = { 2 84 50 }
+					province = 2304
+				}
+				
+				b_al_kanarbin_2303 = {
+					color = { 170 81 177 }
+					province = 2303
+				}
+				
+			}
+			
+			c_emesa = {
+				color = { 2 9 165 }
+				
+				b_emesa_2279 = {
+					color = { 2 9 165 }
+					province = 2279
+				}
+
+				b_riyashawai_2280 = {
+					color = { 44 12 38 }
+					province = 2280
+				}
+				
+			}
+			
+			c_diwatha = {
+				color = { 128 78 49 }
+				
+				b_ad_diwatha_2302 = {
+					color = { 128 78 49 }
+					province = 2302
+				}
+				
+				b_khanadiyah_2301 = {
+					color = { 86 75 176 }
+					province = 2301
+				}
+
+			}
+			
+		}
+		
+		d_phoenicia = {
+			color = { 128 201 34 }
+			
+			capital = c_tyre # Tyre
+			
+			c_tyre = {
+				color = { 128 201 34 }
+				
+				b_tyre_2272 = {
+					color = { 128 201 34 }
+					province = 2272
+				}
+				
+				b_acre_2278 = {
+					color = { 170 6 37 }
+					province = 2278
+				}
+				
+			}
+			
+			c_byblos = {
+				color = { 2 192 160 }
+				
+				b_byblos_2269 = {
+					color = { 2 192 160 }
+					province = 2269
+				}
+				
+				b_tripolis_2268 = {
+					color = { 170 189 32 }
+					province = 2268
+				}
+				
+			}
+			
+			c_sidon = {
+				color = { 86 198 161 }
+				
+				b_sidon_2271 = {
+					color = { 86 198 161 }
+					province = 2271
+				}
+				
+			}
+			
+			c_berytus = {
+				color = { 44 195 33 }
+				
+				b_berytus_2270 = {
+					color = { 44 195 33 }
+					province = 2270
+				}
+				
+			}
+			
+			c_aradus = {
+				color = { 86 183 31 }
+				
+				b_aradus_2266 = {
+					color = { 86 183 31 }
+					province = 2266
+				}
+				
+				b_aharman_2267 = {
+					color = { 128 186 159 }
+					province = 2267
 				}
 				
 			}
@@ -782,6 +978,11 @@ e_easternrome = {
 				b_jaffa_2430 = {
 					color = { 2 48 15 }
 					province = 2430
+				}
+				
+				b_uqairasan_2364 = {
+					color = { 2 51 80 }
+					province = 2364
 				}
 
 			}
