@@ -20,6 +20,13 @@ island_region_iviza = {
 	counties = { c_ebesus }
 }
 
+island_region_alasiya = {
+	duchies = {
+		d_wcyprus
+		d_ecyprus
+	}
+}
+
 island_region_sardinia_corsica = {
 	duchies = {
 		d_olbia
