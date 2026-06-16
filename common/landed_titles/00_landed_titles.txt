@@ -2,10 +2,1073 @@
 @better_than_the_alternatives_score = 50
 @always_primary_score = 1000
 
+e_epersia = {
+	color = { 45 192 128 }
+	
+	capital = c_memphis # Memphis
+	
+	k_babylonia = {
+		color = { 45 192 128 }
+		
+		capital = c_babylon # Babylon
+		
+		d_babylonia = {
+			color = { 45 192 128 }
+			
+			capital = c_babylon # Babylon
+			
+			c_babylon = {
+				color = { 45 192 128 }
+				
+				b_babylon_3401 = {
+					color = { 45 192 128 }
+					province = 3401
+				}
+				
+				b_barsip_3403 = {
+					color = { 129 198 129 }
+					province = 3403
+				}
+
+				b_laqip_3406 = {
+					color = { 45 207 3 }
+					province = 3406
+				}
+
+				b_kish_3408 = {
+					color = { 129 0 4 }
+					province = 3408
+				}
+				
+				b_dilbat_3410 = {
+					color = { 3 6 5 }
+					province = 3410
+				}
+
+				b_ettu_3429 = {
+					color = { 171 63 142 }
+					province = 3429
+				}
+
+				b_timgiratee_3407 = {
+					color = { 87 210 131 }
+					province = 3407
+				}
+
+			}
+			
+			c_halman = {
+				color = { 87 147 156 }
+				
+				b_halman_3457 = {
+					color = { 87 147 156 }
+					province = 3457
+				}
+
+				b_delondra_3458 = {
+					color = { 129 150 29 }
+					province = 3458
+				}
+
+				b_mammetum_3459 = {
+					color = { 171 153 157 }
+					province = 3459
+				}
+				
+			}
+			
+			c_manishtusu = {
+				color = { 87 12 6 }
+				
+				b_manishtusu_3412 = {
+					color = { 87 12 6 }
+					province = 3412
+				}
+
+				b_nidintu_bel_3411 = {
+					color = { 45 9 133 }
+					province = 3411
+				}
+
+				b_baassiia_3415 = {
+					color = { 3 21 135 }
+					province = 3415
+				}
+				
+			}
+			
+			c_upi = {
+				color = { 129 90 21 }
+				
+				b_upi_3438 = {
+					color = { 129 90 21 }
+					province = 3438
+				}
+
+				b_nidintu_3437 = {
+					color = { 87 87 146 }
+					province = 3437
+				}
+
+				b_ashlultum_3439 = {
+					color = { 171 93 147 }
+					province = 3439
+				}
+				
+			}
+			
+			c_gashur = {
+				color = { 3 81 145 }
+				
+				b_gashur_3435 = {
+					color = { 3 81 145 }
+					province = 3435
+				}
+
+				b_artemita_3434 = {
+					color = { 171 78 17 }
+					province = 3434
+				}
+
+				b_adeeshuduggaat_3436 = {
+					color = { 45 84 18 }
+					province = 3436
+				}
+				
+				b_demetheriia_3404 = {
+					color = { 171 201 2 }
+					province = 3404
+				}
+
+				b_balathu_3405 = {
+					color = { 3 204 130 }
+					province = 3405
+				}
+				
+			}
+			
+			c_ur = {
+				color = { 45 24 8 }
+				
+				b_ur_3416 = {
+					color = { 45 24 8 }
+					province = 3416
+				}
+
+				b_eridu_3418 = {
+					color = { 129 30 9 }
+					province = 3418
+				}
+
+				b_burnata_3419 = {
+					color = { 171 33 137 }
+					province = 3419
+				}
+				
+			}
+			
+			c_isin = {
+				color = { 45 54 13 }
+				
+				b_isin_3426 = {
+					color = { 45 54 13 }
+					province = 3426
+				}
+
+				b_marad_3427 = {
+					color = { 87 57 141 }
+					province = 3427
+				}
+				
+			}
+			
+			c_marona = {
+				color = { 129 69 214 }
+				
+				b_marona_3577 = {
+					color = { 87 81 216 }
+					province = 3577
+				}
+				
+			}
+			
+			c_durathara = {
+				color = { 129 69 214 }
+				
+				b_dur_athara_3573 = {
+					color = { 129 69 214 }
+					province = 3573
+				}
+
+				b_uphakum_3575 = {
+					color = { 3 75 215 }
+					province = 3575
+				}
+				
+			}
+			
+			c_larak = {
+				color = { 171 42 82 }
+				
+				b_larak_3564 = {
+					color = { 171 42 82 }
+					province = 3564
+				}
+
+				b_mahad_3565 = {
+					color = { 3 45 210 }
+					province = 3565
+				}
+
+				b_apameia_3563 = {
+					color = { 129 39 209 }
+					province = 3563
+				}
+
+				b_uras_3567 = {
+					color = { 87 51 211 }
+					province = 3567
+				}
+				
+			}
+			
+			c_girsu = {
+				color = { 129 54 84 }
+				
+				b_girsu_3568 = {
+					color = { 129 54 84 }
+					province = 3568
+				}
+
+				b_igigi_3569 = {
+					color = { 171 57 212 }
+					province = 3569
+				}
+
+				b_muranu_3566 = {
+					color = { 45 48 83 }
+					province = 3566
+				}
+				
+			}
+			
+			c_lagash = {
+				color = { 171 72 87 }
+				
+				b_lagash_3574 = {
+					color = { 171 72 87 }
+					province = 3574
+				}
+				
+				b_kissare_3570 = {
+					color = { 3 60 85 }
+					province = 3570
+				}
+
+				b_athan_3571 = {
+					color = { 45 63 213 }
+					province = 3571
+				}
+
+				b_giliana_3572 = {
+					color = { 87 66 86 }
+					province = 3572
+				}
+
+				b_shammina_3576 = {
+					color = { 45 78 88 }
+					province = 3576
+				}
+				
+			}
+			
+			c_duryakin = {
+				color = { 171 18 7 }
+				
+				b_dur_yakin_3559 = {
+					color = { 171 27 207 }
+					province = 3559
+				}
+
+				b_isiratuu_3557 = {
+					color = { 87 21 206 }
+					province = 3557
+				}
+
+				b_dee_qiteesu_3558 = {
+					color = { 129 24 79 }
+					province = 3558
+				}
+
+				b_shutrul_3560 = {
+					color = { 3 30 80 }
+					province = 3560
+				}
+				
+				b_asennu_3562 = {
+					color = { 87 36 81 }
+					province = 3562
+				}
+				
+			}
+			
+			c_uruk = {
+				color = { 171 18 7 }
+				
+				b_uruk_3414 = {
+					color = { 171 18 7 }
+					province = 3414
+				}
+				
+				b_kinaa_3413 = {
+					color = { 129 15 134 }
+					province = 3413
+				}
+				
+				b_ibbi_adad_3417 = {
+					color = { 87 27 136 }
+					province = 3417
+				}
+
+			}
+			
+			c_vologesias = {
+				color = { 87 195 1 }
+				
+				b_vologesias_3402 = {
+					color = { 87 195 1 }
+					province = 3402
+				}
+
+				b_niiqiarqusu_3400 = {
+					color = { 3 189 0 }
+					province = 3400
+				}
+
+				b_nidintulugal_3409 = {
+					color = { 171 3 132 }
+					province = 3409
+				}
+				
+			}
+			
+			c_numunia = {
+				color = { 3 174 225 }
+				
+				b_numunia_3395 = {
+					color = { 3 174 225 }
+					province = 3395
+				}
+
+				b_atunmettim_3392 = {
+					color = { 87 165 96 }
+					province = 3392
+				}
+
+				b_igenlan_3394 = {
+					color = { 171 171 97 }
+					province = 3394
+				}
+				
+			}
+			
+			c_sippar = {
+				color = { 129 183 99 }
+				
+				b_sippar_3398 = {
+					color = { 129 183 99 }
+					province = 3398
+				}
+				
+				b_burnaburiash_3396 = {
+					color = { 45 177 98 }
+					province = 3396
+				}
+				
+			}
+			
+			c_durkurigalzu = {
+				color = { 87 180 226 }
+				
+				b_dur_kurigalzu_3397 = {
+					color = { 87 180 226 }
+					province = 3397
+				}
+
+				b_eatepsesh_3391 = {
+					color = { 45 162 223 }
+					province = 3391
+				}
+
+				b_upshiakit_3393 = {
+					color = { 129 168 224 }
+					province = 3393
+				}
+
+				b_enshunu_3399 = {
+					color = { 171 186 227 }
+					province = 3399
+				}
+
+				b_aya_3460 = {
+					color = { 3 156 30 }
+					province = 3460
+				}
+
+				b_kar_shamash_3461 = {
+					color = { 45 159 158 }
+					province = 3461
+				}
+
+				b_anunit_3462 = {
+					color = { 87 162 31 }
+					province = 3462
+				}
+				
+			}
+			
+			c_rapiqu = {
+				color = { 171 156 222 }
+				
+				b_rapiqu_3389 = {
+					color = { 171 156 222 }
+					province = 3389
+				}
+
+				b_pashda_3387 = {
+					color = { 87 150 221 }
+					province = 3387
+				}
+
+				b_idu_3388 = {
+					color = { 129 153 94 }
+					province = 3388
+				}
+
+				b_ebug_3390 = {
+					color = { 3 159 95 }
+					province = 3390
+				}
+				
+			}
+			
+			c_chebbat = {
+				color = { 3 144 220 }
+				
+				b_chebbat_3385 = {
+					color = { 3 144 220 }
+					province = 3385
+				}
+
+				b_mizak_3383 = {
+					color = { 129 138 219 }
+					province = 3383
+				}
+
+				b_eahiapu_3384 = {
+					color = { 171 141 92 }
+					province = 3384
+				}
+
+				b_abtiashdikkag_3386 = {
+					color = { 45 147 93 }
+					province = 3386
+				}
+				
+			}
+			
+		}	
+		
+	}
+	
+	k_assyria = {
+		color = { 3 171 160 }
+		
+		capital = c_ashur # Ashur
+		
+		d_ashur = {
+			color = { 3 171 160 }
+			
+			capital = c_ashur # Ashur
+			
+			c_ashur = {
+				color = { 3 171 160 }
+				
+				b_ashur_3465 = {
+					color = { 3 171 160 }
+					province = 3465
+				}
+				
+				b_kar_ishtar_3464 = {
+					color = { 171 168 32 }
+					province = 3464
+				}
+
+				b_ekallatum_3478 = {
+					color = { 129 210 39 }
+					province = 3478
+				}
+
+				b_kar_tukulti_ninurta_3479 = {
+					color = { 171 0 167 }
+					province = 3479
+				}
+				
+			}
+			
+			c_turshan = {
+				color = { 45 21 43 }
+				
+				b_turshan_3486 = {
+					color = { 45 21 43 }
+					province = 3486
+				}
+
+				b_lum_3489 = {
+					color = { 171 30 172 }
+					province = 3489
+				}
+
+				b_shalanum_3491 = {
+					color = { 45 36 173 }
+					province = 3491
+				}
+				
+				b_aanepada_3492 = {
+					color = { 87 39 46 }
+					province = 3492
+				}
+
+				b_naram_3499 = {
+					color = { 171 60 177 }
+					province = 3499
+				}
+				
+			}
+			
+			c_surmarrati = {
+				color = { 45 6 168 }
+				
+				b_surmarrati_3481 = {
+					color = { 45 6 168 }
+					province = 3481
+				}
+
+				b_dura_3480 = {
+					color = { 3 3 40 }
+					province = 3480
+				}
+
+				b_lugulbanda_3482 = {
+					color = { 87 9 41 }
+					province = 3482
+				}
+				
+				b_bauninsheg_3487 = {
+					color = { 87 24 171 }
+					province = 3487
+				}
+
+				b_bikku_3488 = {
+					color = { 129 27 44 }
+					province = 3488
+				}
+				
+			}
+			
+			c_tagritianu = {
+				color = { 129 165 159 }
+				
+				b_tagritianu_3463 = {
+					color = { 129 165 159 }
+					province = 3463
+				}
+				
+			}
+			
+			c_elulu = {
+				color = { 129 87 54 }
+				
+				b_elulu_3508 = {
+					color = { 129 87 54 }
+					province = 3508
+				}
+
+				b_nasir_3506 = {
+					color = { 45 81 53 }
+					province = 3506
+				}
+
+				b_ennam_3507 = {
+					color = { 87 84 181 }
+					province = 3507
+				}
+
+				b_sig_ersetim_3509 = {
+					color = { 171 90 182 }
+					province = 3509
+				}
+
+				b_melem_ana_3510 = {
+					color = { 3 93 55 }
+					province = 3510
+				}
+				
+			}
+			
+			c_hatra = {
+				color = { 87 69 51 }
+				
+				b_hatra_3502 = {
+					color = { 87 69 51 }
+					province = 3502
+				}
+
+				b_aradegi_3501 = {
+					color = { 45 66 178 }
+					province = 3501
+				}
+
+			}
+			
+			c_kalhu = {
+				color = { 45 204 38 }
+				
+				b_kalhu_3476 = {
+					color = { 45 204 38 }
+					province = 3476
+				}
+
+				b_ningikuga_3466 = {
+					color = { 45 174 33 }
+					province = 3466
+				}
+
+				b_nisaba_3467 = {
+					color = { 87 177 161 }
+					province = 3467
+				}
+				
+			}
+			
+		}
+
+		d_niniveh = {
+			color = { 129 195 164 }
+			
+			capital = c_niniveh # Niniveh
+			
+			c_niniveh = {
+				color = { 129 195 164 }
+				
+				b_nineveh_3473 = {
+					color = { 129 195 164 }
+					province = 3473
+				}
+				
+				b_summirat_3470 = {
+					color = { 3 186 35 }
+					province = 3470
+				}
+
+				b_nirah_3471 = {
+					color = { 45 189 163 }
+					province = 3471
+				}
+
+				b_ninshubur_3472 = {
+					color = { 87 192 36 }
+					province = 3472
+				}
+
+				b_lahamu_3474 = {
+					color = { 171 198 37 }
+					province = 3474
+				}
+
+				b_shatu_3469 = {
+					color = { 171 183 162 }
+					province = 3469
+				}
+				
+			}
+			
+			c_rihat = {
+				color = { 3 198 200 }
+				
+				b_rihat_3545 = {
+					color = { 3 198 200 }
+					province = 3545
+				}
+
+				b_enusat_3544 = {
+					color = { 171 195 72 }
+					province = 3544
+				}
+
+				b_iaazipaa_3546 = {
+					color = { 45 201 73 }
+					province = 3546
+				}
+
+				b_kuri_3542 = {
+					color = { 87 189 71 }
+					province = 3542
+				}
+				
+			}
+			
+			c_ugurnashir = {
+				color = { 45 186 198 }
+				
+				b_ugurnaszir_3541 = {
+					color = { 45 186 198 }
+					province = 3541
+				}
+
+				b_ishme_ea_3537 = {
+					color = { 87 174 196 }
+					province = 3537
+				}
+
+				b_libluth_3538 = {
+					color = { 129 177 69 }
+					province = 3538
+				}
+
+				b_ariistuun_3539 = {
+					color = { 171 180 197 }
+					province = 3539
+				}
+				
+			}
+			
+			c_ninsar = {
+				color = { 171 105 57 }
+				
+				b_ninsar_3514 = {
+					color = { 171 105 57 }
+					province = 3514
+				}
+
+				b_til_eresh_3523 = {
+					color = { 129 132 189 }
+					province = 3523
+				}
+				
+			}
+			
+			c_dursharrukin = {
+				color = { 45 171 68 }
+				
+				b_dur_sharrukin_3536 = {
+					color = { 45 171 68 }
+					province = 3536
+				}
+
+				b_nigsummunu_3543 = {
+					color = { 129 192 199 }
+					province = 3543
+				}
+
+				b_sibaniba_3540 = {
+					color = { 3 183 70 }
+					province = 3540
+				}
+				
+			}
+			
+			c_ibal = {
+				color = { 3 78 180 }
+				
+				b_ibal_3505 = {
+					color = { 3 78 180 }
+					province = 3505
+				}
+
+				b_lilith_3515 = {
+					color = { 3 108 185 }
+					province = 3515
+				}
+
+				b_urnina_3477 = {
+					color = { 87 207 166 }
+					province = 3477
+				}
+
+			}
+			
+			c_liwwir = {
+				color = { 129 180 34 }
+				
+				b_liwwir_3468 = {
+					color = { 129 180 34 }
+					province = 3468
+				}
+
+				b_nindukugga_3475 = {
+					color = { 3 201 165 }
+					province = 3475
+				}
+				
+			}
+			
+			c_duradad = {
+				color = { 3 138 190 }
+				
+				b_dur_adad_3525 = {
+					color = { 3 138 190 }
+					province = 3525
+				}
+				
+				b_kar_bel_ili_3524 = {
+					color = { 171 135 62 }
+					province = 3524
+				}
+
+				b_hunzuu_3527 = {
+					color = { 87 144 191 }
+					province = 3527
+				}
+
+			}
+			
+			c_sidqum = {
+				color = { 129 195 164 }
+				
+				b_babum_3497 = {
+					color = { 87 54 176 }
+					province = 3497
+				}
+
+				b_namhu_3496 = {
+					color = { 45 51 48 }
+					province = 3496
+				}
+
+				b_zizi_3498 = {
+					color = { 129 57 49 }
+					province = 3498
+				}
+
+				b_sillashu_3503 = {
+					color = { 129 72 179 }
+					province = 3503
+				}
+
+				b_ninsha_3504 = {
+					color = { 171 75 52 }
+					province = 3504
+				}
+				
+			}
+			
+		}
+
+		d_arrapha = {
+			color = { 129 117 59 }
+			
+			capital = c_arrapha # Arrapha
+			
+			c_arrapha = {
+				color = { 129 117 59 }
+				
+				b_arrapha_3518 = {
+					color = { 129 117 59 }
+					province = 3518
+				}
+				
+				b_lubdu_3519 = {
+					color = { 171 120 187 }
+					province = 3519
+				}
+
+				b_kar_nabu_3520 = {
+					color = { 3 123 60 }
+					province = 3520
+				}
+
+				b_dur_shamash_3521 = {
+					color = { 45 126 188 }
+					province = 3521
+				}
+
+				b_zaggisi_3493 = {
+					color = { 129 42 174 }
+					province = 3493
+				}
+
+				b_argandea_3494 = {
+					color = { 171 45 47 }
+					province = 3494
+				}
+				
+			}
+			
+			c_uktannu = {
+				color = { 3 168 195 }
+				
+				b_uktannu_3535 = {
+					color = { 3 168 195 }
+					province = 3535
+				}
+				
+				b_nidintu_bel_3534 = {
+					color = { 171 165 67 }
+					province = 3534
+				}
+				
+				b_ar_siuqqa_3529 = {
+					color = { 171 150 192 }
+					province = 3529
+				}
+
+				b_utuaa_3526 = {
+					color = { 45 141 63 }
+					province = 3526
+				}
+
+			}
+			
+			c_ligish = {
+				color = { 87 159 66 }
+				
+				b_ligish_3532 = {
+					color = { 87 159 66 }
+					province = 3532
+				}
+
+				b_ginatum_3533 = {
+					color = { 129 162 194 }
+					province = 3533
+				}
+				
+			}
+			
+			c_seluku = {
+				color = { 129 147 64 }
+				
+				b_seluku_3528 = {
+					color = { 129 147 64 }
+					province = 3528
+				}
+
+				b_gemekala_3516 = {
+					color = { 45 111 58 }
+					province = 3516
+				}
+
+				b_labashi_3531 = {
+					color = { 45 156 193 }
+					province = 3531
+				}
+				
+				b_attii_kusu_3530 = {
+					color = { 3 153 65 }
+					province = 3530
+				}
+				
+			}
+			
+			c_meturnat = {
+				color = { 3 48 175 }
+				
+				b_me_turnat_3495 = {
+					color = { 3 48 175 }
+					province = 3495
+				}
+
+				b_lipit_3490 = {
+					color = { 3 33 45 }
+					province = 3490
+				}
+
+				b_eulli_3517 = {
+					color = { 87 114 186 }
+					province = 3517
+				}
+				
+			}
+			
+			c_hedu = {
+				color = { 129 12 169 }
+				
+				b_hedu_3483 = {
+					color = { 129 12 169 }
+					province = 3483
+				}
+
+				b_ningal_3484 = {
+					color = { 171 15 42 }
+					province = 3484
+				}
+
+				b_belessunu_3485 = {
+					color = { 3 18 170 }
+					province = 3485
+				}
+				
+			}
+			
+			c_arbail = {
+				color = { 3 63 50 }
+				
+				b_arbail_3500 = {
+					color = { 3 63 50 }
+					province = 3500
+				}
+
+				b_gina_3522 = {
+					color = { 87 129 61 }
+					province = 3522
+				}
+				
+			}
+			
+		}			
+		
+	}
+	
+}
+
 e_easternrome = {
 	color = { 44 18 173 }
 	
 	capital = c_memphis # Memphis
+	
+	k_achea = {
+		color = { 85 123 216 }
+		
+		capital = c_athenae # Athenae
+		
+		d_ionia = {
+			color = { 85 123 216 }
+			
+			capital = c_athenae # Athenae
+			
+			c_athenae = {
+				color = { 85 123 216 }
+				
+				b_athenae_1181 = {
+					color = { 85 123 216 }
+					province = 1181
+				}
+
+				b_orchithos_1182 = {
+					color = { 127 126 89 }
+					province = 1182
+				}
+
+				b_colyrgos_1183 = {
+					color = { 169 129 217 }
+					province = 1183
+				}
+				
+			}
+			
+		}
+		
+	}
 	
 	k_lyciaetpamphylia = {
 		color = { 151 176 223 }
@@ -25,6 +1088,31 @@ e_easternrome = {
 					province = 2847
 				}
 				
+			}
+			
+			c_meginda = {
+				color = { 173 197 245 }
+				
+				b_meginda_2856 = {
+					color = { 173 197 245 }
+					province = 2856
+				}
+				
+				b_helodes_2848 = {
+					color = { 107 150 233 }
+					province = 2848
+				}
+
+				b_juktithos_2849 = {
+					color = { 110 197 243 }
+					province = 2849
+				}
+
+				b_smyrneneia_2851 = {
+					color = { 173 197 244 }
+					province = 2851
+				}
+
 			}
 			
 			c_side = {
@@ -59,10 +1147,97 @@ e_easternrome = {
 			
 		}
 		
+		d_isauria = {
+			color = { 110 197 245 }
+			
+			capital = c_isaura # Isaura
+			
+			c_isaura = {
+				color = { 110 197 245 }
+				
+				b_isaura_2859 = {
+					color = { 110 197 245 }
+					province = 2859
+				}
+
+				b_samipolis_2860 = {
+					color = { 1 50 246 }
+					province = 2860
+				}
+				
+			}
+			
+			c_ambepios = {
+				color = { 110 197 246 }
+				
+				b_magniunt_2864 = {
+					color = { 110 197 246 }
+					province = 2864
+				}
+
+				b_ambepios_2865 = {
+					color = { 1 50 247 }
+					province = 2865
+				}
+				
+			}
+			
+			c_laranda = {
+				color = { 110 197 245 }
+				
+				b_decena_2863 = {
+					color = { 107 150 236 }
+					province = 2863
+				}
+
+				b_rhypon_2862 = {
+					color = { 151 176 226 }
+					province = 2862
+				}
+
+				b_tripinda_2867 = {
+					color = { 151 176 227 }
+					province = 2867
+				}
+
+				b_bourosse_2868 = {
+					color = { 107 150 237 }
+					province = 2868
+				}
+				
+			}
+			
+			c_rizios = {
+				color = { 173 197 246 }
+				
+				b_rizios_2861 = {
+					color = { 173 197 246 }
+					province = 2861
+				}
+				
+			}
+			
+			c_eubiene = {
+				color = { 151 176 225 }
+				
+				b_eubiene_2857 = {
+					color = { 151 176 225 }
+					province = 2857
+				}
+
+				b_decosia_2858 = {
+					color = { 107 150 235 }
+					province = 2858
+				}
+				
+			}
+			
+		}
+		
 		d_pisidia = {
 			color = { 151 176 222 }
 			
-			capital = c_sagalassos # c_sagalassos
+			capital = c_sagalassos # Sagalassos
 			
 			c_sagalassos = {
 				color = { 151 176 222 }
@@ -80,6 +1255,46 @@ e_easternrome = {
 				b_thebiliki_2841 = {
 					color = { 173 197 242 }
 					province = 2841
+				}
+				
+			}
+			
+			c_selge = {
+				color = { 110 197 242 }
+				
+				b_selge_2844 = {
+					color = { 110 197 242 }
+					province = 2844
+				}
+				
+				b_aytini_2839 = {
+					color = { 110 197 241 }
+					province = 2839
+				}
+				
+				b_lamyras_2843 = {
+					color = { 107 150 232 }
+					province = 2843
+				}
+				
+			}
+			
+			c_termessos = {
+				color = { 110 197 240 }
+				
+				b_peirinth_2834 = {
+					color = { 110 197 240 }
+					province = 2834
+				}
+				
+				b_zakrympia_2837 = {
+					color = { 151 176 221 }
+					province = 2837
+				}
+				
+				b_antaca_2838 = {
+					color = { 107 150 231 }
+					province = 2838
 				}
 				
 			}
@@ -109,6 +1324,133 @@ e_easternrome = {
 				
 			}	
 		
+		}
+		
+		d_lukka = {
+			color = { 151 176 218 }
+			
+			capital = c_xanthos # Xanthos
+			
+			c_xanthos = {
+				color = { 151 176 218 }
+				
+				b_xanthos_2822 = {
+					color = { 151 176 218 }
+					province = 2822
+				}
+				
+				b_patara_2824 = {
+					color = { 110 197 238 }
+					province = 2824
+				}
+
+				b_kynthos_2825 = {
+					color = { 1 50 239 }
+					province = 2825
+				}
+				
+			}
+			
+			c_itympia = {
+				color = { 151 176 220 }
+				
+				b_itympia_2832 = {
+					color = { 151 176 220 }
+					province = 2832
+				}
+				
+				b_bouromnos_2831 = {
+					color = { 173 197 240 }
+					province = 2831
+				}
+
+			}
+			
+			c_boubon = {
+				color = { 1 50 238 }
+				
+				b_olbegion_2820 = {
+					color = { 1 50 238 }
+					province = 2820
+				}
+				
+				b_smyrnio_2818 = {
+					color = { 110 197 237 }
+					province = 2818
+				}
+
+				b_bublyn_2819 = {
+					color = { 170 150 137 }
+					province = 2819
+				}
+
+			}
+			
+			c_telmessos = {
+				color = { 107 150 227 }
+				
+				b_telmessos_2817 = {
+					color = { 107 150 227 }
+					province = 2817
+				}
+
+				b_pinara_2821 = {
+					color = { 173 197 238 }
+					province = 2821
+				}
+				
+			}
+			
+			c_aparos = {
+				color = { 107 150 228 }
+				
+				b_aparos_2823 = {
+					color = { 107 150 228 }
+					province = 2823
+				}
+
+				b_zakropus_2826 = {
+					color = { 173 197 239 }
+					province = 2826
+				}
+
+				b_sena_2830 = {
+					color = { 1 50 240 }
+					province = 2830
+				}
+				
+			}
+			
+			c_myra = {
+				color = { 151 176 219 }
+				
+				b_myra_2827 = {
+					color = { 151 176 219 }
+					province = 2827
+				}
+
+				b_psissos_2828 = {
+					color = { 107 150 229 }
+					province = 2828
+				}
+				
+			}
+			
+			c_phaselis = {
+				color = { 110 197 239 }
+				
+				b_thronagas_2829 = {
+					color = { 110 197 239 }
+					province = 2829
+				}
+
+				b_colenion_2833 = {
+					color = { 107 150 230 }
+					province = 2833
+				}
+				
+			}
+			
 		}
 	
 	}
@@ -147,7 +1489,22 @@ e_easternrome = {
 				}
 				
 			}
+			
+			c_olba = {
+				color = { 2 72 140 }
+				
+				b_manzater_2229 = {
+					color = { 2 72 140 }
+					province = 2229
+				}
 
+				b_yasfan_2230 = {
+					color = { 44 75 13 }
+					province = 2230
+				}
+				
+			}	
+			
 			c_aegae = {
 				color = { 44 105 18 }
 				
@@ -295,21 +1652,6 @@ e_easternrome = {
 				
 			}
 
-			c_olba = {
-				color = { 2 72 140 }
-				
-				b_manzater_2229 = {
-					color = { 2 72 140 }
-					province = 2229
-				}
-
-				b_yasfan_2230 = {
-					color = { 44 75 13 }
-					province = 2230
-				}
-				
-			}	
-			
 			c_strachea = {
 				color = { 128 66 139 }
 				
@@ -637,6 +1979,260 @@ e_easternrome = {
 				b_al_qunfurma_2536 = {
 					color = { 52 209 215 }
 					province = 2536
+				}
+				
+			}
+			
+		}
+		
+		d_sinjar = {
+			color = { 107 204 208 }
+			
+			capital = c_kurda # Kurda
+			
+			c_kurda = {
+				color = { 107 204 208 }
+				
+				b_kurda_2546 = {
+					color = { 53 209 215 }
+					province = 2546
+				}
+				
+				b_balosht_2544 = {
+					color = { 50 210 219 }
+					province = 2544
+				}
+
+				b_singara_2545 = {
+					color = { 4 120 190 }
+					province = 2545
+				}
+				
+				b_tall_kaniyah_2547 = {
+					color = { 82 156 215 }
+					province = 2547
+				}
+				
+				b_kememli_2583 = {
+					color = { 42 198 230 }
+					province = 2583
+				}
+
+			}
+			
+			c_lahisab = {
+				color = { 44 75 210 }
+				
+				b_lahisab_2581 = {
+					color = { 44 75 210 }
+					province = 2581
+				}
+
+				b_uyami_2579 = {
+					color = { 172 119 207 }
+					province = 2579
+				}
+
+				b_qaireg_2580 = {
+					color = { 28 12 80 }
+					province = 2580
+				}
+
+				b_junarke_2582 = {
+					color = { 25 237 230 }
+					province = 2582
+				}
+				
+			}
+			
+			c_talima = {
+				color = { 86 164 221 }
+				
+				b_talima_2597 = {
+					color = { 86 164 221 }
+					province = 2597
+				}
+				
+				b_najanab_2592 = {
+					color = { 25 237 231 }
+					province = 2592
+				}
+				
+				b_tel_hadin_2595 = {
+					color = { 2 247 221 }
+					province = 2595
+				}
+
+				b_qahaseir_2596 = {
+					color = { 44 90 201 }
+					province = 2596
+				}
+				
+				b_al_kanakh_2548 = {
+					color = { 130 198 255 }
+					province = 2548
+				}
+
+				b_amamiya_2549 = {
+					color = { 25 198 255 }
+					province = 2549
+				}
+
+				b_habayya_2589 = {
+					color = { 70 99 240 }
+					province = 2589
+				}
+
+			}
+			
+			c_tabete = {
+				color = { 86 201 176 }
+				
+				b_tabete_2552 = {
+					color = { 86 201 176 }
+					province = 2552
+				}
+
+				b_wadimran_2551 = {
+					color = { 44 198 203 }
+					province = 2551
+				}
+
+				b_oruchan_2574 = {
+					color = { 172 207 255 }
+					province = 2574
+				}
+				
+			}
+			
+		}
+		
+		d_khabur = {
+			color = { 107 204 208 }
+			
+			capital = c_surur # Surur
+			
+			c_surur = {
+				color = { 107 204 208 }
+				
+				b_surur_2542 = {
+					color = { 107 204 208 }
+					province = 2542
+				}
+
+				b_jiroyer_2543 = {
+					color = { 149 173 214 }
+					province = 2543
+				}
+				
+			}
+			
+			c_hennasayr = {
+				color = { 92 241 234 }
+				
+				b_hennasayr_2507 = {
+					color = { 92 241 234 }
+					province = 2507
+				}
+				
+				b_salaveli_2508 = {
+					color = { 41 209 215 }
+					province = 2508
+				}
+				
+			}
+			
+			c_anatha = {
+				color = { 164 216 222 }
+				
+				b_anatha_2504 = {
+					color = { 164 216 222 }
+					province = 2504
+				}
+
+				b_armayna_2503 = {
+					color = { 137 228 239 }
+					province = 2503
+				}
+
+				b_jabajh_2505 = {
+					color = { 175 241 249 }
+					province = 2505
+				}
+				
+			}
+			
+			c_qila = {
+				color = { 219 243 246 }
+				
+				b_al_qalif_2506 = {
+					color = { 219 243 246 }
+					province = 2506
+				}
+				
+			}
+			
+			c_sidiklani = {
+				color = { 154 236 239 }
+				
+				b_sadiklani_2518 = {
+					color = { 154 236 239 }
+					province = 2518
+				}
+
+				b_al_muhr_2519 = {
+					color = { 61 248 255 }
+					province = 2519
+				}
+
+				b_farrani_2514 = {
+					color = { 27 227 234 }
+					province = 2514
+				}
+
+				b_nasirikho_2512 = {
+					color = { 80 209 213 }
+					province = 2512
+				}
+				
+			}
+			
+			c_durkatlimmu = {
+				color = { 92 227 234 }
+				
+				b_dur_katlimmu_2515 = {
+					color = { 92 227 234 }
+					province = 2515
+				}
+
+				b_behbandaj_2511 = {
+					color = { 49 209 215 }
+					province = 2511
+				}
+				
+			}
+			
+			c_nibarti = {
+				color = { 137 210 217 }
+				
+				b_khomeyer_2510 = {
+					color = { 137 210 217 }
+					province = 2510
+				}
+
+				b_duronkaya_2509 = {
+					color = { 104 209 214 }
+					province = 2509
+				}
+
+				b_baladariya_2513 = {
+					color = { 154 233 236 }
+					province = 2513
+				}
+
+				b_al_jami_2516 = {
+					color = { 104 209 213 }
+					province = 2516
 				}
 				
 			}
