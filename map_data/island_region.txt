@@ -27,6 +27,12 @@ island_region_alasiya = {
 	}
 }
 
+island_region_cyclades = {
+	duchies = {
+		d_cyclades
+	}
+}
+
 island_region_sardinia_corsica = {
 	duchies = {
 		d_olbia
