@@ -1510,6 +1510,23 @@ e_easternrome = {
 			
 		}
 		
+		d_thessaly = {
+			color = { 127 108 149 }
+			
+			capital = c_larissa # Larissa
+			
+			c_larissa = {
+				color = { 127 108 149 }
+				
+				b_larissa_1247 = {
+					color = { 127 108 149 }
+					province = 1247
+				}
+				
+			}
+			
+		}
+		
 	}
 	
 	k_epirus = {
@@ -1517,7 +1534,7 @@ e_easternrome = {
 		
 		capital = c_ambracia # Ambracia
 		
-		d_molossia = {
+		d_thesprotia = {
 			color = { 85 150 156 }
 			
 			capital = c_ambracia # Ambracia
@@ -1528,6 +1545,239 @@ e_easternrome = {
 				b_ambracia_1261 = {
 					color = { 85 150 156 }
 					province = 1261
+				}
+				
+			}
+			
+			c_ephyra = {
+				color = { 85 165 31 }
+				
+				b_ephyra_1266 = {
+					color = { 85 165 31 }
+					province = 1266
+				}
+
+				b_nicopolis_1264 = {
+					color = { 1 159 30 }
+					province = 1264
+				}
+				
+			}
+			
+		}
+		
+		d_molossia = {
+			color = { 1 174 160 }
+			
+			capital = c_dodona # Dodona
+			
+			c_dodona = {
+				color = { 1 174 160 }
+				
+				b_dodona_1269 = {
+					color = { 1 174 160 }
+					province = 1269
+				}
+				
+				b_panditake_1268 = {
+					color = { 169 171 32 }
+					province = 1268
+				}
+				
+				b_passaron_1265 = {
+					color = { 43 162 158 }
+					province = 1265
+				}
+				
+				b_nicoperikon_1274 = {
+					color = { 1 189 35 }
+					province = 1274
+				}
+				
+			}
+			
+			c_pogoni = {
+				color = { 43 192 163 }
+				
+				b_pogoni_1275 = {
+					color = { 43 192 163 }
+					province = 1275
+				}
+
+				b_gelerikon_1276 = {
+					color = { 85 195 36 }
+					province = 1276
+				}
+
+				b_potidnae_1277 = {
+					color = { 127 198 164 }
+					province = 1277
+				}
+				
+			}
+			
+			c_emporia = {
+				color = { 43 207 38 }
+				
+				b_emporia_1280 = {
+					color = { 43 207 38 }
+					province = 1280
+				}
+				
+				b_colanes_1279 = {
+					color = { 1 204 165 }
+					province = 1279
+				}
+				
+				b_magnicea_1290 = {
+					color = { 43 24 43 }
+					province = 1290
+				}
+
+			}
+			
+		}
+		
+		d_chaonia = {
+			color = { 43 177 33 }
+			
+			capital = c_buthrotum # Buthrotum
+			
+			c_buthrotum = {
+				color = { 43 177 33 }
+				
+				b_buthrotum_1270 = {
+					color = { 43 177 33 }
+					province = 1270
+				}
+
+				b_onchesmos_1271 = {
+					color = { 85 180 161 }
+					province = 1271
+				}
+				
+				b_photice_1267 = {
+					color = { 127 168 159 }
+					province = 1267
+				}
+				
+			}
+			
+			c_delezus = {
+				color = { 127 183 34 }
+				
+				b_delezus_1272 = {
+					color = { 127 183 34 }
+					province = 1272
+				}
+				
+				b_laodelea_1278 = {
+					color = { 169 201 37 }
+					province = 1278
+				}
+				
+			}
+			
+			c_corcyra = {
+				color = { 169 156 157 }
+				
+				b_corcyra_1263 = {
+					color = { 169 156 157 }
+					province = 1263
+				}
+				
+			}
+			
+			c_amantia = {
+				color = { 1 18 205 }
+				
+				b_amantia_1359 = {
+					color = { 1 18 205 }
+					province = 1359
+				}
+				
+			}
+			
+		}
+		
+		d_acarnania = {
+			color = { 127 138 154 }
+			
+			capital = c_acarnania # Acarnania
+			
+			c_acarnania = {
+				color = { 127 138 154 }
+				
+				b_anactorium_1257 = {
+					color = { 127 138 154 }
+					province = 1257
+				}
+				
+				b_astacus_1254 = {
+					color = { 1 129 25 }
+					province = 1254
+				}
+				
+			}
+			
+			c_leucas = {
+				color = { 85 135 26 }
+				
+				b_leucas_1256 = {
+					color = { 85 135 26 }
+					province = 1256
+				}
+				
+			}
+			
+		}
+		
+		d_athamania = {
+			color = { 127 153 29 }
+			
+			capital = c_athamania # Athamania
+			
+			c_athamania = {
+				color = { 127 153 29 }
+				
+				b_doresia_1262 = {
+					color = { 127 153 29 }
+					province = 1262
+				}
+
+				b_chalcina_1259 = {
+					color = { 1 144 155 }
+					province = 1259
+				}
+				
+			}
+			
+			c_oryreum = {
+				color = { 43 147 28 }
+				
+				b_oryreum_1260 = {
+					color = { 43 147 28 }
+					province = 1260
+				}
+
+				b_hemamahos_1273 = {
+					color = { 169 186 162 }
+					province = 1273
+				}
+				
+			}
+			
+			c_amphatreia = {
+				color = { 169 141 27 }
+				
+				b_amphateia_1258 = {
+					color = { 169 141 27 }
+					province = 1258
+				}
+
+				b_prousocaea_1253 = {
+					color = { 169 126 152 }
+					province = 1253
 				}
 				
 			}
@@ -1850,6 +2100,11 @@ e_easternrome = {
 					province = 1206
 				}
 
+			}
+			
+			c_themum = {
+				color = { 127 201 129 }
+				
 				b_themum_1207 = {
 					color = { 127 201 129 }
 					province = 1207
@@ -1858,6 +2113,11 @@ e_easternrome = {
 				b_calydon_1208 = {
 					color = { 169 204 2 }
 					province = 1208
+				}
+				
+				b_scidrais_1209 = {
+					color = { 1 207 130 }
+					province = 1209
 				}
 				
 			}

@@ -28,8 +28,16 @@ island_region_alasiya = {
 }
 
 island_region_cyclades = {
+	counties = {
+		c_naxos
+		c_paros
+	}
+}
+
+island_region_crete = {
 	duchies = {
-		d_cyclades
+		d_ecrete
+		d_wcrete
 	}
 }
 
