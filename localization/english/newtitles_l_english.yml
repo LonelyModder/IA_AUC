@@ -142,7 +142,13 @@
  d_mosinoecia:0 "Mosinoecia"
  d_macronia:0 "Macronia"
  d_tibarenia:0 "Tibarenia"
+ d_nkattak:0 "Northern Kattak"
+ d_mushkia:0 "Mushkia"
  # Couties
+ c_alisar:0 "Alisar"
+ c_hattusa:0 "Hattusa"
+ c_ephilene:0 "Ephilene"
+ c_katarina:0 "Katarina"
  c_ambiene:0 "Ambiene"
  c_kimmaros:0 "Kimmaros"
  c_thebera:0 "Thebera"

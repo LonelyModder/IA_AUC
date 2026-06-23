@@ -1493,6 +1493,115 @@ e_easternrome = {
 		
 		capital = c_trapezus # Trapezus
 		
+		d_mushkia = {
+			color = { 171 207 32 }
+			
+			capital = c_hattusa # Hattusa
+			
+			c_hattusa = {
+				color = { 171 207 32 }
+				
+				b_hattusa_3264 = {
+					color = { 171 207 32 }
+					province = 3264
+				}
+
+				b_tegoinion_3261 = {
+					color = { 45 198 158 }
+					province = 3261
+				}
+
+				b_yazilikaya_3262 = {
+					color = { 87 201 31 }
+					province = 3262
+				}
+
+				b_salaros_3263 = {
+					color = { 129 204 159 }
+					province = 3263
+				}
+
+				b_tareleum_3256 = {
+					color = { 45 183 28 }
+					province = 3256
+				}
+				
+			}
+			
+			c_alisar = {
+				color = { 129 6 34 }
+				
+				b_alisar_3268 = {
+					color = { 129 6 34 }
+					province = 3268
+				}
+
+				b_magnenus_3266 = {
+					color = { 45 0 33 }
+					province = 3266
+				}
+
+				b_pixoinon_3267 = {
+					color = { 87 3 161 }
+					province = 3267
+				}
+
+				b_thyrofa_3270 = {
+					color = { 3 12 35 }
+					province = 3270
+				}
+
+				b_pinapezus_3274 = {
+					color = { 171 24 37 }
+					province = 3274
+				}
+				
+			}
+			
+		}
+		
+		d_nkattak = {
+			color = { 3 72 45 }
+			
+			capital = c_katarina # Katarina
+			
+			c_katarina = {
+				color = { 3 72 45 }
+				
+				b_katarina_3290 = {
+					color = { 3 72 45 }
+					province = 3290
+				}
+
+				b_lissinia_3288 = {
+					color = { 129 66 44 }
+					province = 3288
+				}
+
+				b_rhypampos_3293 = {
+					color = { 129 81 174 }
+					province = 3293
+				}
+				
+			}
+			
+			c_ephilene = {
+				color = { 171 84 47 }
+				
+				b_ephilene_3294 = {
+					color = { 171 84 47 }
+					province = 3294
+				}
+
+				b_akrokampos_3298 = {
+					color = { 129 96 49 }
+					province = 3298
+				}
+				
+			}
+			
+		}
+		
 		d_tibarenia = {
 			color = { 171 114 52 }
 			
@@ -1990,21 +2099,6 @@ e_easternrome = {
 				
 			}
 			
-			c_kydonesos = {
-				color = { 129 30 159 }
-				
-				b_kydonesos_3063 = {
-					color = { 129 30 159 }
-					province = 3063
-				}
-				
-				b_atheron_3016 = {
-					color = { 45 102 8 }
-					province = 3016
-				}
-
-			}
-			
 			c_epidessa = {
 				color = { 87 57 36 }
 				
@@ -2122,6 +2216,21 @@ e_easternrome = {
 				
 			}
 			
+			c_kydonesos = {
+				color = { 129 30 159 }
+				
+				b_kydonesos_3063 = {
+					color = { 129 30 159 }
+					province = 3063
+				}
+				
+				b_atheron_3016 = {
+					color = { 45 102 8 }
+					province = 3016
+				}
+
+			}
+			
 			c_antheron = {
 				color = { 3 99 135 }
 				
@@ -2218,6 +2327,11 @@ e_easternrome = {
 				b_dioscoskopeion_3042 = {
 					color = { 87 180 21 }
 					province = 3042
+				}
+				
+				b_potynthos_3053 = {
+					color = { 129 0 154 }
+					province = 3053
 				}
 
 			}
