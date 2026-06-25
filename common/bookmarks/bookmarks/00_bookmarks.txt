@@ -23,3 +23,13 @@
 		animation = happiness
 	}
 }
+
+bm_932BC_cor_tenebrarum = {
+	start_date = 258.4.4
+	is_playable = yes
+	group = bm_group_258
+
+	weight = { value = 100 }
+
+	# New Characters Needed
+}

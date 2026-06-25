@@ -6,6 +6,6 @@ bm_group_437 = {
 	default_start_date = 437.4.21
 }
 
-bm_group_1066 = {
-	default_start_date = 1066.9.15
+bm_group_258 = {
+	default_start_date = 258.4.4
 }
