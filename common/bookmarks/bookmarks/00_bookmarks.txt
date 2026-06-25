@@ -1,4 +1,14 @@
-﻿bm_753BC_aburbaecondita = {
+﻿bm_932BC_cor_tenebrarum = {
+	start_date = 258.4.4
+	is_playable = yes
+	group = bm_group_258
+
+	weight = { value = 100 }
+
+	# New Characters Needed
+}
+
+bm_753BC_aburbaecondita = {
 	start_date = 437.4.21
 	is_playable = yes
 	group = bm_group_437
@@ -22,14 +32,4 @@
 
 		animation = happiness
 	}
-}
-
-bm_932BC_cor_tenebrarum = {
-	start_date = 258.4.4
-	is_playable = yes
-	group = bm_group_258
-
-	weight = { value = 100 }
-
-	# New Characters Needed
 }

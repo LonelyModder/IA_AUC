@@ -16,6 +16,18 @@
 	holding = none
 }
 
+1591 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
+1592 = {		
+	culture = baranis
+	religion = west_african_pagan
+	holding = none
+}
+
 2653 = {		
 	culture = baranis
 	religion = west_african_pagan

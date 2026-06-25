@@ -1,576 +1,564 @@
 ﻿1581 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1582 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1583 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1584 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1585 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1586 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1587 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1588 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1589 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1590 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
-}
-
-1591 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = tribal_holding
-}
-
-1592 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1593 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1594 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1595 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1596 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1597 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1598 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1599 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1600 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1601 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1602 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1603 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 
 1604 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1605 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1606 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1607 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1608 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1609 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1610 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1611 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1612 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1613 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1614 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1615 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1616 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1617 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1618 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1619 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1620 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1626 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1627 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1628 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1629 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1630 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1631 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1632 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1633 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1634 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1635 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1636 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1637 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1638 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1639 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1640 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1641 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1642 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1643 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1644 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1645 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1646 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1647 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1648 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1649 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1651 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1652 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1653 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1654 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1655 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1656 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1657 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1658 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1659 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1660 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1661 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1662 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1663 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1664 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1665 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1666 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1667 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1668 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1669 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1670 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1671 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1672 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1673 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1674 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1675 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1676 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1677 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1678 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1679 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1680 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1681 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 1682 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = tribal_holding
+	holding = none
 }
