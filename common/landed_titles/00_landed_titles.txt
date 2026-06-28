@@ -1488,6 +1488,30 @@ e_easternrome = {
 	
 	capital = c_byzantium # Byzantium
 	
+	k_dardania = {
+		color = { 85 48 181 }
+		
+		capital = c_viminacium # Viminacium
+		
+		d_triballia = {
+			color = { 85 48 181 }
+			
+			capital = c_viminacium # Viminacium
+			
+			c_viminacium = {
+				color = { 85 48 181 }
+			
+				b_viminacium_1511 = {
+					color = { 85 48 181 }
+					province = 1511
+				}
+			
+			}
+		
+		}
+	
+	}
+	
 	k_moesia = {
 		color = { 85 99 196 }
 		

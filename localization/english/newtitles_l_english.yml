@@ -33,6 +33,7 @@
  k_bithynia:0 "Bithynia"
  k_thracae:0 "Thrace"
  k_moesia:0 "Moesia"
+ k_dardania:0 "Dardania"
  # Duchies
  d_latium:0 "Latium"
  d_etruria:0 "Etruria"
@@ -171,7 +172,9 @@
  d_istros:0 "Istros"
  d_europa:0 "Europa"
  d_rhodope:0 "Rhodope"
+ d_triballia:0 "Triballia"
  # Couties
+ c_viminacium:0 "Viminacium"
  c_ciconia:0 "Ciconia"
  c_sapaea:0 "Sapaea"
  c_abdera:0 "Abdera"
