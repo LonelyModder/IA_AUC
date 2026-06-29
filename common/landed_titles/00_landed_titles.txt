@@ -1638,6 +1638,46 @@ e_easternrome = {
 				
 			}
 			
+			c_larae = {
+				color = { 127 48 89 }
+				
+				b_larae_1582 = {
+					color = { 127 48 89 }
+					province = 1582
+				}
+				
+			}
+			
+			c_stymphiri = {
+				color = { 169 51 217 }
+				
+				b_stymphiri_1583 = {
+					color = { 169 51 217 }
+					province = 1583
+				}
+				
+			}
+			
+			c_aletri = {
+				color = { 1 54 90 }
+				
+				b_aletri_1584 = {
+					color = { 1 54 90 }
+					province = 1584
+				}
+
+				b_epidenion_1585 = {
+					color = { 43 57 218 }
+					province = 1585
+				}
+
+				b_kardzhali_1588 = {
+					color = { 169 66 92 }
+					province = 1588
+				}
+				
+			}
+			
 			c_ciconia = {
 				color = { 127 108 99 }
 				
@@ -5717,6 +5757,414 @@ e_easternrome = {
 				b_phila_1248 = {
 					color = { 169 111 22 }
 					province = 1248
+				}
+				
+			}
+			
+		}
+		
+		d_peonia = {
+			color = { 127 165 194 }
+			
+			capital = c_stobi # Stobi
+			
+			c_stobi = {
+				color = { 127 165 194 }
+				
+				b_stobi_1337 = {
+					color = { 127 165 194 }
+					province = 1337
+				}
+				
+				b_syrylos_1336 = {
+					color = { 85 162 66 }
+					province = 1336
+				}
+				
+				b_leontegea_1304 = {
+					color = { 1 66 50 }
+					province = 1304
+				}
+				
+			}
+			
+			c_didantium = {
+				color = { 127 195 199 }
+				
+				b_didantium_1347 = {
+					color = { 127 195 199 }
+					province = 1347
+				}
+
+				b_messini_1348 = {
+					color = { 169 198 72 }
+					province = 1348
+				}
+
+				b_naxemita_1339 = {
+					color = { 1 171 195 }
+					province = 1339
+				}
+				
+			}
+			
+			c_styberra = {
+				color = { 43 51 83 }
+				
+				b_styberra_1370 = {
+					color = { 43 51 83 }
+					province = 1370
+				}
+
+				b_lynkestis_1369 = {
+					color = { 1 48 210 }
+					province = 1369
+				}
+
+				b_theoditake_1373 = {
+					color = { 169 60 212 }
+					province = 1373
+				}
+
+				b_iteion_1374 = {
+					color = { 1 63 85 }
+					province = 1374
+				}
+				
+			}
+			
+			c_amphylos = {
+				color = { 85 69 86 }
+				
+				b_amphylos_1376 = {
+					color = { 85 69 86 }
+					province = 1376
+				}
+
+				b_tomopetri_1346 = {
+					color = { 85 192 71 }
+					province = 1346
+				}
+
+				b_sicela_1379 = {
+					color = { 1 78 215 }
+					province = 1379
+				}
+				
+			}
+			
+			c_aspetri = {
+				color = { 1 156 65 }
+				
+				b_aspetri_1334 = {
+					color = { 1 156 65 }
+					province = 1334
+				}
+
+				b_syryrian_1335 = {
+					color = { 43 159 193 }
+					province = 1335
+				}
+				
+			}
+			
+		}
+		
+		d_brygia = {
+			color = { 85 57 176 }
+			
+			capital = c_therma # Therma
+			
+			c_therma = {
+				color = { 85 57 176 }
+				
+				b_therma_1301 = {
+					color = { 85 57 176 }
+					province = 1301
+				}
+
+				b_aineia_1306 = {
+					color = { 85 72 51 }
+					province = 1306
+				}
+				
+			}
+			
+			c_mende = {
+				color = { 127 75 179 }
+				
+				b_mende_1307 = {
+					color = { 127 75 179 }
+					province = 1307
+				}
+
+				b_torone_1309 = {
+					color = { 1 81 180 }
+					province = 1309
+				}
+				
+			}
+			
+			c_akte = {
+				color = { 43 84 53 }
+				
+				b_akte_1310 = {
+					color = { 43 84 53 }
+					province = 1310
+				}
+				
+			}
+			
+			c_argilos = {
+				color = { 169 93 182 }
+				
+				b_argilos_1313 = {
+					color = { 169 93 182 }
+					province = 1313
+				}
+				
+				b_naupebes_1311 = {
+					color = { 85 87 181 }
+					province = 1311
+				}
+
+				b_selamum_1312 = {
+					color = { 127 90 54 }
+					province = 1312
+				}
+				
+				b_berge_1308 = {
+					color = { 169 78 52 }
+					province = 1308
+				}
+
+			}
+			
+			c_perilene = {
+				color = { 43 69 178 }
+				
+				b_parilene_1305 = {
+					color = { 43 69 178 }
+					province = 1305
+				}
+				
+				b_cherakoma_1302 = {
+					color = { 127 60 49 }
+					province = 1302
+				}
+
+				b_juktoinon_1303 = {
+					color = { 169 63 177 }
+					province = 1303
+				}
+				
+			}
+			
+		}
+		
+		d_strymon = {
+			color = { 43 99 183 }
+			
+			capital = c_amphipolis # Amphipolis
+			
+			c_amphipolis = {
+				color = { 43 99 183 }
+				
+				b_amphipolis_1315 = {
+					color = { 43 99 183 }
+					province = 1315
+				}
+				
+			}
+			
+			c_philippi = {
+				color = { 169 123 187 }
+				
+				b_philippi_1323 = {
+					color = { 169 123 187 }
+					province = 1323
+				}
+
+				b_lebethra_1316 = {
+					color = { 85 102 56 }
+					province = 1316
+				}
+				
+			}
+			
+			c_laramum = {
+				color = { 85 177 196 }
+				
+				b_laramum_1341 = {
+					color = { 85 177 196 }
+					province = 1341
+				}
+
+				b_byziae_1342 = {
+					color = { 127 180 69 }
+					province = 1342
+				}
+				
+				b_stagysthenes_1317 = {
+					color = { 127 105 184 }
+					province = 1317
+				}
+
+				b_iolceum_1318 = {
+					color = { 169 108 57 }
+					province = 1318
+				}
+				
+			}
+			
+			c_thasos = {
+				color = { 1 96 55 }
+				
+				b_thasos_1314 = {
+					color = { 1 96 55 }
+					province = 1314
+				}
+				
+			}
+			
+			c_oliliki = {
+				color = { 85 117 186 }
+				
+				b_oliliki_1321 = {
+					color = { 85 117 186 }
+					province = 1321
+				}
+
+				b_imbregea_1322 = {
+					color = { 127 120 59 }
+					province = 1322
+				}
+				
+			}
+			
+			c_sintike = {
+				color = { 1 111 185 }
+				
+				b_sintike_1319 = {
+					color = { 1 111 185 }
+					province = 1319
+				}
+
+				b_serrae_1320 = {
+					color = { 43 114 58 }
+					province = 1320
+				}
+				
+			}
+			
+			c_heira = {
+				color = { 169 153 192 }
+				
+				b_heira_1333 = {
+					color = { 169 153 192 }
+					province = 1333
+				}
+
+				b_peirioch_1331 = {
+					color = { 85 147 191 }
+					province = 1331
+				}
+				
+			}
+			
+			c_leprilene = {
+				color = { 169 138 62 }
+				
+				b_leprilene_1328 = {
+					color = { 169 138 62 }
+					province = 1328
+				}
+
+				b_cythissos_1327 = {
+					color = { 127 135 189 }
+					province = 1327
+				}
+
+				b_sozaizi_1332 = {
+					color = { 127 150 64 }
+					province = 1332
+				}
+				
+			}
+			
+			c_aphenia = {
+				color = { 85 132 61 }
+				
+				b_aphenia_1326 = {
+					color = { 85 132 61 }
+					province = 1326
+				}
+				
+				b_bhrytastiraki_1324 = {
+					color = { 1 126 60 }
+					province = 1324
+				}
+				
+				b_borio_1325 = {
+					color = { 43 129 188 }
+					province = 1325
+				}
+				
+			}
+			
+		}
+		
+		d_bisalta = {
+			color = { 169 75 87 }
+			
+			capital = c_bisalta # Bisalta
+			
+			c_bisalta = {
+				color = { 169 75 87 }
+				
+				b_boraikastro_1378 = {
+					color = { 169 75 87 }
+					province = 1378
+				}
+
+				b_cebrai_1377 = {
+					color = { 127 72 214 }
+					province = 1377
+				}
+
+				b_stename_1375 = {
+					color = { 43 66 213 }
+					province = 1375
+				}
+
+				b_hemiene_1368 = {
+					color = { 169 45 82 }
+					province = 1368
+				}
+				
+			}
+			
+			c_brygia = {
+				color = { 127 57 84 }
+				
+				b_naucrousa_1372 = {
+					color = { 127 57 84 }
+					province = 1372
+				}
+
+				b_thebeion_1371 = {
+					color = { 85 54 211 }
+					province = 1371
+				}
+
+				b_helliri_1351 = {
+					color = { 85 207 201 }
+					province = 1351
+				}
+				
+				b_gortesia_1352 = {
+					color = { 127 210 74 }
+					province = 1352
 				}
 				
 			}
