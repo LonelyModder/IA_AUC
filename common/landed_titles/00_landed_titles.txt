@@ -1571,6 +1571,21 @@ e_easternrome = {
 			
 			}
 			
+			c_chamila = {
+				color = { 43 117 128 }
+				
+				b_chamila_1605 = {
+					color = { 43 117 128 }
+					province = 1605
+				}
+
+				b_poseidippia_1606 = {
+					color = { 85 120 1 }
+					province = 1606
+				}
+				
+			}
+			
 			c_cyreos = {
 				color = { 169 156 7 }
 				
@@ -5757,6 +5772,138 @@ e_easternrome = {
 				b_phila_1248 = {
 					color = { 169 111 22 }
 					province = 1248
+				}
+				
+			}
+			
+		}
+		
+		d_enchelea = {
+			color = { 127 27 79 }
+			
+			capital = c_apollonia # Apollonia
+			
+			c_apollonia = {
+				color = { 127 27 79 }
+				
+				b_appolonia_1362 = {
+					color = { 127 27 79 }
+					province = 1362
+				}
+				
+			}
+			
+			c_epidamnos = {
+				color = { 127 42 209 }
+				
+				b_nicera_1367 = {
+					color = { 127 42 209 }
+					province = 1367
+				}
+				
+			}
+			
+			c_byllis = {
+				color = { 85 24 206 }
+				
+				b_byllis_1361 = {
+					color = { 85 24 206 }
+					province = 1361
+				}
+
+			}
+			
+			c_achesmos = {
+				color = { 43 21 78 }
+				
+				b_achesmos_1360 = {
+					color = { 43 21 78 }
+					province = 1360
+				}
+
+				b_prousikon_1358 = {
+					color = { 169 15 77 }
+					province = 1358
+				}
+				
+			}
+			
+			c_aigene = {
+				color = { 169 0 202 }
+				
+				b_aigene_1353 = {
+					color = { 169 0 202 }
+					province = 1353
+				}
+
+				b_iaseselis_1345 = {
+					color = { 43 189 198 }
+					province = 1345
+				}
+				
+			}
+			
+			c_lapithila = {
+				color = { 1 3 75 }
+				
+				b_lapithila_1354 = {
+					color = { 1 3 75 }
+					province = 1354
+				}
+
+				b_zanclactus_1344 = {
+					color = { 1 186 70 }
+					province = 1344
+				}
+				
+			}
+			
+			c_assyma = {
+				color = { 43 6 203 }
+				
+				b_assyma_1355 = {
+					color = { 43 6 203 }
+					province = 1355
+				}
+
+				b_lapithontos_1356 = {
+					color = { 85 9 76 }
+					province = 1356
+				}
+
+				b_kasmenomenus_1357 = {
+					color = { 127 12 204 }
+					province = 1357
+				}
+				
+			}
+			
+			c_dyrrachium = {
+				color = { 43 36 208 }
+				
+				b_dyrrachium_1365 = {
+					color = { 43 36 208 }
+					province = 1365
+				}
+
+				b_orathon_1364 = {
+					color = { 1 33 80 }
+					province = 1364
+				}
+
+			}
+			
+			c_oenetri = {
+				color = { 43 36 208 }
+				
+				b_oenetri_1363 = {
+					color = { 169 30 207 }
+					province = 1363
+				}
+
+				b_itias_1366 = {
+					color = { 85 39 81 }
+					province = 1366
 				}
 				
 			}
