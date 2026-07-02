@@ -1489,9 +1489,36 @@ e_easternrome = {
 	capital = c_byzantium # Byzantium
 	
 	k_dardania = {
-		color = { 85 48 181 }
+		color = { 127 81 59 }
 		
 		capital = c_viminacium # Viminacium
+		
+		d_caviia = {
+			color = { 127 9 139 }
+			
+			capital = c_lissus # Lissus
+			
+			c_lissus = {
+				color = { 127 9 139 }
+				
+				b_lissus_1427 = {
+					color = { 127 9 139 }
+					province = 1427
+				}
+
+				b_decicea_1426 = {
+					color = { 85 6 11 }
+					province = 1426
+				}
+
+				b_kamaramnus_1429 = {
+					color = { 1 15 140 }
+					province = 1429
+				}
+				
+			}
+			
+		}
 		
 		d_triballia = {
 			color = { 85 48 181 }
@@ -1505,7 +1532,47 @@ e_easternrome = {
 					color = { 85 48 181 }
 					province = 1511
 				}
+				
+				b_sklavous_1517 = {
+					color = { 127 66 184 }
+					province = 1517
+				}
+
+				b_tinth_1518 = {
+					color = { 169 69 57 }
+					province = 1518
+				}
+
+				b_massacuse_1519 = {
+					color = { 1 72 185 }
+					province = 1519
+				}
+
+				b_hermolis_1512 = {
+					color = { 127 51 54 }
+					province = 1512
+				}
+
+				b_kepacuse_1513 = {
+					color = { 169 54 182 }
+					province = 1513
+				}
 			
+			}
+			
+			c_horreum = {
+				color = { 127 81 59 }
+				
+				b_horreum_1522 = {
+					color = { 127 81 59 }
+					province = 1522
+				}
+
+				b_thassippia_1523 = {
+					color = { 169 84 187 }
+					province = 1523
+				}
+				
 			}
 		
 		}
@@ -1557,6 +1624,136 @@ e_easternrome = {
 				
 			}
 			
+			c_ptalentium = {
+				color = { 43 51 188 }
+				
+				b_ptelantium_1725 = {
+					color = { 43 51 188 }
+					province = 1725
+				}
+
+				b_idanos_1728 = {
+					color = { 169 60 62 }
+					province = 1728
+				}
+				
+				b_itheneia_1724 = {
+					color = { 1 48 60 }
+					province = 1724
+				}
+				
+			}
+			
+			c_himylos = {
+				color = { 43 51 188 }
+				
+				b_himylos_1729 = {
+					color = { 1 63 190 }
+					province = 1729
+				}
+
+				b_leibonesos_1730 = {
+					color = { 43 66 63 }
+					province = 1730
+				}
+				
+			}
+			
+			c_nicopolis = {
+				color = { 169 0 52 }
+				
+				b_nicopolis_1708 = {
+					color = { 169 0 52 }
+					province = 1708
+				}
+
+				b_lamerae_1696 = {
+					color = { 85 177 46 }
+					province = 1696
+				}
+
+				b_cyrosia_1697 = {
+					color = { 127 180 174 }
+					province = 1697
+				}
+
+				b_hieriopolis_1698 = {
+					color = { 169 183 47 }
+					province = 1698
+				}
+				
+			}
+			
+			c_poseidenes = {
+				color = { 1 18 55 }
+				
+				b_plateira_1714 = {
+					color = { 1 18 55 }
+					province = 1714
+				}
+
+				b_poseidenes_1715 = {
+					color = { 43 21 183 }
+					province = 1715
+				}
+
+				b_mytethra_1710 = {
+					color = { 43 6 53 }
+					province = 1710
+				}
+
+				b_tylis_1699 = {
+					color = { 1 186 175 }
+					province = 1699
+				}
+				
+			}
+			
+			c_abasa = {
+				color = { 127 57 189 }
+				
+				b_abasa_1727 = {
+					color = { 127 57 189 }
+					province = 1727
+				}
+				
+				b_itelea_1726 = {
+					color = { 85 54 61 }
+					province = 1726
+				}
+
+				b_ephystus_1723 = {
+					color = { 169 45 187 }
+					province = 1723
+				}
+
+				b_epidatrea_1712 = {
+					color = { 127 12 54 }
+					province = 1712
+				}
+
+				b_messontos_1713 = {
+					color = { 169 15 182 }
+					province = 1713
+				}
+				
+			}
+			
+			c_tripenion = {
+				color = { 85 9 181 }
+				
+				b_tripenion_1711 = {
+					color = { 85 9 181 }
+					province = 1711
+				}
+
+				b_lapitheselis_1709 = {
+					color = { 1 3 180 }
+					province = 1709
+				}
+				
+			}
+			
 			c_durostorum = {
 				color = { 127 72 64 }
 				
@@ -1576,6 +1773,118 @@ e_easternrome = {
 				}
 				
 			}	
+			
+		}
+		
+		d_dimensia = {
+			color = { 1 201 50 }
+			
+			capital = c_novae # Novae
+			
+			c_novae = {
+				color = { 1 201 50 }
+				
+				b_novae_1704 = {
+					color = { 1 201 50 }
+					province = 1704
+				}
+
+				b_arsicapaeum_1703 = {
+					color = { 169 198 177 }
+					province = 1703
+				}
+
+				b_messeira_1701 = {
+					color = { 85 192 176 }
+					province = 1701
+				}
+
+				b_agrinurion_1700 = {
+					color = { 43 189 48 }
+					province = 1700
+				}
+
+				b_decesos_1690 = {
+					color = { 43 159 43 }
+					province = 1690
+				}
+				
+			}
+			
+			c_pandina = {
+				color = { 1 156 170 }
+				
+				b_pandina_1689 = {
+					color = { 1 156 170 }
+					province = 1689
+				}
+
+				b_neapocaea_1688 = {
+					color = { 169 153 42 }
+					province = 1688
+				}
+
+				b_platia_1685 = {
+					color = { 43 144 168 }
+					province = 1685
+				}
+
+				b_mononion_1686 = {
+					color = { 85 147 41 }
+					province = 1686
+				}
+				
+			}
+			
+			c_chersipolis = {
+				color = { 169 138 167 }
+				
+				b_chersipolis_1683 = {
+					color = { 169 138 167 }
+					province = 1683
+				}
+
+				b_potetus_1684 = {
+					color = { 1 141 40 }
+					province = 1684
+				}
+
+				b_psychrake_1687 = {
+					color = { 127 150 169 }
+					province = 1687
+				}
+				
+			}
+			
+			c_phanaki = {
+				color = { 127 195 49 }
+				
+				b_phanaki_1702 = {
+					color = { 127 195 49 }
+					province = 1702
+				}
+
+				b_empillai_1707 = {
+					color = { 127 210 179 }
+					province = 1707
+				}
+				
+			}
+			
+			c_dissos = {
+				color = { 85 207 51 }
+				
+				b_dissos_1706 = {
+					color = { 85 207 51 }
+					province = 1706
+				}
+				
+				b_aigezus_1705 = {
+					color = { 43 204 178 }
+					province = 1705
+				}
+
+			}
 			
 		}
 		
@@ -1906,6 +2215,11 @@ e_easternrome = {
 					province = 1662
 				}
 
+			}
+			
+			c_nirerna = {
+				color = { 1 99 225 }
+				
 				b_nirerna_1599 = {
 					color = { 1 99 225 }
 					province = 1599
