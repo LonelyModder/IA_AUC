@@ -1489,9 +1489,520 @@ e_easternrome = {
 	capital = c_byzantium # Byzantium
 	
 	k_dardania = {
-		color = { 127 81 59 }
+		color = { 169 177 240 }
 		
-		capital = c_viminacium # Viminacium
+		capital = c_scupi # Scupi
+		
+		d_dardania = {
+			color = { 169 177 240 }
+			
+			capital = c_scupi # Scupi
+			
+			c_scupi = {
+				color = { 169 177 240 }
+				
+				b_scupi_1483 = {
+					color = { 169 177 240 }
+					province = 1483
+				}
+
+				b_cyrontum_1484 = {
+					color = { 1 180 240 }
+					province = 1484
+				}
+
+				b_pantarnae_1486 = {
+					color = { 85 186 240 }
+					province = 1486
+				}
+
+				b_eubymna_1487 = {
+					color = { 127 189 240 }
+					province = 1487
+				}
+				
+			}
+			
+			c_pyrgoupoli = {
+				color = { 43 15 248 }
+				
+				b_pyrgoupoli_1500 = {
+					color = { 43 15 248 }
+					province = 1500
+				}
+
+				b_nymphofa_1504 = {
+					color = { 1 27 50 }
+					province = 1504
+				}
+				
+				b_pavlelis_1469 = {
+					color = { 1 135 160 }
+					province = 1469
+				}
+				
+			}
+			
+			c_pavleze = {
+				color = { 1 120 30 }
+				
+				b_pavleze_1464 = {
+					color = { 1 120 30 }
+					province = 1464
+				}
+
+				b_tylissake_1463 = {
+					color = { 44 207 198 }
+					province = 1463
+				}
+
+				b_kamarokampos_1461 = {
+					color = { 170 201 197 }
+					province = 1461
+				}
+				
+			}
+			
+			c_dardanorum = {
+				color = { 169 224 177 }
+				
+				b_dardanorum_1503 = {
+					color = { 169 224 177 }
+					province = 1503
+				}
+
+				b_naucrylos_1501 = {
+					color = { 85 218 176 }
+					province = 1501
+				}
+				
+				b_byllapeze_1505 = {
+					color = { 195 57 57 }
+					province = 1505
+				}
+
+				b_petsera_1506 = {
+					color = { 85 33 51 }
+					province = 1506
+				}
+
+				b_kourona_1507 = {
+					color = { 127 36 179 }
+					province = 1507
+				}
+
+				b_vandenis_1508 = {
+					color = { 169 39 52 }
+					province = 1508
+				}
+
+				b_sozanais_1509 = {
+					color = { 1 42 180 }
+					province = 1509
+				}
+				
+			}
+			
+			c_rhithalos = {
+				color = { 127 221 249 }
+				
+				b_rhithalos_1502 = {
+					color = { 127 221 249 }
+					province = 1502
+				}
+
+				b_seloricus_1489 = {
+					color = { 1 195 240 }
+					province = 1489
+				}
+				
+			}
+			
+			c_ulpiana = {
+				color = { 169 192 240 }
+				
+				b_ulpiana_1488 = {
+					color = { 169 192 240 }
+					province = 1488
+				}
+
+				b_phliidaea_1481 = {
+					color = { 85 171 166 }
+					province = 1481
+				}
+				
+			}
+			
+			c_chaphos = {
+				color = { 127 174 239 }
+				
+				b_chaphos_1482 = {
+					color = { 127 174 239 }
+					province = 1482
+				}
+
+				b_hemisos_1470 = {
+					color = { 43 138 33 }
+					province = 1470
+				}
+				
+			}
+		
+		}
+		
+		d_limus = {
+			color = { 85 141 161 }
+			
+			capital = c_maluesa # Maluesa
+			
+			c_maluesa = {
+				color = { 85 141 161 }
+				
+				b_maluesa_1471 = {
+					color = { 85 141 161 }
+					province = 1471
+				}
+
+				b_philia_1460 = {
+					color = { 86 180 66 }
+					province = 1460
+				}
+
+				b_platamea_1458 = {
+					color = { 2 174 65 }
+					province = 1458
+				}
+
+				b_naxorus_1454 = {
+					color = { 44 162 63 }
+					province = 1454
+				}
+
+				b_dimylos_1459 = {
+					color = { 44 177 193 }
+					province = 1459
+				}
+				
+			}
+			
+			c_didateia = {
+				color = { 43 153 163 }
+				
+				b_didateia_1475 = {
+					color = { 43 153 163 }
+					province = 1475
+				}
+
+				b_lapitharae_1474 = {
+					color = { 1 150 35 }
+					province = 1474
+				}
+
+				b_ithopetri_1476 = {
+					color = { 85 156 36 }
+					province = 1476
+				}
+
+				b_myrauros_1477 = {
+					color = { 1 1 221 }
+					province = 1477
+				}
+				
+			}
+			
+			c_eubena = {
+				color = { 127 144 34 }
+				
+				b_eubena_1472 = {
+					color = { 127 144 34 }
+					province = 1472
+				}
+
+				b_decopolis_1473 = {
+					color = { 169 147 162 }
+					province = 1473
+				}
+
+				b_abens_1478 = {
+					color = { 1 1 240 }
+					province = 1478
+				}
+
+				b_epidens_1479 = {
+					color = { 1 165 245 }
+					province = 1479
+				}
+
+				b_prienonion_1480 = {
+					color = { 43 50 200 }
+					province = 1480
+				}
+
+				b_posodosia_1490 = {
+					color = { 43 198 240 }
+					province = 1490
+				}
+				
+			}
+			
+			c_hellusae = {
+				color = { 127 177 4 }
+				
+				b_hellussae_1468 = {
+					color = { 127 177 4 }
+					province = 1468
+				}
+				
+				b_ptelauros_1466 = {
+					color = { 85 126 31 }
+					province = 1466
+				}
+
+				b_kameirina_1467 = {
+					color = { 127 129 159 }
+					province = 1467
+				}
+				
+				b_pylynthus_1465 = {
+					color = { 43 123 158 }
+					province = 1465
+				}
+
+			}
+			
+			c_sybidnae = {
+				color = { 127 54 19 }
+				
+				b_sybidnae_1442 = {
+					color = { 127 54 19 }
+					province = 1442
+				}
+
+				b_tamnus_1443 = {
+					color = { 169 57 147 }
+					province = 1443
+				}
+
+				b_zacystus_1444 = {
+					color = { 1 60 20 }
+					province = 1444
+				}
+				
+			}
+			
+			c_pharinia = {
+				color = { 86 150 61 }
+				
+				b_pharinia_1450 = {
+					color = { 86 150 61 }
+					province = 1450
+				}
+
+				b_tylorus_1445 = {
+					color = { 86 135 186 }
+					province = 1445
+				}
+
+				b_sklavoli_1455 = {
+					color = { 86 165 191 }
+					province = 1455
+				}
+
+				b_achussae_1449 = {
+					color = { 44 147 188 }
+					province = 1449
+				}
+				
+			}
+			
+			c_syrapezus = {
+				color = { 2 159 190 }
+				
+				b_syrapezus_1453 = {
+					color = { 2 159 190 }
+					province = 1453
+				}
+				
+				b_alolis_1451 = {
+					color = { 128 153 189 }
+					province = 1451
+				}
+
+				b_chamekion_1452 = {
+					color = { 170 156 62 }
+					province = 1452
+				}
+
+			}
+			
+			c_petsonemus = {
+				color = { 128 168 64 }
+				
+				b_petsomenus_1456 = {
+					color = { 128 168 64 }
+					province = 1456
+				}
+
+				b_iaseron_1457 = {
+					color = { 0 168 70 }
+					province = 1457
+				}
+				
+				b_seliri_1448 = {
+					color = { 2 144 60 }
+					province = 1448
+				}
+				
+			}
+			
+		}
+		
+		d_scardus = {
+			color = { 85 123 66 }
+			
+			capital = c_pautalia # Pautalia
+			
+			c_pautalia = {
+				color = { 85 123 66 }
+				
+				b_pautalia_1536 = {
+					color = { 85 123 66 }
+					province = 1536
+				}
+
+				b_tomagas_1537 = {
+					color = { 127 126 194 }
+					province = 1537
+				}
+
+				b_sinopara_1538 = {
+					color = { 169 129 67 }
+					province = 1538
+				}
+
+				b_eresydos_1539 = {
+					color = { 1 132 195 }
+					province = 1539
+				}
+				
+			}
+			
+			c_lindone = {
+				color = { 43 183 240 }
+				
+				b_lindone_1485 = {
+					color = { 43 183 240 }
+					province = 1485
+				}
+				
+			}
+			
+			c_actenion = {
+				color = { 43 150 198 }
+				
+				b_actenion_1545 = {
+					color = { 43 150 198 }
+					province = 1545
+				}
+
+				b_knossone_1544 = {
+					color = { 1 147 70 }
+					province = 1544
+				}
+
+				b_trymna_1546 = {
+					color = { 85 153 71 }
+					province = 1546
+				}
+
+				b_potyros_1547 = {
+					color = { 127 156 199 }
+					province = 1547
+				}
+				
+			}
+			
+			c_hemaphos = {
+				color = { 43 195 78 }
+				
+				b_hemaphos_1560 = {
+					color = { 43 195 78 }
+					province = 1560
+				}
+
+				b_pavlesus_1559 = {
+					color = { 1 192 205 }
+					province = 1559
+				}
+
+				b_kamaromnos_1552 = {
+					color = { 127 171 74 }
+					province = 1552
+				}
+				
+			}
+			
+			c_thomurion = {
+				color = { 127 141 69 }
+				
+				b_tomurion_1542 = {
+					color = { 127 141 69 }
+					province = 1542
+				}
+				
+				b_phocaris_1541 = {
+					color = { 85 138 196 }
+					province = 1541
+				}
+
+			}
+			
+			c_naissus = {
+				color = { 85 108 191 }
+				
+				b_naissus_1531 = {
+					color = { 85 108 191 }
+					province = 1531
+				}
+
+				b_gangrenus_1532 = {
+					color = { 127 111 64 }
+					province = 1532
+				}
+
+				b_aegetros_1510 = {
+					color = { 43 45 53 }
+					province = 1510
+				}
+
+				b_eretrenes_1543 = {
+					color = { 169 144 197 }
+					province = 1543
+				}
+				
+			}
+			
+			c_magnamum = {
+				color = { 127 96 189 }
+				
+				b_magnamum_1527 = {
+					color = { 127 96 189 }
+					province = 1527
+				}
+
+				b_sklaveus_1526 = {
+					color = { 85 93 61 }
+					province = 1526
+				}
+
+				b_mia_1533 = {
+					color = { 169 114 192 }
+					province = 1533
+				}
+				
+			}
+			
+		}
 		
 		d_caviia = {
 			color = { 127 9 139 }
@@ -1514,6 +2025,121 @@ e_easternrome = {
 				b_kamaramnus_1429 = {
 					color = { 1 15 140 }
 					province = 1429
+				}
+				
+			}
+			
+			c_deubiene = {
+				color = { 2 204 70 }
+				
+				b_eubiene_1462 = {
+					color = { 2 204 70 }
+					province = 1462
+				}
+				
+				b_nysalos_1440 = {
+					color = { 43 48 18 }
+					province = 1440
+				}
+
+				b_tylalia_1441 = {
+					color = { 85 51 146 }
+					province = 1441
+				}
+
+				b_theranda_1446 = {
+					color = { 128 138 59 }
+					province = 1446
+				}
+
+				b_abae_1447 = {
+					color = { 170 141 187 }
+					province = 1447
+				}
+				
+			}
+			
+			c_taraca = {
+				color = { 169 42 17 }
+				
+				b_taraca_1438 = {
+					color = { 169 42 17 }
+					province = 1438
+				}
+
+				b_phasateia_1437 = {
+					color = { 127 39 144 }
+					province = 1437
+				}
+
+				b_lindoezen_1439 = {
+					color = { 1 45 145 }
+					province = 1439
+				}
+				
+			}
+			
+			c_empillai = {
+				color = { 43 3 138 }
+				
+				b_empillai_1425 = {
+					color = { 43 3 138 }
+					province = 1425
+				}
+				
+			}
+			
+			c_scodra = {
+				color = { 169 12 12 }
+				
+				b_scodra_1428 = {
+					color = { 169 12 12 }
+					province = 1428
+				}
+
+				b_olcinium_1430 = {
+					color = { 43 18 13 }
+					province = 1430
+				}
+
+				b_lamicus_1435 = {
+					color = { 43 33 143 }
+					province = 1435
+				}
+				
+			}
+			
+			c_agruvium = {
+				color = { 85 21 141 }
+				
+				b_agruvium_1431 = {
+					color = { 85 21 141 }
+					province = 1431
+				}
+				
+			}
+			
+			c_dolcea = {
+				color = { 169 27 142 }
+				
+				b_dolcea_1433 = {
+					color = { 169 27 142 }
+					province = 1433
+				}
+
+				b_ankagoria_1432 = {
+					color = { 127 24 14 }
+					province = 1432
+				}
+
+				b_philena_1434 = {
+					color = { 1 30 15 }
+					province = 1434
+				}
+
+				b_nymphekion_1436 = {
+					color = { 85 36 16 }
+					province = 1436
 				}
 				
 			}
@@ -1558,6 +2184,196 @@ e_easternrome = {
 					province = 1513
 				}
 			
+			}
+			
+			c_delactus = {
+				color = { 169 209 247 }
+				
+				b_delactus_1498 = {
+					color = { 169 209 247 }
+					province = 1498
+				}
+
+				b_rhodenimahos_1497 = {
+					color = { 127 239 240 }
+					province = 1497
+				}
+
+				b_vasarnassus_1499 = {
+					color = { 1 212 175 }
+					province = 1499
+				}
+				
+				b_chalcontos_1491 = {
+					color = { 85 201 240 }
+					province = 1491
+				}
+				
+			}
+			
+			c_melta = {
+				color = { 169 174 202 }
+				
+				b_melta_1553 = {
+					color = { 169 174 202 }
+					province = 1553
+				}
+
+				b_nireidonia_1554 = {
+					color = { 1 177 75 }
+					province = 1554
+				}
+
+				b_nysollonia_1555 = {
+					color = { 43 180 203 }
+					province = 1555
+				}
+				
+				b_erythretta_1548 = {
+					color = { 169 159 72 }
+					province = 1548
+				}
+
+				b_phaisteum_1549 = {
+					color = { 1 162 200 }
+					province = 1549
+				}
+
+				b_kydetri_1550 = {
+					color = { 43 165 73 }
+					province = 1550
+				}
+
+				b_myrmeidonia_1551 = {
+					color = { 85 168 201 }
+					province = 1551
+				}
+				
+			}
+			
+			c_odescus = {
+				color = { 127 186 204 }
+				
+				b_odescus_1557 = {
+					color = { 127 186 204 }
+					province = 1557
+				}
+
+				b_askasus_1556 = {
+					color = { 85 183 76 }
+					province = 1556
+				}
+
+				b_abeneia_1558 = {
+					color = { 169 189 77 }
+					province = 1558
+				}
+				
+			}
+			
+			c_athina = {
+				color = { 85 240 240 }
+				
+				b_athina_1496 = {
+					color = { 85 240 240 }
+					province = 1496
+				}
+				
+				b_cheion_1492 = {
+					color = { 127 204 240 }
+					province = 1492
+				}
+
+				b_thermerikon_1493 = {
+					color = { 169 207 240 }
+					province = 1493
+				}
+
+				b_netus_1494 = {
+					color = { 1 210 240 }
+					province = 1494
+				}
+
+				b_kasmosthena_1495 = {
+					color = { 43 240 173 }
+					province = 1495
+				}
+				
+			}
+			
+			c_ulpia = {
+				color = { 43 105 63 }
+				
+				b_ratiaria_1530 = {
+					color = { 43 105 63 }
+					province = 1530
+				}
+
+				b_bononia_1528 = {
+					color = { 169 99 62 }
+					province = 1528
+				}
+
+				b_paloezen_1529 = {
+					color = { 1 102 190 }
+					province = 1529
+				}
+
+				b_lepresia_1534 = {
+					color = { 1 117 65 }
+					province = 1534
+				}
+
+				b_pareutherna_1535 = {
+					color = { 43 120 193 }
+					province = 1535
+				}
+				
+			}
+			
+			c_platomenus = {
+				color = { 85 78 186 }
+				
+				b_platomenus_1521 = {
+					color = { 85 78 186 }
+					province = 1521
+				}
+
+				b_epalos_1520 = {
+					color = { 43 75 58 }
+					province = 1520
+				}
+
+				b_tomamis_1524 = {
+					color = { 1 87 60 }
+					province = 1524
+				}
+
+				b_dimontum_1525 = {
+					color = { 43 90 188 }
+					province = 1525
+				}
+				
+			}
+			
+			c_drobeta = {
+				color = { 43 60 183 }
+				
+				b_drobeta_1515 = {
+					color = { 43 60 183 }
+					province = 1515
+				}
+
+				b_karina_1514 = {
+					color = { 1 57 55 }
+					province = 1514
+				}
+
+				b_epinia_1516 = {
+					color = { 85 63 56 }
+					province = 1516
+				}
+				
 			}
 			
 			c_horreum = {
