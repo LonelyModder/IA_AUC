@@ -34,6 +34,24 @@ island_region_cyclades = {
 	}
 }
 
+island_region_skyros = {
+	counties = {
+		c_skyros
+	}
+}
+
+island_region_karpathos = {
+	counties = {
+		c_karpathos
+	}
+}
+
+island_region_rhodes = {
+	counties = {
+		c_rhodes
+	}
+}
+
 island_region_crete = {
 	duchies = {
 		d_ecrete
