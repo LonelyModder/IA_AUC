@@ -34,6 +34,9 @@
  k_thracae:0 "Thrace"
  k_moesia:0 "Moesia"
  k_dardania:0 "Dardania"
+ k_dalmatia:0 "Dalmatia"
+ k_pannoniainferior:0 "Pannonia Inferior"
+ k_pannoniasuperior:0 "Pannonia Superior"
  # Duchies
  d_latium:0 "Latium"
  d_etruria:0 "Etruria"
@@ -186,7 +189,13 @@
  d_dardania:0 "Dardania"
  d_scardus:0 "Scardus"
  d_limus:0 "Limus"
+ d_delmatia:0 "Delmatia"
+ d_eraviscia:0 "Eraviscia"
+ d_segestania:0 "Segestania"
  # Couties
+ c_siscia:0 "Siscia"
+ c_aquincum:0 "Aquincum"
+ c_salona:0 "Salona"
  c_petsonemus;0 "Petsonemus"
  c_syrapezus:0 "Syrapezus"
  c_pharinia:0 "Pharinia"

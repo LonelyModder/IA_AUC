@@ -13988,6 +13988,78 @@ e_westernrome = {
 	
 	capital = c_roma # Roma
 	
+	k_pannoniasuperior = {
+		color = { 42 144 213 }
+		
+		capital = c_siscia # Siscia
+		
+		d_segestania = {
+			color = { 42 144 213 }
+			
+			capital = c_siscia # Siscia
+			
+			c_siscia = {
+				color = { 42 144 213 }
+				
+				b_siscia_862 = {
+					color = { 42 144 213 }
+					province = 862
+				}
+				
+			}
+			
+		}	
+		
+	}
+	
+	k_pannoniainferior = {
+		color = { 42 27 158 }
+		
+		capital = c_aquincum # Aquincum
+		
+		d_eraviscia = {
+			color = { 42 27 158 }
+			
+			capital = c_aquincum # Aquincum
+			
+			c_aquincum = {
+				color = { 42 27 158 }
+				
+				b_aquincum_978 = {
+					color = { 42 27 158 }
+					province = 978
+				}
+				
+			}
+			
+		}	
+		
+	}
+	
+	k_dalmatia = {
+		color = { 42 153 208 }
+		
+		capital = c_salona # salona
+		
+		d_delmatia = {
+			color = { 42 153 208 }
+			
+			capital = c_salona # salona
+			
+			c_salona = {
+				color = { 42 153 208 }
+				
+				b_salona_765 = {
+					color = { 42 153 208 }
+					province = 765
+				}
+				
+			}
+			
+		}	
+		
+	}
+	
 	k_africa = {
 		color = { 129 180 139 }
 		
