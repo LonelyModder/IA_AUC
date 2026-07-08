@@ -14114,6 +14114,26 @@ e_westernrome = {
 				
 			}
 			
+			c_ucia = {
+				color = { 84 183 171 }
+				
+				b_ucia_492 = {
+					color = { 84 183 171 }
+					province = 492
+				}
+				
+			}
+			
+			c_rapinica = {
+				color = { 0 195 10 }
+				
+				b_rapinica_424 = {
+					color = { 0 195 10 }
+					province = 424
+				}
+				
+			}
+			
 			c_prercadonia = {
 				color = { 42 108 223 }
 				
@@ -14234,6 +14254,11 @@ e_westernrome = {
 					province = 429
 				}
 				
+				b_lusia_427 = {
+					color = { 126 204 139 }
+					province = 427
+				}
+				
 			}
 			
 		}
@@ -14311,9 +14336,66 @@ e_westernrome = {
 					province = 498
 				}
 
+			}
+			
+			c_brixia = {
+				color = { 84 168 41 }
+				
+				b_brixia_487 = {
+					color = { 84 168 41 }
+					province = 487
+				}
+
+				b_cicabia_hercula_488 = {
+					color = { 126 171 169 }
+					province = 488
+				}
+
 				b_mornuria_489 = {
 					color = { 168 174 42 }
 					province = 489
+				}
+				
+			}
+			
+		}
+		
+		d_carnia = {
+			color = { 84 75 61 }
+			
+			capital = c_emona # emona
+			
+			c_emona = {
+				color = { 84 75 61 }
+				
+				b_emona_526 = {
+					color = { 84 75 61 }
+					province = 526
+				}
+
+				b_rermenia_525 = {
+					color = { 42 72 188 }
+					province = 525
+				}
+
+				b_leltidia_534 = {
+					color = { 0 99 65 }
+					province = 534
+				}
+				
+			}
+			
+			c_caenia = {
+				color = { 84 105 66 }
+				
+				b_caenia_536 = {
+					color = { 84 105 66 }
+					province = 536
+				}
+
+				b_memuvia_hercula_535 = {
+					color = { 42 102 193 }
+					province = 535
 				}
 				
 			}
@@ -14341,6 +14423,86 @@ e_westernrome = {
 				b_reltebia_407 = {
 					color = { 126 144 129 }
 					province = 407
+				}
+				
+			}
+			
+			c_iepemnium = {
+				color = { 84 171 6 }
+				
+				b_iepemnium_416 = {
+					color = { 84 171 6 }
+					province = 416
+				}
+
+				b_pamadonia_418 = {
+					color = { 168 177 7 }
+					province = 418
+				}
+				
+			}
+			
+			c_renae = {
+				color = { 126 6 14 }
+				
+				b_renae_432 = {
+					color = { 126 6 14 }
+					province = 432
+				}
+
+				b_ratia_435 = {
+					color = { 42 15 143 }
+					province = 435
+				}
+				
+			}
+			
+			c_parma = {
+				color = { 42 87 63 }
+				
+				b_parma_437 = {
+					color = { 42 87 63 }
+					province = 437
+				}
+
+				b_nornane_436 = {
+					color = { 84 18 16 }
+					province = 436
+				}
+
+				b_hares_438 = {
+					color = { 168 24 17 }
+					province = 438
+				}
+
+				b_placentia_440 = {
+					color = { 42 30 18 }
+					province = 440
+				}
+				
+			}
+			
+			c_dertona = {
+				color = { 126 36 19 }
+				
+				b_dertona_442 = {
+					color = { 126 36 19 }
+					province = 442
+				}
+
+				b_mipibia_420 = {
+					color = { 42 183 8 }
+					province = 420
+				}
+
+				b_larmetania_441 = {
+					color = { 84 33 146 }
+					province = 441
+				}
+
+				b_dapobia_439 = {
+					color = { 0 27 145 }
+					province = 439
 				}
 				
 			}
@@ -17806,7 +17968,7 @@ e_westernrome = {
 					province = 315
 				}
 				
-			]
+			}
 			
 			c_alba_longa = {
 				color = { 0 78 55 }
