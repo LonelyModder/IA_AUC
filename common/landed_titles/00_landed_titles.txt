@@ -6389,7 +6389,7 @@ e_easternrome = {
 			
 		}
 		
-		d_mysia = {
+		d_i_mysia = {
 			color = { 2 247 231 }
 			
 			capital = c_pergamon # Pergamon
@@ -6850,7 +6850,7 @@ e_easternrome = {
 			
 		}
 		
-		d_troas = {
+		d_i_troas = {
 			color = { 2 102 195 }
 			
 			capital = c_ilion # Ilion
@@ -7308,7 +7308,7 @@ e_easternrome = {
 			
 		}
 		
-		d_aeolia = {
+		d_i_aeolia = {
 			color = { 44 75 218 }
 			
 			capital = c_cyme # Cyme
@@ -7343,7 +7343,7 @@ e_easternrome = {
 				
 			}
 			
-			c_elaea = {
+			c_i_elaea = {
 				color = { 2 102 197 }
 				
 				b_elea_2660 = {
@@ -7368,7 +7368,7 @@ e_easternrome = {
 
 			}
 			
-			c_lesbos = {
+			c_i_lesbos = {
 				color = { 28 196 225 }
 				
 				b_mytilene_2638 = {
@@ -21348,7 +21348,7 @@ e_westernrome = {
 				}
 			}
 			
-			c_elea = {
+			c_i_elea = {
 				color = { 84 42 141 }
 				
 				b_elea_229 = {

@@ -1,6 +1,6 @@
 ﻿254 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = oscan
+	religion = italic_pagan
 	holding = none
 }
 
@@ -47,8 +47,8 @@
 }
 
 271 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = oscan
+	religion = italic_pagan
 	holding = none
 }
 
@@ -59,8 +59,8 @@
 }
 
 273 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = oscan
+	religion = italic_pagan
 	holding = none
 }
 
@@ -113,8 +113,8 @@
 }
 
 282 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = oscan
+	religion = italic_pagan
 	holding = castle_holding
 }
 
@@ -125,20 +125,20 @@
 }
 
 284 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = oscan
+	religion = italic_pagan
 	holding = none
 }
 
 285 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = oscan
+	religion = italic_pagan
 	holding = tribal_holding
 }
 
 286 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = oscan
+	religion = italic_pagan
 	holding = tribal_holding
 }
 
@@ -155,8 +155,8 @@
 }
 
 289 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = oscan
+	religion = italic_pagan
 	holding = tribal_holding
 }
 
@@ -173,8 +173,8 @@
 }
 
 292 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = oscan
+	religion = italic_pagan
 	holding = tribal_holding
 }
 
@@ -215,20 +215,20 @@
 }
 
 299 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = umbrian
+	religion = italic_pagan
 	holding = castle_holding
 }
 
 300 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = oscan
+	religion = italic_pagan
 	holding = castle_holding
 }
 
 301 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = umbrian
+	religion = italic_pagan
 	holding = castle_holding
 }
 
@@ -245,20 +245,20 @@
 }
 
 304 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = umbrian
+	religion = italic_pagan
 	holding = tribal_holding
 }
 
 305 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = umbrian
+	religion = italic_pagan
 	holding = tribal_holding
 }
 
 306 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = umbrian
+	religion = italic_pagan
 	holding = tribal_holding
 }
 
@@ -275,8 +275,8 @@
 }
 
 309 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = umbrian
+	religion = italic_pagan
 	holding = tribal_holding
 }
 
@@ -293,8 +293,8 @@
 }
 
 312 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = rlatin
+	religion = italic_pagan
 	holding = city_holding
 }
 
@@ -305,14 +305,14 @@
 }
 
 314 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = city_holding
+	culture = rlatin
+	religion = italic_pagan
+	holding = castle_holding
 }
 
 315 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = rlatin
+	religion = italic_pagan
 	holding = city_holding
 }
 
@@ -359,14 +359,14 @@
 }
 
 323 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = picenian
+	religion = italic_pagan
 	holding = tribal_holding
 }
 
 324 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = picenian
+	religion = italic_pagan
 	holding = tribal_holding
 }
 
@@ -377,8 +377,8 @@
 }
 
 326 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = oscan
+	religion = italic_pagan
 	holding = tribal_holding
 }
 
@@ -425,8 +425,8 @@
 }
 
 334 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = umbrian
+	religion = italic_pagan
 	holding = tribal_holding
 }
 
@@ -671,8 +671,8 @@
 }
 
 209 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = oscan
+	religion = italic_pagan
 	holding = tribal_holding
 }
 
@@ -695,8 +695,8 @@
 }
 
 213 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = oscan
+	religion = italic_pagan
 	holding = tribal_holding
 }
 
@@ -713,8 +713,8 @@
 }
 
 216 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = oscan
+	religion = italic_pagan
 	holding = tribal_holding
 }
 
@@ -725,8 +725,8 @@
 }
 
 218 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = oscan
+	religion = italic_pagan
 	holding = tribal_holding
 }
 
@@ -749,8 +749,8 @@
 }
 
 222 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = oscan
+	religion = italic_pagan
 	holding = tribal_holding
 }
 
@@ -767,14 +767,14 @@
 }
 
 225 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = oscan
+	religion = italic_pagan
 	holding = tribal_holding
 }
 
 226 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = oscan
+	religion = italic_pagan
 	holding = castle_holding
 }
 
@@ -791,8 +791,8 @@
 }
 
 229 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = oscan
+	religion = italic_pagan
 	holding = tribal_holding
 }
 
@@ -803,8 +803,8 @@
 }
 
 231 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = oscan
+	religion = italic_pagan
 	holding = tribal_holding
 }
 
@@ -833,8 +833,8 @@
 }
 
 236 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = oscan
+	religion = italic_pagan
 	holding = tribal_holding
 }
 
@@ -935,7 +935,7 @@
 }
 
 253 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = oscan
+	religion = italic_pagan
 	holding = tribal_holding
 }

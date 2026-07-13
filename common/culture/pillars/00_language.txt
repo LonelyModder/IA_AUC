@@ -703,17 +703,53 @@ language_israelite = {
 	color = ashkenazi
 }
 
-language_latin = {
+language_mlatin = {
 	type = language
 	is_shown = {
 		language_is_shown_trigger = {
-			LANGUAGE = language_latin
+			LANGUAGE = language_mlatin
 		}
 	}
 	ai_will_do = {
 		value = 10
 		if = {
-			limit = { has_cultural_pillar = language_latin }
+			limit = { has_cultural_pillar = language_mlatin }
+			multiply = 10
+		}
+	}
+	
+	color = italian
+}
+
+language_oscan = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_oscan
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_oscan }
+			multiply = 10
+		}
+	}
+	
+	color = italian
+}
+
+language_umbrian = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_umbrian
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_umbrian }
 			multiply = 10
 		}
 	}

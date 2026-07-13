@@ -8,15 +8,14 @@
 	traditions = {
 		tradition_formation_fighting
 		tradition_republican_legacy
-		tradition_poetry
 	}
 	
-	name_list = name_list_roman
+	name_list = name_list_italiote
 	
 	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
 	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { western_unit_gfx }
+	unit_gfx = { eastern_unit_gfx }
 	
 	ethnicities = {
 		10 = mediterranean
@@ -26,21 +25,20 @@
 rlatin = {
 	color = { 1.0 0.01 0.24 }
 	
-	parents = { italic }
+	parents = { italic_group }
 	
 	ethos = ethos_bellicose
 	heritage = heritage_latin
-	language = language_latin
+	language = language_mlatin
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_formation_fighting
 		tradition_legalistic
-		tradition_poetry
 		tradition_hereditary_hierarchy
 		tradition_noble_adoption
 	}
 	
-	name_list = name_list_roman
+	name_list = name_list_italiote
 
 	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
 	building_gfx = { mediterranean_building_gfx } 
@@ -56,13 +54,13 @@ rlatin = {
 oscan = { 
 	color = { 0.9 0.17 0.31 }
 
-	parents = { roman }
+	parents = { italic_group }
 
 	created = 100.1.1
 	
 	ethos = ethos_bellicose
 	heritage = heritage_latin
-	language = language_sardinian
+	language = language_oscan
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_xenophilic
@@ -70,12 +68,12 @@ oscan = {
 		tradition_ruling_caste
 	}
 	
-	name_list = name_list_roman
+	name_list = name_list_italiote
 	
 	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
 	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { western_unit_gfx }
+	unit_gfx = { eastern_unit_gfx }
 	
 	ethnicities = {
 		10 = mediterranean
@@ -85,25 +83,25 @@ oscan = {
 umbrian = {
 	color = { 1.0 0.13 0.32 }
 
-	parents = { lombard greek }
+	parents = { italic_group }
 
 	created = 950.1.1
 	
 	ethos = ethos_courtly
 	heritage = heritage_latin
-	language = language_italian
+	language = language_umbrian
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_stalwart_defenders
 		tradition_isolationist
 	}
 	
-	name_list = name_list_roman
+	name_list = name_list_italiote
 	
 	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
 	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { western_unit_gfx }
+	unit_gfx = { eastern_unit_gfx }
 	
 	ethnicities = {
 		10 = mediterranean
@@ -115,11 +113,11 @@ picenian = {
 
 	created = 650.1.1
 
-	parents = { langobard italian }
+	parents = { italic_group }
 	
 	ethos = ethos_stoic
 	heritage = heritage_latin
-	language = language_italian
+	language = language_umbrian
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_isolationist
@@ -127,12 +125,12 @@ picenian = {
 		tradition_stand_and_fight
 	}
 	
-	name_list = name_list_roman
+	name_list = name_list_italiote
 	
 	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
 	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { western_unit_gfx }
+	unit_gfx = { eastern_unit_gfx }
 	
 	ethnicities = {
 		10 = mediterranean
@@ -142,25 +140,25 @@ picenian = {
 elymian = {
 	color = { 0.68 0.05 0.0 }
 
-	parents = { lombard greek }
+	parents = { italic_group }
 
 	created = 950.1.1
 	
 	ethos = ethos_courtly
 	heritage = heritage_latin
-	language = language_italian
+	language = language_oscan
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_stalwart_defenders
 		tradition_isolationist
 	}
 	
-	name_list = name_list_roman
+	name_list = name_list_italiote
 	
 	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
 	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { western_unit_gfx }
+	unit_gfx = { eastern_unit_gfx }
 	
 	ethnicities = {
 		10 = mediterranean
