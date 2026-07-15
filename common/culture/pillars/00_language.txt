@@ -721,6 +721,24 @@ language_mlatin = {
 	color = italian
 }
 
+language_etruscan = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_etruscan
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_etruscan }
+			multiply = 10
+		}
+	}
+	
+	color = italian
+}
+
 language_oscan = {
 	type = language
 	is_shown = {

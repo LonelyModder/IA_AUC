@@ -15,3 +15,10 @@
  elymian:0 "Elymian"
  elymian_prefix:0 "Elymian"
  elymian_collective_noun:1 "Elymians"
+ #Villanovan Group
+ etruscan:0 "Etruscan"
+ etruscan_prefix:0 "Etruscan"
+ etruscan_collective_noun:1 "Etruscans"
+ picentian:0 "Picentian"
+ picentian_prefix:0 "Picentian"
+ picentian_collective_noun:1 "Picentians"
