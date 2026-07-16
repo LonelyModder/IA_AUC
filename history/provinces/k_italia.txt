@@ -53,8 +53,8 @@
 }
 
 272 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = italiote
+	religion = greek_pagan
 	holding = none
 }
 
@@ -401,8 +401,8 @@
 }
 
 330 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = picentian
+	religion = etruscan_pagan
 	holding = tribal_holding
 }
 
@@ -641,8 +641,8 @@
 }
 
 119 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = italiote
+	religion = greek_pagan
 	holding = none
 }
 
@@ -701,8 +701,8 @@
 }
 
 214 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = italiote
+	religion = greek_pagan
 	holding = castle_holding
 }
 

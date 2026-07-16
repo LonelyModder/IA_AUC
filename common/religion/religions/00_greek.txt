@@ -1,4 +1,4 @@
-﻿etruscan_religion = {
+﻿greek_religion = {
 	family = rf_pagan
 
 	pagan_roots = yes
@@ -55,88 +55,88 @@
 
 	localization = {
 		#High God Name
-		HighGodName = etruscan_high_god_name
-		HighGodName2 = etruscan_high_god_name_2
-		HighGodNamePossessive = etruscan_high_god_name_possessive
+		HighGodName = hellenism_high_god_name
+		HighGodName2 = hellenism_high_god_name_2
+		HighGodNamePossessive = hellenism_high_god_name_possessive
 		HighGodNameSheHe = CHARACTER_SHEHE_HE
 		HighGodHerselfHimself = CHARACTER_HIMSELF
 		HighGodHerHis = CHARACTER_HERHIS_HIS
-		HighGodNameAlternate = etruscan_high_god_name_alternate
-		HighGodNameAlternatePossessive = etruscan_high_god_name_alternate_possessive
+		HighGodNameAlternate = hellenism_high_god_name_alternate
+		HighGodNameAlternatePossessive = hellenism_high_god_name_alternate_possessive
 
 		#Creator
-		CreatorName = etruscan_creator_god_name
-		CreatorNamePossessive = etruscan_creator_god_name_possessive
+		CreatorName = hellenism_creator_god_name
+		CreatorNamePossessive = hellenism_creator_god_name_possessive
 		CreatorSheHe = CHARACTER_SHEHE_SHE
 		CreatorHerHis = CHARACTER_HERHIS_HER
 		CreatorHerHim = CHARACTER_HERHIM_HER
 
 		#HealthGod
-		HealthGodName = etruscan_health_god_name
-		HealthGodNamePossessive = etruscan_health_god_name_possessive
+		HealthGodName = hellenism_health_god_name
+		HealthGodNamePossessive = hellenism_health_god_name_possessive
 		HealthGodSheHe = CHARACTER_SHEHE_HE
 		HealthGodHerHis = CHARACTER_HERHIS_HIS
 		HealthGodHerHim = CHARACTER_HERHIM_HIM
 		
 		#FertilityGod
-		FertilityGodName = etruscan_fertility_god_name
-		FertilityGodNamePossessive = etruscan_fertility_god_name_possessive
+		FertilityGodName = hellenism_fertility_god_name
+		FertilityGodNamePossessive = hellenism_fertility_god_name_possessive
 		FertilityGodSheHe = CHARACTER_SHEHE_SHE
 		FertilityGodHerHis = CHARACTER_HERHIS_HER
 		FertilityGodHerHim = CHARACTER_HERHIM_HER
 
 		#WealthGod
-		WealthGodName = etruscan_wealth_god_name
-		WealthGodNamePossessive = etruscan_wealth_god_name_possessive
+		WealthGodName = hellenism_wealth_god_name
+		WealthGodNamePossessive = hellenism_wealth_god_name_possessive
 		WealthGodSheHe = CHARACTER_SHEHE_HE
 		WealthGodHerHis = CHARACTER_HERHIS_HIS
 		WealthGodHerHim = CHARACTER_HERHIM_HIM
 
 		#HouseholdGod
-		HouseholdGodName = etruscan_household_god_name
-		HouseholdGodNamePossessive = etruscan_household_god_name_possessive
+		HouseholdGodName = hellenism_household_god_name
+		HouseholdGodNamePossessive = hellenism_household_god_name_possessive
 		HouseholdGodSheHe = CHARACTER_SHEHE_SHE
 		HouseholdGodHerHis = CHARACTER_HERHIS_HER
 		HouseholdGodHerHim = CHARACTER_HERHIM_HER
 
 		#FateGod
-		FateGodName = etruscan_fate_god_name
-		FateGodNamePossessive = etruscan_fate_god_name_possessive
+		FateGodName = hellenism_fate_god_name
+		FateGodNamePossessive = hellenism_fate_god_name_possessive
 		FateGodSheHe = CHARACTER_SHEHE_THEY
 		FateGodHerHis = CHARACTER_HERHIS_THEIR
 		FateGodHerHim = CHARACTER_HERHIM_THEM
 
 		#KnowledgeGod
-		KnowledgeGodName = etruscan_knowledge_god_name
-		KnowledgeGodNamePossessive = etruscan_knowledge_god_name_possessive
+		KnowledgeGodName = hellenism_knowledge_god_name
+		KnowledgeGodNamePossessive = hellenism_knowledge_god_name_possessive
 		KnowledgeGodSheHe = CHARACTER_SHEHE_SHE
 		KnowledgeGodHerHis = CHARACTER_HERHIS_HER
 		KnowledgeGodHerHim = CHARACTER_HERHIM_HER
 
 		#WarGod
-		WarGodName = etruscan_war_god_name
-		WarGodNamePossessive = etruscan_war_god_name_possessive
+		WarGodName = hellenism_war_god_name
+		WarGodNamePossessive = hellenism_war_god_name_possessive
 		WarGodSheHe = CHARACTER_SHEHE_HE
 		WarGodHerHis = CHARACTER_HERHIS_HIS
 		WarGodHerHim = CHARACTER_HERHIM_HIM
 
 		#TricksterGod
-		TricksterGodName = etruscan_trickster_god_name
-		TricksterGodNamePossessive = etruscan_trickster_god_name_possessive
+		TricksterGodName = hellenism_trickster_god_name
+		TricksterGodNamePossessive = hellenism_trickster_god_name_possessive
 		TricksterGodSheHe = CHARACTER_SHEHE_HE
 		TricksterGodHerHis = CHARACTER_HERHIS_HIS
 		TricksterGodHerHim = CHARACTER_HERHIM_HIM
 
 		#NightGod
-		NightGodName = etruscan_night_god_name
-		NightGodNamePossessive = etruscan_night_god_name_possessive
+		NightGodName = hellenism_night_god_name
+		NightGodNamePossessive = hellenism_night_god_name_possessive
 		NightGodSheHe = CHARACTER_SHEHE_SHE
 		NightGodHerHis = CHARACTER_HERHIS_HER
 		NightGodHerHim = CHARACTER_HERHIM_HER
 
 		#WaterGod
-		WaterGodName = etruscan_water_god_name
-		WaterGodNamePossessive = etruscan_water_god_name_possessive
+		WaterGodName = hellenism_water_god_name
+		WaterGodNamePossessive = hellenism_water_god_name_possessive
 		WaterGodSheHe = CHARACTER_SHEHE_HE
 		WaterGodHerHis = CHARACTER_HERHIS_HIS
 		WaterGodHerHim = CHARACTER_HERHIM_HIM
@@ -147,24 +147,24 @@
 		PantheonTerm2 = religion_the_gods_2
 		PantheonTerm3 = religion_the_gods_3
 		PantheonTermHasHave = pantheon_term_have
-		GoodGodNames = { etruscan_good_god_poseidon etruscan_good_god_athena etruscan_good_god_ares etruscan_good_god_hera etruscan_good_god_apollo etruscan_good_god_artemis etruscan_good_god_hermes etruscan_good_god_aphrodite }
-		DevilName = etruscan_devil_name
-		DevilNamePossessive = etruscan_devil_name_possessive
+		GoodGodNames = { hellenism_good_god_poseidon hellenism_good_god_athena hellenism_good_god_ares hellenism_good_god_hera hellenism_good_god_apollo hellenism_good_god_artemis hellenism_good_god_hermes hellenism_good_god_aphrodite }
+		DevilName = hellenism_devil_name
+		DevilNamePossessive = hellenism_devil_name_possessive
 		DevilSheHe = CHARACTER_SHEHE_HE
 		DevilHerHis = CHARACTER_HERHIS_HIS
 		DevilHerselfHimself = CHARACTER_HIMSELF
-		EvilGodNames = { etruscan_evil_god_menoetius etruscan_evil_god_erinyes }
+		EvilGodNames = { hellenism_evil_god_menoetius hellenism_evil_god_erinyes }
 		HouseOfWorship = paganism_house_of_worship
 		HouseOfWorship2 = paganism_house_of_worship_2
 		HouseOfWorship3 = paganism_house_of_worship_3
 		HouseOfWorshipPlural = paganism_house_of_worship_plural
-		ReligiousSymbol = etruscan_religious_symbol
-		ReligiousSymbol2 = etruscan_religious_symbol_2
-		ReligiousSymbol3 = etruscan_religious_symbol_3
-		ReligiousText = etruscan_religious_text
-		ReligiousText2 = etruscan_religious_text_2
-		ReligiousText3 = etruscan_religious_text_3
-		ReligiousHeadName = etruscan_religious_head_title
+		ReligiousSymbol = hellenism_religious_symbol
+		ReligiousSymbol2 = hellenism_religious_symbol_2
+		ReligiousSymbol3 = hellenism_religious_symbol_3
+		ReligiousText = hellenism_religious_text
+		ReligiousText2 = hellenism_religious_text_2
+		ReligiousText3 = hellenism_religious_text_3
+		ReligiousHeadName = hellenism_religious_head_title
 		ReligiousHeadTitleName = dualism_religious_head_title_name
 		DevoteeMale = paganism_devotee
 		DevoteeMalePlural = paganism_devoteeplural
@@ -172,35 +172,35 @@
 		DevoteeFemalePlural = paganism_devoteeplural
 		DevoteeNeuter = paganism_devotee
 		DevoteeNeuterPlural = paganism_devoteeplural
-		PriestMale = etruscan_priest_male
-		PriestMalePlural = etruscan_priest_male_plural
-		PriestFemale = etruscan_priest_female
-		PriestFemalePlural = etruscan_priest_female_plural
-		PriestNeuter = etruscan_priest_male
-		PriestNeuterPlural = etruscan_priest_male_plural
+		PriestMale = hellenism_priest_male
+		PriestMalePlural = hellenism_priest_male_plural
+		PriestFemale = hellenism_priest_female
+		PriestFemalePlural = hellenism_priest_female_plural
+		PriestNeuter = hellenism_priest_male
+		PriestNeuterPlural = hellenism_priest_male_plural
 		AltPriestTermPlural = christianity_priest_alternate_plural
-		BishopMale = etruscan_bishop_male
-		BishopMalePlural = etruscan_bishop_male_plural
-		BishopFemale = etruscan_priest_female
-		BishopFemalePlural = etruscan_priest_female_plural
-		BishopNeuter = etruscan_priest_male
-		BishopNeuterPlural = etruscan_priest_male_plural
-		DivineRealm = etruscan_divine_realm
-		DivineRealm2 = etruscan_divine_realm_2
-		DivineRealm3 = etruscan_divine_realm_3
-		PositiveAfterLife = etruscan_death_deity_name
-		PositiveAfterLife2 = etruscan_death_deity_name_2
-		PositiveAfterLife3 = etruscan_death_deity_name_3
-		NegativeAfterLife = etruscan_death_deity_name
-		NegativeAfterLife2 = etruscan_death_deity_name_2
-		NegativeAfterLife3 = etruscan_death_deity_name_3
-		DeathDeityName = etruscan_death_deity_name
-		DeathDeityNamePossessive = etruscan_death_deity_name_possessive
+		BishopMale = hellenism_bishop_male
+		BishopMalePlural = hellenism_bishop_male_plural
+		BishopFemale = hellenism_priest_female
+		BishopFemalePlural = hellenism_priest_female_plural
+		BishopNeuter = hellenism_priest_male
+		BishopNeuterPlural = hellenism_priest_male_plural
+		DivineRealm = hellenism_divine_realm
+		DivineRealm2 = hellenism_divine_realm_2
+		DivineRealm3 = hellenism_divine_realm_3
+		PositiveAfterLife = hellenism_death_deity_name
+		PositiveAfterLife2 = hellenism_death_deity_name_2
+		PositiveAfterLife3 = hellenism_death_deity_name_3
+		NegativeAfterLife = hellenism_death_deity_name
+		NegativeAfterLife2 = hellenism_death_deity_name_2
+		NegativeAfterLife3 = hellenism_death_deity_name_3
+		DeathDeityName = hellenism_death_deity_name
+		DeathDeityNamePossessive = hellenism_death_deity_name_possessive
 		DeathDeitySheHe = CHARACTER_SHEHE_HE
 		DeathDeityHerHis = CHARACTER_HERHIS_HIS
 		DeathDeityHerHim = CHARACTER_HERHIM_HIM
-		WitchGodName = etruscan_witchgodname_hekate
-		WitchGodNamePossessive = etruscan_witchgodname_hekate_possessive
+		WitchGodName = hellenism_witchgodname_hekate
+		WitchGodNamePossessive = hellenism_witchgodname_hekate_possessive
 		WitchGodHerHis = CHARACTER_HERHIS_HER
 		WitchGodSheHe = CHARACTER_SHEHE_HE
 		WitchGodHerHim = CHARACTER_HERHIM_HER
@@ -213,8 +213,8 @@
 	}
 
 	faiths = {
-		etruscan_pagan = {
-			color = { 0.13 0.99 0.64 }
+		greek_pagan = {
+			color = { 0.64 0.72 0.94 }
 			icon = hellenic
 			reformed_icon = hellenic_reformed
 

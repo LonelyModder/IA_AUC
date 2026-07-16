@@ -22,3 +22,12 @@
  picentian:0 "Picentian"
  picentian_prefix:0 "Picentian"
  picentian_collective_noun:1 "Picentians"
+ #Hellenic Group
+ italiote:0 "Italiote"
+ italiote_prefix:0 "Italiote"
+ italiote_collective_noun:1 "Italiotes"
+ #Illyrian Group
+ lapygian:0 "Lapygian"
+ lapygian_prefix:0 "Lapygian"
+ lapygian_collective_noun:1 "Lapygians"
+ 

@@ -1,16 +1,16 @@
-﻿villanovan_group = {
+﻿illyrian_group = {
 	color = { 0.82 0.1 0.26 }
 
 	ethos = ethos_bellicose
 	heritage = heritage_etruscan
-	language = language_etruscan
+	language = language_illyrian
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_formation_fighting
 		tradition_republican_legacy
 	}
 	
-	name_list = name_list_etruscan
+	name_list = name_list_illyrian
 	
 	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
 	building_gfx = { mediterranean_building_gfx }
@@ -22,14 +22,14 @@
 	}
 }
 
-etruscan = {
-	color = { 0.13 0.99 0.64 }
+lapygian = {
+	color = { 0.53 0.79 0.98 }
 	
-	parents = { villanovan_group }
+	parents = { illyrian_group }
 	
 	ethos = ethos_bellicose
-	heritage = heritage_etruscan
-	language = language_etruscan
+	heritage = heritage_lapygian
+	language = language_illyrian
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_formation_fighting
@@ -38,7 +38,7 @@ etruscan = {
 		tradition_noble_adoption
 	}
 	
-	name_list = name_list_etruscan
+	name_list = name_list_illyrian
 
 	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
 	building_gfx = { mediterranean_building_gfx } 
@@ -51,31 +51,3 @@ etruscan = {
 	}
 }
 
-picentian = { 
-	color = { 0.13 0.86 0.82 }
-
-	parents = { villanovan_group }
-
-	created = 100.1.1
-	
-	ethos = ethos_bellicose
-	heritage = heritage_etruscan
-	language = language_etruscan
-	martial_custom = martial_custom_male_only
-	traditions = {
-		tradition_xenophilic
-		tradition_swords_for_hire
-		tradition_ruling_caste
-	}
-	
-	name_list = name_list_etruscan
-	
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
-	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { eastern_unit_gfx }
-	
-	ethnicities = {
-		10 = mediterranean
-	}
-}
