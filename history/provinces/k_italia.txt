@@ -35,14 +35,14 @@
 }
 
 260 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = lapygian
+	religion = illyrian_pagan
 	holding = tribal_holding
 }
 
 270 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = lapygian
+	religion = illyrian_pagan
 	holding = tribal_holding
 }
 
@@ -53,9 +53,13 @@
 }
 
 272 = {		
-	culture = italiote
-	religion = greek_pagan
+	culture = oscan
+	religion = italic_pagan
 	holding = none
+	437.4.21 = { 
+		culture = italiote
+		religion = greek_pagan 
+	}
 }
 
 273 = {		
@@ -77,8 +81,8 @@
 }
 
 276 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = lapygian
+	religion = illyrian_pagan
 	holding = tribal_holding
 }
 
@@ -241,7 +245,7 @@
 303 = {		
 	culture = rlatin
 	religion = italic_pagan
-	holding = castle_holding
+	holding = none
 }
 
 304 = {		
@@ -641,9 +645,13 @@
 }
 
 119 = {		
-	culture = italiote
-	religion = greek_pagan
+	culture = oscan
+	religion = italic_pagan
 	holding = none
+	437.4.21 = { 
+		culture = italiote
+		religion = greek_pagan 
+	}
 }
 
 120 = {		
@@ -701,9 +709,13 @@
 }
 
 214 = {		
-	culture = italiote
-	religion = greek_pagan
-	holding = castle_holding
+	culture = oscan
+	religion = italic_pagan
+	holding = none
+	437.4.21 = { 
+		culture = italiote
+		religion = greek_pagan 
+	}
 }
 
 215 = {		
@@ -815,8 +827,8 @@
 }
 
 233 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = lapygian
+	religion = illyrian_pagan
 	holding = tribal_holding
 }
 
@@ -845,8 +857,8 @@
 }
 
 238 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = oscan
+	religion = italic_pagan
 	holding = none
 }
 
@@ -869,14 +881,14 @@
 }
 
 242 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = lapygian
+	religion = illyrian_pagan
 	holding = tribal_holding
 }
 
 243 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = lapygian
+	religion = illyrian_pagan
 	holding = tribal_holding
 }
 
@@ -899,8 +911,8 @@
 }
 
 247 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = lapygian
+	religion = illyrian_pagan
 	holding = tribal_holding
 }
 

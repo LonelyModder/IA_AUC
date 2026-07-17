@@ -214,7 +214,7 @@
 
 	faiths = {
 		greek_pagan = {
-			color = { 0.64 0.72 0.94 }
+			color = { 0.66 0.97 0.68 }
 			icon = hellenic
 			reformed_icon = hellenic_reformed
 

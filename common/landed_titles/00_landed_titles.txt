@@ -21293,16 +21293,6 @@ e_westernrome = {
 					province = 253
 				}
 				
-				b_potenza_238 = {
-					color = { 168 63 17 }
-					province = 238
-				}
-				
-				b_carnuntum_252 = {
-					color = { 126 105 24 }
-					province = 252
-				}
-
 				b_lucentum_250 = {
 					color = { 42 99 23 }
 					province = 250
@@ -21313,10 +21303,26 @@ e_westernrome = {
 					province = 251
 				}
 				
+			}
+			
+			c_potenza = {
+				color = { 168 63 17 }
+				
+				b_potenza_238 = {
+					color = { 168 63 17 }
+					province = 238
+				}
+				
+				b_carnuntum_252 = {
+					color = { 126 105 24 }
+					province = 252
+				}
+
 				b_concordia_230 = {
 					color = { 42 39 13 }
 					province = 230
 				}
+				
 			}
 			
 			c_guramentum = {
@@ -21637,3 +21643,8 @@ e_westernrome = {
 e_hre = { landless = yes }
 e_byzantium = { landless = yes }
 e_roman_empire = { landless = yes }
+#Landless titles
+d_latins = {
+	color = { 166 9 7 }
+	landless = yes 
+}

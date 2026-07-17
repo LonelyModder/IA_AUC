@@ -1,4 +1,6 @@
 ﻿l_english:
+ #Landless
+ d_latins:0 "Latin League"
  # Empires
  e_westernrome:0 "Western Roman Empire"
  e_easternrome:0 "Eastern Roman Empire"
@@ -255,6 +257,7 @@
  c_sedonia:0 "Sedonia"
  c_oenia:0 "Oenia"
  c_salvium:0 "Salvium"
+ c_potenza:0 "Potenza"
  c_temnium:0 "Temnium"
  c_nilitana:0 "Nilitana"
  c_daorson:0 "Daorson"

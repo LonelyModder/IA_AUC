@@ -1,0 +1,69 @@
+﻿2000000 = {
+	name = "Albanus"
+	dynasty = latin_silvii
+	religion = "italic_pagan"
+	culture = rlatin
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_latins
+		add_pressed_claim = title:c_alba_longa
+		add_pressed_claim = title:c_roma
+		add_pressed_claim = title:c_tibur
+		add_pressed_claim = title:c_ardea
+		add_pressed_claim = title:c_vizeliacum
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000001 = {
+	name = "Petronius"
+	dynasty = latin_silvii
+	religion = "italic_pagan"
+	culture = rlatin
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_latins
+		add_pressed_claim = title:c_alba_longa
+		add_pressed_claim = title:c_roma
+		add_pressed_claim = title:c_tibur
+		add_pressed_claim = title:c_ardea
+		add_pressed_claim = title:c_vizeliacum
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000002 = {
+	name = "Romulus"
+	dynasty = latin_romos
+	religion = "italic_pagan"
+	culture = rlatin
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:c_roma
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}

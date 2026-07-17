@@ -1,0 +1,11 @@
+﻿#Latin
+
+latin_silvii = {
+	name = "dynn_Sylvii"
+	culture = "rlatin"
+}
+
+latin_romos = {
+	name = "dynn_Romos"
+	culture = "rlatin"
+}
