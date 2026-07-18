@@ -9,3 +9,17 @@ latin_romos = {
 	name = "dynn_Romos"
 	culture = "rlatin"
 }
+
+#Etruscan
+
+latin_tarchna = {
+	name = "dynn_Tarchna"
+	culture = "etruscan"
+}
+
+#Oscan
+
+oscan_pomponius = {
+	name = "dynn_Pomponius"
+	culture = "oscan"
+}

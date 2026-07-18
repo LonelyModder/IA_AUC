@@ -1,6 +1,8 @@
 ﻿l_english:
  #Landless
  d_latins:0 "Latin League"
+ d_etruscans:0 "Etruscan League"
+ d_sabines:0 "Sabines"
  # Empires
  e_westernrome:0 "Western Roman Empire"
  e_easternrome:0 "Eastern Roman Empire"
@@ -44,8 +46,10 @@
  k_noricum:0 "Noricum"
  # Duchies
  d_latium:0 "Latium"
- d_etruria:0 "Etruria"
+ d_etruria:0 "Northern Etruria"
+ d_setruria:0 "Southern Etruria"
  d_umbria:0 "Umbria"
+ d_faucine:0 "Faucinia"
  d_samnium:0 "Samnium"
  d_campania:0 "Campania"
  d_lukania:0 "Lukania"
@@ -1220,7 +1224,8 @@
  c_picenia:0 "Picenia"
  c_vestinia:0 "Vestinia"
  c_marsia:0 "Marsia"
- c_sabinia:0 "Sabinia"
+ c_cures:0 "Cures"
+ c_amiternum:0 "Amiternum"
  c_velch:0 "Velch"
  c_hernicia:0 "Hernicia"
  c_paelignia:0 "Paelignia"

@@ -333,9 +333,9 @@
 }
 
 318 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = city_holding
+	culture = oscan
+	religion = italic_pagan
+	holding = tribal_holding
 }
 
 319 = {		

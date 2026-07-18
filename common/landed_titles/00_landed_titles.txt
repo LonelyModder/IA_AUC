@@ -20656,6 +20656,69 @@ e_westernrome = {
 			
 		}
 		
+		d_faucine = {
+			color = { 42 51 178 }
+			
+			capital = c_marsia # Marsia
+			
+			c_marsia = {
+				color = { 42 51 178 }
+				
+				b_fresilia_305 = {
+					color = { 42 51 178 }
+					province = 305
+				}
+			}
+			
+			c_vestinia = {
+				color = { 0 63 180 }
+				
+				b_hadria_309 = {
+					color = { 0 63 180 }
+					province = 309
+				}
+				
+				b_italica_310 = {
+					color = { 42 66 53 }
+					province = 310
+				}
+
+				b_histonium_297 = {
+					color = { 126 27 174 }
+					province = 297
+				}
+
+			}
+			
+			c_hernicia = {
+				color = { 0 48 50 }
+				
+				b_aquae_helveticae_304 = {
+					color = { 0 48 50 }
+					province = 304
+				}
+				
+				b_condatomagus_307 = {
+					color = { 126 57 179 }
+					province = 307
+				}
+			}
+			
+			c_paelignia = {
+				color = { 0 63 180 }
+				
+				b_sulmo_306 = {
+					color = { 84 54 51 }
+					province = 306
+				}
+				
+				b_lutonium_308 = {
+					color = { 168 60 52 }
+					province = 308
+				}
+			}
+		}
+		
 		d_umbria = {
 			color = { 0 138 65 }
 			
@@ -20739,16 +20802,7 @@ e_westernrome = {
 				}
 			}
 			
-			c_marsia = {
-				color = { 42 51 178 }
-				
-				b_fresilia_305 = {
-					color = { 42 51 178 }
-					province = 305
-				}
-			}
-			
-			c_sabinia = {
+			c_cures = {
 				color = { 84 114 61 }
 				
 				b_cures_326 = {
@@ -20761,6 +20815,11 @@ e_westernrome = {
 					province = 316
 				}
 
+			}
+			
+			c_amiternum = {
+				color = { 168 90 57 }
+				
 				b_amiternum_318 = {
 					color = { 168 90 57 }
 					province = 318
@@ -20801,99 +20860,13 @@ e_westernrome = {
 					province = 327
 				}
 			}
-			
-			c_vestinia = {
-				color = { 0 63 180 }
-				
-				b_hadria_309 = {
-					color = { 0 63 180 }
-					province = 309
-				}
-				
-				b_italica_310 = {
-					color = { 42 66 53 }
-					province = 310
-				}
-
-				b_histonium_297 = {
-					color = { 126 27 174 }
-					province = 297
-				}
-
-			}
-			
-			c_hernicia = {
-				color = { 0 48 50 }
-				
-				b_aquae_helveticae_304 = {
-					color = { 0 48 50 }
-					province = 304
-				}
-				
-				b_condatomagus_307 = {
-					color = { 126 57 179 }
-					province = 307
-				}
-			}
-			
-			c_paelignia = {
-				color = { 0 63 180 }
-				
-				b_sulmo_306 = {
-					color = { 84 54 51 }
-					province = 306
-				}
-				
-				b_lutonium_308 = {
-					color = { 168 60 52 }
-					province = 308
-				}
-			}			
+						
 		}	
 		
 		d_etruria = {
 			color = { 42 156 68 }
 			
 			capital = c_velzna # Velzna
-			
-			c_veii = {
-				color = { 42 156 68 }
-				
-				b_veii_340 = {
-					color = { 42 156 68 }
-					province = 340
-				}
-
-				b_caisra_341 = {
-					color = { 84 159 196 }
-					province = 341
-				}
-				
-			}
-			
-			c_tarchna = {
-				color = { 42 171 198 }
-				
-				b_tarchna_345 = {
-					color = { 42 171 198 }
-					province = 345
-				}
-				
-				b_itamia_342 = {
-					color = { 126 162 69 }
-					province = 342
-				}
-
-				b_histrunaica_343 = {
-					color = { 168 165 197 }
-					province = 343
-				}
-
-				b_xamnium_344 = {
-					color = { 170 171 192 }
-					province = 344
-				}
-			}
 			
 			c_velch = {
 				color = { 126 177 199 }
@@ -21047,6 +21020,52 @@ e_westernrome = {
 					province = 363
 				}
 			}
+		}
+		
+		d_setruria = {
+			color = { 42 171 198 }
+			
+			capital = c_tarchna # Tarchna
+			
+			c_veii = {
+				color = { 42 156 68 }
+				
+				b_veii_340 = {
+					color = { 42 156 68 }
+					province = 340
+				}
+
+				b_caisra_341 = {
+					color = { 84 159 196 }
+					province = 341
+				}
+				
+			}
+			
+			c_tarchna = {
+				color = { 42 171 198 }
+				
+				b_tarchna_345 = {
+					color = { 42 171 198 }
+					province = 345
+				}
+				
+				b_itamia_342 = {
+					color = { 126 162 69 }
+					province = 342
+				}
+
+				b_histrunaica_343 = {
+					color = { 168 165 197 }
+					province = 343
+				}
+
+				b_xamnium_344 = {
+					color = { 170 171 192 }
+					province = 344
+				}
+			}
+			
 		}
 		
 		d_samnium = {
@@ -21646,5 +21665,15 @@ e_roman_empire = { landless = yes }
 #Landless titles
 d_latins = {
 	color = { 166 9 7 }
+	landless = yes 
+}
+
+d_etruscans = {
+	color = { 42 156 68 }
+	landless = yes 
+}
+
+d_sabines = {
+	color = { 84 114 61 }
 	landless = yes 
 }
