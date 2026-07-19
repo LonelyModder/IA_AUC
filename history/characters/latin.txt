@@ -68,36 +68,6 @@
 	}
 }
 
-2000003 = {
-	name = "Sethre"
-	dynasty = latin_tarchna
-	religion = "etruscan_pagan"
-	culture = etruscan
-	#father = 32974
-	400.1.1 = {
-		birth = "400.1.1"
-	}
-	436.1.1 = {
-		add_pressed_claim = title:d_etruscans
-		add_pressed_claim = title:c_velzna
-		add_pressed_claim = title:c_veii
-		add_pressed_claim = title:c_tarchna
-		add_pressed_claim = title:c_velch
-		add_pressed_claim = title:c_perusia
-		add_pressed_claim = title:c_arretium
-		add_pressed_claim = title:c_ilva
-		add_pressed_claim = title:c_felathri
-		add_pressed_claim = title:c_vetluna
-		add_pressed_claim = title:c_seana
-	}
-	#437.4.21 = {
-	#	add_character_flag = do_not_generate_starting_family
-	#}
-	460.1.1 = {
-		death = "260.1.1"
-	}
-}
-
 2000004 = {
 	name = "Cato"
 	dynasty = oscan_pomponius
