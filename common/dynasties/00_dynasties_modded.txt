@@ -10,10 +10,55 @@ latin_romos = {
 	culture = "rlatin"
 }
 
+latin_faliscus = {
+	name = "dynn_Faliscus"
+	culture = "rlatin"
+}
+
+latin_capenatus = {
+	name = "dynn_Capenatus"
+	culture = "rlatin"
+}
+
 #Etruscan
 
-latin_tarchna = {
+etruscan_tarchna = {
 	name = "dynn_Tarchna"
+	culture = "etruscan"
+}
+
+etruscan_cilnia = {
+	name = "dynn_Cilnia"
+	culture = "etruscan"
+}
+
+etruscan_spurinna = {
+	name = "dynn_Spurinna"
+	culture = "etruscan"
+}
+
+etruscan_vipina = {
+	name = "dynn_Vipina"
+	culture = "etruscan"
+}
+
+etruscan_porsena = {
+	name = "dynn_Porsena"
+	culture = "etruscan"
+}
+
+etruscan_velca = {
+	name = "dynn_velca"
+	culture = "etruscan"
+}
+
+etruscan_vetluna = {
+	name = "dynn_Vetluna"
+	culture = "etruscan"
+}
+
+etruscan_saties = {
+	name = "dynn_Saties"
 	culture = "etruscan"
 }
 

@@ -2,7 +2,16 @@
  #Latin
  dynn_Sylvii:0 "Sylvia"
  dynn_Romos:0 "Romos"
+ dynn_faliscus:0 "Faliscus"
+ dynn_capenatus:0 "Capenatus"
  #Etruscan
- latin_tarchna:0 "Tarchna"
+ dynn_tarchna:0 "Tarchna"
+ dynn_Cilnia:0 "Cilnia"
+ dynn_Spurinna:0 "Spurinna"
+ etruscan_vipina:0 "Vipina"
+ dynn_Porsena:0 "Porsena"
+ dynn_velca:0 "Velca"
+ dynn_Vetluna:0 "Vetluna"
+ dynn_Saties:0 "Saties"
  #Oscan
- oscan_pomponius:0 "Pomponius"
+ dynn_Pomponius:0 "Pomponius"

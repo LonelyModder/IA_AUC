@@ -28,10 +28,12 @@ c_roma = {
 
 c_tibur = {
 	258.4.4 = {
-		holder = 2000000
+		liege = "d_latins"
+		holder = 2000009
 	}
 	437.4.21 = {
-		holder = 2000001
+		liege = "d_latins"
+		holder = 2000007
 	}
 }
 
@@ -46,109 +48,129 @@ c_ardea = {
 
 c_vizeliacum = {
 	258.4.4 = {
-		holder = 2000000
+		liege = "d_latins"
+		holder = 2000008
 	}
 	437.4.21 = {
-		holder = 2000001
+		liege = "d_latins"
+		holder = 2000006
 	}
 }
 
 d_etruscans = {
-	#258.4.4 = {
-	#	holder = 2000000
-	#}
+	258.4.4 = {
+		holder = 2000012
+	}
 	437.4.21 = {
 		holder = 2000003
 	}
 }
 
 c_velzna = {
-	#258.4.4 = {
-	#	holder = 2000000
-	#}
+	258.4.4 = {
+		holder = 2000012
+	}
 	437.4.21 = {
 		holder = 2000003
 	}
 }
 
 c_veii = {
-	#258.4.4 = {
-	#	holder = 2000000
-	#}
+	258.4.4 = {
+		liege = "d_etruscans"
+		holder = 2000016
+	}
 	437.4.21 = {
-		holder = 2000003
+		liege = "d_etruscans"
+		holder = 2000015
 	}
 }
 
 c_tarchna = {
-	#258.4.4 = {
-	#	holder = 2000000
-	#}
+	258.4.4 = {
+		liege = "d_etruscans"
+		holder = 2000014
+	}
 	437.4.21 = {
-		holder = 2000003
+		liege = "d_etruscans"
+		holder = 2000013
 	}
 }
 
 c_velch = {
-	#258.4.4 = {
-	#	holder = 2000000
-	#}
+	258.4.4 = {
+		liege = "d_etruscans"
+		holder = 2000024
+	}
 	437.4.21 = {
-		holder = 2000003
+		liege = "d_etruscans"
+		holder = 2000023
 	}
 }
 
 c_perusia = {
-	#258.4.4 = {
-	#	holder = 2000000
-	#}
+	258.4.4 = {
+		liege = "d_etruscans"
+		holder = 2000018
+	}
 	437.4.21 = {
-		holder = 2000003
+		liege = "d_etruscans"
+		holder = 2000017
 	}
 }
 
 c_arretium = {
-	#258.4.4 = {
-	#	holder = 2000000
-	#}
+	258.4.4 = {
+		liege = "d_etruscans"
+		holder = 2000011
+	}
 	437.4.21 = {
-		holder = 2000003
+		liege = "d_etruscans"
+		holder = 2000010
 	}
 }
 
 c_ilva = {
-	#258.4.4 = {
-	#	holder = 2000000
-	#}
+	258.4.4 = {
+		liege = "d_etruscans"
+		holder = 2000022
+	}
 	437.4.21 = {
-		holder = 2000003
+		liege = "d_etruscans"
+		holder = 2000021
 	}
 }
 
 c_felathri = {
-	#258.4.4 = {
-	#	holder = 2000000
-	#}
+	258.4.4 = {
+		liege = "d_etruscans"
+		holder = 2000020
+	}
 	437.4.21 = {
-		holder = 2000003
+		liege = "d_etruscans"
+		holder = 2000019
 	}
 }
 
 c_vetluna = {
-	#258.4.4 = {
-	#	holder = 2000000
-	#}
+	258.4.4 = {
+		liege = "d_etruscans"
+		holder = 2000022
+	}
 	437.4.21 = {
-		holder = 2000003
+		liege = "d_etruscans"
+		holder = 2000021
 	}
 }
 
 c_seana = {
-	#258.4.4 = {
-	#	holder = 2000000
-	#}
+	258.4.4 = {
+		liege = "d_etruscans"
+		holder = 2000018
+	}
 	437.4.21 = {
-		holder = 2000003
+		liege = "d_etruscans"
+		holder = 2000017
 	}
 }
 
