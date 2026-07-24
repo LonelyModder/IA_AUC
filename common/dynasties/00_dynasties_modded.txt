@@ -48,7 +48,7 @@ etruscan_porsena = {
 }
 
 etruscan_velca = {
-	name = "dynn_velca"
+	name = "dynn_Velca"
 	culture = "etruscan"
 }
 
