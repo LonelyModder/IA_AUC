@@ -271,6 +271,7 @@
 	}
 	436.1.1 = {
 		add_pressed_claim = title:c_vetluna
+		add_pressed_claim = title:c_ilva
 	}
 	437.4.21 = {
 		add_character_flag = do_not_generate_starting_family
@@ -291,6 +292,7 @@
 	}
 	250.1.1 = {
 		add_pressed_claim = title:c_vetluna
+		add_pressed_claim = title:c_ilva
 	}
 	258.4.4 = {
 		add_character_flag = do_not_generate_starting_family
