@@ -8,6 +8,9 @@ d_latins = {
 }
 
 c_alba_longa = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
 	258.4.4 = {
 		holder = 2000000
 	}
@@ -17,6 +20,9 @@ c_alba_longa = {
 }
 
 c_roma = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
 	258.4.4 = {
 		holder = 2000000
 	}
@@ -27,6 +33,9 @@ c_roma = {
 }
 
 c_tibur = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
 	258.4.4 = {
 		liege = "d_latins"
 		holder = 2000009
@@ -38,6 +47,9 @@ c_tibur = {
 }
 
 c_ardea = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
 	258.4.4 = {
 		holder = 2000000
 	}
@@ -47,6 +59,9 @@ c_ardea = {
 }
 
 c_vizeliacum = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
 	258.4.4 = {
 		liege = "d_latins"
 		holder = 2000008
@@ -67,6 +82,9 @@ d_etruscans = {
 }
 
 c_velzna = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
 	258.4.4 = {
 		holder = 2000012
 	}
@@ -76,6 +94,9 @@ c_velzna = {
 }
 
 c_veii = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
 	258.4.4 = {
 		liege = "d_etruscans"
 		holder = 2000016
@@ -87,6 +108,9 @@ c_veii = {
 }
 
 c_tarchna = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
 	258.4.4 = {
 		liege = "d_etruscans"
 		holder = 2000014
@@ -98,6 +122,9 @@ c_tarchna = {
 }
 
 c_velch = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
 	258.4.4 = {
 		liege = "d_etruscans"
 		holder = 2000024
@@ -109,6 +136,9 @@ c_velch = {
 }
 
 c_perusia = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
 	258.4.4 = {
 		liege = "d_etruscans"
 		holder = 2000018
@@ -120,6 +150,9 @@ c_perusia = {
 }
 
 c_arretium = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
 	258.4.4 = {
 		liege = "d_etruscans"
 		holder = 2000011
@@ -131,6 +164,9 @@ c_arretium = {
 }
 
 c_ilva = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
 	258.4.4 = {
 		liege = "d_etruscans"
 		holder = 2000022
@@ -142,6 +178,9 @@ c_ilva = {
 }
 
 c_felathri = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
 	258.4.4 = {
 		liege = "d_etruscans"
 		holder = 2000020
@@ -153,6 +192,9 @@ c_felathri = {
 }
 
 c_vetluna = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
 	258.4.4 = {
 		liege = "d_etruscans"
 		holder = 2000022
@@ -164,6 +206,9 @@ c_vetluna = {
 }
 
 c_seana = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
 	258.4.4 = {
 		liege = "d_etruscans"
 		holder = 2000018
