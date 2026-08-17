@@ -21677,3 +21677,8 @@ d_sabines = {
 	color = { 84 114 61 }
 	landless = yes 
 }
+
+d_lukanians = {
+	color = { 168 63 17 }
+	landless = yes 
+}

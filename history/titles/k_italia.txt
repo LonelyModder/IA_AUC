@@ -229,6 +229,9 @@ d_sabines = {
 }
 
 c_cures = {
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
+	
 	258.4.4 = {
 		holder = 2000004
 	}
@@ -238,11 +241,26 @@ c_cures = {
 }
 
 c_amiternum = {
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
+	
 	258.4.4 = {
 		holder = 2000004
 	}
 	437.4.21 = {
 		holder = 2000005
+	}
+}
+
+c_potenza = {
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000026 
+	}
+	437.4.21 = {
+		holder = 2000025
 	}
 }
 

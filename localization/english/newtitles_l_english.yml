@@ -3,6 +3,7 @@
  d_latins:0 "Latin League"
  d_etruscans:0 "Etruscan League"
  d_sabines:0 "Sabines"
+ d_lukanians:0 "Lukanians"
  # Empires
  e_westernrome:0 "Western Roman Empire"
  e_easternrome:0 "Eastern Roman Empire"

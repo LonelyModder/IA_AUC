@@ -68,3 +68,8 @@ oscan_pomponius = {
 	name = "dynn_Pomponius"
 	culture = "oscan"
 }
+
+oscan_papius = {
+	name = "dynn_Papius"
+	culture = "oscan"
+}
