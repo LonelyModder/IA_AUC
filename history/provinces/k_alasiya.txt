@@ -1,77 +1,77 @@
 ﻿2203 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 2204 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 2205 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 2206 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 2207 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 2208 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 2209 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 2210 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 2211 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 2212 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 2213 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 2214 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 2215 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }

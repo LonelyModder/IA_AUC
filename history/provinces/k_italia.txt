@@ -1,37 +1,37 @@
 ﻿254 = {		
 	culture = oscan
 	religion = italic_pagan
-	holding = castle_holding
+	holding = none
 }
 
 255 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 256 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 257 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 258 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 259 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 260 = {		
@@ -49,13 +49,13 @@
 271 = {		
 	culture = oscan
 	religion = italic_pagan
-	holding = castle_holding
+	holding = none
 }
 
 272 = {		
 	culture = oscan
 	religion = italic_pagan
-	holding = castle_holding
+	holding = none
 	437.4.21 = { 
 		culture = italiote
 		religion = greek_pagan 
@@ -65,19 +65,19 @@
 273 = {		
 	culture = oscan
 	religion = italic_pagan
-	holding = castle_holding
+	holding = none
 }
 
 274 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 275 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 276 = {		
@@ -89,49 +89,49 @@
 277 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 278 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 279 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 280 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 281 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 282 = {		
 	culture = oscan
 	religion = italic_pagan
-	holding = castle_holding
+	holding = none
 }
 
 283 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 284 = {		
 	culture = oscan
 	religion = italic_pagan
-	holding = castle_holding
+	holding = none
 }
 
 285 = {		
@@ -149,13 +149,13 @@
 287 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 288 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 289 = {		
@@ -167,13 +167,13 @@
 290 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 291 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 292 = {		
@@ -185,67 +185,67 @@
 293 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 294 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 295 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 296 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 297 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 298 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 299 = {		
 	culture = umbrian
 	religion = italic_pagan
-	holding = castle_holding
+	holding = none
 }
 
 300 = {		
 	culture = oscan
 	religion = italic_pagan
-	holding = castle_holding
+	holding = none
 }
 
 301 = {		
 	culture = umbrian
 	religion = italic_pagan
-	holding = castle_holding
+	holding = none
 }
 
 302 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 303 = {		
 	culture = rlatin
 	religion = italic_pagan
-	holding = castle_holding
+	holding = none
 }
 
 304 = {		
@@ -269,13 +269,13 @@
 307 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 308 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 309 = {		
@@ -287,7 +287,7 @@
 310 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 311 = {		
@@ -305,13 +305,13 @@
 313 = {		
 	culture = rlatin
 	religion = italic_pagan
-	holding = castle_holding
+	holding = none
 }
 
 314 = {		
 	culture = rlatin
 	religion = italic_pagan
-	holding = castle_holding
+	holding = none
 }
 
 315 = {		
@@ -323,13 +323,13 @@
 316 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 317 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 318 = {		
@@ -341,25 +341,25 @@
 319 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 320 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 321 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 322 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 323 = {		
@@ -377,7 +377,7 @@
 325 = {		
 	culture = rlatin
 	religion = italic_pagan
-	holding = castle_holding
+	holding = none
 }
 
 326 = {		
@@ -389,19 +389,19 @@
 327 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 328 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 329 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 330 = {		
@@ -413,19 +413,19 @@
 331 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 332 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 333 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 334 = {		
@@ -437,37 +437,37 @@
 335 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 336 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 337 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 338 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 339 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 340 = {		
 	culture = etruscan
 	religion = etruscan_pagan
-	holding = castle_holding
+	holding = none
 }
 
 341 = {		
@@ -479,61 +479,61 @@
 342 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 343 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 344 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 345 = {		
 	culture = etruscan
 	religion = etruscan_pagan
-	holding = castle_holding
+	holding = none
 }
 
 346 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 347 = {		
 	culture = etruscan
 	religion = etruscan_pagan
-	holding = castle_holding
+	holding = none
 }
 
 348 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 349 = {		
 	culture = etruscan
 	religion = etruscan_pagan
-	holding = castle_holding
+	holding = none
 }
 
 350 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 351 = {		
 	culture = etruscan
 	religion = etruscan_pagan
-	holding = castle_holding
+	holding = none
 }
 
 352 = {		
@@ -545,7 +545,7 @@
 353 = {		
 	culture = etruscan
 	religion = etruscan_pagan
-	holding = castle_holding
+	holding = none
 }
 
 354 = {		
@@ -557,31 +557,31 @@
 355 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 356 = {		
 	culture = etruscan
 	religion = etruscan_pagan
-	holding = castle_holding
+	holding = none
 }
 
 357 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 358 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 359 = {		
 	culture = etruscan
 	religion = etruscan_pagan
-	holding = castle_holding
+	holding = none
 }
 
 360 = {		
@@ -593,61 +593,61 @@
 361 = {		
 	culture = etruscan
 	religion = etruscan_pagan
-	holding = castle_holding
+	holding = none
 }
 
 362 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 363 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 364 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 365 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 366 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 367 = {		
 	culture = etruscan
 	religion = etruscan_pagan
-	holding = castle_holding
+	holding = none
 }
 
 368 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 369 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 119 = {		
 	culture = oscan
 	religion = italic_pagan
-	holding = castle_holding
+	holding = none
 	437.4.21 = { 
 		culture = italiote
 		religion = greek_pagan 
@@ -657,25 +657,25 @@
 120 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 206 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 207 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 208 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 209 = {		
@@ -687,19 +687,19 @@
 210 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 211 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 212 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 213 = {		
@@ -711,7 +711,7 @@
 214 = {		
 	culture = oscan
 	religion = italic_pagan
-	holding = castle_holding
+	holding = none
 	437.4.21 = { 
 		culture = italiote
 		religion = greek_pagan 
@@ -721,7 +721,7 @@
 215 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 216 = {		
@@ -733,7 +733,7 @@
 217 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 218 = {		
@@ -745,19 +745,19 @@
 219 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 220 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 221 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 222 = {		
@@ -769,13 +769,13 @@
 223 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 224 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 225 = {		
@@ -787,19 +787,19 @@
 226 = {		
 	culture = oscan
 	religion = italic_pagan
-	holding = castle_holding
+	holding = none
 }
 
 227 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 228 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 229 = {		
@@ -811,7 +811,7 @@
 230 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 231 = {		
@@ -823,7 +823,7 @@
 232 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 233 = {		
@@ -835,13 +835,13 @@
 234 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 235 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 236 = {		
@@ -853,31 +853,31 @@
 237 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 238 = {		
 	culture = oscan
 	religion = italic_pagan
-	holding = castle_holding
+	holding = none
 }
 
 239 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 240 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 241 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 242 = {		
@@ -895,19 +895,19 @@
 244 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 245 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 246 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 247 = {		
@@ -919,31 +919,31 @@
 248 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 249 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 250 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 251 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 252 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = castle_holding
+	holding = none
 }
 
 253 = {		
