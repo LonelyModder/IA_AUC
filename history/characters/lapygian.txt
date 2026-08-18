@@ -1,0 +1,135 @@
+﻿2000029 = {
+	name = "Andios"
+	dynasty = lapygian_messid
+	religion = "illyrian_pagan"
+	culture = lapygian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_dauni
+		add_pressed_claim = title:c_daunia
+		add_pressed_claim = title:c_fractus
+		add_pressed_claim = title:c_sipontum
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000030 = {
+	name = "Touros"
+	dynasty = lapygian_messid
+	religion = "illyrian_pagan"
+	culture = lapygian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_dauni
+		add_pressed_claim = title:c_daunia
+		add_pressed_claim = title:c_fractus
+		add_pressed_claim = title:c_sipontum
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000031 = {
+	name = "Dzimas"
+	dynasty = lapygian_artas
+	religion = "illyrian_pagan"
+	culture = lapygian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_pauceti
+		add_pressed_claim = title:c_paucentia
+		add_pressed_claim = title:c_metapuntum
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000032 = {
+	name = "Dzetis"
+	dynasty = lapygian_artas
+	religion = "illyrian_pagan"
+	culture = lapygian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_pauceti
+		add_pressed_claim = title:c_paucentia
+		add_pressed_claim = title:c_metapuntum
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000033 = {
+	name = "Labianos"
+	dynasty = lapygian_tabaras
+	religion = "illyrian_pagan"
+	culture = lapygian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_messapi
+		add_pressed_claim = title:c_brundisium
+		add_pressed_claim = title:c_hydruntum
+		add_pressed_claim = title:c_tarentum
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000034 = {
+	name = "Pinsos"
+	dynasty = lapygian_tabaras
+	religion = "illyrian_pagan"
+	culture = lapygian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_messapi
+		add_pressed_claim = title:c_brundisium
+		add_pressed_claim = title:c_hydruntum
+		add_pressed_claim = title:c_tarentum
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}

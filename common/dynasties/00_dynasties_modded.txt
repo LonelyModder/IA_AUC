@@ -73,3 +73,25 @@ oscan_papius = {
 	name = "dynn_Papius"
 	culture = "oscan"
 }
+
+oscan_pontius = {
+	name = "dynn_Pontius"
+	culture = "oscan"
+}
+
+#Lapygian
+
+lapygian_messid = {
+	name = "dynn_Messid"
+	culture = "oscan"
+}
+
+lapygian_artas = {
+	name = "dynn_Artas"
+	culture = "oscan"
+}
+
+lapygian_tabaras = {
+	name = "dynn_Tabaras"
+	culture = "oscan"
+}

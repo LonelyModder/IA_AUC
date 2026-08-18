@@ -43,7 +43,7 @@
 }
 
 2000025 = {
-	name = "Ticusna"
+	name = "Aetius"
 	dynasty = oscan_papius
 	religion = "italic_pagan"
 	culture = oscan
@@ -52,7 +52,14 @@
 		birth = "400.1.1"
 	}
 	436.1.1 = {
+		add_pressed_claim = title:d_lukanians
 		add_pressed_claim = title:c_potenza
+		add_pressed_claim = title:c_venusia
+		add_pressed_claim = title:c_guramentum
+		add_pressed_claim = title:c_i_elea
+		add_pressed_claim = title:c_siris
+		add_pressed_claim = title:c_heraclea
+		add_pressed_claim = title:c_liniacum
 	}
 	#437.4.21 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -63,7 +70,7 @@
 }
 
 2000026 = {
-	name = "Venel"
+	name = "Decimus"
 	dynasty = oscan_papius
 	religion = "italic_pagan"
 	culture = oscan
@@ -72,7 +79,62 @@
 		birth = "230.1.1"
 	}
 	250.1.1 = {
+		add_pressed_claim = title:d_lukanians
 		add_pressed_claim = title:c_potenza
+		add_pressed_claim = title:c_venusia
+		add_pressed_claim = title:c_guramentum
+		add_pressed_claim = title:c_i_elea
+		add_pressed_claim = title:c_siris
+		add_pressed_claim = title:c_heraclea
+		add_pressed_claim = title:c_liniacum
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000027 = {
+	name = "Leontius"
+	dynasty = oscan_pontius
+	religion = "italic_pagan"
+	culture = oscan
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_samnites
+		add_pressed_claim = title:c_bovianum
+		add_pressed_claim = title:c_beneventum
+		add_pressed_claim = title:c_luceria
+		add_pressed_claim = title:c_frentania
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000028 = {
+	name = "Tacitus"
+	dynasty = oscan_pontius
+	religion = "italic_pagan"
+	culture = oscan
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_samnites
+		add_pressed_claim = title:c_bovianum
+		add_pressed_claim = title:c_beneventum
+		add_pressed_claim = title:c_luceria
+		add_pressed_claim = title:c_frentania
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family

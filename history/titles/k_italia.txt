@@ -229,8 +229,8 @@ d_sabines = {
 }
 
 c_cures = {
-	258.4.4 = {	change_development_level = 3 }
-	437.4.21 = { change_development_level = 5 }
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
 	
 	258.4.4 = {
 		holder = 2000004
@@ -241,8 +241,8 @@ c_cures = {
 }
 
 c_amiternum = {
-	258.4.4 = {	change_development_level = 3 }
-	437.4.21 = { change_development_level = 5 }
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
 	
 	258.4.4 = {
 		holder = 2000004
@@ -252,9 +252,18 @@ c_amiternum = {
 	}
 }
 
+d_lukanians = {
+	258.4.4 = {
+		holder = 2000026 
+	}
+	437.4.21 = {
+		holder = 2000025
+	}
+}
+
 c_potenza = {
-	258.4.4 = {	change_development_level = 3 }
-	437.4.21 = { change_development_level = 5 }
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
 	
 	258.4.4 = {
 		holder = 2000026 
@@ -264,4 +273,254 @@ c_potenza = {
 	}
 }
 
+c_venusia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000026 
+	}
+	437.4.21 = {
+		holder = 2000025
+	}
+}
 
+c_guramentum = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000026 
+	}
+	437.4.21 = {
+		holder = 2000025
+	}
+}
+
+c_i_elea = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000026 
+	}
+	437.4.21 = {
+		holder = 2000025
+	}
+}
+
+c_siris = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000026 
+	}
+	437.4.21 = {
+		holder = 2000025
+	}
+}
+
+c_heraclea = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000026 
+	}
+	437.4.21 = {
+		holder = 2000025
+	}
+}
+
+c_liniacum = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000026 
+	}
+	437.4.21 = {
+		holder = 2000025
+	}
+}
+
+d_samnites = {
+	258.4.4 = {
+		holder = 2000028 
+	}
+	437.4.21 = {
+		holder = 2000027
+	}
+}
+
+c_bovianum = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000028 
+	}
+	437.4.21 = {
+		holder = 2000027
+	}
+}
+
+c_beneventum = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000028 
+	}
+	437.4.21 = {
+		holder = 2000027
+	}
+}
+
+c_luceria = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000028 
+	}
+	437.4.21 = {
+		holder = 2000027
+	}
+}
+
+c_frentania = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000028 
+	}
+	437.4.21 = {
+		holder = 2000027
+	}
+}
+
+d_dauni = {
+	258.4.4 = {
+		holder = 2000030
+	}
+	437.4.21 = {
+		holder = 2000029
+	}
+}
+
+c_daunia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000030 
+	}
+	437.4.21 = {
+		holder = 2000029
+	}
+}
+
+c_fractus = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000030 
+	}
+	437.4.21 = {
+		holder = 2000029
+	}
+}
+
+c_sipontum = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000030 
+	}
+	437.4.21 = {
+		holder = 2000029
+	}
+}
+
+d_pauceti = {
+	258.4.4 = {
+		holder = 2000032 
+	}
+	437.4.21 = {
+		holder = 2000031
+	}
+}
+
+c_paucentia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000032 
+	}
+	437.4.21 = {
+		holder = 2000031
+	}
+}
+
+c_metapuntum = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000032 
+	}
+	437.4.21 = {
+		holder = 2000031
+	}
+}
+
+d_messapi = {
+	258.4.4 = {
+		holder = 2000034
+	}
+	437.4.21 = {
+		holder = 2000033
+	}
+}
+
+c_brundisium = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000034 
+	}
+	437.4.21 = {
+		holder = 2000033
+	}
+}
+
+c_hydruntum = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000034 
+	}
+	437.4.21 = {
+		holder = 2000033
+	}
+}
+
+c_tarentum = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000034 
+	}
+	437.4.21 = {
+		holder = 2000033
+	}
+}

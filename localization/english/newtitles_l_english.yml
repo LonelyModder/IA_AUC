@@ -4,6 +4,10 @@
  d_etruscans:0 "Etruscan League"
  d_sabines:0 "Sabines"
  d_lukanians:0 "Lukanians"
+ d_samnites:0 "Samnites"
+ d_dauni:0 "Dauni"
+ d_pauceti:0 "Pauceti"
+ d_messapi:0 "Messapi"
  # Empires
  e_westernrome:0 "Western Roman Empire"
  e_easternrome:0 "Eastern Roman Empire"

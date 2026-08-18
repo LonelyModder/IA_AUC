@@ -21682,3 +21682,23 @@ d_lukanians = {
 	color = { 168 63 17 }
 	landless = yes 
 }
+
+d_samnites = {
+	color = { 0 3 170 }
+	landless = yes 
+}
+
+d_dauni = {
+	color = { 84 177 36 }
+	landless = yes 
+}
+
+d_pauceti = {
+	color = { 126 138 49 }
+	landless = yes 
+}
+
+d_messapi = {
+	color = { 168 78 147 }
+	landless = yes 
+}
