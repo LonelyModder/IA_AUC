@@ -1,0 +1,45 @@
+﻿2000037 = {
+	name = "Galerius"
+	dynasty = umbrian_salvian
+	religion = "italic_pagan"
+	culture = oscan
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_umbrians
+		add_pressed_claim = title:c_umbria
+		add_pressed_claim = title:c_plestia
+		add_pressed_claim = title:c_quivia
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000038 = {
+	name = "Maximian"
+	dynasty = umbrian_salvian
+	religion = "italic_pagan"
+	culture = oscan
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_umbrians
+		add_pressed_claim = title:c_umbria
+		add_pressed_claim = title:c_plestia
+		add_pressed_claim = title:c_quivia
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}

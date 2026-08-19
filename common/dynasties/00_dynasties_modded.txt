@@ -79,6 +79,18 @@ oscan_pontius = {
 	culture = "oscan"
 }
 
+oscan_vibius = {
+	name = "dynn_Vibius"
+	culture = "oscan"
+}
+
+#Umbrian
+
+umbrian_salvian = {
+	name = "dynn_Salvian"
+	culture = "oscan"
+}
+
 #Lapygian
 
 lapygian_messid = {

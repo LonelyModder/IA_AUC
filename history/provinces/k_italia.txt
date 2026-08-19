@@ -117,7 +117,7 @@
 }
 
 282 = {		
-	culture = oscan
+	culture = umbrian
 	religion = italic_pagan
 	holding = none
 }
@@ -225,7 +225,7 @@
 }
 
 300 = {		
-	culture = oscan
+	culture = umbrian
 	religion = italic_pagan
 	holding = none
 }
@@ -419,7 +419,7 @@
 332 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 333 = {		
@@ -443,7 +443,7 @@
 336 = {		
 	culture = baranis
 	religion = west_african_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 337 = {		
@@ -859,7 +859,7 @@
 238 = {		
 	culture = oscan
 	religion = italic_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 239 = {		

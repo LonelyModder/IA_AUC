@@ -20732,21 +20732,31 @@ e_westernrome = {
 					province = 334
 				}
 			
-				b_plestia_332 = {
-					color = { 126 132 64 }
-					province = 332
-				}
-
 				b_spoletum_333 = {
 					color = { 168 135 192 }
 					province = 333
 				}
 				
+			}
+			
+			c_plestia = {
+				color = { 126 132 64 }
+				
+				b_plestia_332 = {
+					color = { 126 132 64 }
+					province = 332
+				}
+
 				b_aquilonia_335 = {
 					color = { 42 141 193 }
 					province = 335
 				}
 
+			}
+			
+			c_quivia = {
+				color = { 84 144 66 }
+				
 				b_quivia_336 = {
 					color = { 84 144 66 }
 					province = 336
@@ -21258,6 +21268,11 @@ e_westernrome = {
 					province = 274
 				}
 				
+			}
+			
+			c_capua = {
+				color = { 168 198 167 }
+				
 				b_capua_283 = {
 					color = { 168 198 167 }
 					province = 283
@@ -21268,16 +21283,21 @@ e_westernrome = {
 			c_suessa = {
 				color = { 0 201 40 }
 				
-				b_suessa_284 = {
-					color = { 0 201 40 }
-					province = 284
-				}
-				
 				b_acyra_281 = {
 					color = { 84 192 166 }
 					province = 281
 				}
 
+			}
+			
+			c_teanum = {
+				color = { 0 201 40 }
+				
+				b_suessa_284 = {
+					color = { 0 201 40 }
+					province = 284
+				}
+				
 			}
 
 			c_cumae = {
@@ -21700,5 +21720,15 @@ d_pauceti = {
 
 d_messapi = {
 	color = { 168 78 147 }
+	landless = yes 
+}
+
+d_bruttians = {
+	color = { 84 210 6 }
+	landless = yes 
+}
+
+d_umbrians = {
+	color = { 0 138 65 }
 	landless = yes 
 }

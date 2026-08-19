@@ -524,3 +524,105 @@ c_tarentum = {
 		holder = 2000033
 	}
 }
+
+d_bruttians = {
+	258.4.4 = {
+		holder = 2000036
+	}
+	437.4.21 = {
+		holder = 2000035
+	}
+}
+
+c_consentia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000036
+	}
+	437.4.21 = {
+		holder = 2000035
+	}
+}
+
+c_scylletum = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000036
+	}
+	437.4.21 = {
+		holder = 2000035
+	}
+}
+
+c_sybaris = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000036
+	}
+	437.4.21 = {
+		holder = 2000035
+	}
+}
+
+c_locri = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000036
+	}
+	437.4.21 = {
+		holder = 2000035
+	}
+}
+
+d_umbrians = {
+	258.4.4 = {
+		holder = 2000038
+	}
+	437.4.21 = {
+		holder = 2000037
+	}
+}
+
+c_umbria = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000038
+	}
+	437.4.21 = {
+		holder = 2000037
+	}
+}
+
+c_plestia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000038
+	}
+	437.4.21 = {
+		holder = 2000037
+	}
+}
+
+c_quivia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000038
+	}
+	437.4.21 = {
+		holder = 2000037
+	}
+}
