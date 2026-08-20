@@ -17,9 +17,9 @@
 }
 
 257 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = oscan
+	religion = italic_pagan
+	holding = tribal_holding
 }
 
 258 = {		
@@ -111,8 +111,8 @@
 }
 
 281 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = oscan
+	religion = italic_pagan
 	holding = none
 }
 
@@ -123,8 +123,8 @@
 }
 
 283 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = oscan
+	religion = italic_pagan
 	holding = none
 }
 
@@ -201,9 +201,9 @@
 }
 
 296 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = oscan
+	religion = italic_pagan
+	holding = tribal_holding
 }
 
 297 = {		
@@ -357,9 +357,9 @@
 }
 
 322 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = picenian
+	religion = italic_pagan
+	holding = tribal_holding
 }
 
 323 = {		
@@ -411,14 +411,14 @@
 }
 
 331 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = picentian
+	religion = etruscan_pagan
+	holding = tribal_holding
 }
 
 332 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = umbrian
+	religion = italic_pagan
 	holding = tribal_holding
 }
 
@@ -441,8 +441,8 @@
 }
 
 336 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = umbrian
+	religion = italic_pagan
 	holding = tribal_holding
 }
 
@@ -785,8 +785,8 @@
 }
 
 226 = {		
-	culture = oscan
-	religion = italic_pagan
+	culture = lapygian
+	religion = illyrian_pagan
 	holding = none
 }
 

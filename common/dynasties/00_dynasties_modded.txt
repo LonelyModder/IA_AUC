@@ -84,10 +84,35 @@ oscan_vibius = {
 	culture = "oscan"
 }
 
+oscan_ofilius = {
+	name = "dynn_Ofilius"
+	culture = "oscan"
+}
+
+oscan_tellius = {
+	name = "dynn_Tellius"
+	culture = "oscan"
+}
+
+oscan_atius = {
+	name = "dynn_Atius"
+	culture = "oscan"
+}
+
+oscan_calavius = {
+	name = "dynn_Calavius"
+	culture = "oscan"
+}
+
 #Umbrian
 
 umbrian_salvian = {
 	name = "dynn_Salvian"
+	culture = "oscan"
+}
+
+umbrian_veltian = {
+	name = "dynn_Veltian"
 	culture = "oscan"
 }
 
@@ -105,5 +130,22 @@ lapygian_artas = {
 
 lapygian_tabaras = {
 	name = "dynn_Tabaras"
+	culture = "oscan"
+}
+
+#Italiote
+
+italite_timarchid = {
+	name = "dynn_Timarchid"
+	culture = "oscan"
+}
+
+italite_charid = {
+	name = "dynn_Charid"
+	culture = "oscan"
+}
+
+italite_praxid = {
+	name = "dynn_Praxid"
 	culture = "oscan"
 }

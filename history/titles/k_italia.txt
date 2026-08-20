@@ -402,6 +402,30 @@ c_frentania = {
 	}
 }
 
+c_vetulonia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000028 
+	}
+	437.4.21 = {
+		holder = 2000027
+	}
+}
+
+c_larinum = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000028 
+	}
+	437.4.21 = {
+		holder = 2000027
+	}
+}
+
 d_dauni = {
 	258.4.4 = {
 		holder = 2000030
@@ -624,5 +648,179 @@ c_quivia = {
 	}
 	437.4.21 = {
 		holder = 2000037
+	}
+}
+
+c_salernum = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000040
+	}
+	437.4.21 = {
+		holder = 2000039
+	}
+}
+
+c_suessa = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000042
+	}
+	437.4.21 = {
+		holder = 2000041
+	}
+}
+
+c_teanum = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000044
+	}
+	437.4.21 = {
+		holder = 2000043
+	}
+}
+
+d_volsci = {
+	258.4.4 = {
+		holder = 2000046
+	}
+	437.4.21 = {
+		holder = 2000045
+	}
+}
+
+c_antium = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000046
+	}
+	437.4.21 = {
+		holder = 2000045
+	}
+}
+
+c_hoius_vicus = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000046
+	}
+	437.4.21 = {
+		holder = 2000045
+	}
+}
+
+c_abellinum = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000046
+	}
+	437.4.21 = {
+		holder = 2000045
+	}
+}
+
+c_minturnae = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000046
+	}
+	437.4.21 = {
+		holder = 2000045
+	}
+}
+
+d_campani = {
+	258.4.4 = {
+		holder = 2000048
+	}
+	437.4.21 = {
+		holder = 2000047
+	}
+}
+
+c_campeva = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000048
+	}
+	437.4.21 = {
+		holder = 2000047
+	}
+}
+
+c_capua = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000048
+	}
+	437.4.21 = {
+		holder = 2000047
+	}
+}
+
+c_nuceria = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000048
+	}
+	437.4.21 = {
+		holder = 2000047
+	}
+}
+
+c_cumae = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000048
+	}
+	437.4.21 = {
+		holder = 2000049
+	}
+}
+
+c_kroton = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000036
+	}
+	437.4.21 = {
+		holder = 2000050
+	}
+}
+
+c_rhegion = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000036
+	}
+	437.4.21 = {
+		holder = 2000051
 	}
 }

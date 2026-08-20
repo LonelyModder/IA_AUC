@@ -20769,49 +20769,6 @@ e_westernrome = {
 				
 			}
 			
-			c_picentia = {
-				color = { 42 126 63 }
-				
-				b_pisaurum_330 = {
-					color = { 42 126 63 }
-					province = 330
-				}
-				
-				b_savona_328 = {
-					color = { 168 120 62 }
-					province = 328
-				}
-				
-				b_bulla_regia_329 = {
-					color = { 0 123 190 }
-					province = 329
-				}
-				
-				b_camatamia_337 = {
-					color = { 126 147 194 }
-					province = 337
-				}
-
-				b_laelliria_ripensis_338 = {
-					color = { 168 150 67 }
-					province = 338
-				}
-				
-				b_ariminum_331 = {
-					color = { 84 129 191 }
-					province = 331
-				}
-			}
-			
-			c_ancona = {
-				color = { 168 105 187 }
-				
-				b_ancona_323 = {
-					color = { 168 105 187 }
-					province = 323
-				}
-			}
-			
 			c_cures = {
 				color = { 84 114 61 }
 				
@@ -20841,6 +20798,13 @@ e_westernrome = {
 				}
 
 			}
+						
+		}
+
+		d_picenum = {
+			color = { 0 108 60 }
+			
+			capital = c_picenia # Picenia
 			
 			c_picenia = {
 				color = { 0 108 60 }
@@ -20855,23 +20819,78 @@ e_westernrome = {
 					province = 321
 				}
 
-				b_firmum_322 = {
-					color = { 126 102 59 }
-					province = 322
-				}
-				
 				b_asculum_320 = {
 					color = { 42 96 58 }
 					province = 320
+				}
+				
+			}
+			
+			c_firmum = {
+				color = { 126 102 59 }
+				
+				b_firmum_322 = {
+					color = { 126 102 59 }
+					province = 322
 				}
 				
 				b_matrica_327 = {
 					color = { 126 117 189 }
 					province = 327
 				}
+				
 			}
-						
-		}	
+			
+			c_picentia = {
+				color = { 42 126 63 }
+				
+				b_pisaurum_330 = {
+					color = { 42 126 63 }
+					province = 330
+				}
+				
+				b_savona_328 = {
+					color = { 168 120 62 }
+					province = 328
+				}
+				
+				b_bulla_regia_329 = {
+					color = { 0 123 190 }
+					province = 329
+				}
+				
+				b_laelliria_ripensis_338 = {
+					color = { 168 150 67 }
+					province = 338
+				}
+				
+			}
+			
+			c_ariminum = {
+				color = { 84 129 191 }
+				
+				b_ariminum_331 = {
+					color = { 84 129 191 }
+					province = 331
+				}
+				
+				b_camatamia_337 = {
+					color = { 126 147 194 }
+					province = 337
+				}
+
+			}
+			
+			c_ancona = {
+				color = { 168 105 187 }
+				
+				b_ancona_323 = {
+					color = { 168 105 187 }
+					province = 323
+				}
+			}
+			
+		}			
 		
 		d_etruria = {
 			color = { 42 156 68 }
@@ -21091,21 +21110,26 @@ e_westernrome = {
 					province = 292
 				}
 
-				b_dertosa_295 = {
-					color = { 42 21 173 }
-					province = 295
-				}
-				
 				b_carsulae_288 = {
 					color = { 168 0 42 }
 					province = 288
 				}
 
+			}
+			
+			c_larinum = {
+				color = { 84 24 46 }
+				
 				b_larinum_296 = {
 					color = { 84 24 46 }
 					province = 296
 				}
 
+				b_dertosa_295 = {
+					color = { 42 21 173 }
+					province = 295
+				}
+				
 			}
 
 			c_bovianum = {
@@ -21131,10 +21155,6 @@ e_westernrome = {
 					province = 290
 				}
 
-				b_lusonum_291 = {
-					color = { 84 9 171 }
-					province = 291
-				}
 			}
 			
 			c_beneventum = {
@@ -21160,10 +21180,20 @@ e_westernrome = {
 					province = 286
 				}
 				
+				b_lusonum_291 = {
+					color = { 84 9 171 }
+					province = 291
+				}
+				
 				b_carsioli_287 = {
 					color = { 126 210 169 }
 					province = 287
 				}
+				
+			}
+			
+			c_vetulonia = {
+				color = { 126 120 154 }
 				
 				b_vetulonia_257 = {
 					color = { 126 120 154 }
@@ -21179,6 +21209,7 @@ e_westernrome = {
 					color = { 0 186 165 }
 					province = 279
 				}
+				
 			}
 
 			c_sipontum = {
@@ -21377,11 +21408,6 @@ e_westernrome = {
 					province = 224
 				}
 
-				b_ticinum_235 = {
-					color = { 42 54 143 }
-					province = 235
-				}
-				
 				b_neviodunum_227 = {
 					color = { 126 30 139 }
 					province = 227
@@ -21390,6 +21416,25 @@ e_westernrome = {
 				b_obulco_223 = {
 					color = { 168 18 137 }
 					province = 223
+				}
+			}
+			
+			c_liniacum = {
+				color = { 84 57 16 }
+				
+				b_liniacum_236 = {
+					color = { 84 57 16 }
+					province = 236
+				}
+
+				b_ticinum_235 = {
+					color = { 42 54 143 }
+					province = 235
+				}
+				
+				b_savo_237 = {
+					color = { 126 60 144 }
+					province = 237
 				}
 			}
 			
@@ -21406,20 +21451,6 @@ e_westernrome = {
 					province = 228
 				}
 
-			}
-			
-			c_liniacum = {
-				color = { 84 57 16 }
-				
-				b_liniacum_236 = {
-					color = { 84 57 16 }
-					province = 236
-				}
-
-				b_savo_237 = {
-					color = { 126 60 144 }
-					province = 237
-				}
 			}
 			
 			c_siris = {
@@ -21730,5 +21761,15 @@ d_bruttians = {
 
 d_umbrians = {
 	color = { 0 138 65 }
+	landless = yes 
+}
+
+d_volsci = {
+	color = { 168 30 47 }
+	landless = yes 
+}
+
+d_campani = {
+	color = { 0 201 40 }
 	landless = yes 
 }

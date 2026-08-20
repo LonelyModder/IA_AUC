@@ -8,7 +8,7 @@
  dynn_Tarchna:0 "Tarchna"
  dynn_Cilnia:0 "Cilnia"
  dynn_Spurinna:0 "Spurinna"
- etruscan_Vipina:0 "Vipina"
+ dynn_Vipina:0 "Vipina"
  dynn_Porsena:0 "Porsena"
  dynn_Velca:0 "Velca"
  dynn_Vetluna:0 "Vetluna"
@@ -18,9 +18,18 @@
  dynn_Papius:0 "Papius"
  dynn_Pontius:0 "Pontius"
  dynn_Vibius:0 "Vibius"
+ dynn_Ofilius:0 "Ofilius"
+ dynn_Tellius:0 "Tellius"
+ dynn_Atius:0 "Atius"
+ dynn_Calavius:0 "Calavius"
  #Umbrian
  dynn_Salvian:0 "Salvius"
+ dynn_Veltian:0 "Veltian"
  #Lapygian
  dynn_Messid:0 "Messid"
  dynn_Artas:0 "Artas"
  dynn_Tabaras:0 "Tabaras"
+ #Italiote
+ dynn_Timarchid:0 "Timarchid"
+ dynn_Charid:0 "Charid"
+ dynn_Praxid:0 "Praxid"
