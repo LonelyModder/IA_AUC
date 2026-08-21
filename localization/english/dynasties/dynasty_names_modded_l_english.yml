@@ -22,9 +22,15 @@
  dynn_Tellius:0 "Tellius"
  dynn_Atius:0 "Atius"
  dynn_Calavius:0 "Calavius"
+ dynn_Junian:0 "Junius"
+ dynn_Ogulnian:0 "Ogulnian"
+ dynn_Cantian:0 "Cantius"
  #Umbrian
  dynn_Salvian:0 "Salvius"
- dynn_Veltian:0 "Veltian"
+ dynn_Veltian:0 "Veltianus"
+ dynn_Catian:0 "Catius"
+ dynn_Nerios:0 "Nerios"
+ dynn_Fufius:0 "Fufius"
  #Lapygian
  dynn_Messid:0 "Messid"
  dynn_Artas:0 "Artas"
@@ -33,3 +39,7 @@
  dynn_Timarchid:0 "Timarchid"
  dynn_Charid:0 "Charid"
  dynn_Praxid:0 "Praxid"
+ #Picentian
+ dynn_Aninas:0 "Aninas"
+ #Picenian
+ dynn_Sergian:0 "Sergian"

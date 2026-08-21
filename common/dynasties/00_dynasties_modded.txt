@@ -62,6 +62,13 @@ etruscan_saties = {
 	culture = "etruscan"
 }
 
+#Picentian
+
+picentian_aninas = {
+	name = "dynn_Aninas"
+	culture = "picentian"
+}
+
 #Oscan
 
 oscan_pomponius = {
@@ -104,16 +111,53 @@ oscan_calavius = {
 	culture = "oscan"
 }
 
+oscan_junian = {
+	name = "dynn_Junian"
+	culture = "oscan"
+}
+
+oscan_ogulnian = {
+	name = "dynn_Ogulnian"
+	culture = "oscan"
+}
+
+oscan_cantian = {
+	name = "dynn_Cantian"
+	culture = "oscan"
+}
+
 #Umbrian
 
 umbrian_salvian = {
 	name = "dynn_Salvian"
-	culture = "oscan"
+	culture = "umbrian"
 }
 
 umbrian_veltian = {
 	name = "dynn_Veltian"
-	culture = "oscan"
+	culture = "umbrian"
+}
+
+umbrian_catian = {
+	name = "dynn_Catian"
+	culture = "umbrian"
+}
+
+umbrian_nerios = {
+	name = "dynn_Nerios"
+	culture = "umbrian"
+}
+
+umbrian_fufius = {
+	name = "dynn_Fufius"
+	culture = "umbrian"
+}
+
+#Picenian
+
+picenian_sergian = {
+	name = "dynn_Sergian"
+	culture = "picenian"
 }
 
 #Lapygian

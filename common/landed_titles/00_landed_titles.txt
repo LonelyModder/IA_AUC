@@ -21773,3 +21773,8 @@ d_campani = {
 	color = { 0 201 40 }
 	landless = yes 
 }
+
+d_ausones = {
+	color = { 168 183 37 }
+	landless = yes 
+}

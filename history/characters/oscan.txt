@@ -57,9 +57,6 @@
 		add_pressed_claim = title:c_venusia
 		add_pressed_claim = title:c_guramentum
 		add_pressed_claim = title:c_i_elea
-		add_pressed_claim = title:c_siris
-		add_pressed_claim = title:c_heraclea
-		add_pressed_claim = title:c_liniacum
 	}
 	#437.4.21 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -84,9 +81,6 @@
 		add_pressed_claim = title:c_venusia
 		add_pressed_claim = title:c_guramentum
 		add_pressed_claim = title:c_i_elea
-		add_pressed_claim = title:c_siris
-		add_pressed_claim = title:c_heraclea
-		add_pressed_claim = title:c_liniacum
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -110,9 +104,7 @@
 		add_pressed_claim = title:c_bovianum
 		add_pressed_claim = title:c_beneventum
 		add_pressed_claim = title:c_luceria
-		add_pressed_claim = title:c_frentania
 		add_pressed_claim = title:c_vetulonia
-		add_pressed_claim = title:c_larinum
 	}
 	#437.4.21 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -353,6 +345,133 @@
 		add_pressed_claim = title:c_campeva
 		add_pressed_claim = title:c_capua
 		add_pressed_claim = title:c_nuceria
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000056 = {
+	name = "Galerius"
+	dynasty = oscan_junian
+	religion = "italic_pagan"
+	culture = oscan
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:c_paelignia
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000057 = {
+	name = "Paulinus"
+	dynasty = oscan_junian
+	religion = "italic_pagan"
+	culture = oscan
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:c_paelignia
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000064 = {
+	name = "Galerius"
+	dynasty = oscan_ogulnian
+	religion = "italic_pagan"
+	culture = oscan
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:c_liniacum
+		add_pressed_claim = title:c_siris
+		add_pressed_claim = title:c_heraclea
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000065 = {
+	name = "Paulinus"
+	dynasty = oscan_ogulnian
+	religion = "italic_pagan"
+	culture = oscan
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_ausones
+		add_pressed_claim = title:c_liniacum
+		add_pressed_claim = title:c_siris
+		add_pressed_claim = title:c_heraclea
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000066 = {
+	name = "Galerius"
+	dynasty = oscan_ogulnian
+	religion = "italic_pagan"
+	culture = oscan
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:c_frentania
+		add_pressed_claim = title:c_larinum
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000067 = {
+	name = "Paulinus"
+	dynasty = oscan_ogulnian
+	religion = "italic_pagan"
+	culture = oscan
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:c_frentania
+		add_pressed_claim = title:c_larinum
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family

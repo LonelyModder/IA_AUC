@@ -261,7 +261,7 @@
 }
 
 306 = {		
-	culture = umbrian
+	culture = oscan
 	religion = italic_pagan
 	holding = tribal_holding
 }
