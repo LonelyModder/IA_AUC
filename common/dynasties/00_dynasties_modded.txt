@@ -126,6 +126,16 @@ oscan_cantian = {
 	culture = "oscan"
 }
 
+oscan_decian = {
+	name = "dynn_Decian"
+	culture = "oscan"
+}
+
+oscan_alfaternus = {
+	name = "dynn_Alfaternus"
+	culture = "oscan"
+}
+
 #Umbrian
 
 umbrian_salvian = {

@@ -13,6 +13,7 @@
  d_volsci:0 "Volscans"
  d_campani:0 "Campanians"
  d_ausones:0 "Ausonians"
+ d_oenotorians:0 "Oenotorians"
  # Empires
  e_westernrome:0 "Western Roman Empire"
  e_easternrome:0 "Eastern Roman Empire"
@@ -239,6 +240,7 @@
  d_deuria:0 "Deuria"
  # Couties
  c_drocubia:0 "Drocubia"
+ c_nuceria:0 "Nuceria"
  c_moetania:0 "Moetania"
  c_lauriacum:0 "Lauriacum"
  c_lecia:0 "Lecia"

@@ -38,7 +38,7 @@
 	#	add_character_flag = do_not_generate_starting_family
 	#}
 	460.1.1 = {
-		death = "260.1.1"
+		death = "460.1.1"
 	}
 }
 
@@ -62,7 +62,7 @@
 	#	add_character_flag = do_not_generate_starting_family
 	#}
 	460.1.1 = {
-		death = "260.1.1"
+		death = "460.1.1"
 	}
 }
 
@@ -110,7 +110,7 @@
 	#	add_character_flag = do_not_generate_starting_family
 	#}
 	460.1.1 = {
-		death = "260.1.1"
+		death = "460.1.1"
 	}
 }
 
@@ -160,7 +160,7 @@
 	#	add_character_flag = do_not_generate_starting_family
 	#}
 	460.1.1 = {
-		death = "260.1.1"
+		death = "460.1.1"
 	}
 }
 
@@ -204,7 +204,7 @@
 	#	add_character_flag = do_not_generate_starting_family
 	#}
 	460.1.1 = {
-		death = "260.1.1"
+		death = "460.1.1"
 	}
 }
 
@@ -244,7 +244,7 @@
 	#	add_character_flag = do_not_generate_starting_family
 	#}
 	460.1.1 = {
-		death = "260.1.1"
+		death = "460.1.1"
 	}
 }
 
@@ -284,7 +284,7 @@
 	#	add_character_flag = do_not_generate_starting_family
 	#}
 	460.1.1 = {
-		death = "260.1.1"
+		death = "460.1.1"
 	}
 }
 
@@ -327,7 +327,7 @@
 	#	add_character_flag = do_not_generate_starting_family
 	#}
 	460.1.1 = {
-		death = "260.1.1"
+		death = "460.1.1"
 	}
 }
 
@@ -370,7 +370,7 @@
 	#	add_character_flag = do_not_generate_starting_family
 	#}
 	460.1.1 = {
-		death = "260.1.1"
+		death = "460.1.1"
 	}
 }
 
@@ -412,7 +412,7 @@
 	#	add_character_flag = do_not_generate_starting_family
 	#}
 	460.1.1 = {
-		death = "260.1.1"
+		death = "460.1.1"
 	}
 }
 
@@ -456,7 +456,7 @@
 	#	add_character_flag = do_not_generate_starting_family
 	#}
 	460.1.1 = {
-		death = "260.1.1"
+		death = "460.1.1"
 	}
 }
 
@@ -472,6 +472,89 @@
 	250.1.1 = {
 		add_pressed_claim = title:c_frentania
 		add_pressed_claim = title:c_larinum
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000068 = {
+	name = "Herculius"
+	dynasty = oscan_decian
+	religion = "italic_pagan"
+	culture = oscan
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:c_sybaris
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000069 = {
+	name = "Tiberius"
+	dynasty = oscan_decian
+	religion = "italic_pagan"
+	culture = oscan
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_oenotorians
+		add_pressed_claim = title:c_consentia
+		add_pressed_claim = title:c_sybaris
+		add_pressed_claim = title:c_kroton
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000070 = {
+	name = "Marcus"
+	dynasty = oscan_alfaternus
+	religion = "italic_pagan"
+	culture = oscan
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:c_nuceria
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000071 = {
+	name = "Liberius"
+	dynasty = oscan_alfaternus
+	religion = "italic_pagan"
+	culture = oscan
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:c_nuceria
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family

@@ -570,7 +570,7 @@ c_consentia = {
 	437.4.21 = { change_development_level = 3 }
 	
 	258.4.4 = {
-		holder = 2000036
+		holder = 2000069
 	}
 	437.4.21 = {
 		holder = 2000035
@@ -589,15 +589,28 @@ c_scylletum = {
 	}
 }
 
+d_oenotorians = {
+	258.4.4 = {
+		holder = 2000069
+	}
+}
+
+d_ausones = {
+	258.4.4 = {
+		holder = 2000065
+	}
+}
+
 c_sybaris = {
 	258.4.4 = {	change_development_level = 1 }
 	437.4.21 = { change_development_level = 3 }
 	
 	258.4.4 = {
-		holder = 2000036
+		holder = 2000069
 	}
 	437.4.21 = {
-		holder = 2000035
+		liege = "d_bruttians"
+		holder = 2000068
 	}
 }
 
@@ -777,10 +790,12 @@ c_capua = {
 	437.4.21 = { change_development_level = 10 }
 	
 	258.4.4 = {
-		holder = 2000048
+		liege="d_campani"
+		holder = 2000071
 	}
 	437.4.21 = {
-		holder = 2000047
+		liege="d_campani"
+		holder = 2000070
 	}
 }
 
@@ -813,7 +828,7 @@ c_kroton = {
 	437.4.21 = { change_development_level = 20 }
 	
 	258.4.4 = {
-		holder = 2000036
+		holder = 2000069
 	}
 	437.4.21 = {
 		holder = 2000050

@@ -21778,3 +21778,8 @@ d_ausones = {
 	color = { 168 183 37 }
 	landless = yes 
 }
+
+d_oenotorians = {
+	color = { 84 42 141 }
+	landless = yes 
+}

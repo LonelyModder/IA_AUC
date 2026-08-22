@@ -17,7 +17,7 @@
 	#	add_character_flag = do_not_generate_starting_family
 	#}
 	460.1.1 = {
-		death = "260.1.1"
+		death = "460.1.1"
 	}
 }
 
@@ -64,7 +64,7 @@
 	#	add_character_flag = do_not_generate_starting_family
 	#}
 	460.1.1 = {
-		death = "260.1.1"
+		death = "460.1.1"
 	}
 }
 
@@ -108,7 +108,7 @@
 	#	add_character_flag = do_not_generate_starting_family
 	#}
 	460.1.1 = {
-		death = "260.1.1"
+		death = "460.1.1"
 	}
 }
 
@@ -148,7 +148,7 @@
 	#	add_character_flag = do_not_generate_starting_family
 	#}
 	460.1.1 = {
-		death = "260.1.1"
+		death = "460.1.1"
 	}
 }
 
@@ -188,7 +188,7 @@
 	#	add_character_flag = do_not_generate_starting_family
 	#}
 	460.1.1 = {
-		death = "260.1.1"
+		death = "460.1.1"
 	}
 }
 

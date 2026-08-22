@@ -2,7 +2,7 @@
 	name = "Gaius"
 	dynasty = picenian_sergian
 	religion = "italic_pagan"
-	culture = picentian
+	culture = picenian
 	#father = 32974
 	400.1.1 = {
 		birth = "400.1.1"
@@ -24,7 +24,7 @@
 	name = "Priscus"
 	dynasty = picenian_sergian
 	religion = "italic_pagan"
-	culture = picentian
+	culture = picenian
 	#father = 32974
 	230.1.1 = {
 		birth = "230.1.1"
