@@ -290,10 +290,11 @@ c_guramentum = {
 	437.4.21 = { change_development_level = 3 }
 	
 	258.4.4 = {
-		holder = 2000026 
+		holder = 2000076 
 	}
 	437.4.21 = {
-		holder = 2000025
+		liege="d_lukanians"
+		holder = 2000077
 	}
 }
 
@@ -302,10 +303,11 @@ c_i_elea = {
 	437.4.21 = { change_development_level = 3 }
 	
 	258.4.4 = {
-		holder = 2000026 
+		holder = 2000076 
 	}
 	437.4.21 = {
-		holder = 2000025
+		liege="d_lukanians"
+		holder = 2000077
 	}
 }
 
@@ -374,10 +376,12 @@ c_beneventum = {
 	437.4.21 = { change_development_level = 3 }
 	
 	258.4.4 = {
-		holder = 2000028 
+		liege="d_samnites"
+		holder = 2000073 
 	}
 	437.4.21 = {
-		holder = 2000027
+		liege="d_samnites"
+		holder = 2000072
 	}
 }
 
@@ -386,10 +390,12 @@ c_luceria = {
 	437.4.21 = { change_development_level = 3 }
 	
 	258.4.4 = {
-		holder = 2000028 
+		liege="d_samnites"
+		holder = 2000073 
 	}
 	437.4.21 = {
-		holder = 2000027
+		liege="d_samnites"
+		holder = 2000072
 	}
 }
 
@@ -412,10 +418,12 @@ c_vetulonia = {
 	437.4.21 = { change_development_level = 3 }
 	
 	258.4.4 = {
-		holder = 2000028 
+		liege="d_samnites"
+		holder = 2000075 
 	}
 	437.4.21 = {
-		holder = 2000027
+		liege="d_samnites"
+		holder = 2000074
 	}
 }
 

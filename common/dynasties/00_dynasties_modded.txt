@@ -136,6 +136,21 @@ oscan_alfaternus = {
 	culture = "oscan"
 }
 
+oscan_caudinus = {
+	name = "dynn_Caudinus"
+	culture = "oscan"
+}
+
+oscan_harpinus = {
+	name = "dynn_Harpinus"
+	culture = "oscan"
+}
+
+oscan_chonesius = {
+	name = "dynn_Chonesius"
+	culture = "oscan"
+}
+
 #Umbrian
 
 umbrian_salvian = {

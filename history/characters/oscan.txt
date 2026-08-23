@@ -55,8 +55,6 @@
 		add_pressed_claim = title:d_lukanians
 		add_pressed_claim = title:c_potenza
 		add_pressed_claim = title:c_venusia
-		add_pressed_claim = title:c_guramentum
-		add_pressed_claim = title:c_i_elea
 	}
 	#437.4.21 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -79,8 +77,6 @@
 		add_pressed_claim = title:d_lukanians
 		add_pressed_claim = title:c_potenza
 		add_pressed_claim = title:c_venusia
-		add_pressed_claim = title:c_guramentum
-		add_pressed_claim = title:c_i_elea
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -102,9 +98,6 @@
 	436.1.1 = {
 		add_pressed_claim = title:d_samnites
 		add_pressed_claim = title:c_bovianum
-		add_pressed_claim = title:c_beneventum
-		add_pressed_claim = title:c_luceria
-		add_pressed_claim = title:c_vetulonia
 	}
 	#437.4.21 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -126,11 +119,6 @@
 	250.1.1 = {
 		add_pressed_claim = title:d_samnites
 		add_pressed_claim = title:c_bovianum
-		add_pressed_claim = title:c_beneventum
-		add_pressed_claim = title:c_luceria
-		add_pressed_claim = title:c_frentania
-		add_pressed_claim = title:c_vetulonia
-		add_pressed_claim = title:c_larinum
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -555,6 +543,130 @@
 	}
 	250.1.1 = {
 		add_pressed_claim = title:c_nuceria
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000072 = {
+	name = "Sempronius"
+	dynasty = oscan_caudinus
+	religion = "italic_pagan"
+	culture = oscan
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:c_beneventum
+		add_pressed_claim = title:c_luceria
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000073 = {
+	name = "Felix"
+	dynasty = oscan_caudinus
+	religion = "italic_pagan"
+	culture = oscan
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:c_beneventum
+		add_pressed_claim = title:c_luceria
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000074 = {
+	name = "Caecilius"
+	dynasty = oscan_harpinus
+	religion = "italic_pagan"
+	culture = oscan
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:c_vetulonia
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000075 = {
+	name = "Severus"
+	dynasty = oscan_harpinus
+	religion = "italic_pagan"
+	culture = oscan
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:c_vetulonia
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000076 = {
+	name = "Decimus"
+	dynasty = oscan_chonesius
+	religion = "italic_pagan"
+	culture = oscan
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:c_guramentum
+		add_pressed_claim = title:c_i_elea
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000077 = {
+	name = "Paulus"
+	dynasty = oscan_chonesius
+	religion = "italic_pagan"
+	culture = oscan
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:c_guramentum
+		add_pressed_claim = title:c_i_elea
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family
