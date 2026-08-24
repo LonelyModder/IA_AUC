@@ -1,0 +1,44 @@
+d_gymnesian = {
+	258.4.4 = {
+		holder = 2000079
+	}
+	437.4.21 = {
+		holder = 2000078
+	}
+}
+
+c_balearismaior = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000079
+	}
+	437.4.21 = {
+		holder = 2000078
+	}
+}
+
+c_ebesus = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000079
+	}
+	437.4.21 = {
+		holder = 2000078
+	}
+}
+
+c_mago = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000079
+	}
+	437.4.21 = {
+		holder = 2000078
+	}
+}

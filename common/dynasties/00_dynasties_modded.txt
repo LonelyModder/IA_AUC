@@ -218,3 +218,10 @@ italite_praxid = {
 	name = "dynn_Praxid"
 	culture = "oscan"
 }
+
+#Talayotan
+
+talayotan_budidus = {
+	name = "dynn_Budidus"
+	culture = "talayotan"
+}

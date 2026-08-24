@@ -1,6 +1,6 @@
 ﻿53 = {		
-	culture = baranis
-	religion = nuragic_pagan
+	culture = punic
+	religion = canaanite_pagan
 	holding = none
 }
 
@@ -23,8 +23,8 @@
 }
 
 76 = {		
-	culture = baranis
-	religion = nuragic_pagan
+	culture = punic
+	religion = canaanite_pagan
 	holding = none
 }
 
@@ -47,8 +47,8 @@
 }
 
 80 = {		
-	culture = baranis
-	religion = nuragic_pagan
+	culture = punic
+	religion = canaanite_pagan
 	holding = none
 }
 
@@ -181,7 +181,7 @@
 }
 
 101 = {		
-	culture = baranis
+	culture = corsian
 	religion = nuragic_pagan
 	holding = none
 }
@@ -193,7 +193,7 @@
 }
 
 103 = {		
-	culture = baranis
+	culture = corsian
 	religion = nuragic_pagan
 	holding = none
 }
@@ -217,13 +217,13 @@
 }
 
 107 = {		
-	culture = baranis
+	culture = corsian
 	religion = nuragic_pagan
 	holding = none
 }
 
 108 = {		
-	culture = baranis
+	culture = corsian
 	religion = nuragic_pagan
 	holding = none
 }
@@ -235,7 +235,7 @@
 }
 
 110 = {		
-	culture = baranis
+	culture = corsian
 	religion = nuragic_pagan
 	holding = none
 }
@@ -253,37 +253,37 @@
 }
 
 3731 = {		
-	culture = baranis
+	culture = talayotan
 	religion = nuragic_pagan
 	holding = none
 }
 
 3732 = {		
-	culture = baranis
+	culture = talayotan
 	religion = nuragic_pagan
 	holding = none
 }
 
 3733 = {		
-	culture = baranis
+	culture = talayotan
 	religion = nuragic_pagan
 	holding = none
 }
 
 3734 = {		
-	culture = baranis
+	culture = talayotan
 	religion = nuragic_pagan
 	holding = none
 }
 
 3735 = {		
-	culture = baranis
+	culture = talayotan
 	religion = nuragic_pagan
 	holding = none
 }
 
 3736 = {		
-	culture = baranis
+	culture = talayotan
 	religion = nuragic_pagan
 	holding = none
 }

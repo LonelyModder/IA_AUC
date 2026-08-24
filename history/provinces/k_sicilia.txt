@@ -47,8 +47,8 @@
 }
 
 26 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = punic
+	religion = canaanite_pagan
 	holding = none
 }
 
@@ -155,8 +155,8 @@
 }
 
 44 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = punic
+	religion = canaanite_pagan
 	holding = none
 }
 
@@ -191,7 +191,7 @@
 }
 
 50 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = punic
+	religion = canaanite_pagan
 	holding = none
 }
