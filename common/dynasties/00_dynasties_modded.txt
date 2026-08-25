@@ -20,6 +20,13 @@ latin_capenatus = {
 	culture = "rlatin"
 }
 
+#Elymian
+
+elymian_salonius = {
+	name = "dynn_Salonius"
+	culture = "elymian"
+}
+
 #Etruscan
 
 etruscan_tarchna = {
@@ -67,6 +74,13 @@ etruscan_saties = {
 picentian_aninas = {
 	name = "dynn_Aninas"
 	culture = "picentian"
+}
+
+#Sicanian
+
+sicanian_cazius = {
+	name = "dynn_Cazius"
+	culture = "sicanian"
 }
 
 #Oscan
@@ -202,21 +216,40 @@ lapygian_tabaras = {
 	culture = "oscan"
 }
 
+#Siculian
+
+siclulian_verzaiid = {
+	name = "dynn_Verzaiid"
+	culture = "oscan"
+}
+
 #Italiote
 
 italite_timarchid = {
 	name = "dynn_Timarchid"
-	culture = "oscan"
+	culture = "italiote"
 }
 
 italite_charid = {
 	name = "dynn_Charid"
-	culture = "oscan"
+	culture = "italiote"
 }
 
 italite_praxid = {
 	name = "dynn_Praxid"
-	culture = "oscan"
+	culture = "italiote"
+}
+
+#Scielote
+
+scielote_zenonid = {
+	name = "dynn_Zenonid"
+	culture = "scielote"
+}
+
+scielote_bikon = {
+	name = "dynn_Bikon"
+	culture = "scielote"
 }
 
 #Talayotan
@@ -224,4 +257,21 @@ italite_praxid = {
 talayotan_budidus = {
 	name = "dynn_Budidus"
 	culture = "talayotan"
+}
+
+#Punic
+
+punic_abbarid = {
+	name = "dynn_Abbarid"
+	culture = "punic"
+}
+
+punic_baalid = {
+	name = "dynn_Baalid"
+	culture = "punic"
+}
+
+punic_gisgo = {
+	name = "dynn_Gisgo"
+	culture = "punic"
 }

@@ -14,6 +14,9 @@
  d_campani:0 "Campanians"
  d_ausones:0 "Ausonians"
  d_oenotorians:0 "Oenotorians"
+ d_siculians:0 "Siculians"
+ d_sicanians:0 "Sicanians"
+ d_elymians:0 "Elymians"
  # Empires
  e_westernrome:0 "Western Roman Empire"
  e_easternrome:0 "Eastern Roman Empire"
@@ -252,6 +255,8 @@
  c_lunae:0 "Lunae"
  c_iuvavum:0 "Iuvavum"
  c_dicedia:0 "Dicedia"
+ c_comarina:0 "Comarina"
+ c_agrigentum:0 "Agrigentum"
  c_iacum:0 "Iacum"
  c_cetium:0 "Cetium"
  c_cores:0 "Cores"

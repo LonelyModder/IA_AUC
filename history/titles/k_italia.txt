@@ -820,7 +820,7 @@ c_nuceria = {
 }
 
 c_cumae = {
-	258.4.4 = {	change_development_level = 5 }
+	258.4.4 = {	change_development_level = 1 }
 	437.4.21 = { change_development_level = 20 }
 	
 	258.4.4 = {
@@ -832,7 +832,7 @@ c_cumae = {
 }
 
 c_kroton = {
-	258.4.4 = {	change_development_level = 5 }
+	258.4.4 = {	change_development_level = 1 }
 	437.4.21 = { change_development_level = 20 }
 	
 	258.4.4 = {
@@ -844,7 +844,7 @@ c_kroton = {
 }
 
 c_rhegion = {
-	258.4.4 = {	change_development_level = 5 }
+	258.4.4 = {	change_development_level = 1 }
 	437.4.21 = { change_development_level = 20 }
 	
 	258.4.4 = {

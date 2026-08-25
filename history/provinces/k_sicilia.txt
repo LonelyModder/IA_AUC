@@ -1,7 +1,11 @@
 ﻿11 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = siculian
+	religion = illyrian_pagan
 	holding = none
+	437.4.21 = { 
+		culture = scielote
+		religion = greek_pagan 
+	}
 }
 
 12 = {		
@@ -17,9 +21,13 @@
 }
 
 21 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = siculian
+	religion = illyrian_pagan
 	holding = none
+	437.4.21 = { 
+		culture = scielote
+		religion = greek_pagan 
+	}
 }
 
 22 = {		
@@ -29,8 +37,8 @@
 }
 
 23 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = siculian
+	religion = illyrian_pagan
 	holding = tribal_holding
 }
 
@@ -47,20 +55,24 @@
 }
 
 26 = {		
-	culture = punic
-	religion = canaanite_pagan
+	culture = elymian
+	religion = italic_pagan
 	holding = none
+	437.4.21 = { 
+		culture = punic
+		religion = canaanite_pagan
+	}
 }
 
 27 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = siculian
+	religion = illyrian_pagan
 	holding = tribal_holding
 }
 
 28 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = siculian
+	religion = illyrian_pagan
 	holding = tribal_holding
 }
 
@@ -77,14 +89,14 @@
 }
 
 31 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = siculian
+	religion = illyrian_pagan
 	holding = tribal_holding
 }
 
 32 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = siculian
+	religion = illyrian_pagan
 	holding = tribal_holding
 }
 
@@ -95,8 +107,8 @@
 }
 
 34 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = siculian
+	religion = illyrian_pagan
 	holding = tribal_holding
 }
 
@@ -107,8 +119,8 @@
 }
 
 36 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = siculian
+	religion = illyrian_pagan
 	holding = tribal_holding
 }
 
@@ -119,8 +131,8 @@
 }
 
 38 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = siculian
+	religion = illyrian_pagan
 	holding = none
 }
 
@@ -131,20 +143,20 @@
 }
 
 40 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = sicanian
+	religion = etruscan_pagan
 	holding = tribal_holding
 }
 
 41 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = sicanian
+	religion = etruscan_pagan
 	holding = tribal_holding
 }
 
 42 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = sicanian
+	religion = etruscan_pagan
 	holding = tribal_holding
 }
 
@@ -155,14 +167,18 @@
 }
 
 44 = {		
-	culture = punic
-	religion = canaanite_pagan
+	culture = sicanian
+	religion = etruscan_pagan
 	holding = none
+	437.4.21 = { 
+		culture = punic
+		religion = canaanite_pagan
+	}
 }
 
 45 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = elymian
+	religion = italic_pagan
 	holding = tribal_holding
 }
 
@@ -173,14 +189,14 @@
 }
 
 47 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = elymian
+	religion = italic_pagan
 	holding = tribal_holding
 }
 
 48 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = elymian
+	religion = italic_pagan
 	holding = tribal_holding
 }
 
@@ -191,7 +207,11 @@
 }
 
 50 = {		
-	culture = punic
-	religion = canaanite_pagan
+	culture = siculian
+	religion = illyrian_pagan
 	holding = none
+	437.4.21 = { 
+		culture = punic
+		religion = canaanite_pagan
+	}
 }

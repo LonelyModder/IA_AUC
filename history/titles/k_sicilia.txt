@@ -1,0 +1,269 @@
+c_syracuse = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000083
+	}
+	437.4.21 = {
+		holder = 2000080
+	}
+}
+
+c_messina = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000083
+	}
+	437.4.21 = {
+		holder = 2000081
+	}
+}
+
+d_siculians = {
+	
+	258.4.4 = {
+		holder = 2000083
+	}
+	437.4.21 = {
+		holder = 2000082
+	}
+}
+
+c_centuripa = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000083
+	}
+	437.4.21 = {
+		holder = 2000082
+	}
+}
+
+c_gela = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000083
+	}
+	437.4.21 = {
+		holder = 2000082
+	}
+}
+
+c_leontini = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000083
+	}
+	437.4.21 = {
+		holder = 2000082
+	}
+}
+
+c_veralamium = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000083
+	}
+	437.4.21 = {
+		holder = 2000082
+	}
+}
+
+c_catana = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000083
+	}
+	437.4.21 = {
+		holder = 2000082
+	}
+}
+
+c_tyndaris = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000083
+	}
+	437.4.21 = {
+		holder = 2000082
+	}
+}
+
+c_thermae = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000083
+	}
+	437.4.21 = {
+		holder = 2000082
+	}
+}
+
+c_comarina = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000083
+	}
+	437.4.21 = {
+		holder = 2000082
+	}
+}
+
+c_himera = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000083
+	}
+	437.4.21 = {
+		holder = 2000082
+	}
+}
+
+d_sicanins = {
+	
+	258.4.4 = {
+		holder = 2000085
+	}
+	437.4.21 = {
+		holder = 2000084
+	}
+}
+
+c_emerita = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000085
+	}
+	437.4.21 = {
+		holder = 2000084
+	}
+}
+
+c_agrigentum = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000085
+	}
+	437.4.21 = {
+		holder = 2000084
+	}
+}
+
+c_minoa = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000085
+	}
+	437.4.21 = {
+		holder = 2000084
+	}
+}
+
+d_elymians = {
+	
+	258.4.4 = {
+		holder = 2000087
+	}
+	437.4.21 = {
+		holder = 2000086
+	}
+}
+
+c_elymia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000087
+	}
+	437.4.21 = {
+		holder = 2000086
+	}
+}
+
+c_selinus = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000087
+	}
+	437.4.21 = {
+		holder = 2000086
+	}
+}
+
+c_glevensium = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 3 }
+	
+	258.4.4 = {
+		holder = 2000087
+	}
+	437.4.21 = {
+		holder = 2000086
+	}
+}
+
+c_motya = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 25 }
+	
+	258.4.4 = {
+		holder = 2000087
+	}
+	437.4.21 = {
+		holder = 2000088
+	}
+}
+
+c_panormus = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 25 }
+	
+	258.4.4 = {
+		holder = 2000085
+	}
+	437.4.21 = {
+		holder = 2000089
+	}
+}
+
+c_melita = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 25 }
+	
+	258.4.4 = {
+		holder = 2000083
+	}
+	437.4.21 = {
+		holder = 2000090
+	}
+}

@@ -23,7 +23,7 @@
 }
 
 italiote = {
-	color = { 0.66 0.97 0.68 }
+	color = { 0.36 0.54 0.66 }
 	
 	parents = { hellenic_group }
 	
@@ -52,7 +52,7 @@ italiote = {
 }
 
 scielote = {
-	color = { 0.66 0.97 0.68 }
+	color = { 0.0 1.0 1.0 }
 	
 	parents = { hellenic_group }
 	

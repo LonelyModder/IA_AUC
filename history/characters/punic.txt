@@ -1,0 +1,59 @@
+﻿2000088 = {
+	name = "Germelqart"
+	dynasty = punic_abbarid
+	religion = "canaanite_pagan"
+	culture = punic
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:c_motya
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000089 = {
+	name = "Kanmi"
+	dynasty = punic_baalid
+	religion = "canaanite_pagan"
+	culture = punic
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:c_panormus
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000090 = {
+	name = "Baaliaton"
+	dynasty = punic_gisgo
+	religion = "canaanite_pagan"
+	culture = punic
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:c_melita
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}

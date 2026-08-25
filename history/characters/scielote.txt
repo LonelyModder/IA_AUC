@@ -1,0 +1,39 @@
+﻿2000080 = {
+	name = "Attalos"
+	dynasty = scielote_zenonid
+	religion = "greek_pagan"
+	culture = scielote
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:c_syracuse
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000081 = {
+	name = "Gorgos"
+	dynasty = scielote_bikon
+	religion = "greek_pagan"
+	culture = scielote
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:c_messina
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}

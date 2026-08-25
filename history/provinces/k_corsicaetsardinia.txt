@@ -271,19 +271,13 @@
 }
 
 3734 = {		
-	culture = talayotan
-	religion = nuragic_pagan
 	holding = none
 }
 
 3735 = {		
-	culture = talayotan
-	religion = nuragic_pagan
 	holding = none
 }
 
 3736 = {		
-	culture = talayotan
-	religion = nuragic_pagan
 	holding = none
 }

@@ -20263,11 +20263,21 @@ e_westernrome = {
 					province = 12
 				}
 				
+			}
+			
+			c_comarina = {
+				color = { 168 27 132 }
+				
 				b_comarina_13 = {
 					color = { 168 27 132 }
 					province = 13
 				}
 			
+				b_heraclea_30 = {
+					color = { 42 78 13 }
+					province = 30
+				}
+				
 			}
 			
 			c_gela = {
@@ -20285,11 +20295,6 @@ e_westernrome = {
 				b_centuripa_31 = {
 					color = { 126 84 14 }
 					province = 31
-				}
-				
-				b_heraclea_30 = {
-					color = { 42 78 13 }
-					province = 30
 				}
 				
 				b_henna_37 = {
@@ -21781,5 +21786,20 @@ d_ausones = {
 
 d_oenotorians = {
 	color = { 84 42 141 }
+	landless = yes 
+}
+
+d_siculians = {
+	color = { 32 150 214 }
+	landless = yes 
+}
+
+d_sicanians = {
+	color = { 135 207 72 }
+	landless = yes 
+}
+
+d_elymians = {
+	color = { 194 83 35 }
 	landless = yes 
 }

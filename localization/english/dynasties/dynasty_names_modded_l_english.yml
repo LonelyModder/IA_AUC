@@ -13,6 +13,10 @@
  dynn_Velca:0 "Velca"
  dynn_Vetluna:0 "Vetluna"
  dynn_Saties:0 "Saties"
+ #Sicanian
+ dynn_Cazius:0 "Cazius"
+ #Elymian
+ dynn_Salonius:0 "Salonius"
  #Oscan
  dynn_Pomponius:0 "Pomponius"
  dynn_Papius:0 "Papius"
@@ -40,13 +44,22 @@
  dynn_Messid:0 "Messid"
  dynn_Artas:0 "Artas"
  dynn_Tabaras:0 "Tabaras"
+ #Siculian
+ dynn_Verzaiid:0 "Verzaiid"
  #Italiote
  dynn_Timarchid:0 "Timarchid"
  dynn_Charid:0 "Charid"
  dynn_Praxid:0 "Praxid"
+ #Scielote
+ dynn_Zenonid:0 "Zenonid"
+ dynn_Bikon:0 "Bikon"
  #Picentian
  dynn_Aninas:0 "Aninas"
  #Picenian
  dynn_Sergian:0 "Sergian"
  #Talayotan
  dynn_Budidus:0 "Budidus"
+ #Punic
+ dynn_Abbarid:0 "Abbarid"
+ dynn_Baalid:0 "Baalid"
+ dynn_Gisgo:0 "Gisgo"

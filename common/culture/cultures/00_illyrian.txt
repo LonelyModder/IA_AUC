@@ -23,7 +23,7 @@
 }
 
 lapygian = {
-	color = { 0.53 0.79 0.98 }
+	color = { 0.56 0.74 0.56 }
 	
 	parents = { illyrian_group }
 	

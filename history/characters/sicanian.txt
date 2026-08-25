@@ -1,0 +1,46 @@
+﻿2000084 = {
+	name = "Anche"
+	dynasty = sicanian_cazius
+	religion = "etruscan_pagan"
+	culture = sicanian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_sicanians
+		add_pressed_claim = title:c_emerita
+		add_pressed_claim = title:c_agrigentum
+		add_pressed_claim = title:c_minoa
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000085 = {
+	name = "Velthur"
+	dynasty = sicanian_cazius
+	religion = "etruscan_pagan"
+	culture = sicanian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_sicanians
+		add_pressed_claim = title:c_emerita
+		add_pressed_claim = title:c_agrigentum
+		add_pressed_claim = title:c_minoa
+		add_pressed_claim = title:c_panormus
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
