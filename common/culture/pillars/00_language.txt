@@ -847,6 +847,24 @@ language_nuragian = {
 	color = italian
 }
 
+language_libyan = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_libyan
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_libyan }
+			multiply = 10
+		}
+	}
+	
+	color = italian
+}
+
 language_umbrian = {
 	type = language
 	is_shown = {

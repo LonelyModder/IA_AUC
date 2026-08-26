@@ -1191,3 +1191,69 @@ name_list_nuragian = {
 
 	
 }
+
+name_list_libyan = {
+	
+	cadet_dynasty_names = {
+		Ahmid.Ahmid.Ahmid.Ahmid
+		Galesta.Galesta.Galestid.Galestid
+		Kenamid.Kenamid.Kenamid.Kenamid
+		Narava.Narava.Naravid.Naravid
+		Penamid.Penamid.Penamid.Penamid
+		Senua.Senua.Senuid.Senuid
+		Setna.Setna.Setnid.Setnid
+		Adherba.Adherba.Adherbid.Adherbid
+		Masinna.Masinna.Masinnid.Masinnid
+		Tacfarina.Tacfarina.Tacfarinid.Tacfarinid
+		Syphid.Syphid.Syphid.Syphid
+		Vermina.Vermina.Verminid.Verminid
+		Galid.Galid.Galid.Galid
+		Jugurthid.Jugurthid.Jugurthid.Jugurthid
+	}
+	
+	dynasty_names = {
+		Ahmid.Ahmid.Ahmid.Ahmid
+		Galesta.Galesta.Galestid.Galestid
+		Kenamid.Kenamid.Kenamid.Kenamid
+		Narava.Narava.Naravid.Naravid
+		Penamid.Penamid.Penamid.Penamid
+		Senua.Senua.Senuid.Senuid
+		Setna.Setna.Setnid.Setnid
+		Adherba.Adherba.Adherbid.Adherbid
+		Masinna.Masinna.Masinnid.Masinnid
+		Tacfarina.Tacfarina.Tacfarinid.Tacfarinid
+		Syphid.Syphid.Syphid.Syphid
+		Vermina.Vermina.Verminid.Verminid
+		Galid.Galid.Galid.Galid
+		Jugurthid.Jugurthid.Jugurthid.Jugurthid
+	}
+	
+	male_names = {
+		Adherbal	Bomilcar	Ezena	Gauda	Gulussa	Hiempsal
+		Iampsas	Jugurtha	Masinissa	Massiva	Mastanabal	Micipsa
+		Nabdalsa	Naravas	Oxyntas	Sypax	Syphax	Tacfarinas
+		Tychaeus	Vermina	Zeteres Gala Amastan Mastan
+		Thanub Tjaenhebu Thanenhebu Senakhtenre Ahmose Apries Haaibre Amenmesse Amenemhat Ahmenhotep Akhenamun Ay Amenemnisu Amenemope Atlanersa Anlamani Aspelta Apries
+		Wahibre Haaibre Bek Bebiankh Bebnum Bakenranef Bebiankh Bay Isru Baskakeren Babaef Baufra Buneb Baqet Isesi Djedkare Isesi Djoser Djehutyemhat Dedumose Djehuty
+	}
+	female_names = {
+		Anno Salammbo	Sophonisba Panisba Ena Palema Synno Narva Enno Adhierno Ballanba
+		Behenu Beketamun Baketwernel Betrest Bunefer Bintanath Duatentopet Duathathor-Henuttawy Duathathor Henuttawy Djetfatnebti Djeseretnebti Djefatsen Dakhamunzu Gautseshen 
+		Gilukhipa Hatshepsut Hatshepsut-Merytre Henuttaneb Henutmehyt Henutmire Henuttawy Henutwati Henut Taui Henut Taui Hetephernebti Hekenuhedjet Hemetre Henutsen Hetepheres 
+		Khamerernebty Khentkaus Khentetka Kapes Weret Khedebneithirinet Keminub
+	}
+	dynasty_of_location_prefix = "dynnp_of"
+	patronym_prefix_male = "dynnpat_pre_filius"
+
+	# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+	pat_grf_name_chance = 50
+	mat_grf_name_chance = 0
+	father_name_chance = 50
+	
+	# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+	pat_grm_name_chance = 50
+	mat_grm_name_chance = 50
+	mother_name_chance = 0
+
+	
+}

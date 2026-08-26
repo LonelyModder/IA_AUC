@@ -1,581 +1,581 @@
 ﻿3932 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3933 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = tribal_holding
 }
 
 3934 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3935 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3936 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3937 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3938 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = tribal_holding
 }
 
 3939 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3940 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = tribal_holding
 }
 
 3941 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3942 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3943 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3944 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = tribal_holding
 }
 
 3945 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3946 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3947 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3948 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = tribal_holding
 }
 
 3949 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3950 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = tribal_holding
 }
 
 3951 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3952 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3953 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = tribal_holding
 }
 
 3954 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3955 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3956 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = tribal_holding
 }
 
 3957 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3958 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3959 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3960 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3961 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = tribal_holding
 }
 
 3962 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3963 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3964 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3965 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = tribal_holding
 }
 
 3966 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3967 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3968 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3969 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3970 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3971 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3972 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = tribal_holding
 }
 
 3973 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3974 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3975 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3976 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3979 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3980 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3981 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = tribal_holding
 }
 
 3982 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3983 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = tribal_holding
 }
 
 3984 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3985 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = tribal_holding
 }
 
 3986 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3987 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3988 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3989 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3990 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3991 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3992 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = tribal_holding
 }
 
 3993 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3994 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3995 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = tribal_holding
 }
 
 3996 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3997 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3998 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 3999 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = tribal_holding
 }
 
 4000 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 4001 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 4002 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 4003 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 4004 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 4005 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = tribal_holding
 }
 
 4006 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 4007 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 4008 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 4009 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 4010 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 4011 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 4012 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 4013 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = tribal_holding
 }
 
 4014 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 4015 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = tribal_holding
 }
 
 4016 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 4017 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 4018 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 4019 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 4020 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 4021 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = tribal_holding
 }
 
 4022 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 4023 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 4024 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 4025 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 4026 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = tribal_holding
 }
 
 4027 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 4028 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = tribal_holding
 }
 
 4029 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
 
 4030 = {		
 	culture = baranis
-	religion = west_african_pagan
+	religion = berber_pagan
 	holding = none
 }
