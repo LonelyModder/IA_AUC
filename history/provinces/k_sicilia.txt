@@ -15,8 +15,8 @@
 }
 
 13 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = siculian
+	religion = illyrian_pagan
 	holding = none
 }
 
@@ -55,8 +55,8 @@
 }
 
 26 = {		
-	culture = elymian
-	religion = italic_pagan
+	culture = siculian
+	religion = illyrian_pagan
 	holding = none
 	437.4.21 = { 
 		culture = punic
@@ -207,8 +207,8 @@
 }
 
 50 = {		
-	culture = siculian
-	religion = illyrian_pagan
+	culture = elymian
+	religion = italic_pagan
 	holding = none
 	437.4.21 = { 
 		culture = punic

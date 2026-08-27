@@ -798,12 +798,10 @@ c_capua = {
 	437.4.21 = { change_development_level = 10 }
 	
 	258.4.4 = {
-		liege="d_campani"
-		holder = 2000071
+		holder = 2000048
 	}
 	437.4.21 = {
-		liege="d_campani"
-		holder = 2000070
+		holder = 2000047
 	}
 }
 
@@ -812,10 +810,12 @@ c_nuceria = {
 	437.4.21 = { change_development_level = 10 }
 	
 	258.4.4 = {
-		holder = 2000048
+		liege="d_campani"
+		holder = 2000071
 	}
 	437.4.21 = {
-		holder = 2000047
+		liege="d_campani"
+		holder = 2000070
 	}
 }
 

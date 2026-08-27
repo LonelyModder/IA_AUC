@@ -140,7 +140,7 @@ c_himera = {
 	}
 }
 
-d_sicanins = {
+d_sicanians = {
 	
 	258.4.4 = {
 		holder = 2000085

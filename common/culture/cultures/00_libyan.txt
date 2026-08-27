@@ -28,8 +28,8 @@ massylian = {
 	parents = { libyan_group }
 	
 	ethos = ethos_bellicose
-	heritage = heritage_punic
-	language = language_punic
+	heritage = heritage_libyan
+	language = language_libyan
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_formation_fighting
@@ -57,8 +57,8 @@ massaesylian = {
 	parents = { libyan_group }
 	
 	ethos = ethos_bellicose
-	heritage = heritage_punic
-	language = language_punic
+	heritage = heritage_libyan
+	language = language_libyan
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_formation_fighting
@@ -86,8 +86,8 @@ maurian = {
 	parents = { libyan_group }
 	
 	ethos = ethos_bellicose
-	heritage = heritage_punic
-	language = language_punic
+	heritage = heritage_libyan
+	language = language_libyan
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_formation_fighting
@@ -115,8 +115,8 @@ gaetulian = {
 	parents = { libyan_group }
 	
 	ethos = ethos_bellicose
-	heritage = heritage_punic
-	language = language_punic
+	heritage = heritage_libyan
+	language = language_libyan
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_formation_fighting
@@ -144,8 +144,8 @@ abannean = {
 	parents = { libyan_group }
 	
 	ethos = ethos_bellicose
-	heritage = heritage_punic
-	language = language_punic
+	heritage = heritage_libyan
+	language = language_libyan
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_formation_fighting
@@ -173,8 +173,8 @@ gyzantian = {
 	parents = { libyan_group }
 	
 	ethos = ethos_bellicose
-	heritage = heritage_punic
-	language = language_punic
+	heritage = heritage_libyan
+	language = language_libyan
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_formation_fighting
@@ -202,8 +202,8 @@ lotophagian = {
 	parents = { libyan_group }
 	
 	ethos = ethos_bellicose
-	heritage = heritage_punic
-	language = language_punic
+	heritage = heritage_libyan
+	language = language_libyan
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_formation_fighting
@@ -231,8 +231,8 @@ macean = {
 	parents = { libyan_group }
 	
 	ethos = ethos_bellicose
-	heritage = heritage_punic
-	language = language_punic
+	heritage = heritage_libyan
+	language = language_libyan
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_formation_fighting
@@ -260,8 +260,124 @@ psyllian = {
 	parents = { libyan_group }
 	
 	ethos = ethos_bellicose
-	heritage = heritage_punic
-	language = language_punic
+	heritage = heritage_libyan
+	language = language_libyan
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_formation_fighting
+		tradition_legalistic
+		tradition_hereditary_hierarchy
+		tradition_noble_adoption
+	}
+	
+	name_list = name_list_libyan
+
+	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
+	building_gfx = { mediterranean_building_gfx } 
+	clothing_gfx = { byzantine_clothing_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { eastern_unit_gfx } 		
+
+	ethnicities = {
+		10 = mediterranean
+	}
+}
+
+marmaridian = {
+	color = { 0.51 0.4 0.27 }
+	
+	parents = { libyan_group }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_libyan
+	language = language_libyan
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_formation_fighting
+		tradition_legalistic
+		tradition_hereditary_hierarchy
+		tradition_noble_adoption
+	}
+	
+	name_list = name_list_libyan
+
+	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
+	building_gfx = { mediterranean_building_gfx } 
+	clothing_gfx = { byzantine_clothing_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { eastern_unit_gfx } 		
+
+	ethnicities = {
+		10 = mediterranean
+	}
+}
+
+ammonian = {
+	color = { 0.4 0.3 0.28 }
+	
+	parents = { libyan_group }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_libyan
+	language = language_libyan
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_formation_fighting
+		tradition_legalistic
+		tradition_hereditary_hierarchy
+		tradition_noble_adoption
+	}
+	
+	name_list = name_list_libyan
+
+	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
+	building_gfx = { mediterranean_building_gfx } 
+	clothing_gfx = { byzantine_clothing_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { eastern_unit_gfx } 		
+
+	ethnicities = {
+		10 = mediterranean
+	}
+}
+
+libu = {
+	color = { 0.73 0.4 0.16 }
+	
+	parents = { libyan_group }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_libyan
+	language = language_libyan
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_formation_fighting
+		tradition_legalistic
+		tradition_hereditary_hierarchy
+		tradition_noble_adoption
+	}
+	
+	name_list = name_list_libyan
+
+	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
+	building_gfx = { mediterranean_building_gfx } 
+	clothing_gfx = { byzantine_clothing_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { eastern_unit_gfx } 		
+
+	ethnicities = {
+		10 = mediterranean
+	}
+}
+
+meshwesh = {
+	color = { 0.59 0.44 0.09 }
+	
+	parents = { libyan_group }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_libyan
+	language = language_libyan
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_formation_fighting

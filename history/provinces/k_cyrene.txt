@@ -1,0 +1,221 @@
+﻿1873 = {		
+	culture = marmaridian
+	religion = berber_pagan
+	holding = none
+}
+
+1874 = {		
+	culture = marmaridian
+	religion = berber_pagan
+	holding = none
+}
+
+1875 = {		
+	culture = marmaridian
+	religion = berber_pagan
+	holding = tribal_holding
+}
+
+1876 = {		
+	culture = marmaridian
+	religion = berber_pagan
+	holding = tribal_holding
+}
+
+1877 = {		
+	culture = marmaridian
+	religion = berber_pagan
+	holding = none
+}
+
+1878 = {		
+	culture = marmaridian
+	religion = berber_pagan
+	holding = tribal_holding
+}
+
+1879 = {		
+	culture = marmaridian
+	religion = berber_pagan
+	holding = none
+}
+
+1880 = {		
+	culture = marmaridian
+	religion = berber_pagan
+	holding = none
+}
+
+1881 = {		
+	culture = marmaridian
+	religion = berber_pagan
+	holding = tribal_holding
+}
+
+1882 = {		
+	culture = marmaridian
+	religion = berber_pagan
+	holding = none
+}
+
+1883 = {		
+	culture = marmaridian
+	religion = berber_pagan
+	holding = none
+}
+
+1884 = {		
+	culture = marmaridian
+	religion = berber_pagan
+	holding = tribal_holding
+}
+
+1885 = {		
+	culture = marmaridian
+	religion = berber_pagan
+	holding = tribal_holding
+}
+
+1886 = {		
+	culture = marmaridian
+	religion = berber_pagan
+	holding = none
+}
+
+1887 = {		
+	culture = marmaridian
+	religion = berber_pagan
+	holding = none
+}
+
+1888 = {		
+	culture = marmaridian
+	religion = berber_pagan
+	holding = none
+}
+
+1889 = {		
+	culture = marmaridian
+	religion = berber_pagan
+	holding = tribal_holding
+}
+
+1890 = {		
+	culture = marmaridian
+	religion = berber_pagan
+	holding = none
+}
+
+1891 = {		
+	culture = marmaridian
+	religion = berber_pagan
+	holding = none
+}
+
+1892 = {		
+	culture = marmaridian
+	religion = berber_pagan
+	holding = none
+}
+
+1893 = {		
+	culture = marmaridian
+	religion = berber_pagan
+	holding = tribal_holding
+}
+
+1894 = {		
+	culture = marmaridian
+	religion = berber_pagan
+	holding = none
+}
+
+1895 = {		
+	culture = marmaridian
+	religion = berber_pagan
+	holding = none
+}
+
+1896 = {		
+	culture = marmaridian
+	religion = berber_pagan
+	holding = none
+}
+
+1897 = {		
+	culture = marmaridian
+	religion = berber_pagan
+	holding = none
+}
+
+1940 = {		
+	culture = marmaridian
+	religion = berber_pagan
+	holding = none
+}
+
+1941 = {		
+	culture = marmaridian
+	religion = berber_pagan
+	holding = tribal_holding
+}
+
+1942 = {		
+	culture = marmaridian
+	religion = berber_pagan
+	holding = none
+}
+
+1943 = {		
+	culture = marmaridian
+	religion = berber_pagan
+	holding = none
+}
+
+1944 = {		
+	culture = marmaridian
+	religion = berber_pagan
+	holding = tribal_holding
+}
+
+1945 = {		
+	culture = marmaridian
+	religion = berber_pagan
+	holding = none
+}
+
+1946 = {		
+	culture = marmaridian
+	religion = berber_pagan
+	holding = none
+}
+
+1947 = {		
+	culture = marmaridian
+	religion = berber_pagan
+	holding = tribal_holding
+}
+
+1948 = {		
+	culture = marmaridian
+	religion = berber_pagan
+	holding = none
+}
+
+1949 = {		
+	culture = marmaridian
+	religion = berber_pagan
+	holding = none
+}
+
+1950 = {		
+	culture = marmaridian
+	religion = berber_pagan
+	holding = none
+}
+
+1951 = {		
+	culture = marmaridian
+	religion = berber_pagan
+	holding = none
+}
