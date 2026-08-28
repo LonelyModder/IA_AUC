@@ -1,0 +1,35 @@
+c_serata = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000106
+	}
+	437.4.21 = {
+		holder = 2000105
+	}
+}
+
+c_gomani = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000106
+	}
+	437.4.21 = {
+		holder = 2000105
+	}
+}
+
+c_sefsit = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000106
+	}
+	437.4.21 = {
+		holder = 2000105
+	}
+}

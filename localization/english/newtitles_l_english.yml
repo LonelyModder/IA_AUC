@@ -17,6 +17,10 @@
  d_siculians:0 "Siculians"
  d_sicanians:0 "Sicanians"
  d_elymians:0 "Elymians"
+ d_maurians:0 "Maurians"
+ d_khoumiri:0 "Khoumiri"
+ d_socosians:0 "Socosians"
+ d_marusians:0 "Marusians"
  # Empires
  e_westernrome:0 "Western Roman Empire"
  e_easternrome:0 "Eastern Roman Empire"

@@ -1,0 +1,117 @@
+c_utica = {
+	258.4.4 = {	change_development_level = 25 }
+	437.4.21 = { change_development_level = 25 }
+	
+	258.4.4 = {
+		holder = 2000096
+	}
+	437.4.21 = {
+		holder = 2000095
+	}
+}
+
+c_carthage = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 25 }
+	
+	258.4.4 = {
+		holder = 2000102
+	}
+	437.4.21 = {
+		holder = 2000097
+	}
+}
+
+c_hadrumentum = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 25 }
+	
+	258.4.4 = {
+		holder = 2000102
+	}
+	437.4.21 = {
+		holder = 2000098
+	}
+}
+
+d_khoumiri = {
+	
+	258.4.4 = {
+		holder = 2000102
+	}
+	437.4.21 = {
+		holder = 2000101
+	}
+}
+
+c_thabraca = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000102
+	}
+	437.4.21 = {
+		holder = 2000101
+	}
+}
+
+c_tuburbo = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000102
+	}
+	437.4.21 = {
+		holder = 2000101
+	}
+}
+
+c_bulla_regia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000102
+	}
+	437.4.21 = {
+		holder = 2000101
+	}
+}
+
+c_zama = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000102
+	}
+	437.4.21 = {
+		holder = 2000101
+	}
+}
+
+c_tenan = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000102
+	}
+	437.4.21 = {
+		holder = 2000101
+	}
+}
+
+c_curubis = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000102
+	}
+	437.4.21 = {
+		holder = 2000101
+	}
+}

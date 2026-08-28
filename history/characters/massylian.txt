@@ -1,0 +1,52 @@
+﻿2000101 = {
+	name = "Naravas"
+	dynasty = massylian_galid
+	religion = "berber_pagan"
+	culture = massylian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_khoumiri
+		add_pressed_claim = title:c_thabraca
+		add_pressed_claim = title:c_tuburbo
+		add_pressed_claim = title:c_bulla_regia
+		add_pressed_claim = title:c_zama
+		add_pressed_claim = title:c_tenan
+		add_pressed_claim = title:c_curubis
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000102 = {
+	name = "Haaibre"
+	dynasty = massylian_galid
+	religion = "berber_pagan"
+	culture = massylian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_khoumiri
+		add_pressed_claim = title:c_thabraca
+		add_pressed_claim = title:c_tuburbo
+		add_pressed_claim = title:c_bulla_regia
+		add_pressed_claim = title:c_zama
+		add_pressed_claim = title:c_tenan
+		add_pressed_claim = title:c_curubis
+		add_pressed_claim = title:c_carthage
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}

@@ -275,3 +275,57 @@ punic_gisgo = {
 	name = "dynn_Gisgo"
 	culture = "punic"
 }
+
+punic_hammid = {
+	name = "dynn_Hammid"
+	culture = "punic"
+}
+
+punic_eshbaalid = {
+	name = "dynn_Eshbaalid"
+	culture = "punic"
+}
+
+punic_chelbesid = {
+	name = "dynn_Chelbesid"
+	culture = "punic"
+}
+
+punic_bodona = {
+	name = "dynn_Bodona"
+	culture = "punic"
+}
+
+punic_elissid = {
+	name = "dynn_Elissid"
+	culture = "punic"
+}
+
+punic_mashhid = {
+	name = "dynn_Mashhid"
+	culture = "punic"
+}
+
+#Maurian
+
+maurian_galesta = {
+	name = "dynn_Galesta"
+	culture = "maurian"
+}
+
+maurian_syphid = {
+	name = "dynn_Syphid"
+	culture = "maurian"
+}
+
+maurian_setna = {
+	name = "dynn_Setna"
+	culture = "maurian"
+}
+
+#Massylian
+
+massylian_galid = {
+	name = "dynn_Galid"
+	culture = "massylian"
+}

@@ -138,7 +138,7 @@ picenian = {
 }
 
 elymian = {
-	color = { 0.68 0.05 0.0 }
+	color = { 0.81 0.44 0.69 }
 
 	parents = { italic_group }
 

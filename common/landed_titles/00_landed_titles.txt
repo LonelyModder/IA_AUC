@@ -21803,3 +21803,23 @@ d_elymians = {
 	color = { 194 83 35 }
 	landless = yes 
 }
+
+d_maurians = {
+	color = { 214 101 15 }
+	landless = yes 
+}
+
+d_khoumiri = {
+	color = { 186 97 30 }
+	landless = yes 
+}
+
+d_socosians = {
+	color = { 161 98 51 }
+	landless = yes 
+}
+
+d_marusians = {
+	color = { 242 162 102 }
+	landless = yes 
+}

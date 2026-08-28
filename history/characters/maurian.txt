@@ -1,0 +1,149 @@
+﻿2000099 = {
+	name = "Masinissa"
+	dynasty = maurian_galesta
+	religion = "berber_pagan"
+	culture = maurian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_maurians
+		add_pressed_claim = title:c_babba
+		add_pressed_claim = title:c_shibika
+		add_pressed_claim = title:c_volubilis
+		add_pressed_claim = title:c_hebila
+		add_pressed_claim = title:c_kada
+		add_pressed_claim = title:c_zilis
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000100 = {
+	name = "Sypax"
+	dynasty = maurian_galesta
+	religion = "berber_pagan"
+	culture = maurian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_maurians
+		add_pressed_claim = title:c_babba
+		add_pressed_claim = title:c_shibika
+		add_pressed_claim = title:c_volubilis
+		add_pressed_claim = title:c_hebila
+		add_pressed_claim = title:c_kada
+		add_pressed_claim = title:c_zilis
+		add_pressed_claim = title:c_tingis
+		add_pressed_claim = title:c_sala
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000103 = {
+	name = "Adherbal"
+	dynasty = maurian_syphid
+	religion = "berber_pagan"
+	culture = maurian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_socosians
+		add_pressed_claim = title:c_madour
+		add_pressed_claim = title:c_arraga
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000104 = {
+	name = "Gala"
+	dynasty = maurian_syphid
+	religion = "berber_pagan"
+	culture = maurian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_socosians
+		add_pressed_claim = title:c_madour
+		add_pressed_claim = title:c_arraga
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000105 = {
+	name = "Oxyntas"
+	dynasty = maurian_setna
+	religion = "berber_pagan"
+	culture = maurian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_marusians
+		add_pressed_claim = title:c_razahra
+		add_pressed_claim = title:c_mizouar
+		add_pressed_claim = title:c_russadir
+		add_pressed_claim = title:c_serata
+		add_pressed_claim = title:c_gomani
+		add_pressed_claim = title:c_sefsit
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000106 = {
+	name = "Bebnum"
+	dynasty = maurian_setna
+	religion = "berber_pagan"
+	culture = maurian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_marusians
+		add_pressed_claim = title:c_razahra
+		add_pressed_claim = title:c_mizouar
+		add_pressed_claim = title:c_russadir
+		add_pressed_claim = title:c_serata
+		add_pressed_claim = title:c_gomani
+		add_pressed_claim = title:c_sefsit
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}

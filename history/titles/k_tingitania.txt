@@ -1,0 +1,177 @@
+c_tingis = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 25 }
+	
+	258.4.4 = {
+		holder = 2000100
+	}
+	437.4.21 = {
+		holder = 2000091
+	}
+}
+
+c_lixus = {
+	258.4.4 = {	change_development_level = 25 }
+	437.4.21 = { change_development_level = 25 }
+	
+	258.4.4 = {
+		holder = 2000093
+	}
+	437.4.21 = {
+		holder = 2000092
+	}
+}
+
+c_sala = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 25 }
+	
+	258.4.4 = {
+		holder = 2000100
+	}
+	437.4.21 = {
+		holder = 2000094
+	}
+}
+
+d_maurians = {
+	
+	258.4.4 = {
+		holder = 2000100
+	}
+	437.4.21 = {
+		holder = 2000099
+	}
+}
+
+c_babba = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000100
+	}
+	437.4.21 = {
+		holder = 2000099
+	}
+}
+
+c_shibika = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000100
+	}
+	437.4.21 = {
+		holder = 2000099
+	}
+}
+
+c_volubilis = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000100
+	}
+	437.4.21 = {
+		holder = 2000099
+	}
+}
+
+c_hebila = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000100
+	}
+	437.4.21 = {
+		holder = 2000099
+	}
+}
+
+c_kada = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000100
+	}
+	437.4.21 = {
+		holder = 2000099
+	}
+}
+
+c_zilis = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000100
+	}
+	437.4.21 = {
+		holder = 2000099
+	}
+}
+
+c_madour = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000104
+	}
+	437.4.21 = {
+		holder = 2000103
+	}
+}
+
+c_arraga = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000104
+	}
+	437.4.21 = {
+		holder = 2000103
+	}
+}
+
+c_razahra = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000106
+	}
+	437.4.21 = {
+		holder = 2000105
+	}
+}
+
+c_mizouar = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000106
+	}
+	437.4.21 = {
+		holder = 2000105
+	}
+}
+
+c_russadir = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000106
+	}
+	437.4.21 = {
+		holder = 2000105
+	}
+}
