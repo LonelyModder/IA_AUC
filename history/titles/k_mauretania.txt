@@ -1,3 +1,13 @@
+d_marusians = {
+	
+	258.4.4 = {
+		holder = 2000106
+	}
+	437.4.21 = {
+		holder = 2000105
+	}
+}
+
 c_serata = {
 	258.4.4 = {	change_development_level = 1 }
 	437.4.21 = { change_development_level = 1 }
@@ -31,5 +41,275 @@ c_sefsit = {
 	}
 	437.4.21 = {
 		holder = 2000105
+	}
+}
+
+d_massaesyli = {
+	
+	258.4.4 = {
+		holder = 2000108
+	}
+	437.4.21 = {
+		holder = 2000107
+	}
+}
+
+c_siga = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000108
+	}
+	437.4.21 = {
+		holder = 2000107
+	}
+}
+
+c_altava = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000108
+	}
+	437.4.21 = {
+		holder = 2000107
+	}
+}
+
+c_miroun = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000108
+	}
+	437.4.21 = {
+		holder = 2000107
+	}
+}
+
+c_okzou = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000108
+	}
+	437.4.21 = {
+		holder = 2000107
+	}
+}
+
+c_caset = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000108
+	}
+	437.4.21 = {
+		holder = 2000107
+	}
+}
+
+c_mina = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000108
+	}
+	437.4.21 = {
+		holder = 2000107
+	}
+}
+
+c_quiza = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000108
+	}
+	437.4.21 = {
+		holder = 2000107
+	}
+}
+
+c_cartenna = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000108
+	}
+	437.4.21 = {
+		holder = 2000107
+	}
+}
+
+c_columnata = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000108
+	}
+	437.4.21 = {
+		holder = 2000107
+	}
+}
+
+d_actrici = {
+	
+	258.4.4 = {
+		holder = 2000110
+	}
+	437.4.21 = {
+		holder = 2000109
+	}
+}
+
+c_bahshir = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000110
+	}
+	437.4.21 = {
+		holder = 2000109
+	}
+}
+
+c_uzinaza = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000110
+	}
+	437.4.21 = {
+		holder = 2000109
+	}
+}
+
+c_iol = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000110
+	}
+	437.4.21 = {
+		holder = 2000109
+	}
+}
+
+c_icosium = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000110
+	}
+	437.4.21 = {
+		holder = 2000109
+	}
+}
+
+c_iomnium = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000110
+	}
+	437.4.21 = {
+		holder = 2000109
+	}
+}
+
+d_ucutamani = {
+	
+	258.4.4 = {
+		holder = 2000112
+	}
+	437.4.21 = {
+		holder = 2000111
+	}
+}
+
+c_stifis = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000112
+	}
+	437.4.21 = {
+		holder = 2000111
+	}
+}
+
+c_zarai = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000112
+	}
+	437.4.21 = {
+		holder = 2000111
+	}
+}
+
+c_cuicul = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000112
+	}
+	437.4.21 = {
+		holder = 2000111
+	}
+}
+
+c_igilgili = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000112
+	}
+	437.4.21 = {
+		holder = 2000111
+	}
+}
+
+c_saldae = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000112
+	}
+	437.4.21 = {
+		holder = 2000111
+	}
+}
+
+c_tubunae = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000114
+	}
+	437.4.21 = {
+		holder = 2000113
 	}
 }

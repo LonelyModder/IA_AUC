@@ -115,3 +115,61 @@ c_curubis = {
 		holder = 2000101
 	}
 }
+
+d_salassi = {
+	
+	258.4.4 = {
+		holder = 2000116
+	}
+	437.4.21 = {
+		holder = 2000115
+	}
+}
+
+c_ashrata = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000116
+	}
+	437.4.21 = {
+		holder = 2000115
+	}
+}
+
+c_melloul = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000116
+	}
+	437.4.21 = {
+		holder = 2000115
+	}
+}
+
+c_chullu = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000116
+	}
+	437.4.21 = {
+		holder = 2000115
+	}
+}
+
+c_regius = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000116
+	}
+	437.4.21 = {
+		holder = 2000115
+	}
+}

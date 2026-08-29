@@ -18742,11 +18742,6 @@ e_westernrome = {
 					province = 3886
 				}
 				
-				b_shangil_3907 = {
-					color = { 87 6 181 }
-					province = 3907
-				}
-				
 				b_awjituba_3870 = {
 					color = { 3 108 35 }
 					province = 3870
@@ -18767,6 +18762,11 @@ e_westernrome = {
 					province = 3916
 				}
 
+				b_shangil_3907 = {
+					color = { 87 6 181 }
+					province = 3907
+				}
+				
 				b_laracem_3915 = {
 					color = { 3 30 185 }
 					province = 3915
@@ -18782,6 +18782,16 @@ e_westernrome = {
 					province = 3903
 				}
 
+				b_djelouret_3898 = {
+					color = { 129 192 49 }
+					province = 3898
+				}
+
+				b_fouliana_3899 = {
+					color = { 171 195 177 }
+					province = 3899
+				}
+				
 				b_dongodhaa_3917 = {
 					color = { 87 36 186 }
 					province = 3917
@@ -18852,16 +18862,6 @@ e_westernrome = {
 					province = 3896
 				}
 
-				b_djelouret_3898 = {
-					color = { 129 192 49 }
-					province = 3898
-				}
-
-				b_fouliana_3899 = {
-					color = { 171 195 177 }
-					province = 3899
-				}
-				
 			}
 
 			c_chullu = {
@@ -19283,6 +19283,11 @@ e_westernrome = {
 					province = 3939
 				}
 				
+				b_marane_3971 = {
+					color = { 45 198 213 }
+					province = 3971
+				}
+				
 			}
 
 			c_tubunae = {
@@ -19303,11 +19308,6 @@ e_westernrome = {
 					province = 3974
 				}
 
-				b_marane_3971 = {
-					color = { 45 198 213 }
-					province = 3971
-				}
-				
 			}				
 			
 		}			
@@ -21821,5 +21821,50 @@ d_socosians = {
 
 d_marusians = {
 	color = { 242 162 102 }
+	landless = yes 
+}
+
+d_massaesyli = {
+	color = { 168 130 54 }
+	landless = yes 
+}
+
+d_actrici = {
+	color = { 227 115 45 }
+	landless = yes 
+}
+
+d_ucutamani = {
+	color = { 232 87 46 }
+	landless = yes 
+}
+
+d_salassi = {
+	color = { 212 159 99 }
+	landless = yes 
+}
+
+d_musulami = {
+	color = { 212 159 99 }
+	landless = yes 
+}
+
+d_musuni = {
+	color = { 212 159 99 }
+	landless = yes 
+}
+
+d_frexi = {
+	color = { 212 159 99 }
+	landless = yes 
+}
+
+d_auri = {
+	color = { 212 159 99 }
+	landless = yes 
+}
+
+d_getuli = {
+	color = { 212 159 99 }
 	landless = yes 
 }

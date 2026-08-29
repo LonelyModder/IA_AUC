@@ -116,6 +116,16 @@ c_zilis = {
 	}
 }
 
+d_socosians = {
+	
+	258.4.4 = {
+		holder = 2000104
+	}
+	437.4.21 = {
+		holder = 2000103
+	}
+}
+
 c_madour = {
 	258.4.4 = {	change_development_level = 1 }
 	437.4.21 = { change_development_level = 1 }

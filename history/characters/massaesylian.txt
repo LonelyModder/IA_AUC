@@ -1,0 +1,157 @@
+﻿2000107 = {
+	name = "Naravas"
+	dynasty = massaesylian_narava
+	religion = "berber_pagan"
+	culture = massaesylian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_massaesyli
+		add_pressed_claim = title:c_siga
+		add_pressed_claim = title:c_altava
+		add_pressed_claim = title:c_miroun
+		add_pressed_claim = title:c_okzou
+		add_pressed_claim = title:c_caset
+		add_pressed_claim = title:c_mina
+		add_pressed_claim = title:c_quiza
+		add_pressed_claim = title:c_cartenna
+		add_pressed_claim = title:c_columnata
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000108 = {
+	name = "Haaibre"
+	dynasty = massaesylian_narava
+	religion = "berber_pagan"
+	culture = massaesylian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_massaesyli
+		add_pressed_claim = title:c_siga
+		add_pressed_claim = title:c_altava
+		add_pressed_claim = title:c_miroun
+		add_pressed_claim = title:c_okzou
+		add_pressed_claim = title:c_caset
+		add_pressed_claim = title:c_mina
+		add_pressed_claim = title:c_quiza
+		add_pressed_claim = title:c_cartenna
+		add_pressed_claim = title:c_columnata
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000109 = {
+	name = "Syphax"
+	dynasty = massaesylian_adherba
+	religion = "berber_pagan"
+	culture = massaesylian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_actrici
+		add_pressed_claim = title:c_bahshir
+		add_pressed_claim = title:c_uzinaza
+		add_pressed_claim = title:c_iol
+		add_pressed_claim = title:c_icosium
+		add_pressed_claim = title:c_iomnium
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000110 = {
+	name = "Zeteres"
+	dynasty = massaesylian_adherba
+	religion = "berber_pagan"
+	culture = massaesylian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_actrici
+		add_pressed_claim = title:c_bahshir
+		add_pressed_claim = title:c_uzinaza
+		add_pressed_claim = title:c_iol
+		add_pressed_claim = title:c_icosium
+		add_pressed_claim = title:c_iomnium
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000111 = {
+	name = "Mastan"
+	dynasty = massaesylian_kenamid
+	religion = "berber_pagan"
+	culture = massaesylian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_ucutamani
+		add_pressed_claim = title:c_stifis
+		add_pressed_claim = title:c_zarai
+		add_pressed_claim = title:c_cuicul
+		add_pressed_claim = title:c_igilgili
+		add_pressed_claim = title:c_saldae
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000112 = {
+	name = "Tychaeus"
+	dynasty = massaesylian_kenamid
+	religion = "berber_pagan"
+	culture = massaesylian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_ucutamani
+		add_pressed_claim = title:c_stifis
+		add_pressed_claim = title:c_zarai
+		add_pressed_claim = title:c_cuicul
+		add_pressed_claim = title:c_igilgili
+		add_pressed_claim = title:c_saldae
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}

@@ -329,3 +329,32 @@ massylian_galid = {
 	name = "dynn_Galid"
 	culture = "massylian"
 }
+
+massylian_garamid = {
+	name = "dynn_Garamid"
+	culture = "massylian"
+}
+
+#Massaesylian
+
+massaesylian_narava = {
+	name = "dynn_Narava"
+	culture = "massaesylian"
+}
+
+massaesylian_adherba = {
+	name = "dynn_Adherba"
+	culture = "massaesylian"
+}
+
+massaesylian_kenamid = {
+	name = "dynn_Kenamid"
+	culture = "massaesylian"
+}
+
+#Abannean
+
+abannean_vermina = {
+	name = "dynn_Vermina"
+	culture = "abannean"
+}
