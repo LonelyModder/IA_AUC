@@ -1,0 +1,47 @@
+﻿2000119 = {
+	name = "Naravas"
+	dynasty = gyzantian_zenarid
+	religion = "berber_pagan"
+	culture = gyzantian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_gyzanti
+		add_pressed_claim = title:c_tamalleni
+		add_pressed_claim = title:c_gonaba
+		add_pressed_claim = title:c_gafada
+		add_pressed_claim = title:c_bougara
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000120 = {
+	name = "Amastan"
+	dynasty = gyzantian_zenarid
+	religion = "berber_pagan"
+	culture = gyzantian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_gyzanti
+		add_pressed_claim = title:c_tamalleni
+		add_pressed_claim = title:c_gonaba
+		add_pressed_claim = title:c_gafada
+		add_pressed_claim = title:c_bougara
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}

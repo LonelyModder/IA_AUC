@@ -21845,26 +21845,56 @@ d_salassi = {
 }
 
 d_musulami = {
-	color = { 212 159 99 }
+	color = { 153 132 69 }
 	landless = yes 
 }
 
 d_musuni = {
-	color = { 212 159 99 }
+	color = { 230 90 44 }
 	landless = yes 
 }
 
 d_frexi = {
-	color = { 212 159 99 }
+	color = { 163 86 28 }
 	landless = yes 
 }
 
 d_auri = {
-	color = { 212 159 99 }
+	color = { 214 151 103 }
 	landless = yes 
 }
 
-d_getuli = {
-	color = { 212 159 99 }
+d_gaetuli = {
+	color = { 163 113 20 }
+	landless = yes 
+}
+
+d_arzugi = {
+	color = { 240 68 34 }
+	landless = yes 
+}
+
+d_nunti = {
+	color = { 115 73 64 }
+	landless = yes 
+}
+
+d_astrici = {
+	color = { 156 82 33 }
+	landless = yes 
+}
+
+d_gyzanti = {
+	color = { 235 117 40 }
+	landless = yes 
+}
+
+d_maceans = {
+	color = { 214 146 101 }
+	landless = yes 
+}
+
+d_psyllians = {
+	color = { 230 178 76 }
 	landless = yes 
 }

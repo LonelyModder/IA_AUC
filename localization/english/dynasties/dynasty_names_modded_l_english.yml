@@ -76,9 +76,23 @@
  #Massylian
  dynn_Galid:0 "Galid"
  dynn_Garamid:0 "Garamid"
+ dynn_Arasid:0 "Arasid"
+ dynn_Sefarid:0 "Sefarid"
+ dynn_Mazicid:0 "Mazicid"
+ dynn_Zanur:0 "Zanur"
+ dynn_Autolid:0 "Autolid"
+ dynn_Bagid:0 "Bagid"
  #Massaesylian
  dynn_Narava:0 "Narava"
  dynn_Adherba:0 "Adherba"
  dynn_Kenamid:0 "Kenamid"
  #Abannean
  dynn_Vermina:0 "Vermina"
+ #Gaetulian
+ dynn_Massurid:0 "Massurid"
+ #Gyzantian
+ dynn_Zenarid:0 "Zenarid"
+ #Lotophagian
+ dynn_Gadid:0 "Gadid"
+ #Psyllian
+ dynn_Tannurid:0 "Tannurid"

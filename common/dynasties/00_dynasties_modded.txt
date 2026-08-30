@@ -335,6 +335,36 @@ massylian_garamid = {
 	culture = "massylian"
 }
 
+massylian_arasid = {
+	name = "dynn_Arasid"
+	culture = "massylian"
+}
+
+massylian_sefarid = {
+	name = "dynn_Sefarid"
+	culture = "massylian"
+}
+
+massylian_mazicid = {
+	name = "dynn_Mazicid"
+	culture = "massylian"
+}
+
+massylian_zanur = {
+	name = "dynn_Zanur"
+	culture = "massylian"
+}
+
+massylian_autolid = {
+	name = "dynn_Autolid"
+	culture = "massylian"
+}
+
+massylian_bagid = {
+	name = "dynn_Bagid"
+	culture = "massylian"
+}
+
 #Massaesylian
 
 massaesylian_narava = {
@@ -357,4 +387,39 @@ massaesylian_kenamid = {
 abannean_vermina = {
 	name = "dynn_Vermina"
 	culture = "abannean"
+}
+
+#Gaetulian
+
+gaetulian_massurid = {
+	name = "dynn_Massurid"
+	culture = "gaetulian"
+}
+
+#Gyzantian
+
+gyzantian_zenarid = {
+	name = "dynn_Zenarid"
+	culture = "gaetulian"
+}
+
+#Lotophagian
+
+lotophagian_gadid = {
+	name = "dynn_Gadid"
+	culture = "lotophagian"
+}
+
+#Macean
+
+macean_sabarrid = {
+	name = "dynn_Sabarrid"
+	culture = "lotophagian"
+}
+
+#Psyllian
+
+psyllian_tannurid = {
+	name = "dynn_Tannurid"
+	culture = "psyllian"
 }

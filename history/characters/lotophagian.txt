@@ -1,0 +1,47 @@
+﻿2000133 = {
+	name = "Nabdalsa"
+	dynasty = lotophagian_gadid
+	religion = "berber_pagan"
+	culture = lotophagian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_astrici
+		add_pressed_claim = title:c_gightis
+		add_pressed_claim = title:c_tacapae
+		add_pressed_claim = title:c_gekin
+		add_pressed_claim = title:c_sabratha
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000134 = {
+	name = "Thanenhebu"
+	dynasty = lotophagian_gadid
+	religion = "berber_pagan"
+	culture = lotophagian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_astrici
+		add_pressed_claim = title:c_gightis
+		add_pressed_claim = title:c_tacapae
+		add_pressed_claim = title:c_gekin
+		add_pressed_claim = title:c_sabratha
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}

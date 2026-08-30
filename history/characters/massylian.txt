@@ -98,3 +98,276 @@
 		death = "260.1.1"
 	}
 }
+
+2000121 = {
+	name = "Iampsas"
+	dynasty = massylian_arasid
+	religion = "berber_pagan"
+	culture = massylian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_musuni
+		add_pressed_claim = title:c_khenher
+		add_pressed_claim = title:c_thaenae
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000122 = {
+	name = "Amastan"
+	dynasty = massylian_arasid
+	religion = "berber_pagan"
+	culture = massylian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_musuni
+		add_pressed_claim = title:c_khenher
+		add_pressed_claim = title:c_thaenae
+		add_pressed_claim = title:c_hadrumentum
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000123 = {
+	name = "Amastan"
+	dynasty = massylian_sefarid
+	religion = "berber_pagan"
+	culture = massylian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_frexi
+		add_pressed_claim = title:c_thugga
+		add_pressed_claim = title:c_sufetula
+		add_pressed_claim = title:c_batrata
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000124 = {
+	name = "Wahibre"
+	dynasty = massylian_sefarid
+	religion = "berber_pagan"
+	culture = massylian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_frexi
+		add_pressed_claim = title:c_thugga
+		add_pressed_claim = title:c_sufetula
+		add_pressed_claim = title:c_batrata
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000125 = {
+	name = "Baufra"
+	dynasty = massylian_mazicid
+	religion = "berber_pagan"
+	culture = massylian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_auri
+		add_pressed_claim = title:c_cirta
+		add_pressed_claim = title:c_lambaesis
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000126 = {
+	name = "Dedumose"
+	dynasty = massylian_mazicid
+	religion = "berber_pagan"
+	culture = massylian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_auri
+		add_pressed_claim = title:c_cirta
+		add_pressed_claim = title:c_lambaesis
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000127 = {
+	name = "Sypax"
+	dynasty = massylian_zanur
+	religion = "berber_pagan"
+	culture = massylian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_musulami
+		add_pressed_claim = title:c_calama
+		add_pressed_claim = title:c_mascula
+		add_pressed_claim = title:c_muti
+		add_pressed_claim = title:c_thevessa
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000128 = {
+	name = "Gala"
+	dynasty = massylian_autolid
+	religion = "berber_pagan"
+	culture = massylian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_musulami
+		add_pressed_claim = title:c_calama
+		add_pressed_claim = title:c_mascula
+		add_pressed_claim = title:c_muti
+		add_pressed_claim = title:c_thevessa
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000129 = {
+	name = "Zeteres"
+	dynasty = massylian_autolid
+	religion = "berber_pagan"
+	culture = massylian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_arzugi
+		add_pressed_claim = title:c_thelepte
+		add_pressed_claim = title:c_berirt
+		add_pressed_claim = title:c_capsa
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000130 = {
+	name = "Apries"
+	dynasty = massylian_zanur
+	religion = "berber_pagan"
+	culture = massylian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_arzugi
+		add_pressed_claim = title:c_thelepte
+		add_pressed_claim = title:c_berirt
+		add_pressed_claim = title:c_capsa
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000131 = {
+	name = "Tychaeus"
+	dynasty = massylian_bagid
+	religion = "berber_pagan"
+	culture = massylian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_nunti
+		add_pressed_claim = title:c_ruabelat
+		add_pressed_claim = title:c_iunci
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000132 = {
+	name = "Wahibre"
+	dynasty = massylian_bagid
+	religion = "berber_pagan"
+	culture = massylian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_nunti
+		add_pressed_claim = title:c_ruabelat
+		add_pressed_claim = title:c_iunci
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
