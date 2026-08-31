@@ -32,7 +32,7 @@ c_kharerun = {
 	}	
 }
 
-2000140 = {
+c_leukapsis = {
 	258.4.4 = {	change_development_level = 1 }
 	437.4.21 = { change_development_level = 1 }
 	
