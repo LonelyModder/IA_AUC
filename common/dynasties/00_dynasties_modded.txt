@@ -423,3 +423,30 @@ psyllian_tannurid = {
 	name = "dynn_Tannurid"
 	culture = "psyllian"
 }
+
+#Marmaridian
+
+marmaridian_kassid = {
+	name = "dynn_Kassid"
+	culture = "marmaridian"
+}
+
+marmaridian_mendrid = {
+	name = "dynn_Mendrid"
+	culture = "marmaridian"
+}
+
+marmaridian_mazinid = {
+	name = "dynn_Mazinid"
+	culture = "marmaridian"
+}
+
+marmaridian_azelid = {
+	name = "dynn_Azelid"
+	culture = "marmaridian"
+}
+
+marmaridian_naravid = {
+	name = "dynn_Naravid"
+	culture = "marmaridian"
+}

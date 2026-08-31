@@ -1,0 +1,227 @@
+﻿2000139 = {
+	name = "Iampsas"
+	dynasty = marmaridian_kassid
+	religion = "berber_pagan"
+	culture = marmaridian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_adyrmachidians
+		add_pressed_claim = title:c_paraetonium
+		add_pressed_claim = title:c_kharerun
+		add_pressed_claim = title:c_leukapsis
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000140 = {
+	name = "Mastan"
+	dynasty = marmaridian_kassid
+	religion = "berber_pagan"
+	culture = marmaridian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_adyrmachidians
+		add_pressed_claim = title:c_paraetonium
+		add_pressed_claim = title:c_kharerun
+		add_pressed_claim = title:c_leukapsis
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000141 = {
+	name = "Jugurtha"
+	dynasty = marmaridian_mendrid
+	religion = "berber_pagan"
+	culture = marmaridian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_giligamans
+		add_pressed_claim = title:c_darnis
+		add_pressed_claim = title:c_mensaitunis
+		add_pressed_claim = title:c_antipyrgus
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000142 = {
+	name = "Gala"
+	dynasty = marmaridian_mendrid
+	religion = "berber_pagan"
+	culture = marmaridian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_giligamans
+		add_pressed_claim = title:c_darnis
+		add_pressed_claim = title:c_mensaitunis
+		add_pressed_claim = title:c_antipyrgus
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000143 = {
+	name = "Bomilcar"
+	dynasty = marmaridian_mazinid
+	religion = "berber_pagan"
+	culture = marmaridian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_asbystans
+		add_pressed_claim = title:c_nemurna
+		add_pressed_claim = title:c_akhso
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000144 = {
+	name = "Ezena"
+	dynasty = marmaridian_mazinid
+	religion = "berber_pagan"
+	culture = marmaridian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_asbystans
+		add_pressed_claim = title:c_nemurna
+		add_pressed_claim = title:c_akhso
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000145 = {
+	name = "Masinissa"
+	dynasty = marmaridian_azelid
+	religion = "berber_pagan"
+	culture = marmaridian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_auschisans
+		add_pressed_claim = title:c_ptolemais
+		add_pressed_claim = title:c_cyrene
+		add_pressed_claim = title:c_berenike
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000146 = {
+	name = "Massiva"
+	dynasty = marmaridian_azelid
+	religion = "berber_pagan"
+	culture = marmaridian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_auschisans
+		add_pressed_claim = title:c_ptolemais
+		add_pressed_claim = title:c_cyrene
+		add_pressed_claim = title:c_berenike
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000147 = {
+	name = "Gala"
+	dynasty = marmaridian_naravid
+	religion = "berber_pagan"
+	culture = marmaridian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_bacalans
+		add_pressed_claim = title:c_hesuris
+		add_pressed_claim = title:c_shetmabenu
+		add_pressed_claim = title:c_boreum
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000148 = {
+	name = "Amastan"
+	dynasty = marmaridian_naravid
+	religion = "berber_pagan"
+	culture = marmaridian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_bacalans
+		add_pressed_claim = title:c_hesuris
+		add_pressed_claim = title:c_shetmabenu
+		add_pressed_claim = title:c_boreum
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}

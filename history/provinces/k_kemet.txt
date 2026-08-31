@@ -1091,7 +1091,7 @@
 }
 
 1900 = {		
-	culture = ammonian
+	culture = marmaridian
 	religion = libyan_pagan
 	holding = tribal_holding
 }
@@ -1109,7 +1109,7 @@
 }
 
 1903 = {		
-	culture = ammonian
+	culture = marmaridian
 	religion = libyan_pagan
 	holding = tribal_holding
 }
@@ -1229,7 +1229,7 @@
 }
 
 1924 = {		
-	culture = ammonian
+	culture = marmaridian
 	religion = libyan_pagan
 	holding = tribal_holding
 }

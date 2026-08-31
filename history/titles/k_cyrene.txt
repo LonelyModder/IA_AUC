@@ -1,0 +1,171 @@
+d_giligamans = {
+	
+	258.4.4 = {
+		holder = 2000142
+	}
+	437.4.21 = {
+		holder = 2000141
+	}
+}
+
+c_darnis = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000142
+	}
+	437.4.21 = {
+		holder = 2000141
+	}	
+}
+
+c_mensaitunis = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000142
+	}
+	437.4.21 = {
+		holder = 2000141
+	}	
+}
+
+c_antipyrgus = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000142
+	}
+	437.4.21 = {
+		holder = 2000141
+	}	
+}
+
+d_asbystans = {
+	
+	258.4.4 = {
+		holder = 2000144
+	}
+	437.4.21 = {
+		holder = 2000143
+	}
+}
+
+c_nemurna = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000144
+	}
+	437.4.21 = {
+		holder = 2000143
+	}	
+}
+
+c_akhso = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000144
+	}
+	437.4.21 = {
+		holder = 2000143
+	}	
+}
+
+d_auschisans = {
+	
+	258.4.4 = {
+		holder = 2000146
+	}
+	437.4.21 = {
+		holder = 2000145
+	}
+}
+
+c_ptolemais = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000146
+	}
+	437.4.21 = {
+		holder = 2000145
+	}	
+}
+
+c_cyrene = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000146
+	}
+	437.4.21 = {
+		holder = 2000145
+	}	
+}
+
+c_berenike = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000146
+	}
+	437.4.21 = {
+		holder = 2000145
+	}	
+}
+
+d_bacalans = {
+	
+	258.4.4 = {
+		holder = 2000148
+	}
+	437.4.21 = {
+		holder = 2000147
+	}
+}
+
+c_hesuris = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000148
+	}
+	437.4.21 = {
+		holder = 2000147
+	}
+}
+
+c_shetmabenu = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000148
+	}
+	437.4.21 = {
+		holder = 2000147
+	}
+}
+
+c_boreum = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000148
+	}
+	437.4.21 = {
+		holder = 2000147
+	}
+}

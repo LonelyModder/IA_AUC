@@ -21898,3 +21898,28 @@ d_psyllians = {
 	color = { 230 178 76 }
 	landless = yes 
 }
+
+d_adyrmachidians = {
+	color = { 217 104 100 }
+	landless = yes 
+}
+
+d_giligamans = {
+	color = { 166 69 33 }
+	landless = yes 
+}
+
+d_asbystans = {
+	color = { 224 138 105 }
+	landless = yes 
+}
+
+d_auschisans = {
+	color = { 125 83 25 }
+	landless = yes 
+}
+
+d_bacalans = {
+	color = { 191 104 27 }
+	landless = yes 
+}

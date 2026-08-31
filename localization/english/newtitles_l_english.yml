@@ -36,6 +36,11 @@
  d_gyzanti:0 "Gyzanti"
  d_maceans:0 "Maceans"
  d_psyllians:0 "Psyllians"
+ d_adyrmachidians:0 "Adyrmachidians"
+ d_giligamans:0 "Giligamans"
+ d_asbystans:0 "Asbystans"
+ d_auschisans:0 "Auschisans"
+ d_bacalans:0 "Bacalans"
  # Empires
  e_westernrome:0 "Western Roman Empire"
  e_easternrome:0 "Eastern Roman Empire"

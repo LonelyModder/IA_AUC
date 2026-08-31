@@ -1,0 +1,45 @@
+d_adyrmachidians = {
+	
+	258.4.4 = {
+		holder = 2000140
+	}
+	437.4.21 = {
+		holder = 2000139
+	}
+}
+
+c_paraetonium = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000140
+	}
+	437.4.21 = {
+		holder = 2000139
+	}	
+}
+
+c_kharerun = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000140
+	}
+	437.4.21 = {
+		holder = 2000139
+	}	
+}
+
+2000140 = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000140
+	}
+	437.4.21 = {
+		holder = 2000139
+	}	
+}
