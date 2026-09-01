@@ -43,3 +43,131 @@ c_leukapsis = {
 		holder = 2000139
 	}	
 }
+
+d_ammonians = {
+	
+	258.4.4 = {
+		holder = 2000150
+	}
+	437.4.21 = {
+		holder = 2000149
+	}
+}
+
+c_ammonium = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000150
+	}
+	437.4.21 = {
+		holder = 2000149
+	}	
+}
+
+c_qulpi = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000150
+	}
+	437.4.21 = {
+		holder = 2000149
+	}	
+}
+
+c_nekdju = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000150
+	}
+	437.4.21 = {
+		holder = 2000149
+	}	
+}
+
+c_djasi = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000150
+	}
+	437.4.21 = {
+		holder = 2000149
+	}	
+}
+
+c_kerkhenutjer = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000150
+	}
+	437.4.21 = {
+		holder = 2000149
+	}	
+}
+
+c_akhzuna = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000150
+	}
+	437.4.21 = {
+		holder = 2000149
+	}	
+}
+
+k_22nddynasty = {
+	
+	258.4.4 = {
+		holder = 2000152
+	}
+	437.4.21 = {
+		holder = 2000151
+	}
+}
+
+c_tanis = {
+	258.4.4 = {	change_development_level = 25 }
+	437.4.21 = { change_development_level = 25 }
+	
+	258.4.4 = {
+		holder = 2000152
+	}
+	437.4.21 = {
+		holder = 2000151
+	}	
+}
+
+c_pelusiumn = {
+	258.4.4 = {	change_development_level = 25 }
+	437.4.21 = { change_development_level = 25 }
+	
+	258.4.4 = {
+		holder = 2000152
+	}
+	437.4.21 = {
+		holder = 2000151
+	}	
+}
+
+c_rinocolura = {
+	258.4.4 = {	change_development_level = 25 }
+	437.4.21 = { change_development_level = 25 }
+	
+	258.4.4 = {
+		holder = 2000152
+	}
+	437.4.21 = {
+		holder = 2000151
+	}	
+}

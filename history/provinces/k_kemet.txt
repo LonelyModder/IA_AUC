@@ -491,7 +491,7 @@
 }
 
 2061 = {		
-	culture = libu
+	culture = meshwesh
 	religion = kemetic_pagan
 	holding = tribal_holding
 }
@@ -545,13 +545,13 @@
 }
 
 1932 = {		
-	culture = libu
+	culture = meshwesh
 	religion = kemetic_pagan
 	holding = tribal_holding
 }
 
 1931 = {		
-	culture = libu
+	culture = meshwesh
 	religion = kemetic_pagan
 	holding = tribal_holding
 }
@@ -587,7 +587,7 @@
 }
 
 2077 = {		
-	culture = libu
+	culture = meshwesh
 	religion = kemetic_pagan
 	holding = tribal_holding
 }
@@ -605,7 +605,7 @@
 }
 
 2107 = {		
-	culture = libu
+	culture = meshwesh
 	religion = kemetic_pagan
 	holding = tribal_holding
 }
@@ -791,7 +791,7 @@
 }
 
 2071 = {		
-	culture = libu
+	culture = sahidic
 	religion = kemetic_pagan
 	holding = none
 }
@@ -872,6 +872,9 @@
 	culture = sahidic
 	religion = kemetic_pagan
 	holding = tribal_holding
+	437.4.21 = {
+		culture = mededian
+	}
 }
 
 2095 = {		
@@ -899,7 +902,7 @@
 }
 
 2099 = {		
-	culture = sahidic
+	culture = mededian
 	religion = kemetic_pagan
 	holding = tribal_holding
 }
@@ -917,7 +920,7 @@
 }
 
 2104 = {		
-	culture = libu
+	culture = meshwesh
 	religion = kemetic_pagan
 	holding = tribal_holding
 }
@@ -947,7 +950,7 @@
 }
 
 2113 = {		
-	culture = libu
+	culture = meshwesh
 	religion = kemetic_pagan
 	holding = tribal_holding
 }
@@ -1064,6 +1067,9 @@
 	culture = sahidic
 	religion = kemetic_pagan
 	holding = tribal_holding
+	437.4.21 = {
+		culture = mededian
+	}
 }
 
 2136 = {		

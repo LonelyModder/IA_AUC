@@ -1,0 +1,51 @@
+﻿2000149 = {
+	name = "Wahibre"
+	dynasty = ammonian_penamid
+	religion = "berber_pagan"
+	culture = marmaridian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_ammonians
+		add_pressed_claim = title:c_ammonium
+		add_pressed_claim = title:c_qulpi
+		add_pressed_claim = title:c_nekdju
+		add_pressed_claim = title:c_djasi
+		add_pressed_claim = title:c_kerkhenutjer
+		add_pressed_claim = title:c_akhzuna
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000150 = {
+	name = "Baufra"
+	dynasty = ammonian_penamid
+	religion = "berber_pagan"
+	culture = marmaridian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_ammonians
+		add_pressed_claim = title:c_ammonium
+		add_pressed_claim = title:c_qulpi
+		add_pressed_claim = title:c_nekdju
+		add_pressed_claim = title:c_djasi
+		add_pressed_claim = title:c_kerkhenutjer
+		add_pressed_claim = title:c_akhzuna
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}

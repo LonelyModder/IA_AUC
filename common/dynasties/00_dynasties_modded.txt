@@ -450,3 +450,17 @@ marmaridian_naravid = {
 	name = "dynn_Naravid"
 	culture = "marmaridian"
 }
+
+#Ammonian
+
+ammonian_penamid = {
+	name = "dynn_Penamid"
+	culture = "ammonian"
+}
+
+#Meshwesh
+
+meshwesh_shoshenqid = {
+	name = "dynn_Shoshenqid"
+	culture = "meshwesh"
+}

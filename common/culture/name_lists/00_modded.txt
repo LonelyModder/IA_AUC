@@ -1297,7 +1297,7 @@ name_list_libyan = {
 		Iampsas	Jugurtha	Masinissa	Massiva	Mastanabal	Micipsa
 		Nabdalsa	Naravas	Oxyntas	Sypax	Syphax	Tacfarinas
 		Tychaeus	Vermina	Zeteres Gala Amastan Mastan
-		Thanub Tjaenhebu Thanenhebu Senakhtenre Ahmose Apries Haaibre Amenmesse Amenemhat Ahmenhotep Akhenamun Ay Amenemnisu Amenemope Atlanersa Anlamani Aspelta
+		Thanub Tjaenhebu Thanenhebu Senakhtenre Ahmose Apries Amenmesse Amenemhat Ahmenhotep Akhenamun Ay Amenemnisu Amenemope Atlanersa Anlamani Aspelta
 		Wahibre Haaibre Bek Bebiankh Bebnum Bakenranef Bebiankh Bay Isru Baskakeren Babaef Baufra Buneb Baqet Isesi Djedkare Isesi Djoser Djehutyemhat Dedumose Djehuty
 	}
 	female_names = {

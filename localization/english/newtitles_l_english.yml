@@ -41,10 +41,15 @@
  d_asbystans:0 "Asbystans"
  d_auschisans:0 "Auschisans"
  d_bacalans:0 "Bacalans"
+ d_ammonians:0 "Ammonians"
+ k_22nddynasty:0 "22nd Dynasty"
  # Empires
- e_westernrome:0 "Western Roman Empire"
- e_easternrome:0 "Eastern Roman Empire"
- e_epersia:0 "Persian Empire"
+ e_westernrome:0 "Italia"
+ e_africa:0 "Africa"
+ e_easternrome:0 "Balkans"
+ e_anatolia:0 "Anatolia"
+ e_epersia:0 "Mesopotamia"
+ e_egypt:0 "Egypt"
  # Kingdoms
  k_italia:0 "Italia"
  k_sicilia:0 "Sicily"
