@@ -10,8 +10,7 @@
 	436.1.1 = {
 		add_pressed_claim = title:k_22nddynasty
 		add_pressed_claim = title:c_tanis
-		add_pressed_claim = title:c_pelusiumn
-		add_pressed_claim = title:c_rinocolura
+		add_pressed_claim = title:c_pelusium
 	}
 	#437.4.21 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -27,19 +26,216 @@
 	religion = "kemetic_pagan"
 	culture = meshwesh
 	#father = 32974
-	220.1.1 = {
-		birth = "230.1.1"
+	200.1.1 = {
+		birth = "200.1.1"
 	}
 	247.1.1 = {
 		add_pressed_claim = title:k_22nddynasty
 		add_pressed_claim = title:c_tanis
-		add_pressed_claim = title:c_pelusiumn
-		add_pressed_claim = title:c_rinocolura
+		add_pressed_claim = title:c_pelusium
+		add_pressed_claim = title:c_helioupolis
+		add_pressed_claim = title:c_memphis
+		add_pressed_claim = title:c_leontopolis
+		add_pressed_claim = title:c_damietta
+		add_pressed_claim = title:c_busiris
+		add_pressed_claim = title:c_tjebfuthis
+		add_pressed_claim = title:c_sais
+		add_pressed_claim = title:c_djetu
+		add_pressed_claim = title:c_naukratis
+		add_pressed_claim = title:c_thonis
+		add_pressed_claim = title:c_hermapolis
+		add_pressed_claim = title:c_hadrai
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family
 	#}
 	268.1.1 = {
-		death = "260.1.1"
+		death = "268.1.1"
+	}
+}
+
+2000155 = {
+	name = "Osorkon"
+	dynasty = meshwesh_shoshenqid
+	religion = "kemetic_pagan"
+	culture = meshwesh
+	father = 2000152
+	220.1.1 = {
+		birth = "220.1.1"
+	}
+	268.1.1 = {
+		add_pressed_claim = title:k_22nddynasty
+		add_pressed_claim = title:c_tanis
+		add_pressed_claim = title:c_pelusium
+		add_pressed_claim = title:c_helioupolis
+		add_pressed_claim = title:c_memphis
+		add_pressed_claim = title:c_leontopolis
+		add_pressed_claim = title:c_damietta
+		add_pressed_claim = title:c_busiris
+		add_pressed_claim = title:c_tjebfuthis
+		add_pressed_claim = title:c_sais
+		add_pressed_claim = title:c_djetu
+		add_pressed_claim = title:c_naukratis
+		add_pressed_claim = title:c_thonis
+		add_pressed_claim = title:c_heracleopolis
+		add_pressed_claim = title:c_helwan
+		add_pressed_claim = title:c_hermapolis
+		add_pressed_claim = title:c_hadrai
+		add_pressed_claim = title:c_asyut
+		add_pressed_claim = title:c_qau
+		add_pressed_claim = title:c_abydos
+		add_pressed_claim = title:c_dendera
+		add_pressed_claim = title:c_nadjurmeru
+		add_pressed_claim = title:c_thebes
+		add_pressed_claim = title:c_hierakonpolis
+		add_pressed_claim = title:c_komombo
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	303.1.1 = {
+		death = "303.1.1"
+	}
+}
+
+2000156 = {
+	name = "Iuput"
+	dynasty = meshwesh_shoshenqid
+	religion = "kemetic_pagan"
+	culture = meshwesh
+	father = 2000152
+	225.1.1 = {
+		birth = "225.1.1"
+	}
+	268.1.1 = {
+		add_pressed_claim = title:d_hpamun
+		add_pressed_claim = title:c_asyut
+		add_pressed_claim = title:c_qau
+		add_pressed_claim = title:c_abydos
+		add_pressed_claim = title:c_dendera
+		add_pressed_claim = title:c_nadjurmeru
+		add_pressed_claim = title:c_thebes
+		add_pressed_claim = title:c_hierakonpolis
+		add_pressed_claim = title:c_komombo
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	275.1.1 = {
+		death = "275.1.1"
+	}
+}
+
+2000157 = {
+	name = "Nimlot"
+	dynasty = meshwesh_shoshenqid
+	religion = "kemetic_pagan"
+	culture = meshwesh
+	father = 2000152
+	228.1.1 = {
+		birth = "228.1.1"
+	}
+	268.1.1 = {
+		add_pressed_claim = title:c_heracleopolis
+		add_pressed_claim = title:c_helwan
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	280.1.1 = {
+		death = "280.1.1"
+	}
+}
+
+2000158 = {
+	name = "Shoshenq"
+	dynasty = meshwesh_shoshenqid
+	religion = "kemetic_pagan"
+	culture = meshwesh
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:k_23rddynasty
+		add_pressed_claim = title:c_leontopolis
+		add_pressed_claim = title:c_helioupolis
+		add_pressed_claim = title:c_memphis
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000159 = {
+	name = "Peftjauawybast"
+	dynasty = meshwesh_shoshenqid
+	religion = "kemetic_pagan"
+	culture = meshwesh
+	#father = 32974
+	410.1.1 = {
+		birth = "410.1.1"
+	}
+	435.1.1 = {
+		add_pressed_claim = title:c_heracleopolis
+		add_pressed_claim = title:c_helwan
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000160 = {
+	name = "Nimlot"
+	dynasty = meshwesh_shoshenqid
+	religion = "kemetic_pagan"
+	culture = meshwesh
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	435.1.1 = {
+		add_pressed_claim = title:c_hermapolis
+		add_pressed_claim = title:c_hadrai
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	464.1.1 = {
+		death = "464.1.1"
+	}
+}
+
+2000161 = {
+	name = "Ini"
+	dynasty = meshwesh_menkheperre
+	religion = "kemetic_pagan"
+	culture = meshwesh
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	435.1.1 = {
+		add_pressed_claim = title:d_hpamun
+		add_pressed_claim = title:c_asyut
+		add_pressed_claim = title:c_qau
+		add_pressed_claim = title:c_abydos
+		add_pressed_claim = title:c_dendera
+		add_pressed_claim = title:c_nadjurmeru
+		add_pressed_claim = title:c_thebes
+		add_pressed_claim = title:c_hierakonpolis
+		add_pressed_claim = title:c_komombo
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	448.1.1 = {
+		death = "448.1.1"
 	}
 }

@@ -21952,3 +21952,18 @@ k_22nddynasty = {
 	color = { 232 121 9 }
 	landless = yes 
 }
+
+d_libu = {
+	color = { 166 94 61 }
+	landless = yes 
+}
+
+d_hpamun = {
+	color = { 179 153 23 }
+	landless = yes 
+}
+
+k_23rddynasty = {
+	color = { 166 49 31 }
+	landless = yes 
+}

@@ -357,7 +357,7 @@ libu = {
 		tradition_noble_adoption
 	}
 	
-	name_list = name_list_libyan
+	name_list = name_list_kemetic
 
 	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
 	building_gfx = { mediterranean_building_gfx } 
@@ -386,7 +386,7 @@ meshwesh = {
 		tradition_noble_adoption
 	}
 	
-	name_list = name_list_libyan
+	name_list = name_list_kemetic
 
 	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
 	building_gfx = { mediterranean_building_gfx } 

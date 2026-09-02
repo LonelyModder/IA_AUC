@@ -43,6 +43,9 @@
  d_bacalans:0 "Bacalans"
  d_ammonians:0 "Ammonians"
  k_22nddynasty:0 "22nd Dynasty"
+ d_libu:0 "Libu"
+ d_hpamun:0 "Temple of Amun"
+ k_23rddynasty:0 "23rd Dynasty"
  # Empires
  e_westernrome:0 "Italia"
  e_africa:0 "Africa"

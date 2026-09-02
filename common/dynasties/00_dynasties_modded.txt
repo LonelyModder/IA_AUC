@@ -464,3 +464,20 @@ meshwesh_shoshenqid = {
 	name = "dynn_Shoshenqid"
 	culture = "meshwesh"
 }
+
+meshwesh_neferkare = {
+	name = "dynn_Neferkare"
+	culture = "meshwesh"
+}
+
+meshwesh_menkheperre = {
+	name = "dynn_Menkheperre"
+	culture = "meshwesh"
+}
+
+#Libu
+
+libu_nefaarud = {
+	name = "dynn_Nefaarud"
+	culture = "meshwesh"
+}
