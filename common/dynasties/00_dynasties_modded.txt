@@ -481,3 +481,17 @@ libu_nefaarud = {
 	name = "dynn_Nefaarud"
 	culture = "meshwesh"
 }
+
+#Mededian
+
+mededian_teritnid = {
+	name = "dynn_Teritnid"
+	culture = "mededian"
+}
+
+#Shasu
+
+shasu_betnathan = {
+	name = "dynn_Betnathan"
+	culture = "shasu"
+}

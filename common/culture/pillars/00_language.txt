@@ -883,6 +883,42 @@ language_kemetic = {
 	color = italian
 }
 
+language_shasu = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_shasu
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_shasu }
+			multiply = 10
+		}
+	}
+	
+	color = italian
+}
+
+language_arabic = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_arabic
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_arabic }
+			multiply = 10
+		}
+	}
+	
+	color = italian
+}
+
 language_nubian = {
 	type = language
 	is_shown = {

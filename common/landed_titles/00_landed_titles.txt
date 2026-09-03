@@ -21967,3 +21967,13 @@ k_23rddynasty = {
 	color = { 166 49 31 }
 	landless = yes 
 }
+
+d_midian = {
+	color = { 128 112 92 }
+	landless = yes 
+}
+
+d_shasu = {
+	color = { 46 217 165 }
+	landless = yes 
+}

@@ -162,9 +162,9 @@
 		add_pressed_claim = title:c_helioupolis
 		add_pressed_claim = title:c_memphis
 	}
-	#437.4.21 = {
-	#	add_character_flag = do_not_generate_starting_family
-	#}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
 	460.1.1 = {
 		death = "460.1.1"
 	}
@@ -172,7 +172,7 @@
 
 2000159 = {
 	name = "Peftjauawybast"
-	dynasty = meshwesh_shoshenqid
+	dynasty = meshwesh_neferkare
 	religion = "kemetic_pagan"
 	culture = meshwesh
 	#father = 32974
@@ -183,9 +183,9 @@
 		add_pressed_claim = title:c_heracleopolis
 		add_pressed_claim = title:c_helwan
 	}
-	#437.4.21 = {
-	#	add_character_flag = do_not_generate_starting_family
-	#}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
 	469.1.1 = {
 		death = "469.1.1"
 	}
@@ -237,5 +237,62 @@
 	#}
 	448.1.1 = {
 		death = "448.1.1"
+	}
+}
+
+2000162 = {
+	name = "Tasheritenese"
+	female=yes
+	dynasty = meshwesh_neferkare
+	religion = "kemetic_pagan"
+	culture = meshwesh
+	#father = 32974
+	410.1.1 = {
+		birth = "410.1.1"
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+		add_spouse = 2000159
+	}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000163 = {
+	name = "Sopdetemhaawt"
+	female=yes
+	dynasty = meshwesh_neferkare
+	religion = "kemetic_pagan"
+	culture = meshwesh
+	#father = 32974
+	430.1.1 = {
+		birth = "430.1.1"
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+		add_spouse = 2000159
+	}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000164 = {
+	name = "Iruatj"
+	female=yes
+	dynasty = meshwesh_neferkare
+	religion = "kemetic_pagan"
+	culture = meshwesh
+	#father = 32974
+	431.1.1 = {
+		birth = "431.1.1"
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+		add_spouse = 2000159
+	}
+	469.1.1 = {
+		death = "469.1.1"
 	}
 }

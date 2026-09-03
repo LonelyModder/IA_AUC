@@ -488,3 +488,83 @@ k_23rddynasty = {
 		holder = 2000158
 	}	
 }
+
+d_midian = {
+	
+	258.4.4 = {
+		holder = 2000166
+	}
+	437.4.21 = {
+		holder = 2000165
+	}	
+}
+
+c_berenice = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000166
+	}
+	437.4.21 = {
+		holder = 2000165
+	}	
+}
+
+c_kuva = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	#258.4.4 = {
+	#	holder = 2000166
+	#}
+	437.4.21 = {
+		holder = 2000165
+	}	
+}
+
+c_clyssa = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	#258.4.4 = {
+	#	holder = 2000166
+	#}
+	437.4.21 = {
+		holder = 2000165
+	}	
+}
+
+d_shasu = {
+	
+	258.4.4 = {
+		holder = 2000168
+	}
+	437.4.21 = {
+		holder = 2000167
+	}	
+}
+
+c_heroonpolis = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 25 }
+	
+	258.4.4 = {
+		holder = 2000168
+	}
+	#437.4.21 = {
+	#	holder = 2000167
+	#}	
+}
+
+c_clysma = {
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000168
+	}
+	#437.4.21 = {
+	#	holder = 2000167
+	#}	
+}

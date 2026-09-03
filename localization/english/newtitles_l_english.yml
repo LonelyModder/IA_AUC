@@ -46,6 +46,8 @@
  d_libu:0 "Libu"
  d_hpamun:0 "Temple of Amun"
  k_23rddynasty:0 "23rd Dynasty"
+ d_midian:0 "Midian"
+ d_shasu:0 "Shasu"
  # Empires
  e_westernrome:0 "Italia"
  e_africa:0 "Africa"

@@ -245,8 +245,8 @@
 }
 
 1999 = {		
-	culture = bohairic
-	religion = kemetic_pagan
+	culture = shasu
+	religion = canaanite_pagan
 	holding = tribal_holding
 }
 

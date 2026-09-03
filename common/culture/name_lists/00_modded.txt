@@ -2148,3 +2148,199 @@ name_list_nubian = {
 
 	
 }
+
+name_list_shasu = {
+	
+	cadet_dynasty_names = {
+		Bet-David 
+		Bet-Saul
+		Bet-Judah 
+		Bet-Joshua 
+		Bet-Manahem 
+		Bet-Jacob 
+		Bet-Ezekiah 
+		Bet-Levi 
+		Bet-Nathan 
+		Bet-Jason 
+		Bet-Harsom
+		Bet-Nathan 
+		Bet-Jeremiah 
+		Bet-Nathaniel 
+		Bet-Gadish 
+		Bet-Harqaq 
+		Bet-Nebalta 
+		Bet-Jonathan
+	}
+	
+	dynasty_names = {
+		Bet-David 
+		Bet-Saul
+		Bet-Judah 
+		Bet-Joshua 
+		Bet-Manahem 
+		Bet-Jacob 
+		Bet-Ezekiah 
+		Bet-Levi 
+		Bet-Nathan 
+		Bet-Jason 
+		Bet-Harsom
+		Bet-Nathan 
+		Bet-Jeremiah 
+		Bet-Nathaniel 
+		Bet-Gadish 
+		Bet-Harqaq 
+		Bet-Nebalta 
+		Bet-Jonathan
+	}
+	
+	male_names = {
+		Simon Joseph Judah Eleazar Yohanan Joshua Hananiah Jonathan Mattathias Menahem Jacob Hanan Dositheus 
+		Zachariah Ishmael Levi Saul Onias Samuel Ezekiah Gadish Gani Hagai Hanilai Harsom Harqaq Maro Nathanel 
+		Nathan Nebalta Nicandus Jason Jeremiah Kasaias Ishbaal
+	}
+	female_names = {
+		Hannah Mariam Salome Shelamzion Martha Joanna Shiphra Berenice Sarah Imma Hermione Helene Grapte Elisheba 
+		Esther Lysia Judith Julia Mara 
+	}
+	dynasty_of_location_prefix = "dynnp_of"
+	patronym_prefix_male = "dynnpat_pre_filius"
+
+	# Chance of male children being named after their paternal or maternal grandfather, or their father
+	pat_grf_name_chance = 50
+	mat_grf_name_chance = 0
+	father_name_chance = 50
+	
+	# Chance of female children being named after their paternal or maternal grandmother, or their mother
+	pat_grm_name_chance = 50
+	mat_grm_name_chance = 50
+	mother_name_chance = 0
+
+	
+}
+
+name_list_arabic = {
+	
+	cadet_dynasty_names = {
+		Abiatarus
+		Akabonus
+		Amitus
+		Amrame
+		Boaz
+		Dorid
+		Dovet
+		Eiranid
+		Eleazor
+		Hero
+		Honioid
+		Hillelid
+		Joazi
+		Kahani
+		Nahumi
+		Niri
+		Nogahi
+		Oferi
+		Omri
+		Pinchasi
+		Raanani
+		Shemidi
+		Shemidi
+		Yairi		
+		Ameli
+		Ghaylani
+		Kidati
+		Kahlani
+		Adhdi
+		Dhahrani
+		Madhini
+		Hamadani
+		Hashidimi
+		Bakili
+		Lakhmi
+		Gudhami
+		Qudai
+		Guhani
+		Salihi
+		Saksaki
+		Kalbi
+		Ashari
+	}
+	
+	dynasty_names = {
+		Abiatarus
+		Akabonus
+		Amitus
+		Amrame
+		Boaz
+		Dorid
+		Dovet
+		Eiranid
+		Eleazor
+		Hero
+		Honioid
+		Hillelid
+		Joazi
+		Kahani
+		Nahumi
+		Niri
+		Nogahi
+		Oferi
+		Omri
+		Pinchasi
+		Raanani
+		Shemidi
+		Shemidi
+		Yairi		
+		Ameli
+		Ghaylani
+		Kidati
+		Kahlani
+		Adhdi
+		Dhahrani
+		Madhini
+		Hamadani
+		Hashidimi
+		Bakili
+		Lakhmi
+		Gudhami
+		Qudai
+		Guhani
+		Salihi
+		Saksaki
+		Kalbi
+		Ashari
+	}
+	
+	male_names = {
+		Abiyasa Abraha Alhan Amdan Amkarib Ammdhakhar
+		Ammshafiq Ammyitha Abkarib Abyada Bi_athtar
+		Dhamar_ali Dhamarkarib Fara_karib Ghaylan Hasan
+		Hawfi_amm Hawfi_athat Hayu Hufn Il_azz Ilrayum
+		Ilsama Ilsharah Ilyafa Karib_il Khalkarib Ma_ad_il
+		Ma_adkarib Mabhad Malikkarib Marthad Marthad_ilum
+		Mas_ud Muhaqim Muratta Nabat Nabatali Nasha_karib
+		Ra_ab_il Rabbshams Sa_dshams Shahr Shamdar Shammar
+		Sharah_il Simyafa Sumhu_ali Sumhuyafa Tha_ran
+		Tubba_karib Wahab Waqah_il Waraw_il Watar Yada_ab
+		Yada_ib Yada_il Yadhmurmalik Yakribmalik Yashhur_il
+		Yashhurmalik Yasir Yasuduq_il Yazil Yigal Yitha_amar
+		Yitha_il Yuhaqam Yuhar_il Yusuf
+	}
+	female_names = {
+		Adiyya Baslu Dhabibat Dharqa Gamilath Hind Huldu Layla Mamat Maryam Masat Mawiyya Shagilath Shamsi 
+		Suhaimat Tabua Te_lkhunu Yapa Yathi_et Yutab Zabibah Zarga
+	}
+	dynasty_of_location_prefix = "dynnp_of"
+	patronym_prefix_male = "dynnpat_pre_filius"
+
+	# Chance of male children being named after their paternal or maternal grandfather, or their father
+	pat_grf_name_chance = 50
+	mat_grf_name_chance = 0
+	father_name_chance = 50
+	
+	# Chance of female children being named after their paternal or maternal grandmother, or their mother
+	pat_grm_name_chance = 50
+	mat_grm_name_chance = 50
+	mother_name_chance = 0
+
+	
+}
