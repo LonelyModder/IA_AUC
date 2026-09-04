@@ -318,7 +318,7 @@ c_hermapolis = {
 	}	
 }
 
-c_hadrai = {
+c_hardai = {
 	258.4.4 = {	change_development_level = 25 }
 	437.4.21 = { change_development_level = 25 }
 	

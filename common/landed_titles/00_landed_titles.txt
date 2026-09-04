@@ -21977,3 +21977,8 @@ d_shasu = {
 	color = { 46 217 165 }
 	landless = yes 
 }
+
+d_dedanites = {
+	color = { 161 161 39 }
+	landless = yes 
+}

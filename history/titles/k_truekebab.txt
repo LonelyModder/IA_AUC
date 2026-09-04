@@ -1,0 +1,59 @@
+c_rabilakh = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000168
+	}
+	437.4.21 = {
+		holder = 2000167
+	}	
+}
+
+c_zarribeh = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000168
+	}
+	437.4.21 = {
+		holder = 2000167
+	}	
+}
+
+c_katara = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000168
+	}
+	437.4.21 = {
+		holder = 2000167
+	}	
+}
+
+c_jabischa = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000168
+	}
+	437.4.21 = {
+		holder = 2000167
+	}	
+}
+
+c_lagabair = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000168
+	}
+	437.4.21 = {
+		holder = 2000167
+	}	
+}

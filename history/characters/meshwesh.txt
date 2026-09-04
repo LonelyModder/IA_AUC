@@ -44,7 +44,7 @@
 		add_pressed_claim = title:c_naukratis
 		add_pressed_claim = title:c_thonis
 		add_pressed_claim = title:c_hermapolis
-		add_pressed_claim = title:c_hadrai
+		add_pressed_claim = title:c_hardai
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family

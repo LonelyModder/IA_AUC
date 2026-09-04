@@ -139,3 +139,14 @@
  dedanite:0 "Dedanite"
  dedanite_prefix:0 "Dedanite"
  dedanite_collective_noun:1 "Dedanites"
+ #Aramean
+ damascan:0 "Haurani"
+ damascan_prefix:0 "Haurani"
+ damascan_collective_noun:1 "Hauranis"
+ gusian:0 "Syriac"
+ gusian_prefix:0 "Syriac"
+ gusian_collective_noun:1 "Syriacs"
+ #Hattian
+ syrohittite:0 "Syro-Hittite"
+ syrohittite_prefix:0 "Syro-Hittite"
+ syrohittite_collective_noun:1 "Syro-Hittites"

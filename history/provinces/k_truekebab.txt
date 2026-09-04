@@ -5,8 +5,8 @@
 }
 
 2385 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = shasu
+	religion = canaanite_pagan
 	holding = none
 }
 
@@ -23,8 +23,8 @@
 }
 
 2388 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = shasu
+	religion = canaanite_pagan
 	holding = none
 }
 
@@ -41,8 +41,8 @@
 }
 
 2391 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = shasu
+	religion = canaanite_pagan
 	holding = none
 }
 
@@ -71,8 +71,8 @@
 }
 
 2396 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = shasu
+	religion = canaanite_pagan
 	holding = none
 }
 
@@ -101,8 +101,8 @@
 }
 
 2401 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = shasu
+	religion = canaanite_pagan
 	holding = none
 }
 
