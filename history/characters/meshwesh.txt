@@ -63,33 +63,6 @@
 	220.1.1 = {
 		birth = "220.1.1"
 	}
-	268.1.1 = {
-		add_pressed_claim = title:k_22nddynasty
-		add_pressed_claim = title:c_tanis
-		add_pressed_claim = title:c_pelusium
-		add_pressed_claim = title:c_helioupolis
-		add_pressed_claim = title:c_memphis
-		add_pressed_claim = title:c_leontopolis
-		add_pressed_claim = title:c_damietta
-		add_pressed_claim = title:c_busiris
-		add_pressed_claim = title:c_tjebfuthis
-		add_pressed_claim = title:c_sais
-		add_pressed_claim = title:c_djetu
-		add_pressed_claim = title:c_naukratis
-		add_pressed_claim = title:c_thonis
-		add_pressed_claim = title:c_heracleopolis
-		add_pressed_claim = title:c_helwan
-		add_pressed_claim = title:c_hermapolis
-		add_pressed_claim = title:c_hadrai
-		add_pressed_claim = title:c_asyut
-		add_pressed_claim = title:c_qau
-		add_pressed_claim = title:c_abydos
-		add_pressed_claim = title:c_dendera
-		add_pressed_claim = title:c_nadjurmeru
-		add_pressed_claim = title:c_thebes
-		add_pressed_claim = title:c_hierakonpolis
-		add_pressed_claim = title:c_komombo
-	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family
 	#}
@@ -114,7 +87,7 @@
 		add_pressed_claim = title:c_abydos
 		add_pressed_claim = title:c_dendera
 		add_pressed_claim = title:c_nadjurmeru
-		add_pressed_claim = title:c_thebes
+		add_pressed_claim = title:c_waset
 		add_pressed_claim = title:c_hierakonpolis
 		add_pressed_claim = title:c_komombo
 	}
@@ -228,7 +201,7 @@
 		add_pressed_claim = title:c_abydos
 		add_pressed_claim = title:c_dendera
 		add_pressed_claim = title:c_nadjurmeru
-		add_pressed_claim = title:c_thebes
+		add_pressed_claim = title:c_waset
 		add_pressed_claim = title:c_hierakonpolis
 		add_pressed_claim = title:c_komombo
 	}

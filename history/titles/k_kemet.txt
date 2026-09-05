@@ -395,7 +395,7 @@ c_nadjurmeru = {
 	}	
 }
 
-c_thebes = {
+c_waset = {
 	258.4.4 = {	change_development_level = 25 }
 	437.4.21 = { change_development_level = 25 }
 	
@@ -472,6 +472,7 @@ c_cussameru = {
 d_hpamun = {
 	
 	258.4.4 = {
+		liege = "k_22nddynasty"
 		holder = 2000156
 	}
 	437.4.21 = {
@@ -567,4 +568,36 @@ c_clysma = {
 	#437.4.21 = {
 	#	holder = 2000167
 	#}	
+}
+
+d_wawat = {
+	
+	258.4.4 = {
+		holder = 2000171
+	}
+	#437.4.21 = {
+	#	holder = 2000167
+	#}	
+}
+
+k_kush = {
+	
+	#258.4.4 = {
+	#	holder = 2000171
+	#}
+	437.4.21 = {
+		holder = 2000172
+	}	
+}
+
+c_philae = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000171
+	}
+	437.4.21 = {
+		holder = 2000172
+	}	
 }

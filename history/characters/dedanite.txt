@@ -1,0 +1,47 @@
+﻿2000169 = {
+	name = "Yohanan"
+	dynasty = dedanite_yairi
+	religion = "canaanite_pagan"
+	culture = dedanite
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_betyairi
+		add_pressed_claim = title:c_kome
+		add_pressed_claim = title:c_ruwwafah
+		add_pressed_claim = title:c_sumutara
+		add_pressed_claim = title:c_heriroun
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000170 = {
+	name = "Gadish"
+	dynasty = dedanite_yairi
+	religion = "canaanite_pagan"
+	culture = dedanite
+	#father = 32974
+	220.1.1 = {
+		birth = "230.1.1"
+	}
+	247.1.1 = {
+		add_pressed_claim = title:d_betyairi
+		add_pressed_claim = title:c_kome
+		add_pressed_claim = title:c_ruwwafah
+		add_pressed_claim = title:c_sumutara
+		add_pressed_claim = title:c_heriroun
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}

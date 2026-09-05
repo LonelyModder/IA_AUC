@@ -185,8 +185,8 @@
 }
 
 2443 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = dedanite
+	religion = arab_pagan
 	holding = none
 }
 
@@ -227,8 +227,8 @@
 }
 
 2450 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = dedanite
+	religion = arab_pagan
 	holding = none
 }
 
@@ -263,8 +263,8 @@
 }
 
 2464 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = dedanite
+	religion = arab_pagan
 	holding = none
 }
 
@@ -401,8 +401,8 @@
 }
 
 2496 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = dedanite
+	religion = arab_pagan
 	holding = none
 }
 

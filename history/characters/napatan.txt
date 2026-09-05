@@ -1,0 +1,151 @@
+﻿2000172 = {
+	name = "Kashta"
+	dynasty = napatan_kashid
+	religion = "kemetic_pagan"
+	culture = napatan
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	428.1.1 = {
+		add_pressed_claim = title:k_kush
+		add_pressed_claim = title:c_philae
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000173 = {
+	name = "Pebatjma"
+	female=yes
+	dynasty = napatan_kashid
+	religion = "kemetic_pagan"
+	culture = napatan
+	#father = 32974
+	405.1.1 = {
+		birth = "405.1.1"
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+		add_spouse = 2000172
+	}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000174 = {
+	name = "Piye"
+	dynasty = napatan_kashid
+	religion = "kemetic_pagan"
+	culture = napatan
+	father = 2000172
+	mother = 2000173
+	420.1.1 = {
+		birth = "420.1.1"
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000175 = {
+	name = "Shabaka"
+	dynasty = napatan_kashid
+	religion = "kemetic_pagan"
+	culture = napatan
+	father = 2000172
+	mother = 2000173
+	421.1.1 = {
+		birth = "421.1.1"
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000176 = {
+	name = "Khensa"
+	female = yes
+	dynasty = napatan_kashid
+	religion = "kemetic_pagan"
+	culture = napatan
+	father = 2000172
+	mother = 2000173
+	422.1.1 = {
+		birth = "422.1.1"
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000177 = {
+	name = "Peksater"
+	female = yes
+	dynasty = napatan_kashid
+	religion = "kemetic_pagan"
+	culture = napatan
+	father = 2000172
+	mother = 2000173
+	423.1.1 = {
+		birth = "423.1.1"
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000178 = {
+	name = "Amenirdis"
+	female = yes
+	dynasty = napatan_kashid
+	religion = "kemetic_pagan"
+	culture = napatan
+	father = 2000172
+	mother = 2000173
+	423.1.1 = {
+		birth = "423.1.1"
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000179 = {
+	name = "Neferukakashta"
+	female = yes
+	dynasty = napatan_kashid
+	religion = "kemetic_pagan"
+	culture = napatan
+	father = 2000172
+	mother = 2000173
+	424.1.1 = {
+		birth = "424.1.1"
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}

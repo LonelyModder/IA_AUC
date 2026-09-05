@@ -49,6 +49,9 @@
  d_midian:0 "Midian"
  d_shasu:0 "Shasu"
  d_dedanites:0 "Dedanites"
+ d_betyairi:0 "Bet-Yairi"
+ d_wawat:0 "Wawat"
+ k_kush:0 "Kush"
  # Empires
  e_westernrome:0 "Italia"
  e_africa:0 "Africa"

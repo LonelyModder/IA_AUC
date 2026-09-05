@@ -1,0 +1,20 @@
+﻿2000171 = {
+	name = "Dekeli"
+	dynasty = kerman_nastasenid
+	religion = "kemetic_pagan"
+	culture = kerman
+	#father = 32974
+	220.1.1 = {
+		birth = "230.1.1"
+	}
+	247.1.1 = {
+		add_pressed_claim = title:d_wawat
+		add_pressed_claim = title:c_philae
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}

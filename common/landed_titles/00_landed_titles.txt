@@ -21982,3 +21982,18 @@ d_dedanites = {
 	color = { 161 161 39 }
 	landless = yes 
 }
+
+d_betyairi = {
+	color = { 110 145 67 }
+	landless = yes 
+}
+
+d_wawat = {
+	color = { 99 68 44 }
+	landless = yes 
+}
+
+k_kush = {
+	color = { 135 62 5 }
+	landless = yes 
+}

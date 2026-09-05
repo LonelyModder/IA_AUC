@@ -495,3 +495,24 @@ shasu_betnathan = {
 	name = "dynn_Betnathan"
 	culture = "shasu"
 }
+
+#Dedanite
+
+dedanite_yairi = {
+	name = "dynn_Yairi"
+	culture = "dedanite"
+}
+
+#Kerman
+
+kerman_nastasenid = {
+	name = "dynn_Nastasenid"
+	culture = "kerman"
+}
+
+#Napatan
+
+napatan_kashid = {
+	name = "dynn_Kashid"
+	culture = "napatan"
+}

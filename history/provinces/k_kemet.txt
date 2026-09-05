@@ -245,8 +245,8 @@
 }
 
 1999 = {		
-	culture = shasu
-	religion = canaanite_pagan
+	culture = bohairic
+	religion = kemetic_pagan
 	holding = tribal_holding
 }
 
@@ -872,9 +872,6 @@
 	culture = sahidic
 	religion = kemetic_pagan
 	holding = tribal_holding
-	437.4.21 = {
-		culture = mededian
-	}
 }
 
 2095 = {		
@@ -1067,9 +1064,6 @@
 	culture = sahidic
 	religion = kemetic_pagan
 	holding = tribal_holding
-	437.4.21 = {
-		culture = mededian
-	}
 }
 
 2136 = {		

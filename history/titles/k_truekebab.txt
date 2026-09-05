@@ -57,3 +57,61 @@ c_lagabair = {
 		holder = 2000167
 	}	
 }
+
+d_betyairi = {
+	
+	258.4.4 = {
+		holder = 2000170
+	}
+	437.4.21 = {
+		holder = 2000169
+	}	
+}
+
+c_kome = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000170
+	}
+	437.4.21 = {
+		holder = 2000169
+	}		
+}
+
+c_ruwwafah = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000170
+	}
+	437.4.21 = {
+		holder = 2000169
+	}		
+}
+
+c_sumutara = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000170
+	}
+	437.4.21 = {
+		holder = 2000169
+	}		
+}
+
+c_heriroun = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000170
+	}
+	437.4.21 = {
+		holder = 2000169
+	}		
+}
