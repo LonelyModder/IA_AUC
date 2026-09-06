@@ -1,4 +1,4 @@
-﻿arab_religion = {
+﻿yahwism_religion = {
 	family = rf_pagan
 
 	pagan_roots = yes
@@ -55,88 +55,88 @@
 
 	localization = {
 		#High God Name
-		HighGodName = arab_high_god_name
-		HighGodName2 = arab_high_god_name_2
-		HighGodNamePossessive = arab_high_god_name_possessive
+		HighGodName = yahwism_high_god_name
+		HighGodName2 = yahwism_high_god_name_2
+		HighGodNamePossessive = yahwism_high_god_name_possessive
 		HighGodNameSheHe = CHARACTER_SHEHE_HE
 		HighGodHerselfHimself = CHARACTER_HIMSELF
 		HighGodHerHis = CHARACTER_HERHIS_HIS
-		HighGodNameAlternate = arab_high_god_name_alternate
-		HighGodNameAlternatePossessive = arab_high_god_name_alternate_possessive
+		HighGodNameAlternate = yahwism_high_god_name_alternate
+		HighGodNameAlternatePossessive = yahwism_high_god_name_alternate_possessive
 
 		#Creator
-		CreatorName = arab_creator_god_name
-		CreatorNamePossessive = arab_creator_god_name_possessive
+		CreatorName = yahwism_creator_god_name
+		CreatorNamePossessive = yahwism_creator_god_name_possessive
 		CreatorSheHe = CHARACTER_SHEHE_SHE
 		CreatorHerHis = CHARACTER_HERHIS_HER
 		CreatorHerHim = CHARACTER_HERHIM_HER
 
 		#HealthGod
-		HealthGodName = arab_health_god_name
-		HealthGodNamePossessive = arab_health_god_name_possessive
+		HealthGodName = yahwism_health_god_name
+		HealthGodNamePossessive = yahwism_health_god_name_possessive
 		HealthGodSheHe = CHARACTER_SHEHE_HE
 		HealthGodHerHis = CHARACTER_HERHIS_HIS
 		HealthGodHerHim = CHARACTER_HERHIM_HIM
 		
 		#FertilityGod
-		FertilityGodName = arab_fertility_god_name
-		FertilityGodNamePossessive = arab_fertility_god_name_possessive
+		FertilityGodName = yahwism_fertility_god_name
+		FertilityGodNamePossessive = yahwism_fertility_god_name_possessive
 		FertilityGodSheHe = CHARACTER_SHEHE_SHE
 		FertilityGodHerHis = CHARACTER_HERHIS_HER
 		FertilityGodHerHim = CHARACTER_HERHIM_HER
 
 		#WealthGod
-		WealthGodName = arab_wealth_god_name
-		WealthGodNamePossessive = arab_wealth_god_name_possessive
+		WealthGodName = yahwism_wealth_god_name
+		WealthGodNamePossessive = yahwism_wealth_god_name_possessive
 		WealthGodSheHe = CHARACTER_SHEHE_HE
 		WealthGodHerHis = CHARACTER_HERHIS_HIS
 		WealthGodHerHim = CHARACTER_HERHIM_HIM
 
 		#HouseholdGod
-		HouseholdGodName = arab_household_god_name
-		HouseholdGodNamePossessive = arab_household_god_name_possessive
+		HouseholdGodName = yahwism_household_god_name
+		HouseholdGodNamePossessive = yahwism_household_god_name_possessive
 		HouseholdGodSheHe = CHARACTER_SHEHE_SHE
 		HouseholdGodHerHis = CHARACTER_HERHIS_HER
 		HouseholdGodHerHim = CHARACTER_HERHIM_HER
 
 		#FateGod
-		FateGodName = arab_fate_god_name
-		FateGodNamePossessive = arab_fate_god_name_possessive
+		FateGodName = yahwism_fate_god_name
+		FateGodNamePossessive = yahwism_fate_god_name_possessive
 		FateGodSheHe = CHARACTER_SHEHE_THEY
 		FateGodHerHis = CHARACTER_HERHIS_THEIR
 		FateGodHerHim = CHARACTER_HERHIM_THEM
 
 		#KnowledgeGod
-		KnowledgeGodName = arab_knowledge_god_name
-		KnowledgeGodNamePossessive = arab_knowledge_god_name_possessive
+		KnowledgeGodName = yahwism_knowledge_god_name
+		KnowledgeGodNamePossessive = yahwism_knowledge_god_name_possessive
 		KnowledgeGodSheHe = CHARACTER_SHEHE_SHE
 		KnowledgeGodHerHis = CHARACTER_HERHIS_HER
 		KnowledgeGodHerHim = CHARACTER_HERHIM_HER
 
 		#WarGod
-		WarGodName = arab_war_god_name
-		WarGodNamePossessive = arab_war_god_name_possessive
+		WarGodName = yahwism_war_god_name
+		WarGodNamePossessive = yahwism_war_god_name_possessive
 		WarGodSheHe = CHARACTER_SHEHE_HE
 		WarGodHerHis = CHARACTER_HERHIS_HIS
 		WarGodHerHim = CHARACTER_HERHIM_HIM
 
 		#TricksterGod
-		TricksterGodName = arab_trickster_god_name
-		TricksterGodNamePossessive = arab_trickster_god_name_possessive
+		TricksterGodName = yahwism_trickster_god_name
+		TricksterGodNamePossessive = yahwism_trickster_god_name_possessive
 		TricksterGodSheHe = CHARACTER_SHEHE_HE
 		TricksterGodHerHis = CHARACTER_HERHIS_HIS
 		TricksterGodHerHim = CHARACTER_HERHIM_HIM
 
 		#NightGod
-		NightGodName = arab_night_god_name
-		NightGodNamePossessive = arab_night_god_name_possessive
+		NightGodName = yahwism_night_god_name
+		NightGodNamePossessive = yahwism_night_god_name_possessive
 		NightGodSheHe = CHARACTER_SHEHE_SHE
 		NightGodHerHis = CHARACTER_HERHIS_HER
 		NightGodHerHim = CHARACTER_HERHIM_HER
 
 		#WaterGod
-		WaterGodName = arab_water_god_name
-		WaterGodNamePossessive = arab_water_god_name_possessive
+		WaterGodName = yahwism_water_god_name
+		WaterGodNamePossessive = yahwism_water_god_name_possessive
 		WaterGodSheHe = CHARACTER_SHEHE_HE
 		WaterGodHerHis = CHARACTER_HERHIS_HIS
 		WaterGodHerHim = CHARACTER_HERHIM_HIM
@@ -147,24 +147,24 @@
 		PantheonTerm2 = religion_the_gods_2
 		PantheonTerm3 = religion_the_gods_3
 		PantheonTermHasHave = pantheon_term_have
-		GoodGodNames = { arab_good_god_poseidon arab_good_god_athena arab_good_god_ares arab_good_god_hera arab_good_god_apollo arab_good_god_artemis arab_good_god_hermes arab_good_god_aphrodite }
-		DevilName = arab_devil_name
-		DevilNamePossessive = arab_devil_name_possessive
+		GoodGodNames = { yahwism_good_god_poseidon yahwism_good_god_athena yahwism_good_god_ares yahwism_good_god_hera yahwism_good_god_apollo yahwism_good_god_artemis yahwism_good_god_hermes yahwism_good_god_aphrodite }
+		DevilName = yahwism_devil_name
+		DevilNamePossessive = yahwism_devil_name_possessive
 		DevilSheHe = CHARACTER_SHEHE_HE
 		DevilHerHis = CHARACTER_HERHIS_HIS
 		DevilHerselfHimself = CHARACTER_HIMSELF
-		EvilGodNames = { arab_evil_god_menoetius arab_evil_god_erinyes }
+		EvilGodNames = { yahwism_evil_god_menoetius yahwism_evil_god_erinyes }
 		HouseOfWorship = paganism_house_of_worship
 		HouseOfWorship2 = paganism_house_of_worship_2
 		HouseOfWorship3 = paganism_house_of_worship_3
 		HouseOfWorshipPlural = paganism_house_of_worship_plural
-		ReligiousSymbol = arab_religious_symbol
-		ReligiousSymbol2 = arab_religious_symbol_2
-		ReligiousSymbol3 = arab_religious_symbol_3
-		ReligiousText = arab_religious_text
-		ReligiousText2 = arab_religious_text_2
-		ReligiousText3 = arab_religious_text_3
-		ReligiousHeadName = arab_religious_head_title
+		ReligiousSymbol = yahwism_religious_symbol
+		ReligiousSymbol2 = yahwism_religious_symbol_2
+		ReligiousSymbol3 = yahwism_religious_symbol_3
+		ReligiousText = yahwism_religious_text
+		ReligiousText2 = yahwism_religious_text_2
+		ReligiousText3 = yahwism_religious_text_3
+		ReligiousHeadName = yahwism_religious_head_title
 		ReligiousHeadTitleName = dualism_religious_head_title_name
 		DevoteeMale = paganism_devotee
 		DevoteeMalePlural = paganism_devoteeplural
@@ -172,35 +172,35 @@
 		DevoteeFemalePlural = paganism_devoteeplural
 		DevoteeNeuter = paganism_devotee
 		DevoteeNeuterPlural = paganism_devoteeplural
-		PriestMale = arab_priest_male
-		PriestMalePlural = arab_priest_male_plural
-		PriestFemale = arab_priest_female
-		PriestFemalePlural = arab_priest_female_plural
-		PriestNeuter = arab_priest_male
-		PriestNeuterPlural = arab_priest_male_plural
+		PriestMale = yahwism_priest_male
+		PriestMalePlural = yahwism_priest_male_plural
+		PriestFemale = yahwism_priest_female
+		PriestFemalePlural = yahwism_priest_female_plural
+		PriestNeuter = yahwism_priest_male
+		PriestNeuterPlural = yahwism_priest_male_plural
 		AltPriestTermPlural = christianity_priest_alternate_plural
-		BishopMale = arab_bishop_male
-		BishopMalePlural = arab_bishop_male_plural
-		BishopFemale = arab_priest_female
-		BishopFemalePlural = arab_priest_female_plural
-		BishopNeuter = arab_priest_male
-		BishopNeuterPlural = arab_priest_male_plural
-		DivineRealm = arab_divine_realm
-		DivineRealm2 = arab_divine_realm_2
-		DivineRealm3 = arab_divine_realm_3
-		PositiveAfterLife = arab_death_deity_name
-		PositiveAfterLife2 = arab_death_deity_name_2
-		PositiveAfterLife3 = arab_death_deity_name_3
-		NegativeAfterLife = arab_death_deity_name
-		NegativeAfterLife2 = arab_death_deity_name_2
-		NegativeAfterLife3 = arab_death_deity_name_3
-		DeathDeityName = arab_death_deity_name
-		DeathDeityNamePossessive = arab_death_deity_name_possessive
+		BishopMale = yahwism_bishop_male
+		BishopMalePlural = yahwism_bishop_male_plural
+		BishopFemale = yahwism_priest_female
+		BishopFemalePlural = yahwism_priest_female_plural
+		BishopNeuter = yahwism_priest_male
+		BishopNeuterPlural = yahwism_priest_male_plural
+		DivineRealm = yahwism_divine_realm
+		DivineRealm2 = yahwism_divine_realm_2
+		DivineRealm3 = yahwism_divine_realm_3
+		PositiveAfterLife = yahwism_death_deity_name
+		PositiveAfterLife2 = yahwism_death_deity_name_2
+		PositiveAfterLife3 = yahwism_death_deity_name_3
+		NegativeAfterLife = yahwism_death_deity_name
+		NegativeAfterLife2 = yahwism_death_deity_name_2
+		NegativeAfterLife3 = yahwism_death_deity_name_3
+		DeathDeityName = yahwism_death_deity_name
+		DeathDeityNamePossessive = yahwism_death_deity_name_possessive
 		DeathDeitySheHe = CHARACTER_SHEHE_HE
 		DeathDeityHerHis = CHARACTER_HERHIS_HIS
 		DeathDeityHerHim = CHARACTER_HERHIM_HIM
-		WitchGodName = arab_witchgodname_hekate
-		WitchGodNamePossessive = arab_witchgodname_hekate_possessive
+		WitchGodName = yahwism_witchgodname_hekate
+		WitchGodNamePossessive = yahwism_witchgodname_hekate_possessive
 		WitchGodHerHis = CHARACTER_HERHIS_HER
 		WitchGodSheHe = CHARACTER_SHEHE_HE
 		WitchGodHerHim = CHARACTER_HERHIM_HER
@@ -213,10 +213,10 @@
 	}
 
 	faiths = {
-		arab_pagan = {
-			color = { 0.22 0.88 0.08 }
-			icon = arab
-			reformed_icon = arab_reformed
+		yahwism_pagan = {
+			color = { 0.86 0.86 0.86 }
+			icon = yahwism
+			reformed_icon = yahwism_reformed
 
 			holy_site = jenne
 

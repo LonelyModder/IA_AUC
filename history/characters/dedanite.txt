@@ -1,7 +1,7 @@
 ﻿2000169 = {
 	name = "Yohanan"
 	dynasty = dedanite_yairi
-	religion = "canaanite_pagan"
+	religion = "arab_pagan"
 	culture = dedanite
 	#father = 32974
 	400.1.1 = {
@@ -25,7 +25,7 @@
 2000170 = {
 	name = "Gadish"
 	dynasty = dedanite_yairi
-	religion = "canaanite_pagan"
+	religion = "arab_pagan"
 	culture = dedanite
 	#father = 32974
 	220.1.1 = {

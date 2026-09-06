@@ -1,0 +1,43 @@
+﻿2000180 = {
+	name = "Rehoboam"
+	dynasty = judahite_betdavid
+	religion = "yahwism_pagan"
+	culture = judahite
+	#father = 32974
+	217.1.1 = {
+		birth = "217.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_judah
+		add_pressed_claim = title:c_jerusalem
+		add_pressed_claim = title:c_beersheba
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000181 = {
+	name = "Uzziah"
+	dynasty = judahite_betdavid
+	religion = "yahwism_pagan"
+	culture = judahite
+	#father = 32974
+	411.1.1 = {
+		birth = "411.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_judah
+		add_pressed_claim = title:c_jerusalem
+		add_pressed_claim = title:c_beersheba
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

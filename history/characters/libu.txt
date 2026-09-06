@@ -41,3 +41,51 @@
 		death = "260.1.1"
 	}
 }
+
+2000194 = {
+	name = "Djau"
+	dynasty = libu_raherka
+	religion = "kemetic_pagan"
+	culture = libu
+	#father = 32974
+	220.1.1 = {
+		birth = "230.1.1"
+	}
+	247.1.1 = {
+		add_pressed_claim = title:d_sais
+		add_pressed_claim = title:c_sais
+		add_pressed_claim = title:c_djetu
+		add_pressed_claim = title:c_thonis
+		add_pressed_claim = title:c_naucratis
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000195 = {
+	name = "Nebre"
+	dynasty = libu_raherka
+	religion = "kemetic_pagan"
+	culture = libu
+	#father = 32974
+	410.1.1 = {
+		birth = "410.1.1"
+	}
+	435.1.1 = {
+		add_pressed_claim = title:d_sais
+		add_pressed_claim = title:c_sais
+		add_pressed_claim = title:c_djetu
+		add_pressed_claim = title:c_thonis
+		add_pressed_claim = title:c_naucratis
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

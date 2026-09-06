@@ -1,0 +1,39 @@
+﻿2000199 = {
+	name = "Harqaq"
+	dynasty = moabite_meshite
+	religion = "kemetic_pagan"
+	culture = moabite
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_moab
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000200 = {
+	name = "Salmanu"
+	dynasty = moabite_meshite
+	religion = "kemetic_pagan"
+	culture = moabite
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_moab
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

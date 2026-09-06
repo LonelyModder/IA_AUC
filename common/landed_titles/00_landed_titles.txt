@@ -21997,3 +21997,13 @@ k_kush = {
 	color = { 135 62 5 }
 	landless = yes 
 }
+
+d_sais = {
+	color = { 224 85 25 }
+	landless = yes 
+}
+
+d_deltanchiefs = {
+	color = { 117 61 36 }
+	landless = yes 
+}

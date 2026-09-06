@@ -1,0 +1,103 @@
+d_judah = {
+	
+	258.4.4 = {
+		holder = 2000180
+	}
+	437.4.21 = {
+		holder = 2000181
+	}	
+}
+
+c_jerusalem = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000180
+	}
+	437.4.21 = {
+		holder = 2000181
+	}			
+}
+
+c_beersheba = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000180
+	}
+	437.4.21 = {
+		holder = 2000181
+	}			
+}
+
+d_samaria = {
+	
+	258.4.4 = {
+		holder = 2000182
+	}
+	437.4.21 = {
+		holder = 2000183
+	}		
+}
+
+c_samaria = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000182
+	}
+	437.4.21 = {
+		holder = 2000183
+	}			
+}
+
+c_dan = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000182
+	}
+	437.4.21 = {
+		holder = 2000183
+	}			
+}
+
+c_beitel = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000182
+	}
+	437.4.21 = {
+		holder = 2000183
+	}			
+}
+
+c_dor = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000182
+	}
+	437.4.21 = {
+		holder = 2000183
+	}			
+}
+
+c_jerash = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000182
+	}
+	437.4.21 = {
+		holder = 2000183
+	}			
+}

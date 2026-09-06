@@ -475,11 +475,46 @@ meshwesh_menkheperre = {
 	culture = "meshwesh"
 }
 
+meshwesh_hemaka = {
+	name = "dynn_Hemaka"
+	culture = "meshwesh"
+}
+
+meshwesh_hesat = {
+	name = "dynn_Hesat"
+	culture = "meshwesh"
+}
+
+meshwesh_sennefer = {
+	name = "dynn_Sennefer"
+	culture = "meshwesh"
+}
+
+meshwesh_anuket = {
+	name = "dynn_Anuket"
+	culture = "meshwesh"
+}
+
+meshwesh_aker = {
+	name = "dynn_Aker"
+	culture = "meshwesh"
+}
+
+meshwesh_seneb = {
+	name = "dynn_Seneb"
+	culture = "meshwesh"
+}
+
 #Libu
 
 libu_nefaarud = {
 	name = "dynn_Nefaarud"
-	culture = "meshwesh"
+	culture = "libu"
+}
+
+libu_raherka = {
+	name = "dynn_Raherka"
+	culture = "libu"
 }
 
 #Mededian
@@ -515,4 +550,37 @@ kerman_nastasenid = {
 napatan_kashid = {
 	name = "dynn_Kashid"
 	culture = "napatan"
+}
+
+#Judahite
+
+judahite_betdavid = {
+	name = "dynn_BetDavid"
+	culture = "judahite"
+}
+
+#Samarian
+
+samarian_betephraim = {
+	name = "dynn_BetEphraim"
+	culture = "samarian"
+}
+
+samarian_betjehu = {
+	name = "dynn_BetJehu"
+	culture = "samarian"
+}
+
+#Edomite
+
+edomite_qos = {
+	name = "dynn_Qos"
+	culture = "edomite"
+}
+
+#Moabite
+
+moabite_meshite = {
+	name = "dynn_Meshite"
+	culture = "edomite"
 }

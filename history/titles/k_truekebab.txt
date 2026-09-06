@@ -115,3 +115,61 @@ c_heriroun = {
 		holder = 2000169
 	}		
 }
+
+d_edom = {
+	
+	258.4.4 = {
+		holder = 2000185
+	}
+	437.4.21 = {
+		holder = 2000184
+	}	
+}
+
+c_bozrah = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000184
+	}
+	437.4.21 = {
+		holder = 2000185
+	}		
+}
+
+c_petra = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000184
+	}
+	437.4.21 = {
+		holder = 2000185
+	}			
+}
+
+c_aila = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000184
+	}
+	437.4.21 = {
+		holder = 2000185
+	}			
+}
+
+c_moab = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000199
+	}
+	437.4.21 = {
+		holder = 2000200
+	}			
+}

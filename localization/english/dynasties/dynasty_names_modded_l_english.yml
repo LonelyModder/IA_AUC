@@ -108,8 +108,15 @@
  dynn_Shoshenqid:0 "Shoshenqid"
  dynn_Neferkare:0 "Neferkare"
  dynn_Menkheperre:0 "Menkheperre"
+ dynn_Hemaka:0 "Hemaka"
+ dynn_Hesat:0 "Hesat"
+ dynn_Sennefer:0 "Sennefer"
+ dynn_Anuket:0 "Anuket"
+ dynn_Aker:0 "Aker"
+ dynn_Seneb:0 "Seneb"
  #Libu
  dynn_Nefaarud:0 "Nefaarud"
+ dynn_Raherka:0 "Raherka"
  #Mededian
  dynn_Teritnid:0 "Teritnid"
  #Shasu
@@ -120,3 +127,12 @@
  dynn_Nastasenid:0 "Nastasenid"
  #Napatan
  dynn_Kashid:0 "Kashid"
+ #Judahite
+ dynn_BetDavid:0 "Bet-David"
+ #Samarian
+ dynn_BetEphraim:0 "Bet-Ephraim"
+ dynn_BetJehu:0 "Bet-Jehu"
+ #Edomite
+ dynn_Qos:0 "Qos"
+ #Moabite
+ dynn_Meshite:0 "Meshite"

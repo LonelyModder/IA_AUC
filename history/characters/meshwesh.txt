@@ -11,6 +11,7 @@
 		add_pressed_claim = title:k_22nddynasty
 		add_pressed_claim = title:c_tanis
 		add_pressed_claim = title:c_pelusium
+		add_pressed_claim = title:c_rinocolura
 	}
 	#437.4.21 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -33,6 +34,7 @@
 		add_pressed_claim = title:k_22nddynasty
 		add_pressed_claim = title:c_tanis
 		add_pressed_claim = title:c_pelusium
+		add_pressed_claim = title:c_rinocolura
 		add_pressed_claim = title:c_helioupolis
 		add_pressed_claim = title:c_memphis
 		add_pressed_claim = title:c_leontopolis
@@ -265,6 +267,241 @@
 		add_character_flag = do_not_generate_starting_family
 		add_spouse = 2000159
 	}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000186 = {
+	name = "Khyan"
+	dynasty = meshwesh_hemaka
+	religion = "kemetic_pagan"
+	culture = meshwesh
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_kharga
+		add_pressed_claim = title:c_djanpodet
+		add_pressed_claim = title:c_setre
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000187 = {
+	name = "Nuya"
+	dynasty = meshwesh_hemaka
+	religion = "kemetic_pagan"
+	culture = meshwesh
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_kharga
+		add_pressed_claim = title:c_djanpodet
+		add_pressed_claim = title:c_setre
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000188 = {
+	name = "Meru"
+	dynasty = meshwesh_hesat
+	religion = "kemetic_pagan"
+	culture = meshwesh
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_khenei
+		add_pressed_claim = title:c_parva
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000189 = {
+	name = "Raneb"
+	dynasty = meshwesh_hesat
+	religion = "kemetic_pagan"
+	culture = meshwesh
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_khenei
+		add_pressed_claim = title:c_parva
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000190 = {
+	name = "Merikare"
+	dynasty = meshwesh_sennefer
+	religion = "kemetic_pagan"
+	culture = meshwesh
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_mothis
+		add_pressed_claim = title:c_menkhatunis
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000191 = {
+	name = "Iry"
+	dynasty = meshwesh_sennefer
+	religion = "kemetic_pagan"
+	culture = meshwesh
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_mothis
+		add_pressed_claim = title:c_menkhatunis
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000192 = {
+	name = "Djet"
+	dynasty = meshwesh_anuket
+	religion = "kemetic_pagan"
+	culture = meshwesh
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_dakhla
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000193 = {
+	name = "Dedi"
+	dynasty = meshwesh_anuket
+	religion = "kemetic_pagan"
+	culture = meshwesh
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_dakhla
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000196 = {
+	name = "Hui"
+	dynasty = meshwesh_aker
+	religion = "kemetic_pagan"
+	culture = meshwesh
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_deltanchiefs
+		add_pressed_claim = title:c_busiris
+		add_pressed_claim = title:c_damietta
+		add_pressed_claim = title:c_tjebfuthis
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000197 = {
+	name = "Weneg"
+	dynasty = meshwesh_aker
+	religion = "kemetic_pagan"
+	culture = meshwesh
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_deltanchiefs
+		add_pressed_claim = title:c_busiris
+		add_pressed_claim = title:c_damietta
+		add_pressed_claim = title:c_tjebfuthis
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000198 = {
+	name = "Ramose"
+	dynasty = meshwesh_seneb
+	religion = "kemetic_pagan"
+	culture = meshwesh
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_heroonpolis
+		add_pressed_claim = title:c_clysma
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
 	469.1.1 = {
 		death = "469.1.1"
 	}

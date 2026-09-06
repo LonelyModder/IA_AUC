@@ -7,7 +7,7 @@
 2385 = {		
 	culture = shasu
 	religion = canaanite_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 2386 = {		
@@ -25,7 +25,7 @@
 2388 = {		
 	culture = shasu
 	religion = canaanite_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 2389 = {		
@@ -43,7 +43,7 @@
 2391 = {		
 	culture = shasu
 	religion = canaanite_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 2392 = {		
@@ -73,7 +73,7 @@
 2396 = {		
 	culture = shasu
 	religion = canaanite_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 2397 = {		
@@ -103,13 +103,13 @@
 2401 = {		
 	culture = shasu
 	religion = canaanite_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 2402 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = edomite
+	religion = canaanite_pagan
+	holding = tribal_holding
 }
 
 2403 = {		
@@ -125,9 +125,9 @@
 }
 
 2405 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = edomite
+	religion = canaanite_pagan
+	holding = tribal_holding
 }
 
 2406 = {		
@@ -187,7 +187,7 @@
 2443 = {		
 	culture = dedanite
 	religion = arab_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 2444 = {		
@@ -229,7 +229,7 @@
 2450 = {		
 	culture = dedanite
 	religion = arab_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 2459 = {		
@@ -265,7 +265,7 @@
 2464 = {		
 	culture = dedanite
 	religion = arab_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 2465 = {		
@@ -281,9 +281,9 @@
 }
 
 2467 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = edomite
+	religion = canaanite_pagan
+	holding = tribal_holding
 }
 
 2468 = {		
@@ -403,7 +403,7 @@
 2496 = {		
 	culture = dedanite
 	religion = arab_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 2497 = {		
