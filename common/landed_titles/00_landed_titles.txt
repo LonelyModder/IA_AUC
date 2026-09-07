@@ -22007,3 +22007,13 @@ d_deltanchiefs = {
 	color = { 117 61 36 }
 	landless = yes 
 }
+
+k_tyre = {
+	color = { 130 29 245 }
+	landless = yes 
+}
+
+k_aramdamascus = {
+	color = { 186 101 9 }
+	landless = yes 
+}

@@ -136,3 +136,13 @@
  dynn_Qos:0 "Qos"
  #Moabite
  dynn_Meshite:0 "Meshite"
+ #Ammonite
+ dynn_Nahashite:0 "Nahashite"
+ #Phoenician
+ dynn_Sidonian:0 "Sidonian"
+ dynn_Ithobaalid:0 "Ithobaalid"
+ dynn_Ahiramid:0 "Ahiramid"
+ dynn_Azibaalid:0 "Azibaalid"
+ dynn_Yatonbaalid:0 "Yatonbaalid"
+ #Philistine
+ dynn_Gathite:0 "Gathite"

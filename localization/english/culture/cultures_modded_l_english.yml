@@ -43,6 +43,12 @@
  punic:0 "Punic"
  punic_prefix:0 "Punic"
  punic_collective_noun:1 "Phoenicians"
+ phoenician:0 "Phoenician"
+ phoenician_prefix:0 "Phoenician"
+ phoenician_collective_noun:1 "Phoenicians"
+ philistine:0 "Philistine"
+ philistine_prefix:0 "Philistine"
+ philistine_collective_noun:1 "Philistines"
  #Nuragian Group
  ioleian:0 "Ioleian"
  ioleian_prefix:0 "Ioleian"

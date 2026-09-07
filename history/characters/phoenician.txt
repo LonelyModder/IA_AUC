@@ -1,0 +1,182 @@
+﻿2000203 = {
+	name = "Beleazarus"
+	dynasty = phoenician_sidonian
+	religion = "canaanite_pagan"
+	culture = phoenician
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:k_tyre
+		add_pressed_claim = title:c_tyre
+		add_pressed_claim = title:c_sidon
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000204 = {
+	name = "Ithobaal"
+	dynasty = phoenician_ithobaalid
+	religion = "canaanite_pagan"
+	culture = phoenician
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:k_tyre
+		add_pressed_claim = title:c_tyre
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000205 = {
+	name = "Yehimilk"
+	dynasty = phoenician_ahiramid
+	religion = "canaanite_pagan"
+	culture = phoenician
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_byblos
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000206 = {
+	name = "Safatbaal"
+	dynasty = phoenician_ahiramid
+	religion = "canaanite_pagan"
+	culture = phoenician
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_byblos
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000207 = {
+	name = "Boodes"
+	dynasty = phoenician_sidonian
+	religion = "canaanite_pagan"
+	culture = phoenician
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_sidon
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000208 = {
+	name = "Philosir"
+	dynasty = phoenician_azibaalid
+	religion = "canaanite_pagan"
+	culture = phoenician
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_berytus
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000209 = {
+	name = "Milkyaton"
+	dynasty = phoenician_azibaalid
+	religion = "canaanite_pagan"
+	culture = phoenician
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_berytus
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000210 = {
+	name = "Abirami"
+	dynasty = phoenician_yatonbaalid
+	religion = "canaanite_pagan"
+	culture = phoenician
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_aradus
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000211 = {
+	name = "Eugoras"
+	dynasty = phoenician_yatonbaalid
+	religion = "canaanite_pagan"
+	culture = phoenician
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_aradus
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

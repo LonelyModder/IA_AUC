@@ -3,9 +3,11 @@ c_utica = {
 	437.4.21 = { change_development_level = 25 }
 	
 	258.4.4 = {
+		liege="k_tyre"
 		holder = 2000096
 	}
 	437.4.21 = {
+		liege="k_tyre"
 		holder = 2000095
 	}
 }
@@ -18,6 +20,7 @@ c_carthage = {
 		holder = 2000102
 	}
 	437.4.21 = {
+		liege="k_tyre"
 		holder = 2000097
 	}
 }
@@ -30,6 +33,7 @@ c_hadrumentum = {
 		holder = 2000122
 	}
 	437.4.21 = {
+		liege="k_tyre"
 		holder = 2000098
 	}
 }

@@ -251,8 +251,8 @@
 }
 
 2462 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = ammonite
+	religion = canaanite_pagan
 	holding = none
 }
 

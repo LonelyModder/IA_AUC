@@ -1,0 +1,69 @@
+k_tyre = {
+	
+	258.4.4 = {
+		holder = 2000203
+	}
+	437.4.21 = {
+		holder = 2000204
+	}	
+}
+
+c_tyre = {
+	258.4.4 = {	change_development_level = 25 }
+	437.4.21 = { change_development_level = 25 }
+	
+	258.4.4 = {
+		holder = 2000203
+	}
+	437.4.21 = {
+		holder = 2000204
+	}
+}
+
+c_sidon = {
+	258.4.4 = {	change_development_level = 25 }
+	437.4.21 = { change_development_level = 25 }
+	
+	258.4.4 = {
+		holder = 2000203
+	}
+	437.4.21 = {
+		holder = 2000207
+	}
+}
+
+c_byblos = {
+	258.4.4 = {	change_development_level = 25 }
+	437.4.21 = { change_development_level = 25 }
+	
+	258.4.4 = {
+		holder = 2000205
+	}
+	437.4.21 = {
+		holder = 2000206
+	}
+}
+
+c_berytus = {
+	258.4.4 = {	change_development_level = 25 }
+	437.4.21 = { change_development_level = 25 }
+	
+	258.4.4 = {
+		holder = 2000208
+	}
+	437.4.21 = {
+		holder = 2000209
+	}
+}
+
+c_aradus = {
+	258.4.4 = {	change_development_level = 25 }
+	437.4.21 = { change_development_level = 25 }
+	
+	258.4.4 = {
+		holder = 2000210
+	}
+	437.4.21 = {
+		holder = 2000211
+	}
+}

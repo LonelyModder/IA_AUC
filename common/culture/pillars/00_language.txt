@@ -919,6 +919,24 @@ language_arabic = {
 	color = italian
 }
 
+language_philistine = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_philistine
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_philistine }
+			multiply = 10
+		}
+	}
+	
+	color = italian
+}
+
 language_hattian = {
 	type = language
 	is_shown = {

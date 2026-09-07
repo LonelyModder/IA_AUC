@@ -661,17 +661,17 @@
 	religion = "italic_pagan"
 	culture = oscan
 	#father = 32974
-	230.1.1 = {
-		birth = "230.1.1"
+	400.1.1 = {
+		birth = "400.1.1"
 	}
-	250.1.1 = {
+	436.1.1 = {
 		add_pressed_claim = title:c_guramentum
 		add_pressed_claim = title:c_i_elea
 	}
-	#258.4.4 = {
+	#437.4.21 = {
 	#	add_character_flag = do_not_generate_starting_family
 	#}
-	260.1.1 = {
-		death = "260.1.1"
+	460.1.1 = {
+		death = "460.1.1"
 	}
 }

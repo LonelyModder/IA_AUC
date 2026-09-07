@@ -1,0 +1,39 @@
+﻿2000201 = {
+	name = "Ammishur"
+	dynasty = ammonite_nahashite
+	religion = "canaanite_pagan"
+	culture = ammonite
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_ammon
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000202 = {
+	name = "Shanip"
+	dynasty = ammonite_nahashite
+	religion = "canaanite_pagan"
+	culture = ammonite
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_ammon
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

@@ -173,3 +173,15 @@ c_moab = {
 		holder = 2000200
 	}			
 }
+
+c_ammon = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000201
+	}
+	437.4.21 = {
+		holder = 2000202
+	}			
+}

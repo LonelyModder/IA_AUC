@@ -1065,6 +1065,19 @@ name_list_canaanite = {
 		Eugarid
 		Mashhid
 		Ummashid
+		Abdmelqartid
+		Abdeshmunid
+		Abiboshethid
+		Azibaalid
+		Baalsillemid
+		Baalshillemid
+		Gerastartid
+		Hannibaalid
+		Magoid
+		Mattanbaalid
+		Milkiasaphid
+		Shiptibaalid
+		Yatonbaalid
 	}
 	
 	dynasty_names = {
@@ -1092,6 +1105,19 @@ name_list_canaanite = {
 		Eugarid
 		Mashhid
 		Ummashid
+		Abdmelqartid
+		Abdeshmunid
+		Abiboshethid
+		Azibaalid
+		Baalsillemid
+		Baalshillemid
+		Gerastartid
+		Hannibaalid
+		Magoid
+		Mattanbaalid
+		Milkiasaphid
+		Shiptibaalid
+		Yatonbaalid
 	}
 	
 	male_names = {

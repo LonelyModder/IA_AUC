@@ -582,5 +582,46 @@ edomite_qos = {
 
 moabite_meshite = {
 	name = "dynn_Meshite"
-	culture = "edomite"
+	culture = "moabite"
+}
+
+#Ammonite
+
+ammonite_nahashite = {
+	name = "dynn_Nahashite"
+	culture = "ammonite"
+}
+
+#Phoenician
+
+phoenician_sidonian = {
+	name = "dynn_Sidonian"
+	culture = "phoenician"
+}
+
+phoenician_ithobaalid = {
+	name = "dynn_Ithobaalid"
+	culture = "phoenician"
+}
+
+phoenician_ahiramid = {
+	name = "dynn_Ahiramid"
+	culture = "phoenician"
+}
+
+phoenician_azibaalid = {
+	name = "dynn_Azibaalid"
+	culture = "phoenician"
+}
+
+phoenician_yatonbaalid = {
+	name = "dynn_Yatonbaalid"
+	culture = "phoenician"
+}
+
+#Philistine
+
+philistine_gathite = {
+	name = "dynn_Gathite"
+	culture = "philistine"
 }

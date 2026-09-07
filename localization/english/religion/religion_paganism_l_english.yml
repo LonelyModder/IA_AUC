@@ -2317,7 +2317,7 @@
  yahwism_religion_adj:2 "Yahwism"
  yahwism_religion_adherent:2 "Yahwism"
  yahwism_religion_adherent_plural:2 "Yahwists"
- yahwism_religion_desc:0 "A polytheistic faith whose followers believe in a pantheon consisting of many deities, including El, Dagan, Reshef and Ishtar. Due to the political situation the official church structures never developed and each polity had a bit different beliefs. Yet there also existed many international cults like Ishtar and many god were exported into other lands. For example after yahwism hyxos invaded egypt they introduced the cult of Reshef in Kemet."
+ yahwism_religion_desc:0 "An early evolution of Jewish faith where Yahweh was a patron god of Israel but other canaanite gods were also worshipped in lesser degree."
 
  yahwism_high_god_name:0 "Yahweh"
  yahwism_high_god_name_2:0 "$yahwism_high_god_name$" # Optional translation alt

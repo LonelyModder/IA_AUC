@@ -6,6 +6,7 @@ c_tingis = {
 		holder = 2000100
 	}
 	437.4.21 = {
+		liege="k_tyre"
 		holder = 2000091
 	}
 }
@@ -15,9 +16,11 @@ c_lixus = {
 	437.4.21 = { change_development_level = 25 }
 	
 	258.4.4 = {
+		liege="k_tyre"
 		holder = 2000093
 	}
 	437.4.21 = {
+		liege="k_tyre"
 		holder = 2000092
 	}
 }
@@ -30,6 +33,7 @@ c_sala = {
 		holder = 2000100
 	}
 	437.4.21 = {
+		liege="k_tyre"
 		holder = 2000094
 	}
 }
