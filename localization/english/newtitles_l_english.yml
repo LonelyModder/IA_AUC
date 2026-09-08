@@ -56,6 +56,7 @@
  d_deltanchiefs:0 "Chiefs of the Delta"
  k_tyre:0 "Tyre"
  k_aramdamascus:0 "Aram-Damascus"
+ d_aramzobah:0 "Aram-Zobah"
  # Empires
  e_westernrome:0 "Italia"
  e_africa:0 "Africa"
@@ -316,6 +317,7 @@
  c_rilirus:0 "Rilirus"
  c_nenenaica:0 "Nenenaica"
  c_pellia:0 "Pellia"
+ c_hennasayr:0 "Hennasayr"
  c_renitia:0 "Renitia"
  c_icorus:0 "Corus"
  c_melutamia:0 "Melutamia"

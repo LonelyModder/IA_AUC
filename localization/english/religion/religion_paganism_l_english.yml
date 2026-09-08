@@ -2393,3 +2393,100 @@
  yahwism_pagan_old_adj:0 "Old Yahwism"
  yahwism_pagan_old_adherent:0 "Old Yahwism"
  yahwism_pagan_old_adherent_plural:0 "Old Yahwisms"
+ 
+ 
+ #Mesopotamian Pantheon
+ mesopotamian_religion:2 "Mesopotamian"
+ mesopotamian_religion_adj:2 "Mesopotamian"
+ mesopotamian_religion_adherent:2 "Mesopotamian"
+ mesopotamian_religion_adherent_plural:2 "Yahwists"
+ mesopotamian_religion_desc:0 "Every city had its patron god that lived in its temple, a kind of steppe pyramid called zigurat (in form of a statue). The religion thou is devided between reformed Ashurites in the north believing primarily in their war-god Ashur and the southerners keeping the tradition while recognising the leading role of Babylon and Marduk's sanctuary."
+
+ mesopotamian_high_god_name:0 "Anu"
+ mesopotamian_high_god_name_2:0 "$mesopotamian_high_god_name$" # Optional translation alt
+ mesopotamian_high_god_name_possessive:0 "Anu'"
+ mesopotamian_high_god_name_alternate:0 "High One"
+ mesopotamian_high_god_name_alternate_possessive:0 "High One's"
+ mesopotamian_good_god_poseidon:0 "Enki"
+ mesopotamian_good_god_athena:0 "Anat"
+ mesopotamian_good_god_ares:0 "Ninurta"
+ mesopotamian_good_god_hera:0 "Ninhursag"
+ mesopotamian_good_god_apollo:0 "Shamash"
+ mesopotamian_good_god_artemis:0 "Ishtar"
+ mesopotamian_good_god_hermes:0 "Marduk"
+ mesopotamian_good_god_aphrodite:0 "Ishtar"
+ mesopotamian_devil_name:0 "Lamashtu"
+ mesopotamian_devil_name_possessive:0 "Lamashtu'"
+ mesopotamian_evil_god_menoetius:0 "Pazuzu"
+ mesopotamian_evil_god_erinyes:0 "Pazuzu"
+ mesopotamian_priest_male:0 "Priest"
+ mesopotamian_priest_male_plural:0 "Priests"
+ mesopotamian_priest_female:0 "Priestes"
+ mesopotamian_priest_female_plural:0 "Priesteses"
+ mesopotamian_priest_neuter:0 "Diviner"
+ mesopotamian_priest_neuter_plural:0 "Diviners"
+ mesopotamian_bishop_male:0 "Arch-Priest"
+ mesopotamian_bishop_male_plural:0 "Arch-Priest"
+ mesopotamian_death_deity_name:0 "Baal"
+ mesopotamian_death_deity_name_2:0 "$mesopotamian_death_deity_name$" # Optional translation alt
+ mesopotamian_death_deity_name_3:0 "$mesopotamian_death_deity_name$" # Optional translation alt
+ mesopotamian_death_deity_name_possessive:0 "Baal'"
+ mesopotamian_religious_symbol:0 "serpent"
+ mesopotamian_religious_symbol_2:0 "$mesopotamian_religious_symbol$" # Optional translation alt
+ mesopotamian_religious_symbol_3:0 "$mesopotamian_religious_symbol$" # Optional translation alt
+ mesopotamian_religious_text:0 "sacred chronicles"
+ mesopotamian_religious_text_2:0 "$mesopotamian_religious_text$" # Optional translation alt
+ mesopotamian_religious_text_3:0 "$mesopotamian_religious_text$" # Optional translation alt
+ mesopotamian_religious_head_title:0 "High Priest"
+ mesopotamian_divine_realm:0 "Olympus"
+ mesopotamian_divine_realm_2:0 "$mesopotamian_divine_realm$" # Optional translation alt
+ mesopotamian_divine_realm_3:0 "$mesopotamian_divine_realm$" # Optional translation alt
+ mesopotamian_witchgodname_hekate:0 "Ishtar"
+ mesopotamian_witchgodname_hekate_possessive:0 "Ishtar's"
+
+ mesopotamian_creator_god_name:0 "Anu"
+ mesopotamian_creator_god_name_possessive:0 "Anu's"
+ mesopotamian_health_god_name:0 "Ishtar"
+ mesopotamian_health_god_name_possessive:0 "Ishtar'"
+ mesopotamian_fertility_god_name:0 "Dumuzi"
+ mesopotamian_fertility_god_name_possessive:0 "Dumuzi's"
+ mesopotamian_wealth_god_name:0 "Marduk"
+ mesopotamian_wealth_god_name_possessive:0 "Marduk'"
+ mesopotamian_household_god_name:0 "Ninhursag"
+ mesopotamian_household_god_name_possessive:0 "Ninhursag's"
+ mesopotamian_fate_god_name:0 "Shamash"
+ mesopotamian_fate_god_name_possessive:0 "Shamash's"
+ mesopotamian_knowledge_god_name:0 "Shamash"
+ mesopotamian_knowledge_god_name_possessive:0 "Shamash's"
+ mesopotamian_war_god_name:0 "Ninurta"
+ mesopotamian_war_god_name_possessive:0 "Ninurta'"
+ mesopotamian_trickster_god_name:0 "Enki"
+ mesopotamian_trickster_god_name_possessive:0 "Enki'"
+ mesopotamian_night_god_name:0 "Ishtar"
+ mesopotamian_night_god_name_possessive:0 "Ishtar's"
+ mesopotamian_water_god_name:0 "Enki"
+ mesopotamian_water_god_name_possessive:0 "Enki's"
+
+ mesopotamian_pagan:0 "Mesopotamian"
+ mesopotamian_pagan_adj:0 "Mesopotamian"
+ mesopotamian_pagan_adherent:0 "Mesopotamian"
+ mesopotamian_pagan_adherent_plural:0 "Mesopotamians"
+
+ mesopotamian_pagan_old:0 "Old Mesopotamian"
+ mesopotamian_pagan_old_adj:0 "Old Mesopotamian"
+ mesopotamian_pagan_old_adherent:0 "Old Mesopotamian"
+ mesopotamian_pagan_old_adherent_plural:0 "Old Mesopotamians"
+ 
+ ashurism_pagan:0 "Ashurism"
+ ashurism_pagan_adj:0 "Ashurism"
+ ashurism_pagan_adherent:0 "Ashurism"
+ ashurism_pagan_adherent_plural:0 "Ashurites"
+
+ ashurism_pagan_old:0 "Old Ashurism"
+ ashurism_pagan_old_adj:0 "Old Ashurism"
+ ashurism_pagan_old_adherent:0 "Old Ashurism"
+ ashurism_pagan_old_adherent_plural:0 "Old Ashurites"
+ 
+ ashurism_pagan_high_god_name:0 "Ashur"
+ ashurism_pagan_high_god_name_2:0 "$ashurism_pagan_high_god_name$" # Optional translation alt
+ ashurism_pagan_high_god_name_possessive:0 "Ashur'"

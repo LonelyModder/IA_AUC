@@ -1,0 +1,94 @@
+﻿2000214 = {
+	name = "Rezon"
+	dynasty = damascan_rezonite
+	religion = "canaanite_pagan"
+	culture = damascan
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:k_aramdamascus
+		add_pressed_claim = title:c_damascus
+		add_pressed_claim = title:c_hurariyah
+		add_pressed_claim = title:c_sumerra
+		add_pressed_claim = title:c_canatha
+		add_pressed_claim = title:c_bostra
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000215 = {
+	name = "Tabel"
+	dynasty = damascan_rezonite
+	religion = "canaanite_pagan"
+	culture = damascan
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:k_aramdamascus
+		add_pressed_claim = title:c_damascus
+		add_pressed_claim = title:c_hurariyah
+		add_pressed_claim = title:c_sumerra
+		add_pressed_claim = title:c_canatha
+		add_pressed_claim = title:c_bostra
+		add_pressed_claim = title:c_gadara
+		add_pressed_claim = title:c_ashtaroth
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000216 = {
+	name = "Hadadezer"
+	dynasty = damascan_barrehob
+	religion = "canaanite_pagan"
+	culture = damascan
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_aramzobah
+		add_pressed_claim = title:c_beqaavalley
+		
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000217 = {
+	name = "Mattan"
+	dynasty = damascan_barrehob
+	religion = "canaanite_pagan"
+	culture = damascan
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_aramzobah
+		add_pressed_claim = title:c_beqaavalley
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

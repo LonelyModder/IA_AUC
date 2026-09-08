@@ -67,3 +67,121 @@ c_aradus = {
 		holder = 2000211
 	}
 }
+
+k_aramdamascus = {
+	
+	258.4.4 = {
+		holder = 2000214
+	}
+	437.4.21 = {
+		holder = 2000215
+	}	
+}
+
+c_damascus = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000214
+	}
+	437.4.21 = {
+		holder = 2000215
+	}
+}
+
+c_hurariyah = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000214
+	}
+	437.4.21 = {
+		holder = 2000215
+	}
+}
+
+c_sumerra = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000214
+	}
+	437.4.21 = {
+		holder = 2000215
+	}
+}
+
+d_aramzobah = {
+	
+	258.4.4 = {
+		holder = 2000216
+	}
+	437.4.21 = {
+		liege="k_aramdamascus"
+		holder = 2000217
+	}
+}
+
+c_beqaavalley = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000216
+	}
+	437.4.21 = {
+		liege="k_aramdamascus"
+		holder = 2000217
+	}
+}
+
+c_hamath = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000218
+	}
+	437.4.21 = {
+		holder = 2000219
+	}
+}
+
+c_diwatha = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000218
+	}
+	437.4.21 = {
+		holder = 2000219
+	}
+}
+
+c_emesa = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000218
+	}
+	437.4.21 = {
+		holder = 2000219
+	}
+}
+
+c_muqdallah = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000218
+	}
+	437.4.21 = {
+		holder = 2000219
+	}
+}

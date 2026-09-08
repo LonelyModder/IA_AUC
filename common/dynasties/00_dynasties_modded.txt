@@ -625,3 +625,30 @@ philistine_gathite = {
 	name = "dynn_Gathite"
 	culture = "philistine"
 }
+
+#Damascan
+
+damascan_rezonite = {
+	name = "dynn_Rezonite"
+	culture = "damascan"
+}
+
+damascan_barrehob = {
+	name = "dynn_BarRehob"
+	culture = "damascan"
+}
+
+#Syro-Hittite
+
+syrohittite_muwizid = {
+	name = "dynn_Muwizid"
+	culture = "syrohittite"
+}
+
+#Syriac
+
+gusian_betzakkur = {
+	name = "dynn_BetZakkur"
+	culture = "gusian"
+}
+

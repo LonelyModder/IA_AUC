@@ -14,6 +14,8 @@
 		add_pressed_claim = title:c_beitel
 		add_pressed_claim = title:c_dor
 		add_pressed_claim = title:c_jerash
+		add_pressed_claim = title:c_gadara
+		add_pressed_claim = title:c_ashtaroth
 	}
 	258.4.4 = {
 		add_character_flag = do_not_generate_starting_family

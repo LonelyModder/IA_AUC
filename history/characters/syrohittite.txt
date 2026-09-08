@@ -1,0 +1,23 @@
+﻿2000218 = {
+	name = "Hadadezer"
+	dynasty = syrohittite_muwizid
+	religion = "anatolian_pagan"
+	culture = syrohittite
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_hamath
+		add_pressed_claim = title:c_diwatha
+		add_pressed_claim = title:c_emesa
+		add_pressed_claim = title:c_muqdallah
+		
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
