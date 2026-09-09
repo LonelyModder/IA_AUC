@@ -13577,7 +13577,7 @@ e_egypt = {
 			}
 			
 			c_hermapolis = {
-				color = { 2 96 10 }
+				color = { 44 69 133 }
 				
 				b_hermapolis_2024 = {
 					color = { 2 96 10 }

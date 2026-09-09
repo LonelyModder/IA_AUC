@@ -501,9 +501,9 @@ c_kuva = {
 	258.4.4 = {	change_development_level = 1 }
 	437.4.21 = { change_development_level = 1 }
 	
-	#258.4.4 = {
-	#	holder = 2000166
-	#}
+	258.4.4 = {
+		holder = 2000228
+	}
 	437.4.21 = {
 		holder = 2000165
 	}	
@@ -513,9 +513,9 @@ c_clyssa = {
 	258.4.4 = {	change_development_level = 1 }
 	437.4.21 = { change_development_level = 1 }
 	
-	#258.4.4 = {
-	#	holder = 2000166
-	#}
+	258.4.4 = {
+		holder = 2000229
+	}
 	437.4.21 = {
 		holder = 2000165
 	}	
@@ -698,9 +698,11 @@ c_dakhla = {
 d_sais = {
 	
 	258.4.4 = {
+		liege = "k_22nddynasty"
 		holder = 2000194
 	}
 	437.4.21 = {
+		liege = none
 		holder = 2000195
 	}	
 }
@@ -747,7 +749,7 @@ c_thonis = {
 	}	
 }
 
-c_naucratis = {
+c_naukratis = {
 	258.4.4 = {	change_development_level = 25 }
 	437.4.21 = { change_development_level = 25 }
 	
@@ -758,5 +760,77 @@ c_naucratis = {
 	437.4.21 = {
 		liege = none
 		holder = 2000195
+	}	
+}
+
+c_quseir = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000220
+	}
+	437.4.21 = {
+		holder = 2000221
+	}	
+}
+
+c_bepesa = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000222
+	}
+	437.4.21 = {
+		holder = 2000223
+	}	
+}
+
+c_terresma = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000224
+	}
+	437.4.21 = {
+		holder = 2000225
+	}	
+}
+
+c_tappo = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000226
+	}
+	437.4.21 = {
+		holder = 2000227
+	}	
+}
+
+c_ebri = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000230
+	}
+	437.4.21 = {
+		holder = 2000231
+	}	
+}
+
+c_abtesa = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000232
+	}
+	437.4.21 = {
+		holder = 2000233
 	}	
 }

@@ -937,6 +937,24 @@ language_philistine = {
 	color = italian
 }
 
+language_akkadian = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_akkadian
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_akkadian }
+			multiply = 10
+		}
+	}
+	
+	color = italian
+}
+
 language_hattian = {
 	type = language
 	is_shown = {

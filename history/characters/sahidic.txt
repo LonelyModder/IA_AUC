@@ -1,0 +1,199 @@
+﻿2000220 = {
+	name = "Inenek"
+	dynasty = sahidic_wahibre
+	religion = "kemetic_pagan"
+	culture = sahidic
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_quseir
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000221 = {
+	name = "Wentawet"
+	dynasty = sahidic_wahibre
+	religion = "kemetic_pagan"
+	culture = sahidic
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_quseir
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000222 = {
+	name = "Babaef"
+	dynasty = sahidic_sheshi
+	religion = "kemetic_pagan"
+	culture = sahidic
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_bepesa
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000223 = {
+	name = "Djet"
+	dynasty = sahidic_sheshi
+	religion = "kemetic_pagan"
+	culture = sahidic
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_bepesa
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000224 = {
+	name = "Khawy"
+	dynasty = sahidic_raneb
+	religion = "kemetic_pagan"
+	culture = sahidic
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_terresma
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000225 = {
+	name = "Renseneb"
+	dynasty = sahidic_raneb
+	religion = "kemetic_pagan"
+	culture = sahidic
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_terresma
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000226 = {
+	name = "Meru"
+	dynasty = sahidic_sabu
+	religion = "kemetic_pagan"
+	culture = sahidic
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_tappo
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000227 = {
+	name = "Tantamani"
+	dynasty = sahidic_sabu
+	religion = "kemetic_pagan"
+	culture = sahidic
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_tappo
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000228 = {
+	name = "Tutu"
+	dynasty = sahidic_khamwaset
+	religion = "kemetic_pagan"
+	culture = sahidic
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_kuva
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000229 = {
+	name = "Setepenre"
+	dynasty = sahidic_neper
+	religion = "kemetic_pagan"
+	culture = sahidic
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_clyssa
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}

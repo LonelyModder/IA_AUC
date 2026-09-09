@@ -652,3 +652,47 @@ gusian_betzakkur = {
 	culture = "gusian"
 }
 
+#Sahidic
+
+sahidic_wahibre = {
+	name = "dynn_Wahibre"
+	culture = "sahidic"
+}
+
+sahidic_sheshi = {
+	name = "dynn_Sheshi"
+	culture = "sahidic"
+}
+
+sahidic_raneb = {
+	name = "dynn_Raneb"
+	culture = "sahidic"
+}
+
+sahidic_sabu = {
+	name = "dynn_Sabu"
+	culture = "sahidic"
+}
+
+sahidic_khamwaset = {
+	name = "dynn_Khamwaset"
+	culture = "sahidic"
+}
+
+sahidic_neper = {
+	name = "dynn_Neper"
+	culture = "sahidic"
+}
+
+#Fayumic
+
+fayumic_nefertum = {
+	name = "dynn_Nefertum"
+	culture = "fayumic"
+}
+
+fayumic_satet = {
+	name = "dynn_Satet"
+	culture = "fayumic"
+}
+

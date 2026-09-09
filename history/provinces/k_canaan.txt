@@ -131,8 +131,8 @@
 }
 
 2431 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = tjeker
+	religion = canaanite_pagan
 	holding = none
 }
 

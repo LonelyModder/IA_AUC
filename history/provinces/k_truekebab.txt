@@ -251,14 +251,14 @@
 }
 
 2462 = {		
-	culture = ammonite
+	culture = moabite
 	religion = canaanite_pagan
 	holding = none
 }
 
 2463 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = ammonite
+	religion = canaanite_pagan
 	holding = none
 }
 

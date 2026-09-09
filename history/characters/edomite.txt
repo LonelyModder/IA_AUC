@@ -1,7 +1,7 @@
 ﻿2000184 = {
 	name = "Yaha"
 	dynasty = edomite_Qos
-	religion = "canaanite_pagan"
+	religion = "yahwism_pagan"
 	culture = edomite
 	#father = 32974
 	221.1.1 = {
@@ -24,7 +24,7 @@
 2000185 = {
 	name = "Nadab"
 	dynasty = edomite_Qos
-	religion = "canaanite_pagan"
+	religion = "yahwism_pagan"
 	culture = edomite
 	#father = 32974
 	401.1.1 = {

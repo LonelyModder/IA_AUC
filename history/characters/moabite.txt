@@ -1,7 +1,7 @@
 ﻿2000199 = {
 	name = "Harqaq"
 	dynasty = moabite_meshite
-	religion = "kemetic_pagan"
+	religion = "canaanite_pagan"
 	culture = moabite
 	#father = 32974
 	221.1.1 = {
@@ -21,7 +21,7 @@
 2000200 = {
 	name = "Salmanu"
 	dynasty = moabite_meshite
-	religion = "kemetic_pagan"
+	religion = "canaanite_pagan"
 	culture = moabite
 	#father = 32974
 	401.1.1 = {
