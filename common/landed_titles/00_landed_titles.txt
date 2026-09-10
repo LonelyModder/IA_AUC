@@ -22022,3 +22022,8 @@ d_aramzobah = {
 	color = { 58 122 76 }
 	landless = yes 
 }
+
+d_hatallu = {
+	color = { 128 30 204 }
+	landless = yes 
+}

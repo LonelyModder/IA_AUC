@@ -1,5 +1,5 @@
 ﻿2000218 = {
-	name = "Hadadezer"
+	name = "Surri"
 	dynasty = syrohittite_muwizid
 	religion = "anatolian_pagan"
 	culture = syrohittite
@@ -12,6 +12,28 @@
 		add_pressed_claim = title:c_diwatha
 		add_pressed_claim = title:c_emesa
 		add_pressed_claim = title:c_muqdallah
+		
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000256 = {
+	name = "Tarhunazi"
+	dynasty = syrohittite_piyawiya
+	religion = "anatolian_pagan"
+	culture = syrohittite
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_lukhuti
+		add_pressed_claim = title:c_qarqar
 		
 	}
 	#258.4.4 = {

@@ -125,8 +125,8 @@
 }
 
 2276 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = damascan
+	religion = canaanite_pagan
 	holding = none
 }
 
@@ -263,8 +263,8 @@
 }
 
 2304 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = syrohittite
+	religion = anatolian_pagan
 	holding = none
 }
 
@@ -449,8 +449,8 @@
 }
 
 2335 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = syrohittite
+	religion = anatolian_pagan
 	holding = none
 }
 
@@ -539,14 +539,14 @@
 }
 
 2352 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = gusian
+	religion = canaanite_pagan
 	holding = none
 }
 
 2353 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = gusian
+	religion = canaanite_pagan
 	holding = none
 }
 
@@ -569,8 +569,8 @@
 }
 
 2357 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = gusian
+	religion = canaanite_pagan
 	holding = none
 }
 
@@ -581,8 +581,8 @@
 }
 
 2359 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = damascan
+	religion = canaanite_pagan
 	holding = none
 }
 
@@ -593,8 +593,8 @@
 }
 
 2365 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = damascan
+	religion = canaanite_pagan
 	holding = none
 }
 
@@ -623,8 +623,8 @@
 }
 
 2370 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = gusian
+	religion = canaanite_pagan
 	holding = none
 }
 
@@ -653,8 +653,8 @@
 }
 
 2375 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = damascan
+	religion = canaanite_pagan
 	holding = none
 }
 

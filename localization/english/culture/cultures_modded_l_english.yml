@@ -32,6 +32,9 @@
  scielote:0 "Scielote"
  scielote_prefix:0 "Scielote"
  scielote_collective_noun:1 "Scielotes"
+ cypriote:0 "Cypriote"
+ cypriote_prefix:0 "Cypriote"
+ cypriote_collective_noun:1 "Cypriotes"
  #Illyrian Group
  lapygian:0 "Lapygian"
  lapygian_prefix:0 "Lapygian"
@@ -175,3 +178,7 @@
  assyrian:0 "Assyrian"
  assyrian_prefix:0 "Assyrian"
  assyrian_collective_noun:1 "Assyrians"
+ #Pelasgian
+ eteocypriot:0 "Eteocypriot"
+ eteocypriot_prefix:0 "Eteocypriot"
+ eteocypriot_collective_noun:1 "Eteocypriotes"

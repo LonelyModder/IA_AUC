@@ -955,6 +955,42 @@ language_akkadian = {
 	color = italian
 }
 
+language_agean = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_agean
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_agean }
+			multiply = 10
+		}
+	}
+	
+	color = italian
+}
+
+language_eteocypriot = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_eteocypriot
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_eteocypriot }
+			multiply = 10
+		}
+	}
+	
+	color = italian
+}
+
 language_hattian = {
 	type = language
 	is_shown = {

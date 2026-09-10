@@ -57,6 +57,7 @@
  k_tyre:0 "Tyre"
  k_aramdamascus:0 "Aram-Damascus"
  d_aramzobah:0 "Aram-Zobah"
+ d_hatallu:0 "Hatallu"
  # Empires
  e_westernrome:0 "Italia"
  e_africa:0 "Africa"
@@ -1010,7 +1011,7 @@
  c_sura:0 "Sura"
  c_barsip:0 "Til Barsip"
  c_karkemish:0 "Karkemish"
- c_laodicea:0 "Laodicea"
+ c_laodicea:0 "Aribua"
  c_niysan:0 "Niysan"
  c_muqdallah:0 "Muqdallah"
  c_raphaneai:0 "Raphaneai"

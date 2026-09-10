@@ -1644,11 +1644,11 @@
  italic_pagan_old_adherent:0 "Old Italic"
  italic_pagan_old_adherent_plural:0 "Old Italic"
  
- #Etruscan Pantheon
- etruscan_religion:2 "Etruscan"
- etruscan_religion_adj:2 "Etruscan"
- etruscan_religion_adherent:2 "Etruscan"
- etruscan_religion_adherent_plural:2 "Etruscans"
+ #Villanovan Pantheon
+ etruscan_religion:2 "Villanovan"
+ etruscan_religion_adj:2 "Villanovan"
+ etruscan_religion_adherent:2 "Villanovan"
+ etruscan_religion_adherent_plural:2 "Villanovans"
  etruscan_religion_desc:0 "Etruscan Religion had great influence over the early roman pantheon and their art of hauruspicy was believed to be the best."
 
  etruscan_high_god_name:0 "Thinia"
@@ -1716,15 +1716,15 @@
  etruscan_water_god_name:0 "Nethuns"
  etruscan_water_god_name_possessive:0 "Nethuns's"
 
- etruscan_pagan:0 "Etruscan"
- etruscan_pagan_adj:0 "Etruscan"
- etruscan_pagan_adherent:0 "Etruscan"
- etruscan_pagan_adherent_plural:0 "Etruscans"
+ etruscan_pagan:0 "Villanovan"
+ etruscan_pagan_adj:0 "Villanovan"
+ etruscan_pagan_adherent:0 "Villanovan"
+ etruscan_pagan_adherent_plural:0 "Villanovans"
 
- etruscan_pagan_old:0 "Old Etruscan"
- etruscan_pagan_old_adj:0 "Old Etruscan"
- etruscan_pagan_old_adherent:0 "Old Etruscan"
- etruscan_pagan_old_adherent_plural:0 "Old Etruscans"
+ etruscan_pagan_old:0 "Old Villanovan"
+ etruscan_pagan_old_adj:0 "Old Villanovan"
+ etruscan_pagan_old_adherent:0 "Old Villanovan"
+ etruscan_pagan_old_adherent_plural:0 "Old Villanovans"
  
  #Greek Pantheon
  
@@ -2394,12 +2394,11 @@
  yahwism_pagan_old_adherent:0 "Old Yahwism"
  yahwism_pagan_old_adherent_plural:0 "Old Yahwisms"
  
- 
  #Mesopotamian Pantheon
  mesopotamian_religion:2 "Mesopotamian"
  mesopotamian_religion_adj:2 "Mesopotamian"
  mesopotamian_religion_adherent:2 "Mesopotamian"
- mesopotamian_religion_adherent_plural:2 "Yahwists"
+ mesopotamian_religion_adherent_plural:2 "Mesopotamians"
  mesopotamian_religion_desc:0 "Every city had its patron god that lived in its temple, a kind of steppe pyramid called zigurat (in form of a statue). The religion thou is devided between reformed Ashurites in the north believing primarily in their war-god Ashur and the southerners keeping the tradition while recognising the leading role of Babylon and Marduk's sanctuary."
 
  mesopotamian_high_god_name:0 "Anu"
@@ -2490,3 +2489,249 @@
  ashurism_pagan_high_god_name:0 "Ashur"
  ashurism_pagan_high_god_name_2:0 "$ashurism_pagan_high_god_name$" # Optional translation alt
  ashurism_pagan_high_god_name_possessive:0 "Ashur'"
+ 
+ #Thracian Pantheon
+ thracian_religion:2 "Thracian"
+ thracian_religion_adj:2 "Thracian"
+ thracian_religion_adherent:2 "Thracian"
+ thracian_religion_adherent_plural:2 "Thracians"
+ thracian_religion_desc:0 "We know little about thracian mythology, but some of their gods are depicted on statues or described in Greek sources. One of more notable cults, attested from Thrace to Anatolia, is that of the thracian horseman, known as the thracian heros a god of the underworld usually depicted on funeral statues as a horseman slaying a beast with a spear identified with Sabazios."
+
+ thracian_high_god_name:0 "Zis"
+ thracian_high_god_name_2:0 "$thracian_high_god_name$" # Optional translation alt
+ thracian_high_god_name_possessive:0 "Zis'"
+ thracian_high_god_name_alternate:0 "High One"
+ thracian_high_god_name_alternate_possessive:0 "High One's"
+ thracian_good_god_poseidon:0 "Sea God"
+ thracian_good_god_athena:0 "Bendis"
+ thracian_good_god_ares:0 "Sabazios"
+ thracian_good_god_hera:0 "Bendis"
+ thracian_good_god_apollo:0 "Sabazios"
+ thracian_good_god_artemis:0 "Bendis"
+ thracian_good_god_hermes:0 "Derzelas"
+ thracian_good_god_aphrodite:0 "Bendis"
+ thracian_devil_name:0 "Kotys"
+ thracian_devil_name_possessive:0 "Kotys'"
+ thracian_evil_god_menoetius:0 "Kotys"
+ thracian_evil_god_erinyes:0 "Kotys"
+ thracian_priest_male:0 "Priest"
+ thracian_priest_male_plural:0 "Priests"
+ thracian_priest_female:0 "Priestes"
+ thracian_priest_female_plural:0 "Priesteses"
+ thracian_priest_neuter:0 "Diviner"
+ thracian_priest_neuter_plural:0 "Diviners"
+ thracian_bishop_male:0 "Arch-Priest"
+ thracian_bishop_male_plural:0 "Arch-Priest"
+ thracian_death_deity_name:0 "Kotys"
+ thracian_death_deity_name_2:0 "$thracian_death_deity_name$" # Optional translation alt
+ thracian_death_deity_name_3:0 "$thracian_death_deity_name$" # Optional translation alt
+ thracian_death_deity_name_possessive:0 "Kotys'"
+ thracian_religious_symbol:0 "serpent"
+ thracian_religious_symbol_2:0 "$thracian_religious_symbol$" # Optional translation alt
+ thracian_religious_symbol_3:0 "$thracian_religious_symbol$" # Optional translation alt
+ thracian_religious_text:0 "sacred chronicles"
+ thracian_religious_text_2:0 "$thracian_religious_text$" # Optional translation alt
+ thracian_religious_text_3:0 "$thracian_religious_text$" # Optional translation alt
+ thracian_religious_head_title:0 "High Priest"
+ thracian_divine_realm:0 "Olympus"
+ thracian_divine_realm_2:0 "$thracian_divine_realm$" # Optional translation alt
+ thracian_divine_realm_3:0 "$thracian_divine_realm$" # Optional translation alt
+ thracian_witchgodname_hekate:0 "Bendis"
+ thracian_witchgodname_hekate_possessive:0 "Bendis's"
+
+ thracian_creator_god_name:0 "Zis"
+ thracian_creator_god_name_possessive:0 "Zis's"
+ thracian_health_god_name:0 "Bendis"
+ thracian_health_god_name_possessive:0 "Bendis'"
+ thracian_fertility_god_name:0 "Semele"
+ thracian_fertility_god_name_possessive:0 "Semele's"
+ thracian_wealth_god_name:0 "Derzelas"
+ thracian_wealth_god_name_possessive:0 "Derzelas'"
+ thracian_household_god_name:0 "Bendis"
+ thracian_household_god_name_possessive:0 "Bendis's"
+ thracian_fate_god_name:0 "Sabazios"
+ thracian_fate_god_name_possessive:0 "Sabazios's"
+ thracian_knowledge_god_name:0 "Sabazios"
+ thracian_knowledge_god_name_possessive:0 "Sabazios's"
+ thracian_war_god_name:0 "Sabazios"
+ thracian_war_god_name_possessive:0 "Sabazios'"
+ thracian_trickster_god_name:0 "Sea God"
+ thracian_trickster_god_name_possessive:0 "Sea God'"
+ thracian_night_god_name:0 "Bendis"
+ thracian_night_god_name_possessive:0 "Bendis's"
+ thracian_water_god_name:0 "Sea God"
+ thracian_water_god_name_possessive:0 "Sea God's"
+
+ thracian_pagan:0 "Thracian"
+ thracian_pagan_adj:0 "Thracian"
+ thracian_pagan_adherent:0 "Thracian"
+ thracian_pagan_adherent_plural:0 "Thracians"
+
+ thracian_pagan_old:0 "Old Thracian"
+ thracian_pagan_old_adj:0 "Old Thracian"
+ thracian_pagan_old_adherent:0 "Old Thracian"
+ thracian_pagan_old_adherent_plural:0 "Old Thracians"
+ 
+ #Celtic Pantheon
+ celtic_religion:2 "Druidism"
+ celtic_religion_adj:2 "Druidism"
+ celtic_religion_adherent:2 "Druidism"
+ celtic_religion_adherent_plural:2 "Druidists"
+ celtic_religion_desc:0 "Celtic faith was one of a larger of Iron Age religions of Europe. Comprised a large degree of variation, but behind that variety, broad similarities can be detected allowing existance of basic religious homogeneity among the Celtic peoples. One of that similatities is the presence of druids, a priests responsible for various rituals and serving as a mediators between tribes."
+
+ celtic_high_god_name:0 "Taranis"
+ celtic_high_god_name_2:0 "$celtic_high_god_name$" # Optional translation alt
+ celtic_high_god_name_possessive:0 "Taranis'"
+ celtic_high_god_name_alternate:0 "High One"
+ celtic_high_god_name_alternate_possessive:0 "High One's"
+ celtic_good_god_poseidon:0 "Nechtan"
+ celtic_good_god_athena:0 "Brigid"
+ celtic_good_god_ares:0 "Morrígan"
+ celtic_good_god_hera:0 "Rigantona"
+ celtic_good_god_apollo:0 "Lugh"
+ celtic_good_god_artemis:0 "Sirona"
+ celtic_good_god_hermes:0 "Lugh"
+ celtic_good_god_aphrodite:0 "Brigid"
+ celtic_devil_name:0 "Balor"
+ celtic_devil_name_possessive:0 "Balor'"
+ celtic_evil_god_menoetius:0 "Midir"
+ celtic_evil_god_erinyes:0 "Midir"
+ celtic_priest_male:0 "Druid"
+ celtic_priest_male_plural:0 "Druids"
+ celtic_priest_female:0 "Druides"
+ celtic_priest_female_plural:0 "Druideses"
+ celtic_priest_neuter:0 "Diviner"
+ celtic_priest_neuter_plural:0 "Diviners"
+ celtic_bishop_male:0 "Arch-Druid"
+ celtic_bishop_male_plural:0 "Arch-Druid"
+ celtic_death_deity_name:0 "Arawn"
+ celtic_death_deity_name_2:0 "$celtic_death_deity_name$" # Optional translation alt
+ celtic_death_deity_name_3:0 "$celtic_death_deity_name$" # Optional translation alt
+ celtic_death_deity_name_possessive:0 "Arawn'"
+ celtic_religious_symbol:0 "serpent"
+ celtic_religious_symbol_2:0 "$celtic_religious_symbol$" # Optional translation alt
+ celtic_religious_symbol_3:0 "$celtic_religious_symbol$" # Optional translation alt
+ celtic_religious_text:0 "sacred chronicles"
+ celtic_religious_text_2:0 "$celtic_religious_text$" # Optional translation alt
+ celtic_religious_text_3:0 "$celtic_religious_text$" # Optional translation alt
+ celtic_religious_head_title:0 "High Priest"
+ celtic_divine_realm:0 "Olympus"
+ celtic_divine_realm_2:0 "$celtic_divine_realm$" # Optional translation alt
+ celtic_divine_realm_3:0 "$celtic_divine_realm$" # Optional translation alt
+ celtic_witchgodname_hekate:0 "Sirona"
+ celtic_witchgodname_hekate_possessive:0 "Sirona's"
+
+ celtic_creator_god_name:0 "Taranis"
+ celtic_creator_god_name_possessive:0 "Taranis's"
+ celtic_health_god_name:0 "Sirona"
+ celtic_health_god_name_possessive:0 "Sirona'"
+ celtic_fertility_god_name:0 "Semele"
+ celtic_fertility_god_name_possessive:0 "Semele's"
+ celtic_wealth_god_name:0 "Derzelas"
+ celtic_wealth_god_name_possessive:0 "Derzelas'"
+ celtic_household_god_name:0 "Sirona"
+ celtic_household_god_name_possessive:0 "Sirona's"
+ celtic_fate_god_name:0 "Lugh"
+ celtic_fate_god_name_possessive:0 "Lugh's"
+ celtic_knowledge_god_name:0 "Lugh"
+ celtic_knowledge_god_name_possessive:0 "Lugh's"
+ celtic_war_god_name:0 "Lugh"
+ celtic_war_god_name_possessive:0 "Lugh'"
+ celtic_trickster_god_name:0 "Nechtan"
+ celtic_trickster_god_name_possessive:0 "Nechtan'"
+ celtic_night_god_name:0 "Sirona"
+ celtic_night_god_name_possessive:0 "Sirona's"
+ celtic_water_god_name:0 "Nechtan"
+ celtic_water_god_name_possessive:0 "Nechtan's"
+
+ celtic_pagan:0 "Celtic"
+ celtic_pagan_adj:0 "Celtic"
+ celtic_pagan_adherent:0 "Celtic"
+ celtic_pagan_adherent_plural:0 "Celtics"
+
+ celtic_pagan_old:0 "Old Celtic"
+ celtic_pagan_old_adj:0 "Old Celtic"
+ celtic_pagan_old_adherent:0 "Old Celtic"
+ celtic_pagan_old_adherent_plural:0 "Old Celtics"
+ 
+ #Ligurian Pantheon
+ ligurian_religion:2 "Ligurian"
+ ligurian_religion_adj:2 "Ligurian"
+ ligurian_religion_adherent:2 "Ligurian"
+ ligurian_religion_adherent_plural:2 "Ligurians"
+ ligurian_religion_desc:0 "Generally it is believed that the religion of ligurian tribes was rather primitive, addressed to supernatural tutelary gods, representing the great forces of nature from which you could get help and protection through their divination."
+
+ ligurian_high_god_name:0 "Penn"
+ ligurian_high_god_name_2:0 "$ligurian_high_god_name$" # Optional translation alt
+ ligurian_high_god_name_possessive:0 "Penn'"
+ ligurian_high_god_name_alternate:0 "High One"
+ ligurian_high_god_name_alternate_possessive:0 "High One's"
+ ligurian_good_god_poseidon:0 "Borvo"
+ ligurian_good_god_athena:0 "Matronae"
+ ligurian_good_god_ares:0 "Leucimalacus"
+ ligurian_good_god_hera:0 "Matronae"
+ ligurian_good_god_apollo:0 "Borman"
+ ligurian_good_god_artemis:0 "Bormana"
+ ligurian_good_god_hermes:0 "Baginus"
+ ligurian_good_god_aphrodite:0 "Vediantiae"
+ ligurian_devil_name:0 "Balor"
+ ligurian_devil_name_possessive:0 "Balor'"
+ ligurian_evil_god_menoetius:0 "Midir"
+ ligurian_evil_god_erinyes:0 "Midir"
+ ligurian_priest_male:0 "Priest"
+ ligurian_priest_male_plural:0 "Priests"
+ ligurian_priest_female:0 "Priestes"
+ ligurian_priest_female_plural:0 "Priesteses"
+ ligurian_priest_neuter:0 "Diviner"
+ ligurian_priest_neuter_plural:0 "Diviners"
+ ligurian_bishop_male:0 "Arch-Priest"
+ ligurian_bishop_male_plural:0 "Arch-Priest"
+ ligurian_death_deity_name:0 "Aruna"
+ ligurian_death_deity_name_2:0 "$ligurian_death_deity_name$" # Optional translation alt
+ ligurian_death_deity_name_3:0 "$ligurian_death_deity_name$" # Optional translation alt
+ ligurian_death_deity_name_possessive:0 "Aruna'"
+ ligurian_religious_symbol:0 "serpent"
+ ligurian_religious_symbol_2:0 "$ligurian_religious_symbol$" # Optional translation alt
+ ligurian_religious_symbol_3:0 "$ligurian_religious_symbol$" # Optional translation alt
+ ligurian_religious_text:0 "sacred chronicles"
+ ligurian_religious_text_2:0 "$ligurian_religious_text$" # Optional translation alt
+ ligurian_religious_text_3:0 "$ligurian_religious_text$" # Optional translation alt
+ ligurian_religious_head_title:0 "High Priest"
+ ligurian_divine_realm:0 "Olympus"
+ ligurian_divine_realm_2:0 "$ligurian_divine_realm$" # Optional translation alt
+ ligurian_divine_realm_3:0 "$ligurian_divine_realm$" # Optional translation alt
+ ligurian_witchgodname_hekate:0 "Bormana"
+ ligurian_witchgodname_hekate_possessive:0 "Bormana's"
+
+ ligurian_creator_god_name:0 "Penn"
+ ligurian_creator_god_name_possessive:0 "Penn's"
+ ligurian_health_god_name:0 "Bormana"
+ ligurian_health_god_name_possessive:0 "Bormana'"
+ ligurian_fertility_god_name:0 "Semele"
+ ligurian_fertility_god_name_possessive:0 "Semele's"
+ ligurian_wealth_god_name:0 "Derzelas"
+ ligurian_wealth_god_name_possessive:0 "Derzelas'"
+ ligurian_household_god_name:0 "Bormana"
+ ligurian_household_god_name_possessive:0 "Bormana's"
+ ligurian_fate_god_name:0 "Borman"
+ ligurian_fate_god_name_possessive:0 "Borman's"
+ ligurian_knowledge_god_name:0 "Borman"
+ ligurian_knowledge_god_name_possessive:0 "Borman's"
+ ligurian_war_god_name:0 "Borman"
+ ligurian_war_god_name_possessive:0 "Borman'"
+ ligurian_trickster_god_name:0 "Borvo"
+ ligurian_trickster_god_name_possessive:0 "Borvo'"
+ ligurian_night_god_name:0 "Bormana"
+ ligurian_night_god_name_possessive:0 "Bormana's"
+ ligurian_water_god_name:0 "Borvo"
+ ligurian_water_god_name_possessive:0 "Borvo's"
+
+ ligurian_pagan:0 "Ligurian"
+ ligurian_pagan_adj:0 "Ligurian"
+ ligurian_pagan_adherent:0 "Ligurian"
+ ligurian_pagan_adherent_plural:0 "Ligurians"
+
+ ligurian_pagan_old:0 "Old Ligurian"
+ ligurian_pagan_old_adj:0 "Old Ligurian"
+ ligurian_pagan_old_adherent:0 "Old Ligurian"
+ ligurian_pagan_old_adherent_plural:0 "Old Ligurians"

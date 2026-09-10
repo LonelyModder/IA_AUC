@@ -347,8 +347,8 @@
 }
 
 2487 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = damascan
+	religion = canaanite_pagan
 	holding = none
 }
 
@@ -371,8 +371,8 @@
 }
 
 2491 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = damascan
+	religion = canaanite_pagan
 	holding = none
 }
 

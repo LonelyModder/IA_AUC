@@ -619,6 +619,11 @@ phoenician_yatonbaalid = {
 	culture = "phoenician"
 }
 
+phoenician_abdmelqartid = {
+	name = "dynn_Abdmelqartid"
+	culture = "phoenician"
+}
+
 #Philistine
 
 philistine_gathite = {
@@ -645,10 +650,20 @@ syrohittite_muwizid = {
 	culture = "syrohittite"
 }
 
+syrohittite_piyawiya = {
+	name = "dynn_Piyawiya"
+	culture = "syrohittite"
+}
+
 #Syriac
 
 gusian_betzakkur = {
 	name = "dynn_BetZakkur"
+	culture = "gusian"
+}
+
+gusian_hatallu = {
+	name = "dynn_BetHatallu"
 	culture = "gusian"
 }
 
@@ -694,5 +709,59 @@ fayumic_nefertum = {
 fayumic_satet = {
 	name = "dynn_Satet"
 	culture = "fayumic"
+}
+
+#Cypriote
+
+cypriote_teucrid = {
+	name = "dynn_Teucrid"
+	culture = "cypriote"
+}
+
+cypriote_kinyrad = {
+	name = "dynn_Kinyrad"
+	culture = "cypriote"
+}
+
+cypriote_nikid = {
+	name = "dynn_Nikid"
+	culture = "cypriote"
+}
+
+cypriote_asandrid = {
+	name = "dynn_Asandrid"
+	culture = "cypriote"
+}
+
+cypriote_bryaxid = {
+	name = "dynn_Bryaxid"
+	culture = "cypriote"
+}
+
+cypriote_pytheid = {
+	name = "dynn_Pytheid"
+	culture = "cypriote"
+}
+
+cypriote_lacharid = {
+	name = "dynn_Lacharid"
+	culture = "cypriote"
+}
+
+cypriote_onomastid = {
+	name = "dynn_Onomastid"
+	culture = "cypriote"
+}
+
+cypriote_helladid = {
+	name = "dynn_Helladid"
+	culture = "cypriote"
+}
+
+#Eteocypriot
+
+eteocypriot_nearchid = {
+	name = "dynn_Nearchid"
+	culture = "eteocypriot"
 }
 

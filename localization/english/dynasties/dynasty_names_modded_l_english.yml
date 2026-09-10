@@ -144,15 +144,18 @@
  dynn_Ahiramid:0 "Ahiramid"
  dynn_Azibaalid:0 "Azibaalid"
  dynn_Yatonbaalid:0 "Yatonbaalid"
+ dynn_Abdmelqartid:0 "Abdmelqartid"
  #Philistine
  dynn_Gathite:0 "Gathite"
  #Damascan
  dynn_Rezonite:0 "Rezonite"
  dynn_BarRehob:0 "Bar-Rehob"
- #Sro-Hittite
+ #Syro-Hittite
  dynn_Muwizid:0 "Muwizid"
+ dynn_Piyawiya:0 "Piyawiya"
  #Syriac
  dynn_BetZakkur:0 "Bet-Zakkur"
+ dynn_BetHatallu:0 "Bet-Hatallu"
  #Sahidic
  dynn_Wahibre:0 "Wahibre"
  dynn_Sheshi:0 "Sheshi"
@@ -163,3 +166,15 @@
  #Fayumic
  dynn_Nefertum:0 "Nefertum"
  dynn_Satet:0 "Satet"
+ #Cypriote
+ dynn_Teucrid:0 "Teucrid"
+ dynn_Kinyrad:0 "Kinyrad"
+ dynn_Nikid:0 "Nikid"
+ dynn_Asandrid:0 "Asandrid"
+ dynn_Bryaxid:0 "Bryaxid"
+ dynn_Pytheid:0 "Pytheid"
+ dynn_Lacharid:0 "Lacharid"
+ dynn_Onomastid:0 "Onomastid"
+ dynn_Helladid:0 "Helladid"
+ #Eteocypriot
+ dynn_Nearchid:0 "Nearchid"

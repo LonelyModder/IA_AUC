@@ -1,0 +1,131 @@
+c_salamis = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000234
+	}
+	437.4.21 = {
+		holder = 2000235
+	}
+}
+
+c_paphos = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000236
+	}
+	437.4.21 = {
+		holder = 2000237
+	}
+}
+
+c_kourion = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000238
+	}
+	437.4.21 = {
+		holder = 2000239
+	}
+}
+
+c_kourion = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000240
+	}
+	437.4.21 = {
+		holder = 2000241
+	}
+}
+
+c_lapenthos = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000242
+	}
+	437.4.21 = {
+		holder = 2000243
+	}
+}
+
+c_tamassos = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000244
+	}
+	437.4.21 = {
+		holder = 2000245
+	}
+}
+
+c_soloi = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000246
+	}
+	437.4.21 = {
+		holder = 2000247
+	}
+}
+
+c_idalion = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000248
+	}
+	437.4.21 = {
+		holder = 2000249
+	}
+}
+
+c_ledrai = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000250
+	}
+	437.4.21 = {
+		holder = 2000251
+	}
+}
+
+c_amathus = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000252
+	}
+	437.4.21 = {
+		holder = 2000253
+	}
+}
+
+c_kition = {
+	258.4.4 = {	change_development_level = 25 }
+	437.4.21 = { change_development_level = 25 }
+	
+	258.4.4 = {
+		holder = 2000254
+	}
+	437.4.21 = {
+		holder = 2000255
+	}
+}

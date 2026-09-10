@@ -137,8 +137,8 @@
 }
 
 2439 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = samarian
+	religion = yahwism_pagan
 	holding = none
 }
 
