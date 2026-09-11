@@ -22027,3 +22027,13 @@ d_hatallu = {
 	color = { 128 30 204 }
 	landless = yes 
 }
+
+k_karkemish = {
+	color = { 153 47 2 }
+	landless = yes 
+}
+
+d_yahanu = {
+	color = { 19 120 43 }
+	landless = yes 
+}

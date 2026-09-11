@@ -43,3 +43,83 @@
 		death = "268.1.1"
 	}
 }
+
+2000259 = {
+	name = "Astuwalamanza"
+	dynasty = syrohittite_suhi
+	religion = "anatolian_pagan"
+	culture = syrohittite
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_karkemish
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000260 = {
+	name = "Sastura"
+	dynasty = syrohittite_astiruwa
+	religion = "anatolian_pagan"
+	culture = syrohittite
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_karkemish
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000267 = {
+	name = "Halparuntiya"
+	dynasty = syrohittite_runtiya
+	religion = "anatolian_pagan"
+	culture = syrohittite
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_kinalua
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000268 = {
+	name = "Tutammu"
+	dynasty = syrohittite_runtiya
+	religion = "anatolian_pagan"
+	culture = syrohittite
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_kinalua
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

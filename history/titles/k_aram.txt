@@ -267,3 +267,96 @@ c_niysan = {
 		holder = 2000258
 	}
 }
+
+k_karkemish = {
+	
+	258.4.4 = {
+		holder = 2000259
+	}
+	437.4.21 = {
+		holder = 2000260
+	}
+}
+
+c_karkemish = {
+	258.4.4 = {	change_development_level = 30 }
+	437.4.21 = { change_development_level = 30 }
+	
+	258.4.4 = {
+		holder = 2000259
+	}
+	437.4.21 = {
+		holder = 2000260
+	}
+}
+
+c_samal = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000261
+	}
+	437.4.21 = {
+		holder = 2000262
+	}
+}
+
+c_raphaneai = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000263
+	}
+	437.4.21 = {
+		holder = 2000264
+	}
+}
+
+d_yahanu = {
+	
+	258.4.4 = {
+		holder = 2000265
+	}
+	437.4.21 = {
+		holder = 2000266
+	}
+}
+
+c_sfire = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000265
+	}
+	437.4.21 = {
+		holder = 2000266
+	}
+}
+
+c_afis = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000265
+	}
+	437.4.21 = {
+		holder = 2000266
+	}
+}
+
+c_kinalua = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000267
+	}
+	437.4.21 = {
+		holder = 2000268
+	}
+}
+

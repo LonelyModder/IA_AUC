@@ -58,6 +58,8 @@
  k_aramdamascus:0 "Aram-Damascus"
  d_aramzobah:0 "Aram-Zobah"
  d_hatallu:0 "Hatallu"
+ k_karkemish:0 "Karkemish"
+ d_yahanu:0 "Yahanu"
  # Empires
  e_westernrome:0 "Italia"
  e_africa:0 "Africa"

@@ -145,6 +145,7 @@
  dynn_Azibaalid:0 "Azibaalid"
  dynn_Yatonbaalid:0 "Yatonbaalid"
  dynn_Abdmelqartid:0 "Abdmelqartid"
+ dynn_Baalshillemid:0 "Baalshillemid"
  #Philistine
  dynn_Gathite:0 "Gathite"
  #Damascan
@@ -153,9 +154,14 @@
  #Syro-Hittite
  dynn_Muwizid:0 "Muwizid"
  dynn_Piyawiya:0 "Piyawiya"
+ dynn_Suhi:0 "Suhi"
+ dynn_Astiruwa:0 "Astiruwa"
+ dynn_Runtiya:0 "Runtiya"
  #Syriac
  dynn_BetZakkur:0 "Bet-Zakkur"
  dynn_BetHatallu:0 "Bet-Hatallu"
+ dynn_BitGabbari:0 "Bit-Gabbari"
+ dynn_BitYahanu:0 "Bit-Yahanu"
  #Sahidic
  dynn_Wahibre:0 "Wahibre"
  dynn_Sheshi:0 "Sheshi"

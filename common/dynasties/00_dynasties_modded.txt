@@ -624,6 +624,11 @@ phoenician_abdmelqartid = {
 	culture = "phoenician"
 }
 
+phoenician_baalshillemid = {
+	name = "dynn_Baalshillemid"
+	culture = "phoenician"
+}
+
 #Philistine
 
 philistine_gathite = {
@@ -655,6 +660,21 @@ syrohittite_piyawiya = {
 	culture = "syrohittite"
 }
 
+syrohittite_suhi = {
+	name = "dynn_Suhi"
+	culture = "syrohittite"
+}
+
+syrohittite_astiruwa = {
+	name = "dynn_Astiruwa"
+	culture = "syrohittite"
+}
+
+syrohittite_runtiya = {
+	name = "dynn_Runtiya"
+	culture = "syrohittite"
+}
+
 #Syriac
 
 gusian_betzakkur = {
@@ -664,6 +684,16 @@ gusian_betzakkur = {
 
 gusian_hatallu = {
 	name = "dynn_BetHatallu"
+	culture = "gusian"
+}
+
+gusian_bitgabbari = {
+	name = "dynn_BitGabbari"
+	culture = "gusian"
+}
+
+gusian_bityahanu = {
+	name = "dynn_BitYahanu"
 	culture = "gusian"
 }
 

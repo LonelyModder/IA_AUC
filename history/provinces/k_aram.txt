@@ -29,8 +29,8 @@
 }
 
 2260 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = syrohittite
+	religion = anatolian_pagan
 	holding = none
 }
 
@@ -59,8 +59,8 @@
 }
 
 2265 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = phoenician
+	religion = canaanite_pagan
 	holding = none
 }
 
@@ -209,8 +209,8 @@
 }
 
 2290 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = syrohittite
+	religion = anatolian_pagan
 	holding = none
 }
 
@@ -365,8 +365,8 @@
 }
 
 2321 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = syrohittite
+	religion = anatolian_pagan
 	holding = none
 }
 
@@ -479,14 +479,14 @@
 }
 
 2342 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = gusian
+	religion = canaanite_pagan
 	holding = none
 }
 
 2343 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = gusian
+	religion = canaanite_pagan
 	holding = none
 }
 
