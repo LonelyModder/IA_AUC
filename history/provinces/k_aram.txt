@@ -1,6 +1,6 @@
 2255 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = syrohittite
+	religion = anatolian_pagan
 	holding = none
 }
 
@@ -47,8 +47,8 @@
 }
 
 2263 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = syrohittite
+	religion = anatolian_pagan
 	holding = none
 }
 
@@ -173,8 +173,8 @@
 }
 
 2284 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = syrohittite
+	religion = anatolian_pagan
 	holding = none
 }
 
@@ -185,8 +185,8 @@
 }
 
 2286 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = syrohittite
+	religion = anatolian_pagan
 	holding = none
 }
 
@@ -383,8 +383,8 @@
 }
 
 2324 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = syrohittite
+	religion = anatolian_pagan
 	holding = none
 }
 

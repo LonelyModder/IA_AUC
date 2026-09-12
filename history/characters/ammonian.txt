@@ -2,7 +2,7 @@
 	name = "Wahibre"
 	dynasty = ammonian_penamid
 	religion = "berber_pagan"
-	culture = marmaridian
+	culture = ammonian
 	#father = 32974
 	400.1.1 = {
 		birth = "400.1.1"
@@ -28,7 +28,7 @@
 	name = "Baufra"
 	dynasty = ammonian_penamid
 	religion = "berber_pagan"
-	culture = marmaridian
+	culture = ammonian
 	#father = 32974
 	230.1.1 = {
 		birth = "230.1.1"

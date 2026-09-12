@@ -171,6 +171,9 @@
  syrohittite:0 "Syro-Hittite"
  syrohittite_prefix:0 "Syro-Hittite"
  syrohittite_collective_noun:1 "Syro-Hittites"
+ tabali:0 "Tabali"
+ tabali_prefix:0 "Tabali"
+ tabali_collective_noun:1 "Tabalites"
  #Akkadian
  babylonian:0 "Babylonian"
  babylonian_prefix:0 "Babylonian"
@@ -182,3 +185,11 @@
  eteocypriot:0 "Eteocypriot"
  eteocypriot_prefix:0 "Eteocypriot"
  eteocypriot_collective_noun:1 "Eteocypriotes"
+ #Thracian
+ thracian:0 "Thracian"
+ thracian_prefix:0 "Thracian"
+ thracian_collective_noun:1 "Thracians"
+ #Celtic
+ celtic:0 "Celtic"
+ celtic_prefix:0 "Celtic"
+ celtic_collective_noun:1 "Celts"

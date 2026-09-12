@@ -3162,3 +3162,201 @@ name_list_hattian = {
 
 	
 }
+
+name_list_thracian = {
+	
+	cadet_dynasty_names = {
+		Gudilanus
+		Cotisus
+		Durasus
+		Dromichaetus
+		Komozus
+		Moskosus
+		Mucatralus
+		Natoporus
+		Orolosus
+		Pieporus
+		Rhemaxilus
+		Rholicus
+		Rubobosticus
+		Scorius
+		Tiatus
+		Tarbus
+		Tsiricus
+		Zinnicus
+		Porus
+		Porizus
+		Zenthus
+		Zibelthus
+		Dokus
+		Dizus
+		Tralus
+		Briaus
+		Mestus
+		Sketrus
+		Rhesus
+		Bithus
+		Odrysus
+		Getus
+		Triballus
+		Denthus
+	}
+	
+	dynasty_names = {
+		Gudilanus
+		Cotisus
+		Durasus
+		Dromichaetus
+		Komozus
+		Moskosus
+		Mucatralus
+		Natoporus
+		Orolosus
+		Pieporus
+		Rhemaxilus
+		Rholicus
+		Rubobosticus
+		Scorius
+		Tiatus
+		Tarbus
+		Tsiricus
+		Zinnicus
+		Porus
+		Porizus
+		Zenthus
+		Zibelthus
+		Dokus
+		Dizus
+		Tralus
+		Briaus
+		Mestus
+		Sketrus
+		Rhesus
+		Bithus
+		Odrysus
+		Getus
+		Triballus
+		Denthus	
+	}
+	
+	male_names = {
+		Bastiza Bikilis Blegissa Blaesus Blaikisa Brasus Burebista Comosicus Cothelas Cotiso Dablosa Dadas Dadazai Daizus Dapyx Dardiolai Danillo Decibalus Dusa 
+		Denzibalus Diernais Dotouzi Duras Vezina Zoutoula 
+		Kaigiza Komozoi Moskon Mucapor Mucatra Natoporus Orola Petipor Pierporus Rhemaxos Rholes Rubobostes Rolouzis Rigozus Scoris Tiati Tarbus Tsiru Zinna
+		Dromichaetes
+	}
+	female_names = {
+		Duccidava Rescuturme Zina Zinai Petriturme Zindurme Roibana Oriza Rescurai Raina Sanziana Claria Eccana
+	}
+	dynasty_of_location_prefix = "dynnp_of"
+	patronym_prefix_male = "dynnpat_pre_filius"
+
+	# Chance of male children being named after their paternal or maternal grandfather, or their father
+	pat_grf_name_chance = 50
+	mat_grf_name_chance = 0
+	father_name_chance = 50
+	
+	# Chance of female children being named after their paternal or maternal grandmother, or their mother
+	pat_grm_name_chance = 50
+	mat_grm_name_chance = 50
+	mother_name_chance = 0
+
+	
+}
+
+name_list_celtic = {
+	
+	cadet_dynasty_names = {
+		Ambonus
+		Auaroses
+		Audaxus
+		Carosus
+		Culchus
+		Leukus
+		Mandonus
+		Punicus
+		Tautalus
+		Correius
+		Divicus
+		Duratus
+		Elitovus
+		Galbus
+		Iacus
+		Marganus
+		Sinatus
+		Vodenosus
+		Indutius
+		Dumnus
+		Epatticus
+		Teutomalus
+		Virusorrius
+		Magunnus
+		Brennus
+		Boius
+		Tannus
+		Iccuius
+		Galanus
+	}
+	
+	dynasty_names = {
+		Ambonus
+		Auaroses
+		Audaxus
+		Carosus
+		Culchus
+		Leukus
+		Mandonus
+		Punicus
+		Tautalus
+		Correius
+		Divicus
+		Duratus
+		Elitovus
+		Galbus
+		Iacus
+		Marganus
+		Sinatus
+		Vodenosus
+		Indutius
+		Dumnus
+		Epatticus
+		Teutomalus
+		Virusorrius
+		Magunnus
+		Brennus
+		Boius
+		Tannus
+		Iccuius
+		Galanus
+	}
+	
+	male_names = {
+		Acco Addedomarus Adiatuanus Adminius Aiorix Ambicatos Andecombogius Aneroestes Ariovistus Arverus Arvirargus Atis Avitus 
+		Bellicianus Bellovesus Boduognatus Boio Boiorix Bolgios Brennus Bricussa Britomaris Brucetius Buite Cailtram Caractacus 
+		Carvilius Cassivellaunus Cattulanus Cartorites Catugnatus Cavarinus Cavarus Celatus Cingetorix Coilus Commios Comux Concolitanus Correus Cottius Crixus
+		Cunobelinus Diviciacus Divico Donnus Drappes Dubnovellaunus Dumnacus Ducarius Duratios Dumnocoveros Dumnorix Elitovius Etitovius Epatticus
+		Galan Galba Guiderius Iacus Iccius Immanuentius Inamarcus Inammicus Indutiomarus Kimarcus Lucterius Lugotorix Lutarius Mallaius Mandubracius Marganus Mascelio
+		Orgetorix Prasutagus Segovax Sinatus Sinorix Sisillius Talorc Tasciovanus Tasgetius Taximagulus Teutomalius Tincomarus Togodumnus Vertiscus
+		Venutius Viridorix Vosenius Vodenos
+	}
+	female_names = {
+		Aife Airmed Ancasta Banna Billica Boudica Bricta Cata Cartimandua Chiomara Damona Diseta Gwendolen Litavis Iamcilla Maeve Verica
+		Cingetessa Conna Catia Carssouna Cunovinna Illica Lovernisca Magunna Lucilia Oconea Ria Rosula Senica Sentica Sulicena
+		Vassura Vinoma Vorvena Urca Veloriga Velibia Totia Titocuna Velbutena Seniciana Senila Vrocata Exuperata Deiana Cunolava Cunsa Aucissa
+		Allauna Alatucca Aessicunia Bodicacia Britivenda Catissena Cantisena
+	}
+	dynasty_of_location_prefix = "dynnp_of"
+	patronym_prefix_male = "dynnpat_pre_filius"
+
+	# Chance of male children being named after their paternal or maternal grandfather, or their father
+	pat_grf_name_chance = 50
+	mat_grf_name_chance = 0
+	father_name_chance = 50
+	
+	# Chance of female children being named after their paternal or maternal grandmother, or their mother
+	pat_grm_name_chance = 50
+	mat_grm_name_chance = 50
+	mother_name_chance = 0
+
+	
+}

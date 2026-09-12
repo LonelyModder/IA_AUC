@@ -159,7 +159,7 @@
 3824 = {		
 	culture = punic
 	religion = canaanite_pagan
-	holding = none
+	holding = castle_holding
 }
 
 3825 = {		

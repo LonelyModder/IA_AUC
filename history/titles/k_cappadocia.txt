@@ -1,0 +1,12 @@
+c_gurgum = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000269
+	}
+	437.4.21 = {
+		holder = 2000270
+	}
+}
+

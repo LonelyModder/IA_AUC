@@ -675,6 +675,18 @@ syrohittite_runtiya = {
 	culture = "syrohittite"
 }
 
+syrohittite_kummaha = {
+	name = "dynn_Kummaha"
+	culture = "syrohittite"
+}
+
+#Tabali
+
+tabali_astuwaramanzid = {
+	name = "dynn_Astuwaramanzid"
+	culture = "tabali"
+}
+
 #Syriac
 
 gusian_betzakkur = {

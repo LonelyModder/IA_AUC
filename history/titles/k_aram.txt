@@ -348,6 +348,16 @@ c_afis = {
 	}
 }
 
+d_pattin = {
+	
+	258.4.4 = {
+		holder = 2000267
+	}
+	437.4.21 = {
+		holder = 2000268
+	}
+}
+
 c_kinalua = {
 	258.4.4 = {	change_development_level = 15 }
 	437.4.21 = { change_development_level = 20 }
@@ -357,6 +367,76 @@ c_kinalua = {
 	}
 	437.4.21 = {
 		holder = 2000268
+	}
+}
+
+c_laodicea = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000267
+	}
+	437.4.21 = {
+		holder = 2000268
+	}
+}
+
+c_farafija = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000267
+	}
+	437.4.21 = {
+		holder = 2000268
+	}
+}
+
+c_antioch = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000267
+	}
+	437.4.21 = {
+		holder = 2000268
+	}
+}
+
+d_kummukh = {
+	
+	258.4.4 = {
+		holder = 2000271
+	}
+	437.4.21 = {
+		holder = 2000272
+	}
+}
+
+c_samosata = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000271
+	}
+	437.4.21 = {
+		holder = 2000272
+	}
+}
+
+c_disakah = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000271
+	}
+	437.4.21 = {
+		holder = 2000272
 	}
 }
 

@@ -101,14 +101,6 @@
 }
 
 89{ 
-	terrain="hills"
-	trade_goods="stone"
-	religion="nuragian_pantheon"
-	culture="corsi"
-	civilization_value=0
-	barbarian_power=0
-	province_rank="settlement"
-	freemen = {		
 	culture = baranis
 	religion = nuragic_pagan
 	holding = none

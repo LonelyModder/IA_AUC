@@ -227,8 +227,8 @@
 }
 
 3024 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = tabali
+	religion = anatolian_pagan
 	holding = none
 }
 

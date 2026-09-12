@@ -1092,7 +1092,7 @@
 
 1900 = {		
 	culture = marmaridian
-	religion = libyan_pagan
+	religion = berber_pagan
 	holding = tribal_holding
 }
 
@@ -1110,13 +1110,13 @@
 
 1903 = {		
 	culture = marmaridian
-	religion = libyan_pagan
+	religion = berber_pagan
 	holding = tribal_holding
 }
 
 1904 = {		
 	culture = ammonian
-	religion = libyan_pagan
+	religion = berber_pagan
 	holding = tribal_holding
 }
 
@@ -1128,7 +1128,7 @@
 
 1906 = {		
 	culture = ammonian
-	religion = libyan_pagan
+	religion = berber_pagan
 	holding = tribal_holding
 }
 
@@ -1158,7 +1158,7 @@
 
 1911 = {		
 	culture = ammonian
-	religion = libyan_pagan
+	religion = berber_pagan
 	holding = tribal_holding
 }
 
@@ -1230,19 +1230,19 @@
 
 1924 = {		
 	culture = marmaridian
-	religion = libyan_pagan
+	religion = berber_pagan
 	holding = tribal_holding
 }
 
 1925 = {		
 	culture = ammonian
-	religion = libyan_pagan
+	religion = berber_pagan
 	holding = tribal_holding
 }
 
 1926 = {		
 	culture = ammonian
-	religion = libyan_pagan
+	religion = berber_pagan
 	holding = tribal_holding
 }
 
@@ -1278,7 +1278,7 @@
 
 1934 = {		
 	culture = ammonian
-	religion = libyan_pagan
+	religion = berber_pagan
 	holding = tribal_holding
 }
 
