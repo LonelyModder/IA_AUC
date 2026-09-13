@@ -69,6 +69,9 @@
  dynn_Bodona:0 "Bodona"
  dynn_Elissid:0 "Elissid"
  dynn_Mashhid:0 "Mashhid"
+ dynn_Gerbaalid:0 "Gerbaalid"
+ dynn_Bodmelqartid:0 "Bodmelqartid"
+ dynn_Mattanid:0 "Mattanid"
  #Maurian
  dynn_Galesta:0 "Galesta"
  dynn_Syphid:0 "Syphid"
@@ -187,3 +190,9 @@
  dynn_Helladid:0 "Helladid"
  #Eteocypriot
  dynn_Nearchid:0 "Nearchid"
+ #Corsian
+ dynn_Cumanesius:0 "Cumanesius"
+ #Balarian
+ dynn_Lugudonensius:0 "Lugudonensius"
+ #Ioleian
+ dynn_Celestinius:0 "Celestinius"

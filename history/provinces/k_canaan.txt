@@ -138,7 +138,7 @@
 
 2439 = {		
 	culture = samarian
-	religion = yahwism_pagan
+	religion = canaanite_pagan
 	holding = none
 }
 

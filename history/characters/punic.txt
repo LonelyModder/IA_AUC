@@ -217,3 +217,123 @@
 		death = "460.1.1"
 	}
 }
+
+2000279 = {
+	name = "Mandonio"
+	dynasty = punic_gerbaalid
+	religion = "canaanite_pagan"
+	culture = punic
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:c_caralis
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000280 = {
+	name = "Budar"
+	dynasty = punic_gerbaalid
+	religion = "canaanite_pagan"
+	culture = punic
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:c_caralis
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000281 = {
+	name = "Uxentio"
+	dynasty = punic_bodmelqartid
+	religion = "canaanite_pagan"
+	culture = punic
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:c_sulci
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000282 = {
+	name = "Orisos"
+	dynasty = punic_bodmelqartid
+	religion = "canaanite_pagan"
+	culture = punic
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:c_sulci
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}
+
+2000283 = {
+	name = "Korbis"
+	dynasty = punic_mattanid
+	religion = "canaanite_pagan"
+	culture = punic
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:c_tharros
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000284 = {
+	name = "Tiresio"
+	dynasty = punic_mattanid
+	religion = "canaanite_pagan"
+	culture = punic
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:c_tharros
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}

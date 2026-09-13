@@ -103,10 +103,11 @@
 3816 = {		
 	culture = massylian
 	religion = berber_pagan
-	holding = none
+	holding = tribal_holding
 	437.4.21 = { 
 		culture = punic
 		religion = canaanite_pagan
+		holding = castle_holding
 	}
 }
 
@@ -149,10 +150,11 @@
 3823 = {		
 	culture = massylian
 	religion = berber_pagan
-	holding = none
+	holding = tribal_holding
 	437.4.21 = { 
 		culture = punic
 		religion = canaanite_pagan
+		holding = castle_holding
 	}
 }
 

@@ -1787,6 +1787,16 @@ name_list_nuragian = {
 		Umarilus
 		Turenus
 		Urceticus
+		Bodmelqartid
+		Abdosirid
+		Hannobalid
+		Azrubaalid
+		Baalshillemid
+		Gerbaalid
+		Mattanid
+		Milkyatonid
+		Yatonbaalid
+		Sapanbaalid
 	}
 	
 	dynasty_names = {
@@ -1809,6 +1819,16 @@ name_list_nuragian = {
 		Umarilus
 		Turenus
 		Urceticus
+		Bodmelqartid
+		Abdosirid
+		Hannobalid
+		Azrubaalid
+		Baalshillemid
+		Gerbaalid
+		Mattanid
+		Milkyatonid
+		Yatonbaalid
+		Sapanbaalid	
 	}
 	
 	male_names = {

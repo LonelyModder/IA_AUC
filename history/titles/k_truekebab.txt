@@ -119,10 +119,10 @@ c_heriroun = {
 d_edom = {
 	
 	258.4.4 = {
-		holder = 2000185
+		holder = 2000184
 	}
 	437.4.21 = {
-		holder = 2000184
+		holder = 2000185
 	}	
 }
 

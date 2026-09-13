@@ -60,6 +60,9 @@
  d_hatallu:0 "Hatallu"
  k_karkemish:0 "Karkemish"
  d_yahanu:0 "Yahanu"
+ d_corsi:0 "Corsians"
+ d_balarians:0 "Balarians"
+ d_ioleians:0 "Ioleians"
  # Empires
  e_westernrome:0 "Italia"
  e_africa:0 "Africa"

@@ -2317,7 +2317,7 @@
  yahwism_religion_adj:2 "Yahwism"
  yahwism_religion_adherent:2 "Yahwism"
  yahwism_religion_adherent_plural:2 "Yahwists"
- yahwism_religion_desc:0 "An early evolution of Jewish faith where Yahweh was a patron god of Israel but other canaanite gods were also worshipped in lesser degree."
+ yahwism_religion_desc:0 "An early evolution of Jewish faith where Yahweh became a sole patron god of Israel. Yahwists believed that other gods existed but their cults were no longer state sponsored."
 
  yahwism_high_god_name:0 "Yahweh"
  yahwism_high_god_name_2:0 "$yahwism_high_god_name$" # Optional translation alt

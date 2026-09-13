@@ -306,6 +306,21 @@ punic_mashhid = {
 	culture = "punic"
 }
 
+punic_gerbaalid = {
+	name = "dynn_Gerbaalid"
+	culture = "punic"
+}
+
+punic_bodmelqartid = {
+	name = "dynn_Bodmelqartid"
+	culture = "punic"
+}
+
+punic_mattanid = {
+	name = "dynn_Mattanid"
+	culture = "punic"
+}
+
 #Maurian
 
 maurian_galesta = {
@@ -805,5 +820,26 @@ cypriote_helladid = {
 eteocypriot_nearchid = {
 	name = "dynn_Nearchid"
 	culture = "eteocypriot"
+}
+
+#Corsian
+
+corsian_cumanesius = {
+	name = "dynn_Cumanesius"
+	culture = "corsian"
+}
+
+#Balarian
+
+balarian_lugudonensius = {
+	name = "dynn_Lugudonensius"
+	culture = "balarian"
+}
+
+#Ioleian
+
+ioleian_celestinius = {
+	name = "dynn_Celestinius"
+	culture = "ioleian"
 }
 

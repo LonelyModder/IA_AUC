@@ -481,13 +481,13 @@
 2342 = {		
 	culture = gusian
 	religion = canaanite_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 2343 = {		
 	culture = gusian
 	religion = canaanite_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 2344 = {		
@@ -541,13 +541,13 @@
 2352 = {		
 	culture = gusian
 	religion = canaanite_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 2353 = {		
 	culture = gusian
 	religion = canaanite_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 2354 = {		
@@ -571,7 +571,7 @@
 2357 = {		
 	culture = gusian
 	religion = canaanite_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 2358 = {		
@@ -625,7 +625,7 @@
 2370 = {		
 	culture = gusian
 	religion = canaanite_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 2371 = {		
@@ -655,7 +655,7 @@
 2375 = {		
 	culture = damascan
 	religion = canaanite_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 2376 = {		

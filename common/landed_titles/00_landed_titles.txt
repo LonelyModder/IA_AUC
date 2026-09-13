@@ -22037,3 +22037,18 @@ d_yahanu = {
 	color = { 19 120 43 }
 	landless = yes 
 }
+
+d_corsi = {
+	color = { 126 96 179 }
+	landless = yes 
+}
+
+d_balarians = {
+	color = { 42 15 138 }
+	landless = yes 
+}
+
+d_ioleians = {
+	color = { 168 24 167 }
+	landless = yes 
+}

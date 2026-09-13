@@ -41,7 +41,7 @@
 }
 
 79 = {		
-	culture = baranis
+	culture = ioleian
 	religion = nuragic_pagan
 	holding = none
 }
@@ -65,13 +65,13 @@
 }
 
 83 = {		
-	culture = baranis
+	culture = ioleian
 	religion = nuragic_pagan
 	holding = none
 }
 
 84 = {		
-	culture = baranis
+	culture = ioleian
 	religion = nuragic_pagan
 	holding = none
 }
@@ -83,7 +83,7 @@
 }
 
 86 = {		
-	culture = baranis
+	culture = ioleian
 	religion = nuragic_pagan
 	holding = none
 }
@@ -95,7 +95,7 @@
 }
 
 88 = {		
-	culture = baranis
+	culture = corsian
 	religion = nuragic_pagan
 	holding = none
 }
@@ -119,7 +119,7 @@
 }
 
 92 = {		
-	culture = baranis
+	culture = ioleian
 	religion = nuragic_pagan
 	holding = none
 }
@@ -137,19 +137,19 @@
 }
 
 95 = {		
-	culture = baranis
+	culture = balarian
 	religion = nuragic_pagan
 	holding = none
 }
 
 96 = {		
-	culture = baranis
+	culture = balarian
 	religion = nuragic_pagan
 	holding = none
 }
 
 97 = {		
-	culture = baranis
+	culture = balarian
 	religion = nuragic_pagan
 	holding = none
 }
