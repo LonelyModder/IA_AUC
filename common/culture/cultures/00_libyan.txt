@@ -348,7 +348,7 @@ libu = {
 	
 	ethos = ethos_bellicose
 	heritage = heritage_libyan
-	language = language_libyan
+	language = language_kemetic
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_formation_fighting
@@ -377,7 +377,7 @@ meshwesh = {
 	
 	ethos = ethos_bellicose
 	heritage = heritage_libyan
-	language = language_libyan
+	language = language_kemetic
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_formation_fighting

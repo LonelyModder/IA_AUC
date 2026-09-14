@@ -98,26 +98,6 @@
 	}
 }
 
-2000093 = {
-	name = "Mattan"
-	dynasty = punic_eshbaalid
-	religion = "canaanite_pagan"
-	culture = punic
-	#father = 32974
-	230.1.1 = {
-		birth = "230.1.1"
-	}
-	250.1.1 = {
-		add_pressed_claim = title:c_lixus
-	}
-	#258.4.4 = {
-	#	add_character_flag = do_not_generate_starting_family
-	#}
-	260.1.1 = {
-		death = "260.1.1"
-	}
-}
-
 2000094 = {
 	name = "Tabnit"
 	dynasty = punic_chelbesid
@@ -169,6 +149,26 @@
 	}
 	250.1.1 = {
 		add_pressed_claim = title:c_utica
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000093 = {
+	name = "Mattan"
+	dynasty = punic_eshbaalid
+	religion = "canaanite_pagan"
+	culture = punic
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:c_lixus
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family

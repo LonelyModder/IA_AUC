@@ -163,6 +163,8 @@
  dynn_Kummaha:0 "Kummaha"
  #Tabali
  dynn_Astuwaramanzid:0 "Astuwaramanzid"
+ dynn_Khillikid:0 "Khillikid"
+ dynn_Ishundid:0 "Ishundu"
  #Syriac
  dynn_BetZakkur:0 "Bet-Zakkur"
  dynn_BetHatallu:0 "Bet-Hatallu"
@@ -196,3 +198,5 @@
  dynn_Lugudonensius:0 "Lugudonensius"
  #Ioleian
  dynn_Celestinius:0 "Celestinius"
+ #Hijawan
+ dynn_Muksid:0 "Muksid"

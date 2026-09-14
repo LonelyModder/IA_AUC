@@ -35,6 +35,9 @@
  cypriote:0 "Cypriote"
  cypriote_prefix:0 "Cypriote"
  cypriote_collective_noun:1 "Cypriotes"
+ hijawan:0 "Hijawan"
+ hijawan_prefix:0 "Hijawan"
+ hijawan_collective_noun:1 "Hijawans"
  #Illyrian Group
  lapygian:0 "Lapygian"
  lapygian_prefix:0 "Lapygian"
@@ -193,3 +196,7 @@
  celtic:0 "Celtic"
  celtic_prefix:0 "Celtic"
  celtic_collective_noun:1 "Celts"
+ #Liburnian
+ veneti:0 "Veneti"
+ veneti_prefix:0 "Veneti"
+ veneti_collective_noun:1 "Venetis"

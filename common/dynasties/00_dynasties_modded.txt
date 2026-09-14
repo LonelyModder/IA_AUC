@@ -702,6 +702,16 @@ tabali_astuwaramanzid = {
 	culture = "tabali"
 }
 
+tabali_khillikid = {
+	name = "dynn_Khillikid"
+	culture = "tabali"
+}
+
+tabali_ishundid = {
+	name = "dynn_Ishundid"
+	culture = "tabali"
+}
+
 #Syriac
 
 gusian_betzakkur = {
@@ -841,5 +851,12 @@ balarian_lugudonensius = {
 ioleian_celestinius = {
 	name = "dynn_Celestinius"
 	culture = "ioleian"
+}
+
+#Hijawan
+
+hijawan_muksid = {
+	name = "dynn_Muksid"
+	culture = "hijawan"
 }
 

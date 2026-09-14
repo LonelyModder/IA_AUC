@@ -37,3 +37,83 @@
 		death = "469.1.1"
 	}
 }
+
+2000287 = {
+	name = "Arnuwanti"
+	dynasty = tabali_khillikid
+	religion = "anatolian_pagan"
+	culture = tabali
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_khillika
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000288 = {
+	name = "Muwizi"
+	dynasty = tabali_khillikid
+	religion = "anatolian_pagan"
+	culture = tabali
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_khillika
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000289 = {
+	name = "Muwatalli"
+	dynasty = tabali_ishundid
+	religion = "anatolian_pagan"
+	culture = tabali
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_ishunda
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000290 = {
+	name = "Manana"
+	dynasty = tabali_ishundid
+	religion = "anatolian_pagan"
+	culture = tabali
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_ishunda
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

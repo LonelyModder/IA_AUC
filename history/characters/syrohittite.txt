@@ -54,7 +54,11 @@
 		birth = "221.1.1"
 	}
 	258.4.4 = {
+		add_pressed_claim = title:k_karkemish
 		add_pressed_claim = title:c_karkemish
+		add_pressed_claim = title:c_mabbog
+		add_pressed_claim = title:c_musri
+		add_pressed_claim = title:c_zeugma
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -74,7 +78,11 @@
 		birth = "401.1.1"
 	}
 	437.4.21 = {
+		add_pressed_claim = title:k_karkemish
 		add_pressed_claim = title:c_karkemish
+		add_pressed_claim = title:c_mabbog
+		add_pressed_claim = title:c_musri
+		add_pressed_claim = title:c_zeugma
 	}
 	#437.4.21 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -99,6 +107,7 @@
 		add_pressed_claim = title:c_farafija
 		add_pressed_claim = title:c_antioch
 		add_pressed_claim = title:c_laodicea
+		add_pressed_claim = title:c_issus
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -123,6 +132,7 @@
 		add_pressed_claim = title:c_farafija
 		add_pressed_claim = title:c_antioch
 		add_pressed_claim = title:c_laodicea
+		add_pressed_claim = title:c_issus
 	}
 	#437.4.21 = {
 	#	add_character_flag = do_not_generate_starting_family

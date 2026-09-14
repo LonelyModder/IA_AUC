@@ -925,6 +925,11 @@ e_epersia = {
 					province = 2331
 				}
 				
+				b_ramsafabad_2336 = {
+					color = { 43 108 28 }
+					province = 2336
+				}
+				
 			}
 			
 			c_lukhuti = {
@@ -933,11 +938,6 @@ e_epersia = {
 				b_khatarika_2335 = {
 					color = { 1 105 155 }
 					province = 2335
-				}
-				
-				b_ramsafabad_2336 = {
-					color = { 43 108 28 }
-					province = 2336
 				}
 				
 			}
@@ -1189,16 +1189,16 @@ e_epersia = {
 					province = 2290
 				}
 				
-			}
-			
-			c_barsip = {
-				color = { 86 60 46 }
-				
 				b_til_barsip_2296 = {
 					color = { 86 60 46 }
 					province = 2296
 				}
 
+			}
+			
+			c_barsip = {
+				color = { 86 60 46 }
+				
 				b_nimpiqi_2297 = {
 					color = { 128 63 174 }
 					province = 2297
@@ -22050,5 +22050,15 @@ d_balarians = {
 
 d_ioleians = {
 	color = { 168 24 167 }
+	landless = yes 
+}
+
+d_hijawa = {
+	color = { 44 90 143 }
+	landless = yes 
+}
+
+d_bitadini = {
+	color = { 117 220 224 }
 	landless = yes 
 }

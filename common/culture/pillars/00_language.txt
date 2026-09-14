@@ -775,6 +775,24 @@ language_illyrian = {
 	color = italian
 }
 
+language_liburnian = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_liburnian
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_liburnian }
+			multiply = 10
+		}
+	}
+	
+	color = italian
+}
+
 language_oscan = {
 	type = language
 	is_shown = {
@@ -862,7 +880,7 @@ language_libyan = {
 		}
 	}
 	
-	color = italian
+	color = { 0.63 0.47 0.35 }
 }
 
 language_kemetic = {
@@ -880,7 +898,7 @@ language_kemetic = {
 		}
 	}
 	
-	color = italian
+	color = { 0.93 0.57 0.13 }
 }
 
 language_shasu = {
