@@ -22062,3 +22062,23 @@ d_bitadini = {
 	color = { 117 220 224 }
 	landless = yes 
 }
+
+d_bitagusi = {
+	color = { 127 99 154 }
+	landless = yes 
+}
+
+d_bitzamani = {
+	color = { 117 220 224 }
+	landless = yes 
+}
+
+d_bitbahiani = {
+	color = { 153 240 243 }
+	landless = yes 
+}
+
+d_bithalupe = {
+	color = { 107 204 208 }
+	landless = yes 
+}

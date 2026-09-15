@@ -440,6 +440,10 @@
 	culture = syrohittite
 	religion = anatolian_pagan
 	holding = none
+	437.4.21 = { 
+		culture = gusian
+		religion = canaanite_pagan 
+	}
 }
 
 2334 = {		

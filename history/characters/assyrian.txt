@@ -1,0 +1,41 @@
+﻿2000294 = {
+	name = "Ashur-Dan"
+	dynasty = assyrian_adaside
+	religion = "canaanite_pagan"
+	culture = assyrian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:k_assyria
+		add_pressed_claim = title:c_ashur
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000295 = {
+	name = "Ashur-Nirari"
+	dynasty = assyrian_adaside
+	religion = "canaanite_pagan"
+	culture = assyrian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:k_assyria
+		add_pressed_claim = title:c_ashur
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

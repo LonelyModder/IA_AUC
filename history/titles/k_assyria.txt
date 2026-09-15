@@ -1,0 +1,22 @@
+k_assyria = {
+	
+	258.4.4 = {
+		holder = 2000294
+	}
+	437.4.21 = {
+		holder = 2000295
+	}
+	
+}
+
+c_ashur = {
+	258.4.4 = {	change_development_level = 25 }
+	437.4.21 = { change_development_level = 30 }
+	
+	258.4.4 = {
+		holder = 2000294
+	}
+	437.4.21 = {
+		holder = 2000295
+	}
+}

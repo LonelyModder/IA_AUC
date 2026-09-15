@@ -1,0 +1,103 @@
+﻿2000296 = {
+	name = "Sin-ibni"
+	dynasty = naharimi_bitzamani
+	religion = "canaanite_pagan"
+	culture = naharimi
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_bitzamani
+		add_pressed_claim = title:c_amedi
+		add_pressed_claim = title:c_faran
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000297 = {
+	name = "Kapara"
+	dynasty = naharimi_bitbahiani
+	religion = "canaanite_pagan"
+	culture = naharimi
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_bitbahiani
+		add_pressed_claim = title:c_guzana
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000298 = {
+	name = "Halupe"
+	dynasty = naharimi_bithalupe
+	religion = "canaanite_pagan"
+	culture = naharimi
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_bithalupe
+		add_pressed_claim = title:c_surur
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000299 = {
+	name = "Rihat"
+	dynasty = naharimi_bitdhawkhah
+	religion = "canaanite_pagan"
+	culture = naharimi
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_immerinu
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000300 = {
+	name = "Nidinti"
+	dynasty = naharimi_bitshugab
+	religion = "canaanite_pagan"
+	culture = naharimi
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_shugab
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}

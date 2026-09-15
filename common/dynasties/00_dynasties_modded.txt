@@ -695,6 +695,11 @@ syrohittite_kummaha = {
 	culture = "syrohittite"
 }
 
+syrohittite_tarhulara = {
+	name = "dynn_Tarhulara"
+	culture = "syrohittite"
+}
+
 #Tabali
 
 tabali_astuwaramanzid = {
@@ -731,6 +736,16 @@ gusian_bitgabbari = {
 
 gusian_bityahanu = {
 	name = "dynn_BitYahanu"
+	culture = "gusian"
+}
+
+gusian_bitagusi = {
+	name = "dynn_BitAgusi"
+	culture = "gusian"
+}
+
+gusian_bitadini = {
+	name = "dynn_BitAdini"
 	culture = "gusian"
 }
 
@@ -858,5 +873,39 @@ ioleian_celestinius = {
 hijawan_muksid = {
 	name = "dynn_Muksid"
 	culture = "hijawan"
+}
+
+#Assyrian
+
+assyrian_adaside = {
+	name = "dynn_Adaside"
+	culture = "assyrian"
+}
+
+#Naharaim
+
+naharimi_bitzamani = {
+	name = "dynn_BitZamani"
+	culture = "naharimi"
+}
+
+naharimi_bitbahiani = {
+	name = "dynn_BitBahiani"
+	culture = "naharimi"
+}
+
+naharimi_bithalupe = {
+	name = "dynn_BitHalupe"
+	culture = "naharimi"
+}
+
+naharimi_bitdhawkhah = {
+	name = "dynn_bitDhawkhah"
+	culture = "naharimi"
+}
+
+naharimi_bitshugab = {
+	name = "dynn_BitShugab"
+	culture = "naharimi"
 }
 

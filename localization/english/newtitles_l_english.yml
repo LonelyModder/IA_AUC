@@ -65,6 +65,10 @@
  d_ioleians:0 "Ioleians"
  d_hijawa:0 "Hijawa"
  d_bitadini:0 "Bit-Adini"
+ d_bitagusi:0 "Bit-Agusi"
+ d_bitzamani:0 "Bit-Zamani"
+ d_bitbahiani:0 "Bit-Bahiani"
+ d_bithalupe:0 "Bit-Halupe"
  # Empires
  e_westernrome:0 "Italia"
  e_africa:0 "Africa"

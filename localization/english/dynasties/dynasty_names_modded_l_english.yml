@@ -161,6 +161,7 @@
  dynn_Astiruwa:0 "Astiruwa"
  dynn_Runtiya:0 "Runtiya"
  dynn_Kummaha:0 "Kummaha"
+ dynn_Tarhulara:0 "Tarhulara"
  #Tabali
  dynn_Astuwaramanzid:0 "Astuwaramanzid"
  dynn_Khillikid:0 "Khillikid"
@@ -170,6 +171,8 @@
  dynn_BetHatallu:0 "Bet-Hatallu"
  dynn_BitGabbari:0 "Bit-Gabbari"
  dynn_BitYahanu:0 "Bit-Yahanu"
+ dynn_BitAgusi:0 "Bit-Agusi"
+ dynn_BitAdini:0 "Bit-Adini"
  #Sahidic
  dynn_Wahibre:0 "Wahibre"
  dynn_Sheshi:0 "Sheshi"
@@ -200,3 +203,11 @@
  dynn_Celestinius:0 "Celestinius"
  #Hijawan
  dynn_Muksid:0 "Muksid"
+ #Assyrian
+ dynn_Adaside:0 "Adaside"
+ #Naharaim
+ dynn_BitZamani:0 "Bit-Zamani"
+ dynn_BitBahiani:0 "Bit-Bahiani"
+ dynn_BitHalupe:0 "Bit-Halupe"
+ dynn_bitDhawkhah:0 "Bit-Dhawkhah"
+ dynn_BitShugab:0 "Bit-Shugab"
