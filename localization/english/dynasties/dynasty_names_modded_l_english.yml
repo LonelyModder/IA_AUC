@@ -162,6 +162,7 @@
  dynn_Runtiya:0 "Runtiya"
  dynn_Kummaha:0 "Kummaha"
  dynn_Tarhulara:0 "Tarhulara"
+ dynn_Hapatilid:0 "Hapatilid"
  #Tabali
  dynn_Astuwaramanzid:0 "Astuwaramanzid"
  dynn_Khillikid:0 "Khillikid"
@@ -211,3 +212,7 @@
  dynn_BitHalupe:0 "Bit-Halupe"
  dynn_bitDhawkhah:0 "Bit-Dhawkhah"
  dynn_BitShugab:0 "Bit-Shugab"
+ dynn_BitIbni:0 "Bit-Abni"
+ dynn_BitHarran:0 "Bit-Harran"
+ dynn_Temanite:0 "Temanite"
+ dynn_BitYahiri:0 "Bit-Yahiri"

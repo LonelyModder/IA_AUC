@@ -499,7 +499,17 @@ c_sura = {
 	437.4.21 = { change_development_level = 15 }
 	
 	258.4.4 = {
-		holder = 2000291
+		holder = 2000293
+	}
+	
+}
+
+c_barsip = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000293
 	}
 	
 }

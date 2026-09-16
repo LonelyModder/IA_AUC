@@ -1,7 +1,7 @@
 ﻿2000294 = {
 	name = "Ashur-Dan"
 	dynasty = assyrian_adaside
-	religion = "canaanite_pagan"
+	religion = "ashurism_pagan"
 	culture = assyrian
 	#father = 32974
 	221.1.1 = {
@@ -22,7 +22,7 @@
 2000295 = {
 	name = "Ashur-Nirari"
 	dynasty = assyrian_adaside
-	religion = "canaanite_pagan"
+	religion = "ashurism_pagan"
 	culture = assyrian
 	#father = 32974
 	401.1.1 = {

@@ -700,6 +700,11 @@ syrohittite_tarhulara = {
 	culture = "syrohittite"
 }
 
+syrohittite_hapatilid = {
+	name = "dynn_Hapatilid"
+	culture = "syrohittite"
+}
+
 #Tabali
 
 tabali_astuwaramanzid = {
@@ -906,6 +911,26 @@ naharimi_bitdhawkhah = {
 
 naharimi_bitshugab = {
 	name = "dynn_BitShugab"
+	culture = "naharimi"
+}
+
+naharimi_bitibni = {
+	name = "dynn_BitIbni"
+	culture = "naharimi"
+}
+
+naharimi_bitharran = {
+	name = "dynn_BitHarran"
+	culture = "naharimi"
+}
+
+naharimi_temanite = {
+	name = "dynn_Temanite"
+	culture = "naharimi"
+}
+
+naharimi_bityahiri = {
+	name = "dynn_BitYahiri"
 	culture = "naharimi"
 }
 

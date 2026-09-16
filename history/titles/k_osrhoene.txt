@@ -44,6 +44,16 @@ c_guzana = {
 	
 }
 
+c_resaina = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000297
+	}
+	
+}
+
 d_bithalupe = {
 	
 	258.4.4 = {
@@ -67,7 +77,7 @@ c_raqqa = {
 	437.4.21 = { change_development_level = 15 }
 	
 	258.4.4 = {
-		holder = 2000291
+		holder = 2000293
 	}
 	
 }
@@ -91,3 +101,52 @@ c_shugab = {
 	}
 	
 }
+
+c_abni = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000301
+	}
+	
+}
+
+c_harran = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000302
+	}
+	
+}
+
+c_nisibin = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000303
+	}
+	
+}
+
+c_izalla = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000304
+	}
+	
+}
+
+c_piratlu = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000304
+	}
+	

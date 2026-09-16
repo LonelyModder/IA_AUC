@@ -203,3 +203,14 @@
  veneti:0 "Veneti"
  veneti_prefix:0 "Veneti"
  veneti_collective_noun:1 "Venetis"
+ #Hurrian
+ qurkhan:0 "Qurkhan"
+ qurkhan_prefix:0 "Qurkhan"
+ qurkhan_collective_noun:1 "Qurkhans"
+ kadmukhite:0 "Kadmukhite"
+ kadmukhite_prefix:0 "Kadmukhite"
+ kadmukhite_collective_noun:1 "Kadmukhites"
+ #Elamite
+ susian:0 "Susian"
+ susian_prefix:0 "Susian"
+ susian_collective_noun:1 "Susians"

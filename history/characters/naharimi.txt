@@ -1,7 +1,7 @@
 ﻿2000296 = {
 	name = "Sin-ibni"
 	dynasty = naharimi_bitzamani
-	religion = "canaanite_pagan"
+	religion = "ashurism_pagan"
 	culture = naharimi
 	#father = 32974
 	221.1.1 = {
@@ -23,7 +23,7 @@
 2000297 = {
 	name = "Kapara"
 	dynasty = naharimi_bitbahiani
-	religion = "canaanite_pagan"
+	religion = "ashurism_pagan"
 	culture = naharimi
 	#father = 32974
 	221.1.1 = {
@@ -32,6 +32,7 @@
 	258.4.4 = {
 		add_pressed_claim = title:d_bitbahiani
 		add_pressed_claim = title:c_guzana
+		add_pressed_claim = title:c_resaina
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -44,7 +45,7 @@
 2000298 = {
 	name = "Halupe"
 	dynasty = naharimi_bithalupe
-	religion = "canaanite_pagan"
+	religion = "ashurism_pagan"
 	culture = naharimi
 	#father = 32974
 	221.1.1 = {
@@ -65,7 +66,7 @@
 2000299 = {
 	name = "Rihat"
 	dynasty = naharimi_bitdhawkhah
-	religion = "canaanite_pagan"
+	religion = "ashurism_pagan"
 	culture = naharimi
 	#father = 32974
 	221.1.1 = {
@@ -85,7 +86,7 @@
 2000300 = {
 	name = "Nidinti"
 	dynasty = naharimi_bitshugab
-	religion = "canaanite_pagan"
+	religion = "ashurism_pagan"
 	culture = naharimi
 	#father = 32974
 	221.1.1 = {
@@ -93,6 +94,86 @@
 	}
 	258.4.4 = {
 		add_pressed_claim = title:c_shugab
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000301 = {
+	name = "Tanittu"
+	dynasty = naharimi_bitibni
+	religion = "ashurism_pagan"
+	culture = naharimi
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_abni
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000302 = {
+	name = "Kidin"
+	dynasty = naharimi_bitharran
+	religion = "ashurism_pagan"
+	culture = naharimi
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_harran
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000303 = {
+	name = "Adad-eriba"
+	dynasty = naharimi_temanite
+	religion = "ashurism_pagan"
+	culture = naharimi
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_nisibin
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000304 = {
+	name = "Ishtar-beli"
+	dynasty = naharimi_bityahiri
+	religion = "ashurism_pagan"
+	culture = naharimi
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_izalla
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family
