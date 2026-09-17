@@ -934,3 +934,25 @@ naharimi_bityahiri = {
 	culture = "naharimi"
 }
 
+naharimi_bitmamblu = {
+	name = "dynn_BitMamblu"
+	culture = "naharimi"
+}
+
+#Sutean
+
+sutean_bitlaqu = {
+	name = "dynn_BitLaqu"
+	culture = "sutean"
+}
+
+sutean_sirqu = {
+	name = "dynn_Sirqu"
+	culture = "sutean"
+}
+
+sutean_khindanu = {
+	name = "dynn_Khindanu"
+	culture = "sutean"
+}
+

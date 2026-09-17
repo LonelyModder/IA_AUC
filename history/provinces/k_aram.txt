@@ -287,8 +287,8 @@
 }
 
 2308 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = sutean
+	religion = ashurism_pagan
 	holding = none
 }
 
@@ -323,8 +323,8 @@
 }
 
 2314 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = sutean
+	religion = ashurism_pagan
 	holding = none
 }
 
@@ -335,8 +335,8 @@
 }
 
 2316 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = sutean
+	religion = ashurism_pagan
 	holding = none
 }
 

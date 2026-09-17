@@ -829,6 +829,24 @@ language_elamite = {
 	color = italian
 }
 
+language_kassite = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_kassite
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_kassite }
+			multiply = 10
+		}
+	}
+	
+	color = italian
+}
+
 language_oscan = {
 	type = language
 	is_shown = {

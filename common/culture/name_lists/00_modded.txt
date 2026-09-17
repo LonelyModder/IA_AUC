@@ -3578,3 +3578,73 @@ name_list_elamite = {
 
 	
 }
+
+name_list_kassite = {
+	
+	cadet_dynasty_names = {
+		Jushur-Sin 
+		Lullaya-Shamash 
+		Samani-Enlil 
+		Tudiya-Ishtar 
+		Iltasadum-Nabu 
+		Kulumum-Ninurta 
+		Sargon-Ea 
+		Hana-Tammuz 
+		Hayani-Ereshkigal 
+		Zuqaqip-Bau 
+		Limer-Adad 
+		Rimush-Tishpak 
+		Akiya-Mulliltu 
+		Abazu-Belet-Ili 
+		Puannum-Ningal 
+		Ilulu-Sin 
+		Babum-Geshtinanna 
+		Suhlamu-Inzak 
+		Samani
+	}
+	
+	dynasty_names = {
+		Jushur-Sin 
+		Lullaya-Shamash 
+		Samani-Enlil 
+		Tudiya-Ishtar 
+		Iltasadum-Nabu 
+		Kulumum-Ninurta 
+		Sargon-Ea 
+		Hana-Tammuz 
+		Hayani-Ereshkigal 
+		Zuqaqip-Bau 
+		Limer-Adad 
+		Rimush-Tishpak 
+		Akiya-Mulliltu 
+		Abazu-Belet-Ili 
+		Puannum-Ningal 
+		Ilulu-Sin 
+		Babum-Geshtinanna 
+		Suhlamu-Inzak 
+		Samani
+	}
+	
+	male_names = {
+		Gandaś Agum-Mahru Kastiliasu Abi-Rattas Ur-zigurumas Hurbazum Tiptakzi  Siptaulzi Sihu Kakrime Kadashman-harbe Burnaburiash Enlil-nadin-shumi
+		Marduk-apla-iddina Zababa-shuma-iddin Enlil-nadin-ahi Nazi-Maruttash Ulamburiash
+	}
+	female_names = {
+		Demeetheresu Nigsummulugal Deemethereesu Niiqarquusu Manishtusu Seluku Nur-Ayya Amata Belessunu Arahunaa Ahatsunu
+		Ubalnu Gemeti Ettu Zakiti Humusi Alittum Arwia Kullaa Mushezibti Nidintu Enheduana Kubaba
+	}
+	dynasty_of_location_prefix = "dynnp_of"
+	patronym_prefix_male = "dynnpat_pre_filius"
+
+	# Chance of male children being named after their paternal or maternal grandfather, or their father
+	pat_grf_name_chance = 50
+	mat_grf_name_chance = 0
+	father_name_chance = 50
+	
+	# Chance of female children being named after their paternal or maternal grandmother, or their mother
+	pat_grm_name_chance = 50
+	mat_grm_name_chance = 50
+	mother_name_chance = 0
+
+	
+}

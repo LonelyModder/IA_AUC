@@ -281,8 +281,8 @@
 }
 
 2555 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = naharimi
+	religion = ashurism_pagan
 	holding = none
 }
 
