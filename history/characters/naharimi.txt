@@ -32,7 +32,7 @@
 	258.4.4 = {
 		add_pressed_claim = title:d_bitbahiani
 		add_pressed_claim = title:c_guzana
-		add_pressed_claim = title:c_resaina
+		add_pressed_claim = title:c_talksab
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -134,6 +134,7 @@
 	}
 	258.4.4 = {
 		add_pressed_claim = title:c_harran
+		add_pressed_claim = title:c_resaina
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -153,7 +154,9 @@
 		birth = "221.1.1"
 	}
 	258.4.4 = {
+		add_pressed_claim = title:d_nisibina
 		add_pressed_claim = title:c_nisibin
+		add_pressed_claim = title:c_garnikannu
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -194,6 +197,46 @@
 	}
 	258.4.4 = {
 		add_pressed_claim = title:c_mamblu
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000310 = {
+	name = "Rihat"
+	dynasty = naharimi_temanite
+	religion = "ashurism_pagan"
+	culture = naharimi
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_raqamatu
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000312 = {
+	name = "Sin-etir"
+	dynasty = naharimi_bitsurug
+	religion = "ashurism_pagan"
+	culture = naharimi
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_surug
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family

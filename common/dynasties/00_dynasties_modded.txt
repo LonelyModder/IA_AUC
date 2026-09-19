@@ -884,7 +884,7 @@ hijawan_muksid = {
 
 assyrian_adaside = {
 	name = "dynn_Adaside"
-	culture = "assyrian"
+	culture = "ashurian"
 }
 
 #Naharaim
@@ -939,6 +939,11 @@ naharimi_bitmamblu = {
 	culture = "naharimi"
 }
 
+naharimi_bitsurug = {
+	name = "dynn_BitSurug"
+	culture = "naharimi"
+}
+
 #Sutean
 
 sutean_bitlaqu = {
@@ -953,6 +958,11 @@ sutean_sirqu = {
 
 sutean_khindanu = {
 	name = "dynn_Khindanu"
+	culture = "sutean"
+}
+
+sutean_bitsuhu = {
+	name = "dynn_BitSuhu"
 	culture = "sutean"
 }
 

@@ -184,9 +184,9 @@
  babylonian:0 "Babylonian"
  babylonian_prefix:0 "Babylonian"
  babylonian_collective_noun:1 "Babylonians"
- assyrian:0 "Assyrian"
- assyrian_prefix:0 "Assyrian"
- assyrian_collective_noun:1 "Assyrians"
+ ashurian:0 "Assyrian"
+ ashurian_prefix:0 "Assyrian"
+ ashurian_collective_noun:1 "Assyrians"
  #Pelasgian
  eteocypriot:0 "Eteocypriot"
  eteocypriot_prefix:0 "Eteocypriot"

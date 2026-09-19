@@ -209,7 +209,7 @@
 2000305 = {
 	name = "Ariyahina"
 	dynasty = syrohittite_hapatilid
-	religion = "ashurism_pagan"
+	religion = "anatolian_pagan"
 	culture = syrohittite
 	#father = 32974
 	221.1.1 = {

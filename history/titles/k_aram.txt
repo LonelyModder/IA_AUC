@@ -515,8 +515,8 @@ c_barsip = {
 }
 
 c_laqi = {
-	258.4.4 = {	change_development_level = 10 }
-	437.4.21 = { change_development_level = 15 }
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
 	
 	258.4.4 = {
 		holder = 2000307
@@ -525,8 +525,8 @@ c_laqi = {
 }
 
 c_terqa = {
-	258.4.4 = {	change_development_level = 10 }
-	437.4.21 = { change_development_level = 15 }
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
 	
 	258.4.4 = {
 		holder = 2000308
@@ -535,12 +535,21 @@ c_terqa = {
 }
 
 c_khindanu = {
-	258.4.4 = {	change_development_level = 10 }
-	437.4.21 = { change_development_level = 15 }
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
 	
 	258.4.4 = {
 		holder = 2000309
 	}
 	
+}
+
+c_haradu = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000311
+	}
 }
 

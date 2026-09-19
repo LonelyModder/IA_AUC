@@ -2,7 +2,7 @@
 	name = "Ashur-Dan"
 	dynasty = assyrian_adaside
 	religion = "ashurism_pagan"
-	culture = assyrian
+	culture = ashurian
 	#father = 32974
 	221.1.1 = {
 		birth = "221.1.1"
@@ -23,7 +23,7 @@
 	name = "Ashur-Nirari"
 	dynasty = assyrian_adaside
 	religion = "ashurism_pagan"
-	culture = assyrian
+	culture = ashurian
 	#father = 32974
 	401.1.1 = {
 		birth = "401.1.1"

@@ -341,8 +341,8 @@
 }
 
 2317 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = sutean
+	religion = ashurism_pagan
 	holding = none
 }
 

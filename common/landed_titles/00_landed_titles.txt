@@ -7982,7 +7982,7 @@ e_anatolia = {
 		
 		capital = c_adaniya # Adaniya
 		
-		d_hijawa = {
+		d_chijawa = {
 			color = { 44 90 143 }
 			
 			capital = c_adaniya # Adaniya
@@ -22080,5 +22080,15 @@ d_bitbahiani = {
 
 d_bithalupe = {
 	color = { 107 204 208 }
+	landless = yes 
+}
+
+d_nisibina = {
+	color = { 42 198 231 }
+	landless = yes 
+}
+
+d_suhu = {
+	color = { 128 123 184 }
 	landless = yes 
 }

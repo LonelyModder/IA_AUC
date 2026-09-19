@@ -5,8 +5,8 @@
 }
 
 2504 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = sutean
+	religion = ashurism_pagan
 	holding = none
 }
 
@@ -17,14 +17,14 @@
 }
 
 2506 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = sutean
+	religion = ashurism_pagan
 	holding = none
 }
 
 2507 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = sutean
+	religion = ashurism_pagan
 	holding = none
 }
 
@@ -41,8 +41,8 @@
 }
 
 2510 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = sutean
+	religion = ashurism_pagan
 	holding = none
 }
 
@@ -71,8 +71,8 @@
 }
 
 2515 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = ashurian
+	religion = ashurism_pagan
 	holding = none
 }
 
@@ -89,8 +89,8 @@
 }
 
 2518 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = ashurian
+	religion = ashurism_pagan
 	holding = none
 }
 
@@ -191,8 +191,8 @@
 }
 
 2539 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = naharimi
+	religion = ashurism_pagan
 	holding = none
 }
 
@@ -233,8 +233,8 @@
 }
 
 2546 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = ashurian
+	religion = ashurism_pagan
 	holding = none
 }
 
@@ -263,8 +263,8 @@
 }
 
 2552 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = ashurian
+	religion = ashurism_pagan
 	holding = none
 }
 
@@ -383,8 +383,8 @@
 }
 
 2572 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = naharimi
+	religion = ashurism_pagan
 	holding = none
 }
 
@@ -407,8 +407,8 @@
 }
 
 2576 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = qurkhan
+	religion = hurrian_pagan
 	holding = none
 }
 
@@ -437,8 +437,8 @@
 }
 
 2581 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = kadmukhite
+	religion = hurrian_pagan
 	holding = none
 }
 
@@ -497,8 +497,8 @@
 }
 
 2591 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = naharimi
+	religion = ashurism_pagan
 	holding = none
 }
 
@@ -515,8 +515,8 @@
 }
 
 2594 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = naharimi
+	religion = ashurism_pagan
 	holding = none
 }
 
@@ -533,7 +533,7 @@
 }
 
 2597 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = ashurian
+	religion = ashurism_pagan
 	holding = none
 }

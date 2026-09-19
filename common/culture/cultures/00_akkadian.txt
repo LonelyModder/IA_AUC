@@ -51,7 +51,7 @@ babylonian = {
 	}
 }
 
-assyrian = {
+ashurian = {
 	color = { 0.51 0.4 0.27 }
 	
 	parents = { akkadian_group }
