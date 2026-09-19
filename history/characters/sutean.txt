@@ -82,3 +82,25 @@
 		death = "268.1.1"
 	}
 }
+
+2000313 = {
+	name = "Rihat-Shamash"
+	dynasty = sutean_bitsuhu
+	religion = "ashurism_pagan"
+	culture = sutean
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_suhu
+		add_pressed_claim = title:c_anatha
+		add_pressed_claim = title:c_haradu
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
