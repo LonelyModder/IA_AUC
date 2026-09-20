@@ -223,4 +223,11 @@
  dynn_Sirqu:0 "Bit-Sirqu"
  dynn_Khindanu:0 "Bit-Khindanu"
  dynn_BitSuhu:0 "Bit-Suhi"
+ #Itu
+ dynn_BitItu:0 "Bit-Itu"
+ #Babylonian
+ dynn_Marbitid:0 "Marbitid"
+ #Chaldean
+ dynn_BitDakkuri:0 "Bit-Dakkuri"
+ dynn_BitYakin:0 "Bit-Yakin"
  

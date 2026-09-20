@@ -71,6 +71,8 @@
  d_bithalupe:0 "Bit-Halupe"
  d_nisibina:0 "Nisibina"
  d_suhu:0 "Shuhi"
+ d_ituaeans:0 "Ituaeans"
+ d_bityakin:0 "Bit-Yakin"
  # Empires
  e_westernrome:0 "Italia"
  e_africa:0 "Africa"

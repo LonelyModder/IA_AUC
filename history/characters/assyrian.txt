@@ -10,10 +10,12 @@
 	258.4.4 = {
 		add_pressed_claim = title:k_assyria
 		add_pressed_claim = title:c_ashur
+		add_pressed_claim = title:c_kalhu
+		set_capital = title:c_ashur
 	}
-	#258.4.4 = {
-	#	add_character_flag = do_not_generate_starting_family
-	#}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
 	268.1.1 = {
 		death = "268.1.1"
 	}
@@ -24,17 +26,61 @@
 	dynasty = assyrian_adaside
 	religion = "ashurism_pagan"
 	culture = ashurian
-	#father = 32974
+	father = 2000314
 	401.1.1 = {
 		birth = "401.1.1"
 	}
 	437.4.21 = {
 		add_pressed_claim = title:k_assyria
+		add_pressed_claim = title:c_kalhu
+		add_pressed_claim = title:c_ashur
+		set_capital = title:c_kalhu
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000314 = {
+	name = "Adad-Nirari"
+	dynasty = assyrian_adaside
+	religion = "ashurism_pagan"
+	culture = ashurian
+	#father = 32974
+	359.1.1 = {
+		birth = "359.1.1"
+	}
+	379.4.21 = {
+		add_pressed_claim = title:k_assyria
+		add_pressed_claim = title:c_kalhu
 		add_pressed_claim = title:c_ashur
 	}
-	#437.4.21 = {
-	#	add_character_flag = do_not_generate_starting_family
-	#}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	407.1.1 = {
+		death = "407.1.1"
+	}
+}
+
+2000315 = {
+	name = "Tiglath-Pilaser"
+	dynasty = assyrian_adaside
+	religion = "ashurism_pagan"
+	culture = ashurian
+	father = 2000314
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_niniveh
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
 	469.1.1 = {
 		death = "469.1.1"
 	}

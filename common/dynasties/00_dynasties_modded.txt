@@ -966,3 +966,29 @@ sutean_bitsuhu = {
 	culture = "sutean"
 }
 
+#Itu
+
+itu_bititu = {
+	name = "dynn_BitItu"
+	culture = "itu"
+}
+
+#Babylonian
+
+babylonian_marbitid = {
+	name = "dynn_Marbitid"
+	culture = "babylonian"
+}
+
+#Chaldean
+
+chaldean_bitdakkuri = {
+	name = "dynn_BitDakkuri"
+	culture = "chaldean"
+}
+
+chaldean_bityakin = {
+	name = "dynn_BitYakin"
+	culture = "chaldean"
+}
+

@@ -475,6 +475,13 @@ c_disakah = {
 	}
 }
 
+d_bitagusi = {
+	
+	437.4.21 = {
+		holder = 2000292
+	}
+}
+
 c_arpad = {
 	258.4.4 = {	change_development_level = 15 }
 	437.4.21 = { change_development_level = 20 }
@@ -501,7 +508,9 @@ c_sura = {
 	258.4.4 = {
 		holder = 2000293
 	}
-	
+	437.4.21 = {
+		holder = 2000295
+	}
 }
 
 c_barsip = {
@@ -511,7 +520,9 @@ c_barsip = {
 	258.4.4 = {
 		holder = 2000293
 	}
-	
+	437.4.21 = {
+		holder = 2000295
+	}
 }
 
 c_laqi = {
@@ -521,7 +532,9 @@ c_laqi = {
 	258.4.4 = {
 		holder = 2000307
 	}
-	
+	437.4.21 = {
+		holder = 2000295
+	}
 }
 
 c_terqa = {
@@ -531,7 +544,9 @@ c_terqa = {
 	258.4.4 = {
 		holder = 2000308
 	}
-	
+	437.4.21 = {
+		holder = 2000295
+	}
 }
 
 c_khindanu = {
@@ -541,7 +556,9 @@ c_khindanu = {
 	258.4.4 = {
 		holder = 2000309
 	}
-	
+	437.4.21 = {
+		holder = 2000295
+	}
 }
 
 c_haradu = {
