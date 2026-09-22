@@ -172,6 +172,30 @@ c_numunia = {
 	}
 }
 
+c_rapiqu = {
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000311
+	}
+	437.4.21 = {
+		holder = 2000313
+	}
+}
+
+c_durkurigalzu = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000318
+	}
+	437.4.21 = {
+		holder = 2000319
+	}
+}
+
 d_bitdakurri = {
 	
 	258.4.4 = {

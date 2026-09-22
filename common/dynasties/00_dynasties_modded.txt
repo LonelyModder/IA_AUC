@@ -887,6 +887,11 @@ assyrian_adaside = {
 	culture = "ashurian"
 }
 
+assyrian_ilulusin = {
+	name = "dynn_IluluSin"
+	culture = "ashurian"
+}
+
 #Naharaim
 
 naharimi_bitzamani = {

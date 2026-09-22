@@ -20,4 +20,9 @@ d_gurassimu = {
 			set_variable = { name = adventurer_creation_reason value = flag:historical }
 		}
 	}
+	440.4.21 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 440.4.21 }
+		}
+	}
 }

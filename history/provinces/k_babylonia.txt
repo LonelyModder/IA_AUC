@@ -173,7 +173,7 @@
 }
 
 3412 = {		
-	culture = baranis
+	culture = babylonian
 	religion = ashurism_pagan
 	holding = none
 }
@@ -311,7 +311,7 @@
 }
 
 3435 = {		
-	culture = baranis
+	culture = babylonian
 	religion = ashurism_pagan
 	holding = none
 }
@@ -551,7 +551,7 @@
 }
 
 3564 = {		
-	culture = baranis
+	culture = babylonian
 	religion = ashurism_pagan
 	holding = none
 }
@@ -575,7 +575,7 @@
 }
 
 3568 = {		
-	culture = baranis
+	culture = babylonian
 	religion = ashurism_pagan
 	holding = none
 }
@@ -605,13 +605,13 @@
 }
 
 3573 = {		
-	culture = baranis
+	culture = babylonian
 	religion = ashurism_pagan
 	holding = none
 }
 
 3574 = {		
-	culture = baranis
+	culture = babylonian
 	religion = ashurism_pagan
 	holding = none
 }
@@ -629,7 +629,7 @@
 }
 
 3577 = {		
-	culture = baranis
+	culture = babylonian
 	religion = ashurism_pagan
 	holding = none
 }

@@ -3,7 +3,7 @@
 	dynasty = chaldean_bitdakkuri
 	religion = "ashurism_pagan"
 	culture = chaldean
-	father = 2000314
+	#father = 2000314
 	401.1.1 = {
 		birth = "401.1.1"
 	}
@@ -26,7 +26,7 @@
 	dynasty = chaldean_bityakin
 	religion = "ashurism_pagan"
 	culture = chaldean
-	father = 2000314
+	#father = 2000314
 	221.1.1 = {
 		birth = "221.1.1"
 	}
@@ -49,7 +49,7 @@
 	dynasty = chaldean_bityakin
 	religion = "ashurism_pagan"
 	culture = chaldean
-	father = 2000314
+	#father = 2000314
 	401.1.1 = {
 		birth = "401.1.1"
 	}
@@ -72,7 +72,7 @@
 	dynasty = chaldean_bitshaalli
 	religion = "ashurism_pagan"
 	culture = chaldean
-	father = 2000314
+	#father = 2000314
 	221.1.1 = {
 		birth = "221.1.1"
 	}
@@ -93,7 +93,7 @@
 	dynasty = chaldean_bitshaalli
 	religion = "ashurism_pagan"
 	culture = chaldean
-	father = 2000314
+	#father = 2000314
 	401.1.1 = {
 		birth = "401.1.1"
 	}
@@ -114,7 +114,7 @@
 	dynasty = chaldean_bitdakkuri
 	religion = "ashurism_pagan"
 	culture = chaldean
-	father = 2000314
+	#father = 2000314
 	221.1.1 = {
 		birth = "221.1.1"
 	}

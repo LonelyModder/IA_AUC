@@ -3,7 +3,7 @@
 	dynasty = akhlamite_puqudu
 	religion = "ashurism_pagan"
 	culture = akhlamite
-	father = 2000314
+	#father = 2000314
 	221.1.1 = {
 		birth = "221.1.1"
 	}
@@ -24,7 +24,7 @@
 	dynasty = akhlamite_puqudu
 	religion = "ashurism_pagan"
 	culture = akhlamite
-	father = 2000314
+	#father = 2000314
 	401.1.1 = {
 		birth = "401.1.1"
 	}
@@ -45,7 +45,7 @@
 	dynasty = akhlamite_gambulu
 	religion = "ashurism_pagan"
 	culture = akhlamite
-	father = 2000314
+	#father = 2000314
 	221.1.1 = {
 		birth = "221.1.1"
 	}
@@ -66,49 +66,7 @@
 	dynasty = akhlamite_gambulu
 	religion = "ashurism_pagan"
 	culture = akhlamite
-	father = 2000314
-	401.1.1 = {
-		birth = "401.1.1"
-	}
-	437.4.21 = {
-		add_pressed_claim = title:d_gambulu
-		add_pressed_claim = title:c_aramina
-	}
-	#437.4.21 = {
-	#	add_character_flag = do_not_generate_starting_family
-	#}
-	469.1.1 = {
-		death = "469.1.1"
-	}
-}
-
-2000327 = {
-	name = "Ninurta-beli"
-	dynasty = akhlamite_gambulu
-	religion = "ashurism_pagan"
-	culture = akhlamite
-	father = 2000314
-	221.1.1 = {
-		birth = "221.1.1"
-	}
-	258.4.4 = {
-		add_pressed_claim = title:d_gambulu
-		add_pressed_claim = title:c_aramina
-	}
-	#258.4.4 = {
-	#	add_character_flag = do_not_generate_starting_family
-	#}
-	268.1.1 = {
-		death = "268.1.1"
-	}
-}
-
-2000328 = {
-	name = "Nidinti-Ishtar"
-	dynasty = akhlamite_gambulu
-	religion = "ashurism_pagan"
-	culture = akhlamite
-	father = 2000314
+	#father = 2000314
 	401.1.1 = {
 		birth = "401.1.1"
 	}
@@ -129,7 +87,7 @@
 	dynasty = akhlamite_gurasimmu
 	religion = "ashurism_pagan"
 	culture = akhlamite
-	father = 2000314
+	#father = 2000314
 	221.1.1 = {
 		birth = "221.1.1"
 	}
@@ -152,7 +110,7 @@
 	dynasty = akhlamite_gurasimmu
 	religion = "ashurism_pagan"
 	culture = akhlamite
-	father = 2000314
+	#father = 2000314
 	401.1.1 = {
 		birth = "401.1.1"
 	}

@@ -74,6 +74,7 @@
 		add_pressed_claim = title:d_suhu
 		add_pressed_claim = title:c_anatha
 		add_pressed_claim = title:c_haradu
+		add_pressed_claim = title:c_rapiqu
 		add_pressed_claim = title:c_chebbat
 	}
 	#258.4.4 = {
@@ -97,6 +98,7 @@
 		add_pressed_claim = title:d_suhu
 		add_pressed_claim = title:c_anatha
 		add_pressed_claim = title:c_haradu
+		add_pressed_claim = title:c_rapiqu
 		add_pressed_claim = title:c_chebbat
 	}
 	#437.4.21 = {

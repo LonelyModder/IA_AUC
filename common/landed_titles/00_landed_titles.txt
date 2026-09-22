@@ -22128,7 +22128,21 @@ d_gambulu = {
 	landless = yes 
 }
 
-d_gurassimu = {
+d_gurassimu = {  #Adventurer Title of Gurasimmu Tribe
 	color = { 87 126 96 }
+	capital = c_ur
+
+	definite_form = yes
+	landless = yes
+	require_landless = yes
+	ruler_uses_title_name = no
+	no_automatic_claims = yes
+	destroy_if_invalid_heir = yes
+
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+d_lahiru = {
+	color = { 129 147 64 }
 	landless = yes 
 }
