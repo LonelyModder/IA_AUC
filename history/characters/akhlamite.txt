@@ -1,0 +1,171 @@
+﻿2000325 = {
+	name = "Adad-uballit"
+	dynasty = akhlamite_puqudu
+	religion = "ashurism_pagan"
+	culture = akhlamite
+	father = 2000314
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_puqudu
+		add_pressed_claim = title:c_ramsina
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000326 = {
+	name = "Tanittu-Ishtar"
+	dynasty = akhlamite_puqudu
+	religion = "ashurism_pagan"
+	culture = akhlamite
+	father = 2000314
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_puqudu
+		add_pressed_claim = title:c_ramsina
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000327 = {
+	name = "Ninurta-beli"
+	dynasty = akhlamite_gambulu
+	religion = "ashurism_pagan"
+	culture = akhlamite
+	father = 2000314
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_gambulu
+		add_pressed_claim = title:c_aramina
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000328 = {
+	name = "Nidinti-Ishtar"
+	dynasty = akhlamite_gambulu
+	religion = "ashurism_pagan"
+	culture = akhlamite
+	father = 2000314
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_gambulu
+		add_pressed_claim = title:c_aramina
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000327 = {
+	name = "Ninurta-beli"
+	dynasty = akhlamite_gambulu
+	religion = "ashurism_pagan"
+	culture = akhlamite
+	father = 2000314
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_gambulu
+		add_pressed_claim = title:c_aramina
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000328 = {
+	name = "Nidinti-Ishtar"
+	dynasty = akhlamite_gambulu
+	religion = "ashurism_pagan"
+	culture = akhlamite
+	father = 2000314
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_gambulu
+		add_pressed_claim = title:c_aramina
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000329 = {
+	name = "Sin-etir"
+	dynasty = akhlamite_gurasimmu
+	religion = "ashurism_pagan"
+	culture = akhlamite
+	father = 2000314
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		effect = {
+			set_landless_government_effect = yes
+			set_location = province:3416
+		}
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000330 = {
+	name = "Sin-Ibni"
+	dynasty = akhlamite_gurasimmu
+	religion = "ashurism_pagan"
+	culture = akhlamite
+	father = 2000314
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		effect = {
+			set_landless_government_effect = yes
+			set_location = province:3416
+		}
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

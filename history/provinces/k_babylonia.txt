@@ -71,7 +71,7 @@
 }
 
 3395 = {		
-	culture = baranis
+	culture = chaldean
 	religion = ashurism_pagan
 	holding = none
 }
@@ -83,13 +83,13 @@
 }
 
 3397 = {		
-	culture = baranis
+	culture = kardunite
 	religion = ashurism_pagan
 	holding = none
 }
 
 3398 = {		
-	culture = baranis
+	culture = babylonian
 	religion = ashurism_pagan
 	holding = none
 }
@@ -107,13 +107,13 @@
 }
 
 3401 = {		
-	culture = baranis
+	culture = babylonian
 	religion = ashurism_pagan
 	holding = none
 }
 
 3402 = {		
-	culture = baranis
+	culture = chaldean
 	religion = ashurism_pagan
 	holding = none
 }
@@ -149,7 +149,7 @@
 }
 
 3408 = {		
-	culture = baranis
+	culture = babylonian
 	religion = ashurism_pagan
 	holding = none
 }
@@ -185,7 +185,7 @@
 }
 
 3414 = {		
-	culture = baranis
+	culture = babylonian
 	religion = ashurism_pagan
 	holding = none
 }
@@ -197,7 +197,7 @@
 }
 
 3416 = {		
-	culture = baranis
+	culture = babylonian
 	religion = ashurism_pagan
 	holding = none
 }
@@ -221,7 +221,7 @@
 }
 
 3420 = {		
-	culture = baranis
+	culture = babylonian
 	religion = ashurism_pagan
 	holding = none
 }
@@ -239,7 +239,7 @@
 }
 
 3423 = {		
-	culture = baranis
+	culture = babylonian
 	religion = ashurism_pagan
 	holding = none
 }
@@ -257,7 +257,7 @@
 }
 
 3426 = {		
-	culture = baranis
+	culture = babylonian
 	religion = ashurism_pagan
 	holding = none
 }
@@ -269,7 +269,7 @@
 }
 
 3428 = {		
-	culture = baranis
+	culture = babylonian
 	religion = ashurism_pagan
 	holding = none
 }
@@ -329,7 +329,7 @@
 }
 
 3438 = {		
-	culture = baranis
+	culture = babylonian
 	religion = ashurism_pagan
 	holding = none
 }
@@ -347,7 +347,7 @@
 }
 
 3441 = {		
-	culture = baranis
+	culture = babylonian
 	religion = ashurism_pagan
 	holding = none
 }
@@ -365,7 +365,7 @@
 }
 
 3444 = {		
-	culture = baranis
+	culture = babylonian
 	religion = ashurism_pagan
 	holding = none
 }
@@ -395,13 +395,13 @@
 }
 
 3449 = {		
-	culture = baranis
+	culture = babylonian
 	religion = ashurism_pagan
 	holding = none
 }
 
 3450 = {		
-	culture = baranis
+	culture = babylonian
 	religion = ashurism_pagan
 	holding = none
 }
@@ -419,7 +419,7 @@
 }
 
 3453 = {		
-	culture = baranis
+	culture = babylonian
 	religion = ashurism_pagan
 	holding = none
 }
@@ -443,7 +443,7 @@
 }
 
 3457 = {		
-	culture = baranis
+	culture = kardunite
 	religion = ashurism_pagan
 	holding = none
 }
@@ -497,13 +497,13 @@
 }
 
 3554 = {		
-	culture = baranis
+	culture = chaldean
 	religion = ashurism_pagan
 	holding = none
 }
 
 3555 = {		
-	culture = baranis
+	culture = chaldean
 	religion = ashurism_pagan
 	holding = none
 }
@@ -527,7 +527,7 @@
 }
 
 3559 = {		
-	culture = baranis
+	culture = chaldean
 	religion = ashurism_pagan
 	holding = none
 }
@@ -677,7 +677,7 @@
 }
 
 3585 = {		
-	culture = baranis
+	culture = akhlamite
 	religion = ashurism_pagan
 	holding = none
 }
@@ -719,7 +719,7 @@
 }
 
 3592 = {		
-	culture = baranis
+	culture = akhlamite
 	religion = ashurism_pagan
 	holding = none
 }

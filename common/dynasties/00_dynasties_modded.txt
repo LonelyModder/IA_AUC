@@ -992,3 +992,25 @@ chaldean_bityakin = {
 	culture = "chaldean"
 }
 
+chaldean_bitshaalli = {
+	name = "dynn_BitShaalli"
+	culture = "chaldean"
+}
+
+#Akhlamite
+
+akhlamite_puqudu = {
+	name = "dynn_Puqudu"
+	culture = "akhlamite"
+}
+
+akhlamite_gambulu = {
+	name = "dynn_Gambulu"
+	culture = "akhlamite"
+}
+
+akhlamite_gurasimmu = {
+	name = "dynn_Gurasimmu"
+	culture = "akhlamite"
+}
+

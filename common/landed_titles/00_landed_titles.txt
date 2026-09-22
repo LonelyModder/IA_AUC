@@ -2332,19 +2332,24 @@ e_epersia = {
 					province = 3403
 				}
 
-				b_laqip_3406 = {
-					color = { 45 207 3 }
-					province = 3406
+				b_dilbat_3410 = {
+					color = { 3 6 5 }
+					province = 3410
 				}
 
+			}
+			
+			c_kish = {
+				color = { 129 0 4 }
+				
 				b_kish_3408 = {
 					color = { 129 0 4 }
 					province = 3408
 				}
 				
-				b_dilbat_3410 = {
-					color = { 3 6 5 }
-					province = 3410
+				b_laqip_3406 = {
+					color = { 45 207 3 }
+					province = 3406
 				}
 
 				b_ettu_3429 = {
@@ -2357,56 +2362,6 @@ e_epersia = {
 					province = 3407
 				}
 
-			}
-			
-			c_upi = {
-				color = { 129 90 21 }
-				
-				b_upi_3438 = {
-					color = { 129 90 21 }
-					province = 3438
-				}
-
-				b_nidintu_3437 = {
-					color = { 87 87 146 }
-					province = 3437
-				}
-
-				b_ashlultum_3439 = {
-					color = { 171 93 147 }
-					province = 3439
-				}
-				
-			}
-			
-			c_gashur = {
-				color = { 3 81 145 }
-				
-				b_gashur_3435 = {
-					color = { 3 81 145 }
-					province = 3435
-				}
-
-				b_artemita_3434 = {
-					color = { 171 78 17 }
-					province = 3434
-				}
-
-				b_adeeshuduggaat_3436 = {
-					color = { 45 84 18 }
-					province = 3436
-				}
-				
-				b_demetheriia_3404 = {
-					color = { 171 201 2 }
-					province = 3404
-				}
-
-				b_balathu_3405 = {
-					color = { 3 204 130 }
-					province = 3405
-				}
-				
 			}
 			
 			c_vologesias = {
@@ -2729,6 +2684,56 @@ e_epersia = {
 				b_mammetum_3459 = {
 					color = { 171 153 157 }
 					province = 3459
+				}
+				
+			}
+			
+			c_upi = {
+				color = { 129 90 21 }
+				
+				b_upi_3438 = {
+					color = { 129 90 21 }
+					province = 3438
+				}
+
+				b_nidintu_3437 = {
+					color = { 87 87 146 }
+					province = 3437
+				}
+
+				b_ashlultum_3439 = {
+					color = { 171 93 147 }
+					province = 3439
+				}
+				
+			}
+			
+			c_gashur = {
+				color = { 3 81 145 }
+				
+				b_gashur_3435 = {
+					color = { 3 81 145 }
+					province = 3435
+				}
+
+				b_artemita_3434 = {
+					color = { 171 78 17 }
+					province = 3434
+				}
+
+				b_adeeshuduggaat_3436 = {
+					color = { 45 84 18 }
+					province = 3436
+				}
+				
+				b_demetheriia_3404 = {
+					color = { 171 201 2 }
+					province = 3404
+				}
+
+				b_balathu_3405 = {
+					color = { 3 204 130 }
+					province = 3405
 				}
 				
 			}
@@ -22100,5 +22105,30 @@ d_ituaeans = {
 
 d_bityakin = {
 	color = { 171 27 207 }
+	landless = yes 
+}
+
+d_bitdakurri = {
+	color = { 87 195 1 }
+	landless = yes 
+}
+
+d_bitshaalli = {
+	color = { 3 174 225 }
+	landless = yes 
+}
+
+d_puqudu = {
+	color = { 3 105 220 }
+	landless = yes 
+}
+
+d_gambulu = {
+	color = { 87 126 96 }
+	landless = yes 
+}
+
+d_gurassimu = {
+	color = { 87 126 96 }
 	landless = yes 
 }

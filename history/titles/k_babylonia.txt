@@ -32,6 +32,78 @@ c_babylon = {
 	}
 }
 
+c_kish = {
+	258.4.4 = {	change_development_level = 20 }
+	437.4.21 = { change_development_level = 25 }
+	
+	258.4.4 = {
+		holder = 2000318
+	}
+	437.4.21 = {
+		holder = 2000319
+	}
+}
+
+c_uruk = {
+	258.4.4 = {	change_development_level = 20 }
+	437.4.21 = { change_development_level = 25 }
+	
+	258.4.4 = {
+		holder = 2000318
+	}
+	437.4.21 = {
+		holder = 2000319
+	}
+}
+
+c_isin = {
+	258.4.4 = {	change_development_level = 20 }
+	437.4.21 = { change_development_level = 25 }
+	
+	258.4.4 = {
+		holder = 2000318
+	}
+	437.4.21 = {
+		holder = 2000319
+	}
+}
+
+c_nippur = {
+	258.4.4 = {	change_development_level = 20 }
+	437.4.21 = { change_development_level = 25 }
+	
+	258.4.4 = {
+		holder = 2000318
+	}
+	437.4.21 = {
+		holder = 2000319
+	}
+}
+
+c_sippar = {
+	258.4.4 = {	change_development_level = 20 }
+	437.4.21 = { change_development_level = 25 }
+	
+	258.4.4 = {
+		holder = 2000318
+	}
+	437.4.21 = {
+		holder = 2000319
+	}
+}
+
+c_upi = {
+	258.4.4 = {	change_development_level = 20 }
+	437.4.21 = { change_development_level = 25 }
+	
+	258.4.4 = {
+		holder = 2000318
+	}
+	437.4.21 = {
+		holder = 2000319
+	}
+}
+
 d_bityakin = {
 	
 	258.4.4 = {
@@ -51,5 +123,117 @@ c_duryakin = {
 	}
 	437.4.21 = {
 		holder = 2000321
+	}
+}
+
+c_teredon = {
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000320
+	}
+	437.4.21 = {
+		holder = 2000321
+	}
+}
+
+c_apologos = {
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000320
+	}
+	437.4.21 = {
+		holder = 2000321
+	}
+}
+
+d_bitshaalli = {
+	
+	258.4.4 = {
+		holder = 2000322
+	}
+	437.4.21 = {
+		holder = 2000323
+	}
+}
+
+c_numunia = {
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000322
+	}
+	437.4.21 = {
+		holder = 2000323
+	}
+}
+
+d_bitdakurri = {
+	
+	258.4.4 = {
+		holder = 2000324
+	}
+	437.4.21 = {
+		holder = 2000319
+	}
+}
+
+c_vologesias = {
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000324
+	}
+	437.4.21 = {
+		holder = 2000319
+	}
+}
+
+d_puqudu = {
+	
+	258.4.4 = {
+		holder = 2000325
+	}
+	437.4.21 = {
+		holder = 2000326
+	}
+}
+
+c_ramsina = {
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000325
+	}
+	437.4.21 = {
+		holder = 2000326
+	}
+}
+
+d_gambulu = {
+	
+	258.4.4 = {
+		holder = 2000327
+	}
+	437.4.21 = {
+		holder = 2000328
+	}
+}
+
+c_aramina = {
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000327
+	}
+	437.4.21 = {
+		holder = 2000328
 	}
 }

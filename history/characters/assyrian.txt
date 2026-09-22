@@ -11,7 +11,7 @@
 		add_pressed_claim = title:k_assyria
 		add_pressed_claim = title:c_ashur
 		add_pressed_claim = title:c_kalhu
-		set_capital = title:c_ashur
+		capital = c_ashur
 	}
 	258.4.4 = {
 		add_character_flag = do_not_generate_starting_family
@@ -34,7 +34,7 @@
 		add_pressed_claim = title:k_assyria
 		add_pressed_claim = title:c_kalhu
 		add_pressed_claim = title:c_ashur
-		set_capital = title:c_kalhu
+		capital = c_kalhu
 	}
 	437.4.21 = {
 		add_character_flag = do_not_generate_starting_family

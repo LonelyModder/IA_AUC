@@ -11,6 +11,7 @@
 		add_pressed_claim = title:d_ituaeans
 		add_pressed_claim = title:c_hedu
 		add_pressed_claim = title:c_meturnat
+		add_pressed_claim = title:c_surmarrati
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family

@@ -73,6 +73,11 @@
  d_suhu:0 "Shuhi"
  d_ituaeans:0 "Ituaeans"
  d_bityakin:0 "Bit-Yakin"
+ d_bitshaalli:0 "Bit-Sha'alli"
+ d_bitdakurri:0 "Bit-Dakkuri"
+ d_puqudu:0 "Puqudu"
+ d_gambulu:0 "Gambulu"
+ d_gurassimu:0 "Gurassimu"
  # Empires
  e_westernrome:0 "Italia"
  e_africa:0 "Africa"
@@ -197,7 +202,7 @@
  d_sealand:0 "Sealand"
  d_sumer:0 "Northern Sumer"
  d_ssumer:0 "Southern Sumer"
- d_diyala:0 "Diyala Valley"
+ d_diyala:0 "Diyala"
  d_deru:0 "Deru March"
  d_gordyene:0 "Gordyene"
  d_argolis:0 "Argolis"
@@ -302,6 +307,7 @@
  d_deuria:0 "Deuria"
  # Couties
  c_drocubia:0 "Drocubia"
+ c_kish:0 "Kish"
  c_resaina:0 "Resaina"
  c_getri:0 "Getri"
  c_nuceria:0 "Nuceria"
