@@ -79,6 +79,10 @@
  d_gambulu:0 "Gambulu"
  d_gurassimu:0 "Gurassimu"
  d_lahiru:0 "Lahiru"
+ d_bitshilani:0 "Bit-Shilani"
+ d_bitamukani:0 "Bit-Amukani"
+ k_susa:0 "Susa"
+ k_elam:0 "Elam"
  # Empires
  e_westernrome:0 "Italia"
  e_africa:0 "Africa"

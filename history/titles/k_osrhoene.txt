@@ -224,8 +224,8 @@ c_piratlu = {
 }
 
 c_mamblu = {
-	258.4.4 = {	change_development_level = 15 }
-	437.4.21 = { change_development_level = 20 }
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
 	
 	258.4.4 = {
 		holder = 2000306
@@ -390,8 +390,8 @@ c_durkatlimmu = {
 }
 
 c_surug = {
-	258.4.4 = {	change_development_level = 15 }
-	437.4.21 = { change_development_level = 20 }
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
 	
 	258.4.4 = {
 		holder = 2000312

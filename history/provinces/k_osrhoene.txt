@@ -104,6 +104,9 @@
 	culture = naharimi
 	religion = ashurism_pagan
 	holding = none
+	437.4.21 = {
+		culture = ashurian
+	}
 }
 
 2521 = {		
@@ -122,6 +125,9 @@
 	culture = naharimi
 	religion = ashurism_pagan
 	holding = none
+	437.4.21 = {
+		culture = ashurian
+	}
 }
 
 2524 = {		
@@ -212,6 +218,9 @@
 	culture = naharimi
 	religion = ashurism_pagan
 	holding = none
+	437.4.21 = {
+		culture = ashurian
+	}
 }
 
 2543 = {		
@@ -278,6 +287,9 @@
 	culture = naharimi
 	religion = ashurism_pagan
 	holding = none
+	437.4.21 = {
+		culture = ashurian
+	}
 }
 
 2555 = {		

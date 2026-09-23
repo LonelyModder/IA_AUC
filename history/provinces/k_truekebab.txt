@@ -344,6 +344,9 @@
 	culture = samarian
 	religion = canaanite_pagan
 	holding = none
+	437.4.21 = {
+		culture = damascan
+	}
 }
 
 2487 = {		

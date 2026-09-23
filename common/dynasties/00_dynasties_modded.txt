@@ -887,9 +887,11 @@ assyrian_adaside = {
 	culture = "ashurian"
 }
 
-assyrian_ilulusin = {
+#Lahirian
+
+lahiri_ilulusin = {
 	name = "dynn_IluluSin"
-	culture = "ashurian"
+	culture = "lahiri"
 }
 
 #Naharaim
@@ -1002,6 +1004,16 @@ chaldean_bitshaalli = {
 	culture = "chaldean"
 }
 
+chaldean_bitshilani = {
+	name = "dynn_BitShilani"
+	culture = "chaldean"
+}
+
+chaldean_bitamukani = {
+	name = "dynn_BitAmukani"
+	culture = "chaldean"
+}
+
 #Akhlamite
 
 akhlamite_puqudu = {
@@ -1017,5 +1029,17 @@ akhlamite_gambulu = {
 akhlamite_gurasimmu = {
 	name = "dynn_Gurasimmu"
 	culture = "akhlamite"
+}
+
+#Susian
+
+susian_ezanid = {
+	name = "dynn_Ezanid"
+	culture = "susian"
+}
+
+susian_tahrid = {
+	name = "dynn_Tahrid"
+	culture = "susian"
 }
 

@@ -129,3 +129,95 @@
 		death = "268.1.1"
 	}
 }
+
+2000333 = {
+	name = "Ahuni"
+	dynasty = chaldean_bitshilani
+	religion = "ashurism_pagan"
+	culture = chaldean
+	#father = 2000314
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		effect = {
+			set_landless_government_effect = yes
+			set_location = province:3431
+		}
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000334 = {
+	name = "Gabbi"
+	dynasty = chaldean_bitshilani
+	religion = "ashurism_pagan"
+	culture = chaldean
+	#father = 2000314
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		effect = {
+			set_landless_government_effect = yes
+			set_location = province:3431
+		}
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000335 = {
+	name = "Habini"
+	dynasty = chaldean_bitamukani
+	religion = "ashurism_pagan"
+	culture = chaldean
+	#father = 2000314
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		effect = {
+			set_landless_government_effect = yes
+			set_location = province:3414
+		}
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000336 = {
+	name = "Azriyau"
+	dynasty = chaldean_bitamukani
+	religion = "ashurism_pagan"
+	culture = chaldean
+	#father = 2000314
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		effect = {
+			set_landless_government_effect = yes
+			set_location = province:3414
+		}
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

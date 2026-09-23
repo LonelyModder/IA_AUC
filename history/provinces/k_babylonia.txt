@@ -737,7 +737,7 @@
 }
 
 3595 = {		
-	culture = baranis
+	culture = chaldean
 	religion = ashurism_pagan
 	holding = none
 }
@@ -755,7 +755,7 @@
 }
 
 3598 = {		
-	culture = baranis
+	culture = chaldean
 	religion = ashurism_pagan
 	holding = none
 }
@@ -779,8 +779,8 @@
 }
 
 3602 = {		
-	culture = baranis
-	religion = ashurism_pagan
+	culture = susian
+	religion = elamite_pagan
 	holding = none
 }
 
@@ -803,7 +803,7 @@
 }
 
 3606 = {		
-	culture = baranis
+	culture = chaldean
 	religion = ashurism_pagan
 	holding = none
 }

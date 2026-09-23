@@ -55,7 +55,7 @@ d_ituaeans = {
 
 c_hedu = {
 	258.4.4 = {	change_development_level = 5 }
-	437.4.21 = { change_development_level = 10 }
+	437.4.21 = { change_development_level = 20 }
 	
 	258.4.4 = {
 		holder = 2000316
@@ -80,7 +80,7 @@ c_meturnat = {
 
 c_surmarrati = {
 	258.4.4 = {	change_development_level = 5 }
-	437.4.21 = { change_development_level = 10 }
+	437.4.21 = { change_development_level = 20 }
 	
 	258.4.4 = {
 		holder = 2000316
@@ -96,6 +96,7 @@ d_lahiru = {
 		holder = 2000331
 	}
 	437.4.21 = {
+		liege="k_assyria"
 		holder = 2000332
 	}
 }
@@ -108,6 +109,33 @@ c_seluku = {
 		holder = 2000331
 	}
 	437.4.21 = {
+		liege="k_assyria"
+		holder = 2000332
+	}
+}
+
+c_uktannu = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000331
+	}
+	437.4.21 = {
+		liege="k_assyria"
+		holder = 2000332
+	}
+}
+
+c_ligish = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000331
+	}
+	437.4.21 = {
+		liege="k_assyria"
 		holder = 2000332
 	}
 }

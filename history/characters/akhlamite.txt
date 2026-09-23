@@ -52,6 +52,7 @@
 	258.4.4 = {
 		add_pressed_claim = title:d_gambulu
 		add_pressed_claim = title:c_aramina
+		add_pressed_claim = title:c_charax
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -73,6 +74,7 @@
 	437.4.21 = {
 		add_pressed_claim = title:d_gambulu
 		add_pressed_claim = title:c_aramina
+		add_pressed_claim = title:c_charax
 	}
 	#437.4.21 = {
 	#	add_character_flag = do_not_generate_starting_family

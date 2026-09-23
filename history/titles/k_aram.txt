@@ -307,10 +307,10 @@ c_musri = {
 	437.4.21 = { change_development_level = 20 }
 	
 	258.4.4 = {
-		holder = 2000259
+		holder = 2000259 
 	}
 	437.4.21 = {
-		holder = 2000260
+		holder = 2000262 #2000260? To Karkemish?
 	}
 }
 

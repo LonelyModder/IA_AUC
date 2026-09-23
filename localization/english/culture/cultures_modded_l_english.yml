@@ -190,6 +190,9 @@
  ashurian:0 "Assyrian"
  ashurian_prefix:0 "Assyrian"
  ashurian_collective_noun:1 "Assyrians"
+ lahiri:0 "Lahirian"
+ lahiri_prefix:0 "Lahirian"
+ lahiri_collective_noun:1 "Lahirians"
  #Pelasgian
  eteocypriot:0 "Eteocypriot"
  eteocypriot_prefix:0 "Eteocypriot"
@@ -213,6 +216,9 @@
  kadmukhite:0 "Kadmukhite"
  kadmukhite_prefix:0 "Kadmukhite"
  kadmukhite_collective_noun:1 "Kadmukhites"
+ mannean:0 "Mannean"
+ mannean_prefix:0 "Mannean"
+ mannean_collective_noun:1 "Manneans"
  #Elamite
  susian:0 "Susian"
  susian_prefix:0 "Susian"

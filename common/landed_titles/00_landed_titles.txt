@@ -22146,3 +22146,41 @@ d_lahiru = {
 	color = { 129 147 64 }
 	landless = yes 
 }
+
+d_bitshilani = {  #Adventurer Title of Bit-Shilani Tribe
+	color = { 129 60 14 }
+	capital = c_nippur
+
+	definite_form = yes
+	landless = yes
+	require_landless = yes
+	ruler_uses_title_name = no
+	no_automatic_claims = yes
+	destroy_if_invalid_heir = yes
+
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+d_bitamukani = {  #Adventurer Title of Bit-Amukani Tribe
+	color = { 171 18 7 }
+	capital = c_uruk
+
+	definite_form = yes
+	landless = yes
+	require_landless = yes
+	ruler_uses_title_name = no
+	no_automatic_claims = yes
+	destroy_if_invalid_heir = yes
+
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+k_susa = {
+	color = { 3 135 225 }
+	landless = yes 
+}
+
+k_elam = {
+	color = { 6 125 199 }
+	landless = yes 
+}

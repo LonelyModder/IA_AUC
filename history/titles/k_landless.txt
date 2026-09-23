@@ -26,3 +26,61 @@ d_gurassimu = {
 		}
 	}
 }
+
+d_bitshilani = {
+	
+	258.4.4 = {
+		liege = 0
+		holder = 2000333 
+		government = landless_adventurer_government
+		succession_laws = { landless_adventurer_succession_law }
+		effect = {
+			create_landless_adventurer_title_history_effect = yes
+			set_variable = { name = adventurer_creation_reason value = flag:historical }
+		}
+	}
+	437.4.21 = {
+		liege = 0
+		holder = 2000334
+		government = landless_adventurer_government
+		succession_laws = { landless_adventurer_succession_law }
+		effect = {
+			create_landless_adventurer_title_history_effect = yes
+			set_variable = { name = adventurer_creation_reason value = flag:historical }
+		}
+	}
+	440.4.21 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 440.4.21 }
+		}
+	}
+}
+
+d_bitamukani = {
+	
+	258.4.4 = {
+		liege = 0
+		holder = 2000335 
+		government = landless_adventurer_government
+		succession_laws = { landless_adventurer_succession_law }
+		effect = {
+			create_landless_adventurer_title_history_effect = yes
+			set_variable = { name = adventurer_creation_reason value = flag:historical }
+		}
+	}
+	437.4.21 = {
+		liege = 0
+		holder = 2000336
+		government = landless_adventurer_government
+		succession_laws = { landless_adventurer_succession_law }
+		effect = {
+			create_landless_adventurer_title_history_effect = yes
+			set_variable = { name = adventurer_creation_reason value = flag:historical }
+		}
+	}
+	440.4.21 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 440.4.21 }
+		}
+	}
+}

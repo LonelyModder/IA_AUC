@@ -353,8 +353,8 @@
 }
 
 3525 = {		
-	culture = baranis
-	religion = ashurism_pagan
+	culture = mannean
+	religion = hurrian_pagan
 	holding = none
 }
 
@@ -371,7 +371,7 @@
 }
 
 3528 = {		
-	culture = ashurian
+	culture = lahiri
 	religion = ashurism_pagan
 	holding = none
 }
@@ -395,7 +395,7 @@
 }
 
 3532 = {		
-	culture = baranis
+	culture = lahiri
 	religion = ashurism_pagan
 	holding = none
 }
@@ -413,7 +413,7 @@
 }
 
 3535 = {		
-	culture = baranis
+	culture = lahiri
 	religion = ashurism_pagan
 	holding = none
 }
@@ -473,8 +473,8 @@
 }
 
 3545 = {		
-	culture = baranis
-	religion = ashurism_pagan
+	culture = mannean
+	religion = hurrian_pagan
 	holding = none
 }
 
