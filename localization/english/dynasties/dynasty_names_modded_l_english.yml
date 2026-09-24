@@ -220,6 +220,7 @@
  dynn_BitYahiri:0 "Bit-Yahiri"
  dynn_BitMamblu:0 "Bit-Mamblu"
  dynn_BitSurug:0 "Bit-Surug"
+ dynn_GarniKannu:0 "Garni-Kannu"
  #Sutean
  dynn_BitLaqu:0 "Bit-Laqi"
  dynn_Sirqu:0 "Bit-Sirqu"
@@ -229,6 +230,13 @@
  dynn_BitItu:0 "Bit-Itu"
  #Babylonian
  dynn_Marbitid:0 "Marbitid"
+ dynn_JushurSin:0 "Jushur-Sin"
+ dynn_PuannumNingal:0 "PuannumNingal"
+ dynn_Nabonid:0 "Nabonid"
+ dynn_SuhlamuInzak:0 "Suhlamu-Inzak"
+ dynn_BelSum:0 "Bel-Sum"
+ dynn_RimutIli:0 "Rimut-Ili"
+ dynn_AdadIddin:0 "Adad-Iddin"
  #Chaldean
  dynn_BitDakkuri:0 "Bit-Dakkuri"
  dynn_BitYakin:0 "Bit-Yakin"
@@ -239,6 +247,9 @@
  dynn_Puqudu:0 "Puqudu"
  dynn_Gambulu:0 "Gambulu"
  dynn_Gurasimmu:0 "Gurasimmu"
+ dynn_Ruua:0 "Ru-Ua"
  #Susian
  dynn_Ezanid:0 "Ezanid"
  dynn_Tahrid:0 "Tahrid"
+ #Kardunite
+ dynn_AkiyaMulliltu:0 "Akiya-Mulliltu"

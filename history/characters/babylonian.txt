@@ -18,3 +18,154 @@
 		death = "268.1.1"
 	}
 }
+
+2000340 = {
+	name = "Yakmeni"
+	dynasty = babylonian_jushursin
+	religion = "ashurism_pagan"
+	culture = babylonian
+	#father = 2000314
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_lagash
+		add_pressed_claim = title:c_girsu
+		add_pressed_claim = title:c_lagash
+		add_pressed_claim = title:c_durathara
+		add_pressed_claim = title:c_marona
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000341 = {
+	name = "Yakmeni"
+	dynasty = babylonian_puannumningal
+	religion = "ashurism_pagan"
+	culture = babylonian
+	#father = 2000314
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_uruk
+		add_pressed_claim = title:c_manishtusu
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000342 = {
+	name = "Nabu-Nasir"
+	dynasty = babylonian_nabonid
+	religion = "ashurism_pagan"
+	culture = babylonian
+	#father = 2000314
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:k_babylonia
+		add_pressed_claim = title:c_gashur
+		add_pressed_claim = title:c_upi
+		add_pressed_claim = title:c_arishtiaya
+		add_pressed_claim = title:c_arwia
+		add_pressed_claim = title:c_eshnunna
+		add_pressed_claim = title:c_halman
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000343 = {
+	name = "Ikunum"
+	dynasty = babylonian_suhlamuinzak
+	religion = "ashurism_pagan"
+	culture = babylonian
+	#father = 2000314
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_deru
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000344 = {
+	name = "Aminu"
+	dynasty = babylonian_belsum
+	religion = "ashurism_pagan"
+	culture = babylonian
+	#father = 2000314
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_larak
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000345 = {
+	name = "Shu-Durul"
+	dynasty = babylonian_rimutili
+	religion = "ashurism_pagan"
+	culture = babylonian
+	#father = 2000314
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_umma
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000346 = {
+	name = "Tudiya"
+	dynasty = babylonian_adadiddin
+	religion = "ashurism_pagan"
+	culture = babylonian
+	#father = 2000314
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_ur
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

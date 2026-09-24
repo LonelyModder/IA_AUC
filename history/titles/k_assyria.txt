@@ -9,7 +9,31 @@ k_assyria = {
 	
 }
 
+c_ashur = {
+	258.4.4 = {	change_development_level = 30 }
+	437.4.21 = { change_development_level = 35 }
+	
+	258.4.4 = {
+		holder = 2000294
+	}
+	437.4.21 = {
+		holder = 2000295
+	}
+}
+
 c_kalhu = {
+	258.4.4 = {	change_development_level = 25 }
+	437.4.21 = { change_development_level = 40 }
+	
+	258.4.4 = {
+		holder = 2000294
+	}
+	437.4.21 = {
+		holder = 2000295
+	}
+}
+
+c_tagritianu = {
 	258.4.4 = {	change_development_level = 25 }
 	437.4.21 = { change_development_level = 30 }
 	
@@ -21,9 +45,153 @@ c_kalhu = {
 	}
 }
 
-c_ashur = {
+c_ugurnashir = {
 	258.4.4 = {	change_development_level = 25 }
 	437.4.21 = { change_development_level = 30 }
+	
+	258.4.4 = {
+		holder = 2000294
+	}
+	437.4.21 = {
+		holder = 2000295
+	}
+}
+
+c_dursharrukin = {
+	258.4.4 = {	change_development_level = 25 }
+	437.4.21 = { change_development_level = 30 }
+	
+	258.4.4 = {
+		holder = 2000294
+	}
+	437.4.21 = {
+		holder = 2000295
+	}
+}
+
+c_arrapha = {
+	258.4.4 = {	change_development_level = 25 }
+	437.4.21 = { change_development_level = 30 }
+	
+	258.4.4 = {
+		holder = 2000294
+	}
+	437.4.21 = {
+		holder = 2000295
+	}
+}
+
+c_arbail = {
+	258.4.4 = {	change_development_level = 25 }
+	437.4.21 = { change_development_level = 30 }
+	
+	258.4.4 = {
+		holder = 2000294
+	}
+	437.4.21 = {
+		holder = 2000295
+	}
+}
+
+c_ninsar = {
+	258.4.4 = {	change_development_level = 25 }
+	437.4.21 = { change_development_level = 30 }
+	
+	258.4.4 = {
+		holder = 2000294
+	}
+	437.4.21 = {
+		holder = 2000295
+	}
+}
+
+c_ibal = {
+	258.4.4 = {	change_development_level = 25 }
+	437.4.21 = { change_development_level = 30 }
+	
+	258.4.4 = {
+		holder = 2000294
+	}
+	437.4.21 = {
+		holder = 2000295
+	}
+}
+
+c_turshan = {
+	258.4.4 = {	change_development_level = 25 }
+	437.4.21 = { change_development_level = 30 }
+	
+	258.4.4 = {
+		holder = 2000294
+	}
+	437.4.21 = {
+		holder = 2000295
+	}
+}
+
+c_liwwir = {
+	258.4.4 = {	change_development_level = 25 }
+	437.4.21 = { change_development_level = 30 }
+	
+	258.4.4 = {
+		holder = 2000294
+	}
+	437.4.21 = {
+		holder = 2000295
+	}
+}
+
+c_hatra = {
+	258.4.4 = {	change_development_level = 25 }
+	437.4.21 = { change_development_level = 30 }
+	
+	258.4.4 = {
+		holder = 2000294
+	}
+	437.4.21 = {
+		holder = 2000295
+	}
+}
+
+c_elulu = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000294
+	}
+	437.4.21 = {
+		holder = 2000295
+	}
+}
+
+c_rihat = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000294
+	}
+	437.4.21 = {
+		holder = 2000295
+	}
+}
+
+c_duradad = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000294
+	}
+	437.4.21 = {
+		holder = 2000295
+	}
+}
+
+c_sidqum = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
 	
 	258.4.4 = {
 		holder = 2000294

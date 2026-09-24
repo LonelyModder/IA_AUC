@@ -11,7 +11,7 @@
 }
 
 3385 = {		
-	culture = baranis
+	culture = sutean
 	religion = ashurism_pagan
 	holding = none
 }
@@ -35,7 +35,7 @@
 }
 
 3389 = {		
-	culture = baranis
+	culture = sutean
 	religion = ashurism_pagan
 	holding = none
 }

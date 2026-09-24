@@ -1,0 +1,20 @@
+﻿2000339 = {
+	name = "Abi-Rattas"
+	dynasty = kardunite_akiyamulliltu 
+	religion = "ashurism_pagan"
+	culture = kardunite
+	#father = 2000314
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_durkurigalzu
+		add_pressed_claim = title:c_sippar
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

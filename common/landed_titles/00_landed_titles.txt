@@ -22184,3 +22184,41 @@ k_elam = {
 	color = { 6 125 199 }
 	landless = yes 
 }
+
+k_chaldea = {
+	color = { 153 56 3 }
+	landless = yes 
+}
+
+d_ruua = {  #Adventurer Title of Ru-Ua Tribe
+	color = { 171 18 7 }
+	capital = c_charax
+
+	definite_form = yes
+	landless = yes
+	require_landless = yes
+	ruler_uses_title_name = no
+	no_automatic_claims = yes
+	destroy_if_invalid_heir = yes
+
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+d_garnikannu = {  #Adventurer Title of Garni-Kannu Tribe
+	color = { 171 18 7 }
+	capital = c_garnikannu
+
+	definite_form = yes
+	landless = yes
+	require_landless = yes
+	ruler_uses_title_name = no
+	no_automatic_claims = yes
+	destroy_if_invalid_heir = yes
+
+	ai_primary_priority = { add = @never_primary_score }
+}
+
+d_lagash = {
+	color = { 171 72 87 }
+	landless = yes 
+}

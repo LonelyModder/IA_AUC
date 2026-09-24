@@ -245,3 +245,26 @@
 		death = "268.1.1"
 	}
 }
+
+2000349 = {
+	name = "Ilan"
+	dynasty = naharimi_garnikannu
+	religion = "ashurism_pagan"
+	culture = naharimi
+	#father = 2000314
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		effect = {
+			set_landless_government_effect = yes
+			set_location = province:2594
+		}
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}

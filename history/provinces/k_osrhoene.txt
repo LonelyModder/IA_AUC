@@ -398,6 +398,9 @@
 	culture = naharimi
 	religion = ashurism_pagan
 	holding = none
+	437.4.21 = {
+		culture = ashurian
+	}
 }
 
 2573 = {		
@@ -410,6 +413,9 @@
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
+	437.4.21 = {
+		culture = ashurian
+	}
 }
 
 2575 = {		
@@ -524,6 +530,9 @@
 	culture = naharimi
 	religion = ashurism_pagan
 	holding = castle_holding
+	437.4.21 = {
+		culture = ashurian
+	}
 }
 
 2594 = {		

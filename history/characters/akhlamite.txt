@@ -129,3 +129,49 @@
 		death = "469.1.1"
 	}
 }
+
+2000347 = {
+	name = "Dhamarkarib"
+	dynasty = akhlamite_ruua
+	religion = "ashurism_pagan"
+	culture = akhlamite
+	#father = 2000314
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		effect = {
+			set_landless_government_effect = yes
+			set_location = province:3595
+		}
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000348 = {
+	name = "Shamdar"
+	dynasty = akhlamite_ruua
+	religion = "ashurism_pagan"
+	culture = akhlamite
+	#father = 2000314
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		effect = {
+			set_landless_government_effect = yes
+			set_location = province:3595
+		}
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

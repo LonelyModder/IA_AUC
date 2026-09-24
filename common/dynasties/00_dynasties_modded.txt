@@ -951,6 +951,11 @@ naharimi_bitsurug = {
 	culture = "naharimi"
 }
 
+naharimi_garnikannu = {
+	name = "dynn_GarniKannu"
+	culture = "naharimi"
+}
+
 #Sutean
 
 sutean_bitlaqu = {
@@ -984,6 +989,41 @@ itu_bititu = {
 
 babylonian_marbitid = {
 	name = "dynn_Marbitid"
+	culture = "babylonian"
+}
+
+babylonian_jushursin = {
+	name = "dynn_JushurSin"
+	culture = "babylonian"
+}
+
+babylonian_puannumningal = {
+	name = "dynn_PuannumNingal"
+	culture = "babylonian"
+}
+
+babylonian_nabonid = {
+	name = "dynn_Nabonid"
+	culture = "babylonian"
+}
+
+babylonian_suhlamuinzak = {
+	name = "dynn_SuhlamuInzak"
+	culture = "babylonian"
+}
+
+babylonian_belsum = {
+	name = "dynn_BelSum"
+	culture = "babylonian"
+}
+
+babylonian_rimutili = {
+	name = "dynn_RimutIli"
+	culture = "babylonian"
+}
+
+babylonian_adadiddin = {
+	name = "dynn_AdadIddin"
 	culture = "babylonian"
 }
 
@@ -1031,6 +1071,11 @@ akhlamite_gurasimmu = {
 	culture = "akhlamite"
 }
 
+akhlamite_ruua = {
+	name = "dynn_Ruua"
+	culture = "akhlamite"
+}
+
 #Susian
 
 susian_ezanid = {
@@ -1041,5 +1086,12 @@ susian_ezanid = {
 susian_tahrid = {
 	name = "dynn_Tahrid"
 	culture = "susian"
+}
+
+#Kardunite
+
+kardunite_akiyamulliltu = {
+	name = "dynn_AkiyaMulliltu"
+	culture = "kardunite"
 }
 

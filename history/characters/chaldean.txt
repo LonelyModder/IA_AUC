@@ -8,7 +8,7 @@
 		birth = "401.1.1"
 	}
 	437.4.21 = {
-		add_pressed_claim = title:k_babylonia
+		add_pressed_claim = title:k_chaldea
 		add_pressed_claim = title:d_bitdakurri
 		add_pressed_claim = title:c_babylon
 		add_pressed_claim = title:c_vologesias

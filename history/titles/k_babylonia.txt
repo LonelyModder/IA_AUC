@@ -16,6 +16,13 @@ k_babylonia = {
 		holder = 2000318
 	}
 	437.4.21 = {
+		holder = 2000342
+	}
+}
+
+k_chaldea = {
+	
+	437.4.21 = {
 		holder = 2000319
 	}
 }
@@ -44,6 +51,61 @@ c_kish = {
 	}
 }
 
+d_lagash = {
+	
+	437.4.21 = {
+		holder = 2000340
+	}
+}
+
+c_girsu = {
+	258.4.4 = {	change_development_level = 20 }
+	437.4.21 = { change_development_level = 25 }
+	
+	258.4.4 = {
+		holder = 2000318
+	}
+	437.4.21 = {
+		holder = 2000340
+	}
+}
+
+c_lagash = {
+	258.4.4 = {	change_development_level = 20 }
+	437.4.21 = { change_development_level = 25 }
+	
+	258.4.4 = {
+		holder = 2000318
+	}
+	437.4.21 = {
+		holder = 2000340
+	}
+}
+
+c_durathara = {
+	258.4.4 = {	change_development_level = 20 }
+	437.4.21 = { change_development_level = 25 }
+	
+	258.4.4 = {
+		holder = 2000318
+	}
+	437.4.21 = {
+		holder = 2000340
+	}
+}
+
+c_marona = {
+	258.4.4 = {	change_development_level = 20 }
+	437.4.21 = { change_development_level = 25 }
+	
+	258.4.4 = {
+		holder = 2000318
+	}
+	437.4.21 = {
+		holder = 2000340
+	}
+}
+
 c_eshnunna = {
 	258.4.4 = {	change_development_level = 15 }
 	437.4.21 = { change_development_level = 20 }
@@ -52,7 +114,7 @@ c_eshnunna = {
 		holder = 2000318
 	}
 	437.4.21 = {
-		holder = 2000319
+		holder = 2000342
 	}
 }
 
@@ -64,7 +126,7 @@ c_halman = {
 		holder = 2000318
 	}
 	437.4.21 = {
-		holder = 2000319
+		holder = 2000342
 	}
 }
 
@@ -76,7 +138,19 @@ c_uruk = {
 		holder = 2000318
 	}
 	437.4.21 = {
-		holder = 2000319
+		holder = 2000341
+	}
+}
+
+c_manishtusu = {
+	258.4.4 = {	change_development_level = 20 }
+	437.4.21 = { change_development_level = 25 }
+	
+	258.4.4 = {
+		holder = 2000318
+	}
+	437.4.21 = {
+		holder = 2000341
 	}
 }
 
@@ -89,6 +163,42 @@ c_isin = {
 	}
 	437.4.21 = {
 		holder = 2000319
+	}
+}
+
+c_gashur = {
+	258.4.4 = {	change_development_level = 20 }
+	437.4.21 = { change_development_level = 25 }
+	
+	258.4.4 = {
+		holder = 2000318
+	}
+	437.4.21 = {
+		holder = 2000342
+	}
+}
+
+c_deru = {
+	258.4.4 = {	change_development_level = 20 }
+	437.4.21 = { change_development_level = 25 }
+	
+	258.4.4 = {
+		holder = 2000318
+	}
+	437.4.21 = {
+		holder = 2000343
+	}
+}
+
+c_atab = {
+	258.4.4 = {	change_development_level = 20 }
+	437.4.21 = { change_development_level = 25 }
+	
+	258.4.4 = {
+		holder = 2000318
+	}
+	437.4.21 = {
+		holder = 2000343
 	}
 }
 
@@ -112,7 +222,7 @@ c_sippar = {
 		holder = 2000318
 	}
 	437.4.21 = {
-		holder = 2000319
+		holder = 2000339
 	}
 }
 
@@ -124,7 +234,79 @@ c_upi = {
 		holder = 2000318
 	}
 	437.4.21 = {
-		holder = 2000319
+		holder = 2000342
+	}
+}
+
+c_arishtiaya = {
+	258.4.4 = {	change_development_level = 20 }
+	437.4.21 = { change_development_level = 25 }
+	
+	258.4.4 = {
+		holder = 2000318
+	}
+	437.4.21 = {
+		holder = 2000342
+	}
+}
+
+c_arwia = {
+	258.4.4 = {	change_development_level = 20 }
+	437.4.21 = { change_development_level = 25 }
+	
+	258.4.4 = {
+		holder = 2000318
+	}
+	437.4.21 = {
+		holder = 2000342
+	}
+}
+
+c_larak = {
+	258.4.4 = {	change_development_level = 20 }
+	437.4.21 = { change_development_level = 25 }
+	
+	258.4.4 = {
+		holder = 2000318
+	}
+	437.4.21 = {
+		holder = 2000344
+	}
+}
+
+c_umma = {
+	258.4.4 = {	change_development_level = 20 }
+	437.4.21 = { change_development_level = 25 }
+	
+	258.4.4 = {
+		holder = 2000318
+	}
+	437.4.21 = {
+		holder = 2000345
+	}
+}
+
+c_larsa = {
+	258.4.4 = {	change_development_level = 20 }
+	437.4.21 = { change_development_level = 25 }
+	
+	258.4.4 = {
+		holder = 2000318
+	}
+	437.4.21 = {
+		holder = 2000345
+	}
+}
+
+c_ur = {
+	258.4.4 = {	change_development_level = 20 }
+	437.4.21 = { change_development_level = 25 }
+	
+	258.4.4 = {
+		holder = 2000318
+	}
+	437.4.21 = {
+		holder = 2000346
 	}
 }
 
@@ -216,7 +398,7 @@ c_durkurigalzu = {
 		holder = 2000318
 	}
 	437.4.21 = {
-		holder = 2000319
+		holder = 2000339
 	}
 }
 
@@ -325,8 +507,8 @@ c_forat = {
 }
 
 c_abella = {
-	258.4.4 = {	change_development_level = 5 }
-	437.4.21 = { change_development_level = 10 }
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
 	
 	258.4.4 = {
 		holder = 2000337
@@ -337,8 +519,8 @@ c_abella = {
 }
 
 c_sorme = {
-	258.4.4 = {	change_development_level = 3 }
-	437.4.21 = { change_development_level = 5 }
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
 	
 	258.4.4 = {
 		holder = 2000337
