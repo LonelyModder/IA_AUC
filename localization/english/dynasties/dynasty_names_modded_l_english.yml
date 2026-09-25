@@ -237,6 +237,7 @@
  dynn_BelSum:0 "Bel-Sum"
  dynn_RimutIli:0 "Rimut-Ili"
  dynn_AdadIddin:0 "Adad-Iddin"
+ dynn_EribaSin:0 "Eriba-Sin"
  #Chaldean
  dynn_BitDakkuri:0 "Bit-Dakkuri"
  dynn_BitYakin:0 "Bit-Yakin"
@@ -253,3 +254,4 @@
  dynn_Tahrid:0 "Tahrid"
  #Kardunite
  dynn_AkiyaMulliltu:0 "Akiya-Mulliltu"
+ dynn_SuhlamuInzak:0 "Suhlamu-Inzak"

@@ -18,3 +18,23 @@
 		death = "469.1.1"
 	}
 }
+
+2000351 = {
+	name = "Ulamburiash"
+	dynasty = kardunite_suhlamuinzak  
+	religion = "ashurism_pagan"
+	culture = kardunite
+	#father = 2000314
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_nippur
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

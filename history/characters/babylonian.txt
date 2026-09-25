@@ -169,3 +169,23 @@
 		death = "469.1.1"
 	}
 }
+
+2000350 = {
+	name = "Ilku"
+	dynasty = babylonian_eribasin
+	religion = "ashurism_pagan"
+	culture = babylonian
+	#father = 2000314
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_isin
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

@@ -1027,6 +1027,11 @@ babylonian_adadiddin = {
 	culture = "babylonian"
 }
 
+babylonian_eribasin = {
+	name = "dynn_EribaSin"
+	culture = "babylonian"
+}
+
 #Chaldean
 
 chaldean_bitdakkuri = {
@@ -1092,6 +1097,11 @@ susian_tahrid = {
 
 kardunite_akiyamulliltu = {
 	name = "dynn_AkiyaMulliltu"
+	culture = "kardunite"
+}
+
+kardunite_suhlamuinzak = {
+	name = "dynn_SuhlamuInzak"
 	culture = "kardunite"
 }
 
