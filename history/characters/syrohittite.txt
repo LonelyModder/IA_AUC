@@ -155,6 +155,8 @@
 		add_pressed_claim = title:d_kummukh
 		add_pressed_claim = title:c_samosata
 		add_pressed_claim = title:c_disakah
+		add_pressed_claim = title:c_acturias
+		add_pressed_claim = title:c_syrontos
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -177,6 +179,8 @@
 		add_pressed_claim = title:d_kummukh
 		add_pressed_claim = title:c_samosata
 		add_pressed_claim = title:c_disakah
+		add_pressed_claim = title:c_acturias
+		add_pressed_claim = title:c_syrontos
 	}
 	#437.4.21 = {
 	#	add_character_flag = do_not_generate_starting_family

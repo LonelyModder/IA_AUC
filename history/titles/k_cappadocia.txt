@@ -10,3 +10,27 @@ c_gurgum = {
 	}
 }
 
+c_acturias = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000271
+	}
+	437.4.21 = {
+		holder = 2000272
+	}
+}
+
+c_syrontos = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000271
+	}
+	437.4.21 = {
+		holder = 2000272
+	}
+}
+

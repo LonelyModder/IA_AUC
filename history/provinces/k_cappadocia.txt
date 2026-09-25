@@ -245,8 +245,8 @@
 }
 
 3027 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = syrohittite
+	religion = anatolian_pagan
 	holding = none
 }
 
@@ -257,8 +257,8 @@
 }
 
 3029 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = syrohittite
+	religion = anatolian_pagan
 	holding = none
 }
 
