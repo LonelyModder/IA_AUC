@@ -93,6 +93,7 @@
 	}
 	258.4.4 = {
 		add_pressed_claim = title:c_ishunda
+		add_pressed_claim = title:c_paieus
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -113,6 +114,261 @@
 	}
 	437.4.21 = {
 		add_pressed_claim = title:c_ishunda
+		add_pressed_claim = title:c_paieus
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000354 = {
+	name = "Mugallu"
+	dynasty = tabali_hupsinid
+	religion = "anatolian_pagan"
+	culture = tabali
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_hupisna
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000355 = {
+	name = "Surri"
+	dynasty = tabali_hupsinid
+	religion = "anatolian_pagan"
+	culture = tabali
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_hupisna
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000356 = {
+	name = "Sahurunuwa"
+	dynasty = tabali_thukanid
+	religion = "anatolian_pagan"
+	culture = tabali
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_tuwana
+		add_pressed_claim = title:c_tuwana
+		add_pressed_claim = title:c_pantemita
+		add_pressed_claim = title:c_thukan
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000357 = {
+	name = "Hapatila"
+	dynasty = tabali_thukanid
+	religion = "anatolian_pagan"
+	culture = tabali
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_tuwana
+		add_pressed_claim = title:c_tuwana
+		add_pressed_claim = title:c_pantemita
+		add_pressed_claim = title:c_thukan
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000358 = {
+	name = "Katuwa"
+	dynasty = tabali_atunid
+	religion = "anatolian_pagan"
+	culture = tabali
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_atuna
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000359 = {
+	name = "Hattusili"
+	dynasty = tabali_atunid
+	religion = "anatolian_pagan"
+	culture = tabali
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_atuna
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000360 = {
+	name = "Sahurunuwa"
+	dynasty = tabali_shinukid
+	religion = "anatolian_pagan"
+	culture = tabali
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_shinukta
+		add_pressed_claim = title:c_cesarea
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000361 = {
+	name = "Hapatila"
+	dynasty = tabali_shinukid
+	religion = "anatolian_pagan"
+	culture = tabali
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_shinukta
+		add_pressed_claim = title:c_cesarea
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000362 = {
+	name = "Kundaspu"
+	dynasty = tabali_meliddu
+	religion = "anatolian_pagan"
+	culture = tabali
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_melid
+		add_pressed_claim = title:c_ambila
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000363 = {
+	name = "Mazakarhuha"
+	dynasty = tabali_meliddu
+	religion = "anatolian_pagan"
+	culture = tabali
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_melid
+		add_pressed_claim = title:c_ambila
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000364 = {
+	name = "Astiruwa"
+	dynasty = tabali_kammanu
+	religion = "anatolian_pagan"
+	culture = tabali
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_comanu
+		add_pressed_claim = title:c_byllia
+		add_pressed_claim = title:c_corus
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000365 = {
+	name = "Larama"
+	dynasty = tabali_kammanu
+	religion = "anatolian_pagan"
+	culture = tabali
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_comanu
+		add_pressed_claim = title:c_byllia
+		add_pressed_claim = title:c_corus
 	}
 	#437.4.21 = {
 	#	add_character_flag = do_not_generate_starting_family

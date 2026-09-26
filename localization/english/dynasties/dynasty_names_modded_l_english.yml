@@ -167,6 +167,12 @@
  dynn_Astuwaramanzid:0 "Astuwaramanzid"
  dynn_Khillikid:0 "Khillikid"
  dynn_Ishundid:0 "Ishundu"
+ dynn_Hupsinid:0 "Hupsinid"
+ dynn_Thukanid:0 "Thukanid"
+ dynn_Atunid:0 "Atunid"
+ dynn_Shinukid:0 "Shinukid"
+ dynn_Meliddu:0 "Meliddu"
+ dynn_Kammanu:0 "Kammanu"
  #Syriac
  dynn_BetZakkur:0 "Bet-Zakkur"
  dynn_BetHatallu:0 "Bet-Hatallu"
@@ -255,3 +261,5 @@
  #Kardunite
  dynn_AkiyaMulliltu:0 "Akiya-Mulliltu"
  dynn_SuhlamuInzak:0 "Suhlamu-Inzak"
+ #Kaskan
+ dynn_Kattaku:0 "Kattaku"

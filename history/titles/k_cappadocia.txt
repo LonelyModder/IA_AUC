@@ -34,3 +34,253 @@ c_syrontos = {
 	}
 }
 
+d_katak = {
+	
+	258.4.4 = {
+		holder = 2000352
+	}
+	437.4.21 = {
+		holder = 2000353
+	}
+}
+
+c_askisos = {
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000352
+	}
+	437.4.21 = {
+		holder = 2000353
+	}
+}
+
+c_kydonesos = {
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000352
+	}
+	437.4.21 = {
+		holder = 2000353
+	}
+}
+
+c_antheron = {
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000352
+	}
+	437.4.21 = {
+		holder = 2000353
+	}
+}
+
+c_thyretta = {
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000352
+	}
+	437.4.21 = {
+		holder = 2000353
+	}
+}
+
+c_asketta = {
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000352
+	}
+	437.4.21 = {
+		holder = 2000353
+	}
+}
+
+c_syremita = {
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000352
+	}
+	437.4.21 = {
+		holder = 2000353
+	}
+}
+
+d_tuwana = {
+	
+	258.4.4 = {
+		holder = 2000356
+	}
+	437.4.21 = {
+		holder = 2000357
+	}
+}
+
+c_tuwana = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000356
+	}
+	437.4.21 = {
+		holder = 2000357
+	}
+}
+
+c_pantemita = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000356
+	}
+	437.4.21 = {
+		holder = 2000357
+	}
+}
+
+c_atuna = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000358
+	}
+	437.4.21 = {
+		holder = 2000359
+	}
+}
+
+c_shinukta = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000360
+	}
+	437.4.21 = {
+		holder = 2000361
+	}
+}
+
+c_melid = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000362
+	}
+	437.4.21 = {
+		holder = 2000363
+	}
+}
+
+c_ambila = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000362
+	}
+	437.4.21 = {
+		holder = 2000363
+	}
+}
+
+c_comanu = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000364
+	}
+	437.4.21 = {
+		holder = 2000365
+	}
+}
+
+c_erethrydna = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000287
+	}
+	437.4.21 = {
+		holder = 2000288
+	}
+}
+
+c_getri = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000287
+	}
+	437.4.21 = {
+		holder = 2000288
+	}
+}
+
+c_paieus = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000289
+	}
+	437.4.21 = {
+		holder = 2000290
+	}
+}
+
+c_cesarea = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000360
+	}
+	437.4.21 = {
+		holder = 2000361
+	}
+}
+
+c_byllia = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000364
+	}
+	437.4.21 = {
+		holder = 2000365
+	}
+}
+
+c_corus = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000364
+	}
+	437.4.21 = {
+		holder = 2000365
+	}
+}
+
+
+

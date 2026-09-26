@@ -52,7 +52,7 @@ syrohittite = {
 }
 
 tabali = {
-	color = { 0.7 0.11 0.11 }
+	color = { 1.0 0.75 0.2 }
 	
 	parents = { hattian_group }
 	
@@ -81,7 +81,7 @@ tabali = {
 }
 
 kaskan = {
-	color = { 0.7 0.11 0.11 }
+	color = { 1.0 0.75 0.4 }
 	
 	parents = { hattian_group }
 	

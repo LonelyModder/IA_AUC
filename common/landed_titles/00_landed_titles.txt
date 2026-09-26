@@ -22222,3 +22222,13 @@ d_lagash = {
 	color = { 171 72 87 }
 	landless = yes 
 }
+
+d_katak = {
+	color = { 171 72 87 }
+	landless = yes 
+}
+
+d_tuwana = {
+	color = { 240 240 250 }
+	landless = yes 
+}

@@ -227,9 +227,9 @@
 }
 
 3290 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = kaskan
+	religion = anatolian_pagan
+	holding = tribal_holding
 }
 
 3291 = {		
@@ -251,9 +251,9 @@
 }
 
 3294 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = kaskan
+	religion = anatolian_pagan
+	holding = tribal_holding
 }
 
 3295 = {		

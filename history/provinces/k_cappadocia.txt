@@ -41,14 +41,14 @@
 }
 
 2993 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = tabali
+	religion = anatolian_pagan
 	holding = none
 }
 
 2994 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = tabali
+	religion = anatolian_pagan
 	holding = none
 }
 
@@ -59,8 +59,8 @@
 }
 
 2996 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = tabali
+	religion = anatolian_pagan
 	holding = none
 }
 
@@ -89,14 +89,14 @@
 }
 
 3001 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = tabali
+	religion = anatolian_pagan
 	holding = none
 }
 
 3002 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = tabali
+	religion = anatolian_pagan
 	holding = none
 }
 
@@ -125,8 +125,8 @@
 }
 
 3007 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = tabali
+	religion = anatolian_pagan
 	holding = none
 }
 
@@ -173,9 +173,9 @@
 }
 
 3015 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = kaskan
+	religion = anatolian_pagan
+	holding = tribal_holding
 }
 
 3016 = {		
@@ -197,8 +197,8 @@
 }
 
 3019 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = tabali
+	religion = anatolian_pagan
 	holding = none
 }
 
@@ -239,8 +239,8 @@
 }
 
 3026 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = tabali
+	religion = anatolian_pagan
 	holding = none
 }
 
@@ -287,8 +287,8 @@
 }
 
 3034 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = tabali
+	religion = anatolian_pagan
 	holding = none
 }
 
@@ -341,9 +341,9 @@
 }
 
 3043 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = kaskan
+	religion = anatolian_pagan
+	holding = tribal_holding
 }
 
 3044 = {		
@@ -371,8 +371,8 @@
 }
 
 3048 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = tabali
+	religion = anatolian_pagan
 	holding = none
 }
 
@@ -425,9 +425,9 @@
 }
 
 3057 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = kaskan
+	religion = anatolian_pagan
+	holding = tribal_holding
 }
 
 3058 = {		
@@ -443,15 +443,15 @@
 }
 
 3060 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = kaskan
+	religion = anatolian_pagan
+	holding = tribal_holding
 }
 
 3061 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = kaskan
+	religion = anatolian_pagan
+	holding = tribal_holding
 }
 
 3062 = {		
@@ -461,9 +461,9 @@
 }
 
 3063 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = kaskan
+	religion = anatolian_pagan
+	holding = tribal_holding
 }
 
 3064 = {		
@@ -557,13 +557,13 @@
 }
 
 2932 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = tabali
+	religion = anatolian_pagan
 	holding = none
 }
 
 2933 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = tabali
+	religion = anatolian_pagan
 	holding = none
 }

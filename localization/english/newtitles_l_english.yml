@@ -87,6 +87,8 @@
  d_ruua:0 "Ru-Ua"
  d_garnikannu:0 "Garni-Kannu"
  d_lagash:0 "Lagash"
+ d_katak:0 "Kaska"
+ d_tuwana:0 "Tuwana" #Tabal?
  # Empires
  e_westernrome:0 "Italia"
  e_africa:0 "Africa"

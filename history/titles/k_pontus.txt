@@ -1,0 +1,24 @@
+c_katarina = {
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000352
+	}
+	437.4.21 = {
+		holder = 2000353
+	}
+}
+
+c_ephilene = {
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000352
+	}
+	437.4.21 = {
+		holder = 2000353
+	}
+}
+

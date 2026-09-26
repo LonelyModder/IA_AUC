@@ -722,6 +722,36 @@ tabali_ishundid = {
 	culture = "tabali"
 }
 
+tabali_hupsinid = {
+	name = "dynn_Hupsinid"
+	culture = "tabali"
+}
+
+tabali_thukanid = {
+	name = "dynn_Thukanid"
+	culture = "tabali"
+}
+
+tabali_atunid = {
+	name = "dynn_Atunid"
+	culture = "tabali"
+}
+
+tabali_shinukid = {
+	name = "dynn_Shinukid"
+	culture = "tabali"
+}
+
+tabali_meliddu = {
+	name = "dynn_Meliddu"
+	culture = "tabali"
+}
+
+tabali_kammanu = {
+	name = "dynn_Kammanu"
+	culture = "tabali"
+}
+
 #Syriac
 
 gusian_betzakkur = {
@@ -1103,5 +1133,12 @@ kardunite_akiyamulliltu = {
 kardunite_suhlamuinzak = {
 	name = "dynn_SuhlamuInzak"
 	culture = "kardunite"
+}
+
+#Kaskan
+
+kaskan_kattaku = {
+	name = "dynn_Kattaku"
+	culture = "kaskan"
 }
 

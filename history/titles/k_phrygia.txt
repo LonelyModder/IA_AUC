@@ -1,0 +1,23 @@
+c_hupisna = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000354
+	}
+	437.4.21 = {
+		holder = 2000355
+	}
+}
+
+c_thukan = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000356
+	}
+	437.4.21 = {
+		holder = 2000357
+	}
+}
