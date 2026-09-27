@@ -1,0 +1,21 @@
+d_veneti = {
+	
+	258.4.4 = {
+		holder = 2000366
+	}
+	437.4.21 = {
+		holder = 2000367
+	}
+}
+
+c_patavium = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000366
+	}
+	437.4.21 = {
+		holder = 2000367
+	}
+}

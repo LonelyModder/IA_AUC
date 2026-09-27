@@ -1605,25 +1605,193 @@ name_list_agean = {
 name_list_illyrian = {
 
 	cadet_dynasty_names = {
-		Andinid Andid Annesid Annid Aplid Apludid Apurid Baizid Bardurid Batid Beukid Beusid Bizid Karrid Daitorid Dasid 
-		Dazomenid Dazid Epicarid Iettid Laidicalid Laidietid Laidid Ledrid Messid Messorid Panentid Panid Pantid Plannid 
-		Plarid Proradid Samekkid Sarnid Skenobarbid Statanid Statikid Statid Suttid Tizid Tritonid Tritid Turelid Varanid 
-		Varidid Vendid Vepid Verzulid Carvanid Germanid Lavianid Pinsid Pladomenid Platid Verzaiid Anadrid Buzetid Ditid Loantid 
-		Pantadienid Platorid Platourid Portid Rufantid Sestenid Stennid Vendid Tourranid Tourrinid Tourid Iaritid Montanid Parmanikid 
-		Sarid Senekid Silid Sinid Blaidarid Dasmenid Lensid Sassaid Skilid Surkid Kralid Lirid Passalid Likkaid Skenid
+		Andinid 
+		Andid 
+		Annesid 
+		Annid 
+		Aplid 
+		Apludid 
+		Apurid 
+		Baizid 
+		Bardurid 
+		Batid 
+		Beukid 
+		Beusid 
+		Bizid 
+		Karrid 
+		Daitorid 
+		Dasid 
+		Dazomenid 
+		Dazid 
+		Epicarid 
+		Iettid 
+		Laidicalid 
+		Laidietid
+		Laidid
+		Ledrid
+		Messid
+		Messorid
+		Panentid
+		Panid
+		Pantid
+		Plannid
+		Plarid
+		Proradid
+		Samekkid
+		Sarnid
+		Skenobarbid
+		Statanid
+		Statikid
+		Statid
+		Suttid
+		Tizid
+		Tritonid
+		Tritid
+		Turelid
+		Varanid
+		Varidid
+		Vendid
+		Vepid
+		Verzulid
+		Carvanid
+		Germanid
+		Lavianid
+		Pinsid
+		Pladomenid
+		Platid
+		Verzaiid
+		Anadrid
+		Buzetid
+		Ditid
+		Loantid
+		Pantadienid
+		Platorid
+		Platourid
+		Portid
+		Rufantid
+		Sestenid
+		Stennid
+		Vendid
+		Tourranid
+		Tourrinid
+		Tourid
+		Iaritid
+		Montanid
+		Parmanikid
+		Sarid
+		Senekid
+		Silid
+		Sinid
+		Blaidarid
+		Dasmenid
+		Lensid
+		Sassaid
+		Skilid
+		Surkid
+		Kralid
+		Lirid
+		Passalid
+		Likkaid
+		Skenid
 	}
 
 	dynasty_names = {
-		Andinid Andid Annesid Annid Aplid Apludid Apurid Baizid Bardurid Batid Beukid Beusid Bizid Karrid Daitorid Dasid 
-		Dazomenid Dazid Epicarid Iettid Laidicalid Laidietid Laidid Ledrid Messid Messorid Panentid Panid Pantid Plannid 
-		Plarid Proradid Samekkid Sarnid Skenobarbid Statanid Statikid Statid Suttid Tizid Tritonid Tritid Turelid Varanid 
-		Varidid Vendid Vepid Verzulid Carvanid Germanid Lavianid Pinsid Pladomenid Platid Verzaiid Anadrid Buzetid Ditid Loantid 
-		Pantadienid Platorid Platourid Portid Rufantid Sestenid Stennid Vendid Tourranid Tourrinid Tourid Iaritid Montanid Parmanikid 
-		Sarid Senekid Silid Sinid Blaidarid Dasmenid Lensid Sassaid Skilid Surkid Kralid Lirid Passalid Likkaid Skenid
+		Andinid 
+		Andid 
+		Annesid 
+		Annid 
+		Aplid 
+		Apludid 
+		Apurid 
+		Baizid 
+		Bardurid 
+		Batid 
+		Beukid 
+		Beusid 
+		Bizid 
+		Karrid 
+		Daitorid 
+		Dasid 
+		Dazomenid 
+		Dazid 
+		Epicarid 
+		Iettid 
+		Laidicalid 
+		Laidietid
+		Laidid
+		Ledrid
+		Messid
+		Messorid
+		Panentid
+		Panid
+		Pantid
+		Plannid
+		Plarid
+		Proradid
+		Samekkid
+		Sarnid
+		Skenobarbid
+		Statanid
+		Statikid
+		Statid
+		Suttid
+		Tizid
+		Tritonid
+		Tritid
+		Turelid
+		Varanid
+		Varidid
+		Vendid
+		Vepid
+		Verzulid
+		Carvanid
+		Germanid
+		Lavianid
+		Pinsid
+		Pladomenid
+		Platid
+		Verzaiid
+		Anadrid
+		Buzetid
+		Ditid
+		Loantid
+		Pantadienid
+		Platorid
+		Platourid
+		Portid
+		Rufantid
+		Sestenid
+		Stennid
+		Vendid
+		Tourranid
+		Tourrinid
+		Tourid
+		Iaritid
+		Montanid
+		Parmanikid
+		Sarid
+		Senekid
+		Silid
+		Sinid
+		Blaidarid
+		Dasmenid
+		Lensid
+		Sassaid
+		Skilid
+		Surkid
+		Kralid
+		Lirid
+		Passalid
+		Likkaid
+		Skenid
 	}
 
 	male_names = {
-	   Andinos Andios Anneses Annos Aplis Aploudos Aplos Apouros Baidaros Baizo Baizos Baolios Bardourios Bato Byoukos Byousas Bizo Bryoukos Karrios Daiekos Daitor Dasantos Dasios Dazomenos Dazos Epikaris Iettos Implaios Laidikalios Laidietis Laidos Labios Ledros Massurios Messios Messor Paio Panentios Panes Panto Pantos Plannios Plares Prorados Sarnos Skenobarbos Sestos Statanios Statikos Statos Souttis Temaios Tizios Tritonos Tritos Turelios Ulkidios Baranos Baridios Bendo Bepos Berzoulos
+	   Andinos Andios Anneses Annos Aplis Aploudos Aplos Apouros Baidaros Baizo Baizos Baolios Bardourios Bato 
+	   Byoukos Byousas Bizo Bryoukos Karrios Daiekos Daitor Dasantos Dasios Dazomenos Dazos Epikaris Iettos Implaios 
+	   Laidikalios Laidietis Laidos Labios Ledros Massurios Messios Messor Paio Panentios Panes Panto Pantos 
+	   Plannios Plares Prorados Sarnos Skenobarbos Sestos Statanios Statikos Statos Souttis Temaios Tizios 
+	   Tritonos Tritos Turelios Ulkidios Baranos Baridios Bendo Bepos Berzoulos
        Karbanios Germanos Labianos Pinsos Pladomenos Verzaieos # Of Dalmatian origin
        Anadros Bouzetios Ditos Loantios Pantadienos Plator Platourios Rufantius Sestenius Stennas Vendes # Used among the Japodes
        Tourranios Tourrinios Touros # Used among the Japodes; of Liburnian origin
@@ -1633,7 +1801,8 @@ name_list_illyrian = {
        Skenos # Used among the Jasi
 	}
 	female_names = {
-	   Andio Aplo Arbo Kallo Kato Kourbania Koursolabia Dasa Dasantilla Dasto Genthena Glabikida Iato Labinkia Likko Lossa Mabida Nebato Pantia Passia Promano Samountio Seio Sesto Stato Surio Soutta Tito Tritano Barro
+	   Andio Aplo Arbo Kallo Kato Kourbania Koursolabia Dasa Dasantilla Dasto Genthena Glabikida Iato Labinkia 
+	   Likko Lossa Mabida Nebato Pantia Passia Promano Samountio Seio Sesto Stato Surio Soutta Tito Tritano Barro
        Stataria Testo Tritto # Of Dalmatian origin
        Deidmou Dennaia Ditoueio Stennato Tatonia Vandano # Used among the Japodes
        Ammida Matera Maxa # Used among the Japodes; probably of Celtic origin

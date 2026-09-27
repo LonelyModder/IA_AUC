@@ -25,6 +25,9 @@
  sicanian:0 "Sicanian"
  sicanian_prefix:0 "Sicanian"
  sicanian_collective_noun:1 "Sicanians"
+ raetian:0 "Raetian"
+ raetian_prefix:0 "Raetian"
+ raetian_collective_noun:1 "Raetians"
  #Hellenic Group
  italiote:0 "Italiote"
  italiote_prefix:0 "Italiote"
@@ -205,13 +208,19 @@
  thracian_prefix:0 "Thracian"
  thracian_collective_noun:1 "Thracians"
  #Celtic
- celtic:0 "Celtic"
- celtic_prefix:0 "Celtic"
- celtic_collective_noun:1 "Celts"
+ pannonian:0 "Pannonian"
+ pannonian_prefix:0 "Pannonian"
+ pannonian_collective_noun:1 "Pannonians"
+ lepontic:0 "Lepontic"
+ lepontic_prefix:0 "Lepontic"
+ lepontic_collective_noun:1 "Lepontics"
  #Liburnian
  veneti:0 "Veneti"
  veneti_prefix:0 "Veneti"
  veneti_collective_noun:1 "Venetis"
+ histrian:0 "Histrian"
+ histrian_prefix:0 "Histrian"
+ histrian_collective_noun:1 "Histrians"
  #Hurrian
  qurkhan:0 "Qurkhan"
  qurkhan_prefix:0 "Qurkhan"
@@ -230,3 +239,8 @@
  kardunite:0 "Kardunite"
  kardunite_prefix:0 "Kardunite"
  kardunite_collective_noun:1 "Kardunites"
+ #Ligurian
+ eligurian:0 "Ligurian"
+ eligurian_prefix:0 "Ligurian"
+ eligurian_collective_noun:1 "Ligurians"
+ 

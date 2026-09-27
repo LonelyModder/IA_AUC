@@ -22232,3 +22232,8 @@ d_tuwana = {
 	color = { 240 240 250 }
 	landless = yes 
 }
+
+d_veneti = {
+	color = { 84 15 51 }
+	landless = yes 
+}

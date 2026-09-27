@@ -739,6 +739,24 @@ language_etruscan = {
 	color = italian
 }
 
+language_ligurian = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_ligurian
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_ligurian }
+			multiply = 10
+		}
+	}
+	
+	color = italian
+}
+
 language_greek = {
 	type = language
 	is_shown = {

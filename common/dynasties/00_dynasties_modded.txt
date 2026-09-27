@@ -1142,3 +1142,10 @@ kaskan_kattaku = {
 	culture = "kaskan"
 }
 
+#Veneti
+
+veneti_iaritid = {
+	name = "dynn_Iaritid"
+	culture = "kaskan"
+}
+
