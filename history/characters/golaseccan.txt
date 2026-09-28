@@ -1,0 +1,47 @@
+﻿2000372 = {
+	name = "Byoukos"
+	dynasty = golaseccan_divicus
+	religion = "celtic_pagan"
+	culture = golaseccan
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_golaseccan
+		add_pressed_claim = title:c_mediolanum
+		add_pressed_claim = title:c_novaria
+		add_pressed_claim = title:c_vercellae
+		add_pressed_claim = title:c_simnica
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000373 = {
+	name = "Panes"
+	dynasty = golaseccan_divicus
+	religion = "celtic_pagan"
+	culture = golaseccan
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_golaseccan
+		add_pressed_claim = title:c_mediolanum
+		add_pressed_claim = title:c_novaria
+		add_pressed_claim = title:c_vercellae
+		add_pressed_claim = title:c_simnica
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

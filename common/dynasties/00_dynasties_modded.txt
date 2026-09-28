@@ -1146,6 +1146,27 @@ kaskan_kattaku = {
 
 veneti_iaritid = {
 	name = "dynn_Iaritid"
-	culture = "kaskan"
+	culture = "veneti"
+}
+
+#Histrian
+
+histrian_ditid = {
+	name = "dynn_Ditid"
+	culture = "histrian"
+}
+
+#Carnian
+
+carnian_sarnid = {
+	name = "dynn_Sarnid"
+	culture = "carnian"
+}
+
+#Golaseccan
+
+golaseccan_divicus = {
+	name = "dynn_Divicus"
+	culture = "golaseccan"
 }
 

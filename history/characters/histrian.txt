@@ -1,0 +1,45 @@
+﻿2000368 = {
+	name = "Tritos"
+	dynasty = histrian_ditid
+	religion = "illyrian_pagan"
+	culture = histrian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_histria
+		add_pressed_claim = title:c_tergeste
+		add_pressed_claim = title:c_pola
+		add_pressed_claim = title:c_flanona
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000369 = {
+	name = "Montanos"
+	dynasty = histrian_ditid
+	religion = "illyrian_pagan"
+	culture = histrian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_histria
+		add_pressed_claim = title:c_tergeste
+		add_pressed_claim = title:c_pola
+		add_pressed_claim = title:c_flanona
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

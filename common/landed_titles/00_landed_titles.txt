@@ -22237,3 +22237,8 @@ d_veneti = {
 	color = { 84 15 51 }
 	landless = yes 
 }
+
+d_golaseccan = {
+	color = { 42 135 163 }
+	landless = yes 
+}

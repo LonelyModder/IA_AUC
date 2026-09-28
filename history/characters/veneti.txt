@@ -10,6 +10,13 @@
 	258.4.4 = {
 		add_pressed_claim = title:d_veneti
 		add_pressed_claim = title:c_patavium
+		add_pressed_claim = title:c_potelitana
+		add_pressed_claim = title:c_nalgia
+		add_pressed_claim = title:c_eucares
+		add_pressed_claim = title:c_memontium
+		add_pressed_claim = title:c_ionselia
+		add_pressed_claim = title:c_aquileia
+		add_pressed_claim = title:c_quogonia
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -31,6 +38,13 @@
 	437.4.21 = {
 		add_pressed_claim = title:d_veneti
 		add_pressed_claim = title:c_patavium
+		add_pressed_claim = title:c_potelitana
+		add_pressed_claim = title:c_nalgia
+		add_pressed_claim = title:c_eucares
+		add_pressed_claim = title:c_memontium
+		add_pressed_claim = title:c_ionselia
+		add_pressed_claim = title:c_aquileia
+		add_pressed_claim = title:c_quogonia
 	}
 	#437.4.21 = {
 	#	add_character_flag = do_not_generate_starting_family

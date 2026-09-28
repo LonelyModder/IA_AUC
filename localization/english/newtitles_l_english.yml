@@ -90,6 +90,7 @@
  d_katak:0 "Kaska"
  d_tuwana:0 "Tuwana" #Tabal?
  d_veneti:0 "Veneti"
+ d_golaseccan:0 "Golaseccan"
  # Empires
  e_westernrome:0 "Italia"
  e_africa:0 "Africa"
@@ -319,6 +320,7 @@
  d_deuria:0 "Deuria"
  # Couties
  c_drocubia:0 "Drocubia"
+ c_vercellae:0 "Vercellae"
  c_kish:0 "Kish"
  c_resaina:0 "Resaina"
  c_getri:0 "Getri"

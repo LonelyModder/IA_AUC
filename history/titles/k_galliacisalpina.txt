@@ -19,3 +19,225 @@ c_patavium = {
 		holder = 2000367
 	}
 }
+
+c_potelitana = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000366
+	}
+	437.4.21 = {
+		holder = 2000367
+	}
+}
+
+c_nalgia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000366
+	}
+	437.4.21 = {
+		holder = 2000367
+	}
+}
+
+c_eucares = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000366
+	}
+	437.4.21 = {
+		holder = 2000367
+	}
+}
+
+c_memontium = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000366
+	}
+	437.4.21 = {
+		holder = 2000367
+	}
+}
+
+c_ionselia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000366
+	}
+	437.4.21 = {
+		holder = 2000367
+	}
+}
+
+c_aquileia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000366
+	}
+	437.4.21 = {
+		holder = 2000367
+	}
+}
+
+c_quogonia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000366
+	}
+	437.4.21 = {
+		holder = 2000367
+	}
+}
+
+d_histria = {
+	
+	258.4.4 = {
+		holder = 2000368
+	}
+	437.4.21 = {
+		holder = 2000369
+	}
+}
+
+c_tergeste = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000368
+	}
+	437.4.21 = {
+		holder = 2000369
+	}
+}
+
+c_pola = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000368
+	}
+	437.4.21 = {
+		holder = 2000369
+	}
+}
+
+c_flanona = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000368
+	}
+	437.4.21 = {
+		holder = 2000369
+	}
+}
+
+d_carnia = {
+	
+	258.4.4 = {
+		holder = 2000370
+	}
+	437.4.21 = {
+		holder = 2000371
+	}
+}
+
+c_emona = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000370
+	}
+	437.4.21 = {
+		holder = 2000371
+	}
+}
+
+c_caenia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000370
+	}
+	437.4.21 = {
+		holder = 2000371
+	}
+}
+
+d_golaseccan = {
+	
+	258.4.4 = {
+		holder = 2000372
+	}
+	437.4.21 = {
+		holder = 2000373
+	}
+}
+
+c_mediolanum = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000372
+	}
+	437.4.21 = {
+		holder = 2000373
+	}
+}
+
+c_novaria = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000372
+	}
+	437.4.21 = {
+		holder = 2000373
+	}
+}
+
+c_vercellae = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000372
+	}
+	437.4.21 = {
+		holder = 2000373
+	}
+}
+
+c_simnica = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000372
+	}
+	437.4.21 = {
+		holder = 2000373
+	}
+}

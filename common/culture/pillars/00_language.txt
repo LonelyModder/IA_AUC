@@ -757,6 +757,24 @@ language_ligurian = {
 	color = italian
 }
 
+language_paleobalkan = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_paleobalkan
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_paleobalkan }
+			multiply = 10
+		}
+	}
+	
+	color = italian
+}
+
 language_greek = {
 	type = language
 	is_shown = {

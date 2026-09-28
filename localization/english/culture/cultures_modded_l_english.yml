@@ -214,10 +214,17 @@
  lepontic:0 "Lepontic"
  lepontic_prefix:0 "Lepontic"
  lepontic_collective_noun:1 "Lepontics"
+ golaseccan:0 "Golaseccan"
+ golaseccan_prefix:0 "Golaseccan"
+ golaseccan_collective_noun:1 "Golaseccans"
  #Liburnian
  veneti:0 "Veneti"
  veneti_prefix:0 "Veneti"
  veneti_collective_noun:1 "Venetis"
+ carnian:0 "Carnian"
+ carnian_prefix:0 "Carnian"
+ carnian_collective_noun:1 "Carnians"
+ #Paleo-Balkan
  histrian:0 "Histrian"
  histrian_prefix:0 "Histrian"
  histrian_collective_noun:1 "Histrians"

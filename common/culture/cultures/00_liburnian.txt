@@ -51,7 +51,7 @@ veneti = {
 	}
 }
 
-histrian = {
+carnian = {
 	color = { 0.33 0.41 0.47 }
 	
 	parents = { liburnian_group }
