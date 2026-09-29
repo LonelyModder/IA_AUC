@@ -1170,3 +1170,17 @@ golaseccan_divicus = {
 	culture = "golaseccan"
 }
 
+#Vindelician
+
+vindelician_vodenosus = {
+	name = "dynn_Vodenosus"
+	culture = "vindelician"
+}
+
+#Ligurian
+
+eligurian_meticanius = {
+	name = "dynn_Meticanius"
+	culture = "eligurian"
+}
+

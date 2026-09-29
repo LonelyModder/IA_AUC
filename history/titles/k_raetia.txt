@@ -1,0 +1,57 @@
+d_brigantia = {
+	
+	258.4.4 = {
+		holder = 2000374
+	}
+	437.4.21 = {
+		holder = 2000375
+	}
+}
+
+c_brigantium = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000374
+	}
+	437.4.21 = {
+		holder = 2000375
+	}
+}
+
+c_clunia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000374
+	}
+	437.4.21 = {
+		holder = 2000375
+	}
+}
+
+c_macitamia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000374
+	}
+	437.4.21 = {
+		holder = 2000375
+	}
+}
+
+c_cambodunum = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000374
+	}
+	437.4.21 = {
+		holder = 2000375
+	}
+}

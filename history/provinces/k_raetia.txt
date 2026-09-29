@@ -65,8 +65,8 @@
 }
 
 603 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = vindelician
+	religion = celtic_pagan
 	holding = none
 }
 
@@ -89,8 +89,8 @@
 }
 
 607 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = vindelician
+	religion = celtic_pagan
 	holding = none
 }
 
@@ -119,8 +119,8 @@
 }
 
 564 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = vindelician
+	religion = celtic_pagan
 	holding = none
 }
 
@@ -203,8 +203,8 @@
 }
 
 615 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = vindelician
+	religion = celtic_pagan
 	holding = none
 }
 

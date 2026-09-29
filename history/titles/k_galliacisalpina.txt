@@ -241,3 +241,15 @@ c_simnica = {
 		holder = 2000373
 	}
 }
+
+c_genua = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000376
+	}
+	437.4.21 = {
+		holder = 2000377
+	}
+}
