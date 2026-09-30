@@ -92,6 +92,7 @@
 		add_pressed_claim = title:c_waset
 		add_pressed_claim = title:c_hierakonpolis
 		add_pressed_claim = title:c_komombo
+		set_realm_capital = title:c_waset
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -206,6 +207,7 @@
 		add_pressed_claim = title:c_waset
 		add_pressed_claim = title:c_hierakonpolis
 		add_pressed_claim = title:c_komombo
+		set_realm_capital = title:c_waset
 	}
 	#437.4.21 = {
 	#	add_character_flag = do_not_generate_starting_family

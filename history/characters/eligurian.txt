@@ -37,3 +37,417 @@
 		death = "469.1.1"
 	}
 }
+
+2000378 = {
+	name = "Marcellus"
+	dynasty = eligurian_acelius
+	religion = "ligurian_pagan"
+	culture = eligurian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_albium
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000379 = {
+	name = "Vigilius"
+	dynasty = eligurian_acelius
+	religion = "ligurian_pagan"
+	culture = eligurian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_albium
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000380 = {
+	name = "Severinus"
+	dynasty = eligurian_edanius
+	religion = "ligurian_pagan"
+	culture = eligurian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_taurini
+		add_pressed_claim = title:c_taurasia
+		add_pressed_claim = title:c_taurinorum
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000381 = {
+	name = "Joannes"
+	dynasty = eligurian_edanius
+	religion = "ligurian_pagan"
+	culture = eligurian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_taurini
+		add_pressed_claim = title:c_taurasia
+		add_pressed_claim = title:c_taurinorum
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000382 = {
+	name = "Caecilius"
+	dynasty = eligurian_ponelius
+	religion = "ligurian_pagan"
+	culture = eligurian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_friniates
+		add_pressed_claim = title:c_iamnium
+		add_pressed_claim = title:c_dansamnica
+		add_pressed_claim = title:c_luca
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000383 = {
+	name = "Magnus"
+	dynasty = eligurian_ponelius
+	religion = "ligurian_pagan"
+	culture = eligurian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_friniates
+		add_pressed_claim = title:c_iamnium
+		add_pressed_claim = title:c_dansamnica
+		add_pressed_claim = title:c_luca
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000384 = {
+	name = "Oxybus"
+	dynasty = eligurian_oxybios
+	religion = "ligurian_pagan"
+	culture = eligurian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_bivia
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000385 = {
+	name = "Annius"
+	dynasty = eligurian_oxybios
+	religion = "ligurian_pagan"
+	culture = eligurian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_bivia
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000386 = {
+	name = "Numerian"
+	dynasty = eligurian_veturius
+	religion = "ligurian_pagan"
+	culture = eligurian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_iepemnium
+		add_pressed_claim = title:c_custria
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000387 = {
+	name = "Priscus"
+	dynasty = eligurian_veturius
+	religion = "ligurian_pagan"
+	culture = eligurian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_iepemnium
+		add_pressed_claim = title:c_custria
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000388 = {
+	name = "Urbanus"
+	dynasty = eligurian_ledonius
+	religion = "ligurian_pagan"
+	culture = eligurian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_ledonia
+		add_pressed_claim = title:c_mermabia
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000389 = {
+	name = "Vigilius"
+	dynasty = eligurian_ledonius
+	religion = "ligurian_pagan"
+	culture = eligurian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_ledonia
+		add_pressed_claim = title:c_mermabia
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000390 = {
+	name = "Sergius"
+	dynasty = eligurian_lunius
+	religion = "ligurian_pagan"
+	culture = eligurian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_luna
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000391 = {
+	name = "Pennus"
+	dynasty = eligurian_lunius
+	religion = "ligurian_pagan"
+	culture = eligurian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_luna
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000394 = {
+	name = "Nepotian"
+	dynasty = eligurian_eburiatus
+	religion = "ligurian_pagan"
+	culture = eligurian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_renae
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000395 = {
+	name = "Rufinus"
+	dynasty = eligurian_eburiatus
+	religion = "ligurian_pagan"
+	culture = eligurian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_renae
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000396 = {
+	name = "Vigilius"
+	dynasty = eligurian_bimbellius
+	religion = "ligurian_pagan"
+	culture = eligurian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_dertona
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000397 = {
+	name = "Gallus"
+	dynasty = eligurian_bimbellius
+	religion = "ligurian_pagan"
+	culture = eligurian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_dertona
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000398 = {
+	name = "Gracchus"
+	dynasty = eligurian_cosmonatius
+	religion = "ligurian_pagan"
+	culture = eligurian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_parma
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000399 = {
+	name = "Pontianus"
+	dynasty = eligurian_cosmonatius
+	religion = "ligurian_pagan"
+	culture = eligurian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_parma
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

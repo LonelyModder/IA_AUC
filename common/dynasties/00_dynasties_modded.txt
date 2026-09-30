@@ -1184,3 +1184,61 @@ eligurian_meticanius = {
 	culture = "eligurian"
 }
 
+eligurian_acelius = {
+	name = "dynn_Acelius"
+	culture = "eligurian"
+}
+
+eligurian_edanius = {
+	name = "dynn_Edanius"
+	culture = "eligurian"
+}
+
+eligurian_ponelius = {
+	name = "dynn_Ponelius"
+	culture = "eligurian"
+}
+
+eligurian_oxybios = {
+	name = "dynn_Oxybios"
+	culture = "eligurian"
+}
+
+eligurian_veturius = {
+	name = "dynn_Veturius"
+	culture = "eligurian"
+}
+
+eligurian_ledonius = {
+	name = "dynn_Ledonius"
+	culture = "eligurian"
+}
+
+eligurian_lunius = {
+	name = "dynn_Lunius"
+	culture = "eligurian"
+}
+
+eligurian_eburiatus = {
+	name = "dynn_Eburiatus"
+	culture = "eligurian"
+}
+
+eligurian_bimbellius = {
+	name = "dynn_Bimbellius"
+	culture = "eligurian"
+}
+
+eligurian_cosmonatius = {
+	name = "dynn_Cosmonatius"
+	culture = "eligurian"
+}
+
+#Celto-Ligurian
+
+celtoligurian_vagiennus = {
+	name = "dynn_Vagiennus"
+	culture = "celtoligurian"
+}
+
+

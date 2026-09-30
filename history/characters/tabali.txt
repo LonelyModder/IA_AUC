@@ -51,6 +51,7 @@
 		add_pressed_claim = title:c_khillika
 		add_pressed_claim = title:c_erethrydna
 		add_pressed_claim = title:c_getri
+		set_realm_capital = title:c_khillika
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -73,6 +74,7 @@
 		add_pressed_claim = title:c_khillika
 		add_pressed_claim = title:c_erethrydna
 		add_pressed_claim = title:c_getri
+		set_realm_capital = title:c_khillika
 	}
 	#437.4.21 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -94,6 +96,7 @@
 	258.4.4 = {
 		add_pressed_claim = title:c_ishunda
 		add_pressed_claim = title:c_paieus
+		set_realm_capital = title:c_ishunda
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -115,6 +118,7 @@
 	437.4.21 = {
 		add_pressed_claim = title:c_ishunda
 		add_pressed_claim = title:c_paieus
+		set_realm_capital = title:c_ishunda
 	}
 	#437.4.21 = {
 	#	add_character_flag = do_not_generate_starting_family

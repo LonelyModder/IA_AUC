@@ -22242,3 +22242,13 @@ d_golaseccan = {
 	color = { 42 135 163 }
 	landless = yes 
 }
+
+d_taurini = {
+	color = { 84 63 151 }
+	landless = yes 
+}
+
+d_friniates = {
+	color = { 84 126 226 }
+	landless = yes 
+}
