@@ -23,7 +23,7 @@
 }
 
 pannonian = {
-	color = { 0.37 0.62 0.63 }
+	color = { 0.55 0.71 0.0 }
 	
 	parents = { celtic_group }
 	
@@ -52,7 +52,7 @@ pannonian = {
 }
 
 lepontic = {
-	color = { 0.37 0.62 0.63 }
+	color = { 0.44 0.71 0.0 }
 	
 	parents = { celtic_group }
 	
@@ -81,7 +81,7 @@ lepontic = {
 }
 
 golaseccan = {
-	color = { 0.37 0.62 0.63 }
+	color = { 0.33 0.71 0.0 }
 	
 	parents = { celtic_group }
 	
@@ -110,7 +110,7 @@ golaseccan = {
 }
 
 vindelician = {
-	color = { 0.37 0.62 0.63 }
+	color = { 0.22 0.71 0.0 }
 	
 	parents = { celtic_group }
 	
@@ -139,7 +139,7 @@ vindelician = {
 }
 
 celtoligurian = {
-	color = { 0.37 0.62 0.63 }
+	color = { 0.11 0.71 0.0 }
 	
 	parents = { celtic_group }
 	

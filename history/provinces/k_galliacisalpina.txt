@@ -797,9 +797,9 @@
 }
 
 456 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = celtoligurian
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 457 = {		

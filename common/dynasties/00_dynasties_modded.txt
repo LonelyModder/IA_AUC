@@ -1241,4 +1241,9 @@ celtoligurian_vagiennus = {
 	culture = "celtoligurian"
 }
 
+celtoligurian_graiocelius = {
+	name = "dynn_Graiocelius"
+	culture = "celtoligurian"
+}
+
 
