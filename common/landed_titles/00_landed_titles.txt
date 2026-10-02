@@ -22252,3 +22252,8 @@ d_friniates = {
 	color = { 84 126 226 }
 	landless = yes 
 }
+
+d_vindelicians = {
+	color = { 0 156 10 }
+	landless = yes 
+}

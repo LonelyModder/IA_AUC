@@ -1170,10 +1170,25 @@ golaseccan_divicus = {
 	culture = "golaseccan"
 }
 
+golaseccan_eponius = {
+	name = "dynn_Eponius"
+	culture = "golaseccan"
+}
+
 #Vindelician
 
 vindelician_vodenosus = {
 	name = "dynn_Vodenosus"
+	culture = "vindelician"
+}
+
+vindelician_vindelicius = {
+	name = "dynn_Vindelicius"
+	culture = "vindelician"
+}
+
+vindelician_alaunus = {
+	name = "dynn_Alaunus"
 	culture = "vindelician"
 }
 
@@ -1244,6 +1259,13 @@ celtoligurian_vagiennus = {
 celtoligurian_graiocelius = {
 	name = "dynn_Graiocelius"
 	culture = "celtoligurian"
+}
+
+#Vallensian
+
+vallensian_uberius = {
+	name = "dynn_Uberius"
+	culture = "vallensian"
 }
 
 

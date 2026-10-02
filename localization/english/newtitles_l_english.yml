@@ -93,6 +93,7 @@
  d_golaseccan:0 "Golasecca"
  d_taurini:0 "Taurini"
  d_friniates:0 "Friniates"
+ d_vindelicians:0 "Vindelicians"
  # Empires
  e_westernrome:0 "Italia"
  e_africa:0 "Africa"
@@ -441,8 +442,8 @@
  c_eurtobia:0 "Eurtobia"
  c_comum:0 "Comum"
  c_cremona:0 "Cremona"
- c_iane:0 "Iane"
- c_hamnica:0 "Hamnica"
+ c_iane:0 "Uberia"
+ c_hamnica:0 "Eponia"
  c_norus:0 "Graiocelia"
  c_segusio:0 "Segusinia"
  c_taurinorum:0 "Taurinorum"

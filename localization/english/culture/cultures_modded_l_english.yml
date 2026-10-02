@@ -223,6 +223,9 @@
  celtoligurian:0 "Celto-Ligurian"
  celtoligurian_prefix:0 "Celto-Ligurian"
  celtoligurian_collective_noun:1 "Celto-Ligurians"
+ vallensian:0 "Vallensian"
+ vallensian_prefix:0 "Vallensian"
+ vallensian_collective_noun:1 "Vallensians"
  #Liburnian
  veneti:0 "Veneti"
  veneti_prefix:0 "Veneti"

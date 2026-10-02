@@ -271,8 +271,11 @@
  dynn_Sarnid:0 "Sarnid"
  #Golaseccan
  dynn_Divicus:0 "Divicus"
+ dynn_Eponius:0 "Eponius"
  #Vindelician
  dynn_Vodenosus:0 "Vodenosus"
+ dynn_Vindelicius:0 "Vindelicius"
+ dynn_Alaunus:0 "Alaunus"
  #Ligurian
  dynn_Meticanius:0 "Meticanius"
  dynn_Acelius:0 "Acelius"
@@ -288,3 +291,5 @@
  #Celto-Ligurian
  dynn_Vagiennus:0 "Vagiennus"
  dynn_Graiocelius:0 "Graiocelius"
+ #Vallensian
+ dynn_Uberius:0 "Uberius"

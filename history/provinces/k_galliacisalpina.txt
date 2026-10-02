@@ -887,9 +887,9 @@
 }
 
 471 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = vallensian
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 472 = {		
@@ -905,9 +905,9 @@
 }
 
 474 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = golaseccan
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 475 = {		

@@ -23,7 +23,7 @@
 }
 
 eligurian = {
-	color = { 0.13 0.99 0.64 }
+	color = { 0.44 0.16 0.39 }
 	
 	parents = { ligurian_group }
 	
