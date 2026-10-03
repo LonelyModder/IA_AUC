@@ -269,9 +269,9 @@
 }
 
 501 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = eugeneian
+	religion = etruscan_pagan
+	holding = tribal_holding
 }
 
 506 = {		
@@ -377,9 +377,9 @@
 }
 
 496 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = eugeneian
+	religion = etruscan_pagan
+	holding = tribal_holding
 }
 
 498 = {		
@@ -737,8 +737,8 @@
 }
 
 446 = {		
-	culture = eligurian
-	religion = ligurian_pagan
+	culture = celtoligurian
+	religion = celtic_pagan
 	holding = tribal_holding
 }
 
@@ -767,8 +767,8 @@
 }
 
 451 = {		
-	culture = eligurian
-	religion = ligurian_pagan
+	culture = celtoligurian
+	religion = celtic_pagan
 	holding = tribal_holding
 }
 

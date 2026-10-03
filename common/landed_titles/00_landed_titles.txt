@@ -22257,3 +22257,8 @@ d_vindelicians = {
 	color = { 0 156 10 }
 	landless = yes 
 }
+
+d_cammuni = {
+	color = { 84 168 41 }
+	landless = yes 
+}

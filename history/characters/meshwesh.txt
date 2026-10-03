@@ -84,12 +84,12 @@
 	}
 	268.1.1 = {
 		add_pressed_claim = title:d_hpamun
+		add_pressed_claim = title:c_waset
 		add_pressed_claim = title:c_asyut
 		add_pressed_claim = title:c_qau
 		add_pressed_claim = title:c_abydos
 		add_pressed_claim = title:c_dendera
 		add_pressed_claim = title:c_nadjurmeru
-		add_pressed_claim = title:c_waset
 		add_pressed_claim = title:c_hierakonpolis
 		add_pressed_claim = title:c_komombo
 		set_realm_capital = title:c_waset
@@ -199,12 +199,12 @@
 	}
 	435.1.1 = {
 		add_pressed_claim = title:d_hpamun
+		add_pressed_claim = title:c_waset
 		add_pressed_claim = title:c_asyut
 		add_pressed_claim = title:c_qau
 		add_pressed_claim = title:c_abydos
 		add_pressed_claim = title:c_dendera
 		add_pressed_claim = title:c_nadjurmeru
-		add_pressed_claim = title:c_waset
 		add_pressed_claim = title:c_hierakonpolis
 		add_pressed_claim = title:c_komombo
 		set_realm_capital = title:c_waset

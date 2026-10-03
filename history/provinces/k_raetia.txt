@@ -67,7 +67,7 @@
 603 = {		
 	culture = vindelician
 	religion = celtic_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 604 = {		
@@ -91,7 +91,7 @@
 607 = {		
 	culture = vindelician
 	religion = celtic_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 616 = {		
@@ -121,7 +121,7 @@
 564 = {		
 	culture = vindelician
 	religion = celtic_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 566 = {		
@@ -191,9 +191,9 @@
 }
 
 617 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = vindelician
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 618 = {		
@@ -205,7 +205,7 @@
 615 = {		
 	culture = vindelician
 	religion = celtic_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 610 = {		
@@ -245,9 +245,9 @@
 }
 
 622 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = vindelician
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 623 = {		
@@ -269,9 +269,9 @@
 }
 
 632 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = vindelician
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 633 = {		
@@ -293,9 +293,9 @@
 }
 
 624 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = vindelician
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 625 = {		
@@ -347,9 +347,9 @@
 }
 
 638 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = vindelician
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 639 = {		
@@ -383,9 +383,9 @@
 }
 
 644 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = vindelician
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 645 = {		

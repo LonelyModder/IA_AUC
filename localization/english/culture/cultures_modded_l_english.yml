@@ -28,6 +28,12 @@
  raetian:0 "Raetian"
  raetian_prefix:0 "Raetian"
  raetian_collective_noun:1 "Raetians"
+ eugeneian:0 "Eugeneian"
+ eugeneian_prefix:0 "Eugeneian"
+ eugeneian_collective_noun:1 "Eugeneians"
+ cammunian:0 "Cammunian"
+ cammunian_prefix:0 "Cammunian"
+ cammunian_collective_noun:1 "Cammunians"
  #Hellenic Group
  italiote:0 "Italiote"
  italiote_prefix:0 "Italiote"

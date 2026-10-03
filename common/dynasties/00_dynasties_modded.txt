@@ -1204,11 +1204,6 @@ eligurian_acelius = {
 	culture = "eligurian"
 }
 
-eligurian_edanius = {
-	name = "dynn_Edanius"
-	culture = "eligurian"
-}
-
 eligurian_ponelius = {
 	name = "dynn_Ponelius"
 	culture = "eligurian"
@@ -1261,11 +1256,23 @@ celtoligurian_graiocelius = {
 	culture = "celtoligurian"
 }
 
+celtoligurian_edanius = {
+	name = "dynn_Edanius"
+	culture = "celtoligurian"
+}
+
 #Vallensian
 
 vallensian_uberius = {
 	name = "dynn_Uberius"
 	culture = "vallensian"
+}
+
+#Eugeneian
+
+eugeneian_meluta = {
+	name = "dynn_Meluta"
+	culture = "eugeneian"
 }
 
 

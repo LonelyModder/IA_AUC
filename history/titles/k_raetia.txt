@@ -55,3 +55,85 @@ c_cambodunum = {
 		holder = 2000375
 	}
 }
+
+d_vindelicians = {
+	
+	258.4.4 = {
+		holder = 2000406
+	}
+	437.4.21 = {
+		holder = 2000407
+	}
+}
+
+c_vindelicum = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000406
+	}
+	437.4.21 = {
+		holder = 2000407
+	}
+}
+
+c_domabia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000406
+	}
+	437.4.21 = {
+		holder = 2000407
+	}
+}
+
+c_domasia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000406
+	}
+	437.4.21 = {
+		holder = 2000407
+	}
+}
+
+c_ibia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000406
+	}
+	437.4.21 = {
+		holder = 2000407
+	}
+}
+
+c_castra_regina = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000406
+	}
+	437.4.21 = {
+		holder = 2000407
+	}
+}
+
+c_caltitania = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000406
+	}
+	437.4.21 = {
+		holder = 2000407
+	}
+}

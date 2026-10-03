@@ -56,7 +56,13 @@
 		birth = "221.1.1"
 	}
 	258.4.4 = {
-		#add_pressed_claim = title:d_vindelicians
+		add_pressed_claim = title:d_vindelicians
+		add_pressed_claim = title:c_vindelicum
+		add_pressed_claim = title:c_domabia
+		add_pressed_claim = title:c_domasia
+		add_pressed_claim = title:c_ibia
+		add_pressed_claim = title:c_castra_regina
+		add_pressed_claim = title:c_caltitania
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -76,7 +82,13 @@
 		birth = "401.1.1"
 	}
 	437.4.21 = {
-		#add_pressed_claim = title:d_vindelicians
+		add_pressed_claim = title:d_vindelicians
+		add_pressed_claim = title:c_vindelicum
+		add_pressed_claim = title:c_domabia
+		add_pressed_claim = title:c_domasia
+		add_pressed_claim = title:c_ibia
+		add_pressed_claim = title:c_castra_regina
+		add_pressed_claim = title:c_caltitania
 	}
 	#437.4.21 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -96,7 +108,7 @@
 		birth = "221.1.1"
 	}
 	258.4.4 = {
-		#add_pressed_claim = title:d_vindelicians
+		add_pressed_claim = title:c_iacum
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -116,7 +128,7 @@
 		birth = "401.1.1"
 	}
 	437.4.21 = {
-		#add_pressed_claim = title:d_vindelicians
+		add_pressed_claim = title:c_iacum
 	}
 	#437.4.21 = {
 	#	add_character_flag = do_not_generate_starting_family

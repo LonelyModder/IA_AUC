@@ -143,9 +143,9 @@
 }
 
 648 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = vindelician
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 649 = {		

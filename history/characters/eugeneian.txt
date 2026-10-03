@@ -1,0 +1,41 @@
+﻿2000410 = {
+	name = "Arunth"
+	dynasty = eugeneian_meluta
+	religion = "etruscan_pagan"
+	culture = eugeneian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_vicetia
+		add_pressed_claim = title:c_sivia
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000411 = {
+	name = "Pesna"
+	dynasty = eugeneian_meluta
+	religion = "etruscan_pagan"
+	culture = eugeneian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_vicetia
+		add_pressed_claim = title:c_sivia
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
