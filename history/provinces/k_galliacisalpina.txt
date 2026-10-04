@@ -329,15 +329,15 @@
 }
 
 487 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = cammunian
+	religion = etruscan_pagan
+	holding = tribal_holding
 }
 
 483 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = cammunian
+	religion = etruscan_pagan
+	holding = tribal_holding
 }
 
 484 = {		
@@ -359,9 +359,9 @@
 }
 
 491 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = eugeneian
+	religion = etruscan_pagan
+	holding = tribal_holding
 }
 
 538 = {		
@@ -395,9 +395,9 @@
 }
 
 479 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = cammunian
+	religion = etruscan_pagan
+	holding = tribal_holding
 }
 
 480 = {		
@@ -407,9 +407,9 @@
 }
 
 481 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = cammunian
+	religion = etruscan_pagan
+	holding = tribal_holding
 }
 
 482 = {		

@@ -52,7 +52,7 @@ etruscan = {
 }
 
 picentian = { 
-	color = { 0.13 0.86 0.82 }
+	color = { 0.20 0.99 0.64 }
 
 	parents = { villanovan_group }
 
@@ -81,7 +81,7 @@ picentian = {
 }
 
 sicanian = { 
-	color = { 0.13 0.86 0.82 }
+	color = { 0.30 0.99 0.64 }
 
 	parents = { villanovan_group }
 
@@ -110,7 +110,7 @@ sicanian = {
 }
 
 raetian = { 
-	color = { 0.13 0.86 0.82 }
+	color = { 0.40 0.99 0.64 }
 
 	parents = { villanovan_group }
 
@@ -139,7 +139,7 @@ raetian = {
 }
 
 eugeneian = { 
-	color = { 0.13 0.86 0.82 }
+	color = { 0.50 0.99 0.64 }
 
 	parents = { villanovan_group }
 
@@ -168,7 +168,7 @@ eugeneian = {
 }
 
 cammunian = { 
-	color = { 0.13 0.86 0.82 }
+	color = { 0.60 0.99 0.64 }
 
 	parents = { villanovan_group }
 

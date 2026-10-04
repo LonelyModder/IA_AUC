@@ -10,6 +10,9 @@
 	258.4.4 = {
 		add_pressed_claim = title:d_cammuni
 		add_pressed_claim = title:c_brixia
+		add_pressed_claim = title:c_comum
+		add_pressed_claim = title:c_cremona
+		add_pressed_claim = title:c_mantua
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -31,6 +34,9 @@
 	437.4.21 = {
 		add_pressed_claim = title:d_cammuni
 		add_pressed_claim = title:c_brixia
+		add_pressed_claim = title:c_comum
+		add_pressed_claim = title:c_cremona
+		add_pressed_claim = title:c_mantua
 	}
 	#437.4.21 = {
 	#	add_character_flag = do_not_generate_starting_family

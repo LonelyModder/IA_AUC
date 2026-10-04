@@ -29,6 +29,11 @@ elymian_salonius = {
 
 #Etruscan
 
+etruscan_apatru = {
+	name = "dynn_Apatru"
+	culture = "etruscan"
+}
+
 etruscan_tarchna = {
 	name = "dynn_Tarchna"
 	culture = "etruscan"

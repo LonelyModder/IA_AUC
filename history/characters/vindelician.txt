@@ -59,7 +59,7 @@
 		add_pressed_claim = title:d_vindelicians
 		add_pressed_claim = title:c_vindelicum
 		add_pressed_claim = title:c_domabia
-		add_pressed_claim = title:c_domasia
+		add_pressed_claim = title:c_damasia
 		add_pressed_claim = title:c_ibia
 		add_pressed_claim = title:c_castra_regina
 		add_pressed_claim = title:c_caltitania
@@ -85,7 +85,7 @@
 		add_pressed_claim = title:d_vindelicians
 		add_pressed_claim = title:c_vindelicum
 		add_pressed_claim = title:c_domabia
-		add_pressed_claim = title:c_domasia
+		add_pressed_claim = title:c_damasia
 		add_pressed_claim = title:c_ibia
 		add_pressed_claim = title:c_castra_regina
 		add_pressed_claim = title:c_caltitania

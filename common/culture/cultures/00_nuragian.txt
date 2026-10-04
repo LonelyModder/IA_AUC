@@ -23,7 +23,7 @@
 }
 
 ioleian = {
-	color = { 0.80 0.58 0.87 }
+	color = { 0.0 0.18 0.39 }
 	
 	parents = { nuragian_group }
 	
@@ -52,7 +52,7 @@ ioleian = {
 }
 
 balarian = {
-	color = { 0.80 0.58 0.87 }
+	color = { 0.1 0.18 0.39 }
 	
 	parents = { nuragian_group }
 	
@@ -81,7 +81,7 @@ balarian = {
 }
 
 corsian = {
-	color = { 0.80 0.58 0.87 }
+	color = { 0.2 0.18 0.39 }
 	
 	parents = { nuragian_group }
 	
@@ -110,7 +110,7 @@ corsian = {
 }
 
 talayotan = {
-	color = { 0.80 0.58 0.87 }
+	color = { 0.3 0.18 0.39 }
 	
 	parents = { nuragian_group }
 	

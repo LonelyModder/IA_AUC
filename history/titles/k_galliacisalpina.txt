@@ -513,3 +513,85 @@ c_vicetia = {
 		holder = 2000411
 	}
 }
+
+c_sivia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000410
+	}
+	437.4.21 = {
+		holder = 2000411
+	}
+}
+
+c_verona = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000410
+	}
+	437.4.21 = {
+		holder = 2000411
+	}
+}
+
+d_cammuni = {
+	
+	258.4.4 = {
+		holder = 2000412
+	}
+	437.4.21 = {
+		holder = 2000413
+	}
+}
+
+c_brixia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000412
+	}
+	437.4.21 = {
+		holder = 2000413
+	}
+}
+
+c_comum = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000412
+	}
+	437.4.21 = {
+		holder = 2000413
+	}
+}
+
+c_cremona = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000412
+	}
+	437.4.21 = {
+		holder = 2000413
+	}
+}
+
+c_mantua = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000412
+	}
+	437.4.21 = {
+		holder = 2000413
+	}
+}
