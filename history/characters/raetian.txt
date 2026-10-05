@@ -1,1 +1,135 @@
-﻿
+﻿2000414 = {
+	name = "Arzni"
+	dynasty = raetian_zili
+	religion = "etruscan_pagan"
+	culture = raetian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_vennonetes
+		add_pressed_claim = title:c_eurtobia
+		add_pressed_claim = title:c_catiae
+		add_pressed_claim = title:c_quolatus
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000415 = {
+	name = "Thucer"
+	dynasty = raetian_zili
+	religion = "etruscan_pagan"
+	culture = raetian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_vennonetes
+		add_pressed_claim = title:c_eurtobia
+		add_pressed_claim = title:c_catiae
+		add_pressed_claim = title:c_quolatus
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000416 = {
+	name = "Carthasie"
+	dynasty = raetian_verate
+	religion = "etruscan_pagan"
+	culture = raetian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_vennones
+		add_pressed_claim = title:c_curia
+		add_pressed_claim = title:c_aelevia
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000417 = {
+	name = "Plikasnas"
+	dynasty = raetian_verate
+	religion = "etruscan_pagan"
+	culture = raetian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_vennones
+		add_pressed_claim = title:c_curia
+		add_pressed_claim = title:c_aelevia
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000418 = {
+	name = "Marce"
+	dynasty = raetian_vete
+	religion = "etruscan_pagan"
+	culture = raetian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_venostes
+		add_pressed_claim = title:c_tanae
+		add_pressed_claim = title:c_lillia
+		add_pressed_claim = title:c_mentus
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000419 = {
+	name = "Scarpe"
+	dynasty = raetian_vete
+	religion = "etruscan_pagan"
+	culture = raetian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_venostes
+		add_pressed_claim = title:c_tanae
+		add_pressed_claim = title:c_lillia
+		add_pressed_claim = title:c_mentus
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

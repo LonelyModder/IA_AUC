@@ -595,3 +595,49 @@ c_mantua = {
 		holder = 2000413
 	}
 }
+
+d_vennonetes = {
+	
+	258.4.4 = {
+		holder = 2000414
+	}
+	437.4.21 = {
+		holder = 2000415
+	}
+}
+
+c_eurtobia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000414
+	}
+	437.4.21 = {
+		holder = 2000415
+	}
+}
+
+c_catiae = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000414
+	}
+	437.4.21 = {
+		holder = 2000415
+	}
+}
+
+c_lillia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000418
+	}
+	437.4.21 = {
+		holder = 2000419
+	}
+}

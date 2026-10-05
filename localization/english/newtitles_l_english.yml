@@ -95,6 +95,12 @@
  d_friniates:0 "Friniates"
  d_vindelicians:0 "Vindelicians"
  d_cammuni:0 "Cammuni"
+ d_vennonetes:0 "Vennonetes"
+ d_vennones:0 "Vennones"
+ d_venostes:0 "Venostes"
+ d_breuni:0 "Breuni"
+ d_isarci:0 "Isarci"
+ d_raeti:0 "Raeti"
  # Empires
  e_westernrome:0 "Italia"
  e_africa:0 "Africa"

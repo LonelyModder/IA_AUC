@@ -22262,3 +22262,33 @@ d_cammuni = {
 	color = { 84 168 41 }
 	landless = yes 
 }
+
+d_vennonetes = {
+	color = { 126 108 194 }
+	landless = yes 
+}
+
+d_vennones = {
+	color = { 42 177 78 }
+	landless = yes 
+}
+
+d_venostes = {
+	color = { 126 108 194 }
+	landless = yes 
+}
+
+d_breuni = {
+	color = { 126 108 194 }
+	landless = yes 
+}
+
+d_isarci = {
+	color = { 126 108 194 }
+	landless = yes 
+}
+
+d_raeti = {
+	color = { 126 108 194 }
+	landless = yes 
+}

@@ -1280,4 +1280,28 @@ eugeneian_meluta = {
 	culture = "eugeneian"
 }
 
+#Cammunian
+
+cammunian_cammunius = {
+	name = "dynn_Cammunius"
+	culture = "cammunian"
+}
+
+#Raetian
+
+raetian_zili = {
+	name = "dynn_Zili"
+	culture = "raetian"
+}
+
+raetian_verate = {
+	name = "dynn_Verate"
+	culture = "raetian"
+}
+
+raetian_vete = {
+	name = "dynn_Vete"
+	culture = "raetian"
+}
+
 

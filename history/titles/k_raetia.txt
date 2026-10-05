@@ -137,3 +137,83 @@ c_caltitania = {
 		holder = 2000407
 	}
 }
+
+c_quolatus = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000414
+	}
+	437.4.21 = {
+		holder = 2000415
+	}
+}
+
+d_vennones = {
+	
+	258.4.4 = {
+		holder = 2000416
+	}
+	437.4.21 = {
+		holder = 2000417
+	}
+}
+
+c_curia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000416
+	}
+	437.4.21 = {
+		holder = 2000417
+	}
+}
+
+c_aelevia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000416
+	}
+	437.4.21 = {
+		holder = 2000417
+	}
+}
+
+d_venostes = {
+	
+	258.4.4 = {
+		holder = 2000418
+	}
+	437.4.21 = {
+		holder = 2000419
+	}
+}
+
+c_tanae = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000418
+	}
+	437.4.21 = {
+		holder = 2000419
+	}
+}
+
+c_mentus = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000418
+	}
+	437.4.21 = {
+		holder = 2000419
+	}
+}
