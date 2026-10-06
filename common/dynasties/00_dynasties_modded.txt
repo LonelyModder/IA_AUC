@@ -1304,4 +1304,19 @@ raetian_vete = {
 	culture = "raetian"
 }
 
+raetian_vestirci = {
+	name = "dynn_Vestirci"
+	culture = "raetian"
+}
+
+raetian_ulzna = {
+	name = "dynn_Ulzna"
+	culture = "raetian"
+}
+
+raetian_vipinans = {
+	name = "dynn_Vipinans"
+	culture = "raetian"
+}
+
 

@@ -12,6 +12,8 @@
 		add_pressed_claim = title:c_eurtobia
 		add_pressed_claim = title:c_catiae
 		add_pressed_claim = title:c_quolatus
+		add_pressed_claim = title:c_ielgia
+		add_pressed_claim = title:c_iemeres
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -35,6 +37,8 @@
 		add_pressed_claim = title:c_eurtobia
 		add_pressed_claim = title:c_catiae
 		add_pressed_claim = title:c_quolatus
+		add_pressed_claim = title:c_ielgia
+		add_pressed_claim = title:c_iemeres
 	}
 	#437.4.21 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -125,6 +129,142 @@
 		add_pressed_claim = title:c_tanae
 		add_pressed_claim = title:c_lillia
 		add_pressed_claim = title:c_mentus
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000420 = {
+	name = "Amtnie"
+	dynasty = raetian_vestirci
+	religion = "etruscan_pagan"
+	culture = raetian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_isarci
+		add_pressed_claim = title:c_naenae
+		add_pressed_claim = title:c_laputia
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000421 = {
+	name = "Spitus"
+	dynasty = raetian_vestirci
+	religion = "etruscan_pagan"
+	culture = raetian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_isarci
+		add_pressed_claim = title:c_naenae
+		add_pressed_claim = title:c_laputia
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000422 = {
+	name = "Clate"
+	dynasty = raetian_ulzna
+	religion = "etruscan_pagan"
+	culture = raetian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_breuni
+		add_pressed_claim = title:c_teriolis
+		add_pressed_claim = title:c_davia
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000423 = {
+	name = "Pesna"
+	dynasty = raetian_ulzna
+	religion = "etruscan_pagan"
+	culture = raetian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_breuni
+		add_pressed_claim = title:c_teriolis
+		add_pressed_claim = title:c_davia
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000424 = {
+	name = "Ceisie"
+	dynasty = raetian_vipinans
+	religion = "etruscan_pagan"
+	culture = raetian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_raeti
+		add_pressed_claim = title:c_cemamae
+		add_pressed_claim = title:c_cegane
+		add_pressed_claim = title:c_talelitana
+		add_pressed_claim = title:c_hetia
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000425 = {
+	name = "Tlesna"
+	dynasty = raetian_vipinans
+	religion = "etruscan_pagan"
+	culture = raetian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_raeti
+		add_pressed_claim = title:c_cemamae
+		add_pressed_claim = title:c_cegane
+		add_pressed_claim = title:c_talelitana
+		add_pressed_claim = title:c_hetia
 	}
 	#437.4.21 = {
 	#	add_character_flag = do_not_generate_starting_family

@@ -299,9 +299,9 @@
 }
 
 516 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = raetian
+	religion = etruscan_pagan
+	holding = tribal_holding
 }
 
 517 = {		

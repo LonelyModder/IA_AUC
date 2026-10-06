@@ -5,9 +5,9 @@
 }
 
 582 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = raetian
+	religion = etruscan_pagan
+	holding = tribal_holding
 }
 
 583 = {		
@@ -23,9 +23,9 @@
 }
 
 585 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = raetian
+	religion = etruscan_pagan
+	holding = tribal_holding
 }
 
 586 = {		

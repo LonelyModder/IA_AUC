@@ -150,6 +150,30 @@ c_quolatus = {
 	}
 }
 
+c_ielgia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000414
+	}
+	437.4.21 = {
+		holder = 2000415
+	}
+}
+
+c_iemeres = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000414
+	}
+	437.4.21 = {
+		holder = 2000415
+	}
+}
+
 d_vennones = {
 	
 	258.4.4 = {
@@ -215,5 +239,85 @@ c_mentus = {
 	}
 	437.4.21 = {
 		holder = 2000419
+	}
+}
+
+d_breuni = {
+	
+	258.4.4 = {
+		holder = 2000422
+	}
+	437.4.21 = {
+		holder = 2000423
+	}
+}
+
+c_teriolis = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000422
+	}
+	437.4.21 = {
+		holder = 2000423
+	}
+}
+
+d_raeti = {
+	
+	258.4.4 = {
+		holder = 2000424
+	}
+	437.4.21 = {
+		holder = 2000425
+	}
+}
+
+c_cemamae = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000424
+	}
+	437.4.21 = {
+		holder = 2000425
+	}
+}
+
+c_cegane = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000424
+	}
+	437.4.21 = {
+		holder = 2000425
+	}
+}
+
+c_talelitana = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000424
+	}
+	437.4.21 = {
+		holder = 2000425
+	}
+}
+
+c_hetia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000424
+	}
+	437.4.21 = {
+		holder = 2000425
 	}
 }

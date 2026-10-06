@@ -22274,21 +22274,21 @@ d_vennones = {
 }
 
 d_venostes = {
-	color = { 126 108 194 }
+	color = { 0 207 175 }
 	landless = yes 
 }
 
 d_breuni = {
-	color = { 126 108 194 }
+	color = { 0 21 215 }
 	landless = yes 
 }
 
 d_isarci = {
-	color = { 126 108 194 }
+	color = { 42 39 218 }
 	landless = yes 
 }
 
 d_raeti = {
-	color = { 126 108 194 }
+	color = { 42 114 3 }
 	landless = yes 
 }
