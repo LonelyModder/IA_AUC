@@ -534,7 +534,7 @@ c_verona = {
 		holder = 2000410
 	}
 	437.4.21 = {
-		holder = 2000411
+		holder = 2000426
 	}
 }
 
@@ -592,7 +592,7 @@ c_mantua = {
 		holder = 2000412
 	}
 	437.4.21 = {
-		holder = 2000413
+		holder = 2000426
 	}
 }
 
@@ -653,3 +653,133 @@ c_laputia = {
 		holder = 2000421
 	}
 }
+
+d_netrusci = {
+	
+	437.4.21 = {
+		holder = 2000426
+	}
+}
+
+d_aulethi = {
+	
+	258.4.4 = {
+		holder = 2000427
+	}
+}
+
+c_felsina = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000427
+	}
+	437.4.21 = {
+		holder = 2000426
+	}
+}
+
+c_mutina = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000427
+	}
+	437.4.21 = {
+		holder = 2000426
+	}
+}
+
+c_nomontium = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	437.4.21 = {
+		holder = 2000426
+	}
+}
+
+c_ravenna = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	437.4.21 = {
+		holder = 2000426
+	}
+}
+
+c_prercadonia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	437.4.21 = {
+		holder = 2000426
+	}
+}
+
+d_larthni = {
+	
+	258.4.4 = {
+		holder = 2000428
+	}
+}
+
+c_spica = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000428
+	}
+	437.4.21 = {
+		holder = 2000426
+	}
+}
+
+c_rapinica = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	437.4.21 = {
+		holder = 2000426
+	}
+}
+
+c_sermelitana = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	437.4.21 = {
+		holder = 2000426
+	}
+}
+
+c_uletia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	437.4.21 = {
+		holder = 2000426
+	}
+}
+
+c_atria = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	437.4.21 = {
+		holder = 2000426
+	}
+}
+
+c_ucia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	437.4.21 = {
+		holder = 2000426
+	}
+}
+

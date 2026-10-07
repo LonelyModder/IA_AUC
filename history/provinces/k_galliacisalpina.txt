@@ -11,15 +11,15 @@
 }
 
 388 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = bodinci
+	religion = etruscan_pagan
+	holding = tribal_holding
 }
 
 395 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = bodinci
+	religion = etruscan_pagan
+	holding = tribal_holding
 }
 
 390 = {		
@@ -29,9 +29,9 @@
 }
 
 389 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = bodinci
+	religion = etruscan_pagan
+	holding = tribal_holding
 }
 
 391 = {		
@@ -53,9 +53,14 @@
 }
 
 396 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = bodinci
+	religion = etruscan_pagan
+	holding = tribal_holding
+	437.4.21 = {
+		culture = etruscan
+		religion = etruscan_pagan
+		holding = castle_holding
+	}
 }
 
 397 = {		
@@ -71,15 +76,15 @@
 }
 
 494 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = bodinci
+	religion = etruscan_pagan
+	holding = tribal_holding
 }
 
 421 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = bodinci
+	religion = etruscan_pagan
+	holding = tribal_holding
 }
 
 422 = {		
@@ -95,9 +100,9 @@
 }
 
 424 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = bodinci
+	religion = etruscan_pagan
+	holding = tribal_holding
 }
 
 493 = {		
@@ -107,9 +112,9 @@
 }
 
 492 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = bodinci
+	religion = etruscan_pagan
+	holding = tribal_holding
 }
 
 503 = {		
@@ -629,9 +634,9 @@
 }
 
 428 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = bodinci
+	religion = etruscan_pagan
+	holding = tribal_holding
 }
 
 429 = {		
@@ -641,9 +646,14 @@
 }
 
 430 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = bodinci
+	religion = etruscan_pagan
+	holding = tribal_holding
+	437.4.21 = {
+		culture = etruscan
+		religion = etruscan_pagan
+		holding = castle_holding
+	}
 }
 
 431 = {		
@@ -659,9 +669,9 @@
 }
 
 433 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = bodinci
+	religion = etruscan_pagan
+	holding = tribal_holding
 }
 
 434 = {		

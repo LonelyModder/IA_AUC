@@ -14,6 +14,7 @@
  dynn_Vetluna:0 "Vetluna"
  dynn_Saties:0 "Saties"
  dynn_Apatru:0 "Apatru"
+ dynn_Murias:0 "Murias"
  #Sicanian
  dynn_Cazius:0 "Cazius"
  #Elymian
@@ -305,3 +306,6 @@
  dynn_Vestirci:0 "Vestirci"
  dynn_Ulzna:0 "Ulzna"
  dynn_Vipinans:0 "Vipinans"
+ #Bodinci
+ dynn_Aulethus:0 "Aulethus"
+ dynn_Larthnius:0 "Larthnius"

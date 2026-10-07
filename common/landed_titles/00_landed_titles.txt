@@ -22292,3 +22292,18 @@ d_raeti = {
 	color = { 42 114 3 }
 	landless = yes 
 }
+
+d_netrusci = {
+	color = { 84 111 96 }
+	landless = yes 
+}
+
+d_aulethi = {
+	color = { 42 0 13 }
+	landless = yes 
+}
+
+d_larthni = {
+	color = { 42 0 13 }
+	landless = yes 
+}

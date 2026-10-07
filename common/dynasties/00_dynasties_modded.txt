@@ -74,6 +74,11 @@ etruscan_saties = {
 	culture = "etruscan"
 }
 
+etruscan_murias = {
+	name = "dynn_Murias"
+	culture = "etruscan"
+}
+
 #Picentian
 
 picentian_aninas = {
@@ -1317,6 +1322,18 @@ raetian_ulzna = {
 raetian_vipinans = {
 	name = "dynn_Vipinans"
 	culture = "raetian"
+}
+
+#Bodinci
+
+bodinci_aulethus = {
+	name = "dynn_Aulethus"
+	culture = "bodinci"
+}
+
+bodinci_larthnius = {
+	name = "dynn_Larthnius"
+	culture = "bodinci"
 }
 
 

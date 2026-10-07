@@ -366,3 +366,36 @@
 		death = "460.1.1"
 	}
 }
+
+2000426 = {
+	name = "Anthai"
+	dynasty = etruscan_murias
+	religion = "etruscan_pagan"
+	culture = etruscan
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_netrusci
+		add_pressed_claim = title:c_felsina
+		add_pressed_claim = title:c_mutina
+		add_pressed_claim = title:c_ravenna
+		add_pressed_claim = title:c_nomontium
+		add_pressed_claim = title:c_prercadonia
+		add_pressed_claim = title:c_spica
+		add_pressed_claim = title:c_rapinica
+		add_pressed_claim = title:c_sermelitana
+		add_pressed_claim = title:c_uletia
+		add_pressed_claim = title:c_atria
+		add_pressed_claim = title:c_ucia
+		add_pressed_claim = title:c_verona
+		add_pressed_claim = title:c_mantua
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	460.1.1 = {
+		death = "460.1.1"
+	}
+}

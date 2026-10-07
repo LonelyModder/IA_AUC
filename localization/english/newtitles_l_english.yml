@@ -101,6 +101,9 @@
  d_breuni:0 "Breuni"
  d_isarci:0 "Isarci"
  d_raeti:0 "Raeti"
+ d_netrusci:0 "Northern League"
+ d_aulethi:0 "Aulethi"
+ d_larthni:0 "Larthni"
  # Empires
  e_westernrome:0 "Italia"
  e_africa:0 "Africa"
