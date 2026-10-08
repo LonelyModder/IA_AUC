@@ -11,6 +11,7 @@
 		add_pressed_claim = title:d_aulethi
 		add_pressed_claim = title:c_mutina
 		add_pressed_claim = title:c_felsina
+		add_pressed_claim = title:c_prercadonia
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -32,6 +33,53 @@
 	258.4.4 = {
 		add_pressed_claim = title:d_larthni
 		add_pressed_claim = title:c_spica
+		add_pressed_claim = title:c_atria
+		add_pressed_claim = title:c_ucia
+		add_pressed_claim = title:c_rapinica
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000429 = {
+	name = "Larth"
+	dynasty = bodinci_tutna
+	religion = "etruscan_pagan"
+	culture = bodinci
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_ravani
+		add_pressed_claim = title:c_ravenna
+		add_pressed_claim = title:c_nomontium
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000430 = {
+	name = "Ranazu"
+	dynasty = bodinci_santu
+	religion = "etruscan_pagan"
+	culture = bodinci
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_santari
+		add_pressed_claim = title:c_uletia
+		add_pressed_claim = title:c_sermelitana
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family

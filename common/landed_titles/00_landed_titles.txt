@@ -22304,6 +22304,16 @@ d_aulethi = {
 }
 
 d_larthni = {
-	color = { 42 0 13 }
+	color = { 84 186 136 }
+	landless = yes 
+}
+
+d_ravani = {
+	color = { 168 87 92 }
+	landless = yes 
+}
+
+d_santari = {
+	color = { 168 9 142 }
 	landless = yes 
 }

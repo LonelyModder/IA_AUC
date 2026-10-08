@@ -696,6 +696,9 @@ c_nomontium = {
 	258.4.4 = {	change_development_level = 1 }
 	437.4.21 = { change_development_level = 1 }
 	
+	258.4.4 = {
+		holder = 2000429
+	}
 	437.4.21 = {
 		holder = 2000426
 	}
@@ -705,6 +708,9 @@ c_ravenna = {
 	258.4.4 = {	change_development_level = 1 }
 	437.4.21 = { change_development_level = 1 }
 	
+	258.4.4 = {
+		holder = 2000429
+	}
 	437.4.21 = {
 		holder = 2000426
 	}
@@ -714,6 +720,9 @@ c_prercadonia = {
 	258.4.4 = {	change_development_level = 1 }
 	437.4.21 = { change_development_level = 1 }
 	
+	258.4.4 = {
+		holder = 2000427
+	}
 	437.4.21 = {
 		holder = 2000426
 	}
@@ -723,6 +732,20 @@ d_larthni = {
 	
 	258.4.4 = {
 		holder = 2000428
+	}
+}
+
+d_ravani = {
+	
+	258.4.4 = {
+		holder = 2000429
+	}
+}
+
+d_santari = {
+	
+	258.4.4 = {
+		holder = 2000430
 	}
 }
 
@@ -742,6 +765,9 @@ c_rapinica = {
 	258.4.4 = {	change_development_level = 1 }
 	437.4.21 = { change_development_level = 1 }
 	
+	258.4.4 = {
+		holder = 2000428
+	}
 	437.4.21 = {
 		holder = 2000426
 	}
@@ -751,6 +777,9 @@ c_sermelitana = {
 	258.4.4 = {	change_development_level = 1 }
 	437.4.21 = { change_development_level = 1 }
 	
+	258.4.4 = {
+		holder = 2000430
+	}
 	437.4.21 = {
 		holder = 2000426
 	}
@@ -760,6 +789,9 @@ c_uletia = {
 	258.4.4 = {	change_development_level = 1 }
 	437.4.21 = { change_development_level = 1 }
 	
+	258.4.4 = {
+		holder = 2000430
+	}
 	437.4.21 = {
 		holder = 2000426
 	}
@@ -769,6 +801,9 @@ c_atria = {
 	258.4.4 = {	change_development_level = 1 }
 	437.4.21 = { change_development_level = 1 }
 	
+	258.4.4 = {
+		holder = 2000428
+	}
 	437.4.21 = {
 		holder = 2000426
 	}
@@ -778,6 +813,9 @@ c_ucia = {
 	258.4.4 = {	change_development_level = 1 }
 	437.4.21 = { change_development_level = 1 }
 	
+	258.4.4 = {
+		holder = 2000428
+	}
 	437.4.21 = {
 		holder = 2000426
 	}
