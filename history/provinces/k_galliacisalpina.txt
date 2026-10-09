@@ -64,8 +64,6 @@
 }
 
 397 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
