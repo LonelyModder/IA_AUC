@@ -52,7 +52,65 @@ veneti = {
 }
 
 carnian = {
-	color = { 0.33 0.41 0.47 }
+	color = { 0.22 0.41 0.47 }
+	
+	parents = { liburnian_group }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_liburnian
+	language = language_liburnian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_formation_fighting
+		tradition_legalistic
+		tradition_hereditary_hierarchy
+		tradition_noble_adoption
+	}
+	
+	name_list = name_list_illyrian
+
+	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
+	building_gfx = { mediterranean_building_gfx } 
+	clothing_gfx = { byzantine_clothing_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { eastern_unit_gfx } 		
+
+	ethnicities = {
+		10 = mediterranean
+	}
+}
+
+liburni = {
+	color = { 0.11 0.41 0.47 }
+	
+	parents = { liburnian_group }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_liburnian
+	language = language_liburnian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_formation_fighting
+		tradition_legalistic
+		tradition_hereditary_hierarchy
+		tradition_noble_adoption
+	}
+	
+	name_list = name_list_illyrian
+
+	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
+	building_gfx = { mediterranean_building_gfx } 
+	clothing_gfx = { byzantine_clothing_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { eastern_unit_gfx } 		
+
+	ethnicities = {
+		10 = mediterranean
+	}
+}
+
+lapodian = {
+	color = { 0.44 0.41 0.47 }
 	
 	parents = { liburnian_group }
 	

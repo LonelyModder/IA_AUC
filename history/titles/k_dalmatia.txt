@@ -1,0 +1,79 @@
+d_lapodes = {
+	
+	258.4.4 = {
+		holder = 2000431
+	}
+	437.4.21 = {
+		holder = 2000432
+	}
+}
+
+c_lecimnium = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000431
+	}
+	437.4.21 = {
+		holder = 2000432
+	}
+}
+
+c_tarsatica = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000431
+	}
+	437.4.21 = {
+		holder = 2000432
+	}
+}
+
+d_liburnians = {
+	
+	258.4.4 = {
+		holder = 2000433
+	}
+	437.4.21 = {
+		holder = 2000434
+	}
+}
+
+c_iader = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000433
+	}
+	437.4.21 = {
+		holder = 2000434
+	}
+}
+
+c_rallia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000433
+	}
+	437.4.21 = {
+		holder = 2000434
+	}
+}
+
+c_arupium = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000433
+	}
+	437.4.21 = {
+		holder = 2000434
+	}
+}

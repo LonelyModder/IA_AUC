@@ -1,7 +1,7 @@
 ﻿724 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = lapodian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 725 = {		
@@ -35,9 +35,9 @@
 }
 
 730 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = liburni
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 731 = {		
@@ -47,9 +47,9 @@
 }
 
 732 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = lapodian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 733 = {		
@@ -59,9 +59,9 @@
 }
 
 734 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = liburni
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 735 = {		
@@ -89,9 +89,9 @@
 }
 
 739 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = liburni
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 740 = {		

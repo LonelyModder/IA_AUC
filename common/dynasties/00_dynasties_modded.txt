@@ -1336,4 +1336,28 @@ bodinci_larthnius = {
 	culture = "bodinci"
 }
 
+bodinci_tutna = {
+	name = "dynn_Tutna"
+	culture = "bodinci"
+}
+
+bodinci_santu = {
+	name = "dynn_Santu"
+	culture = "bodinci"
+}
+
+#Lapodian
+
+lapodian_sassaid = {
+	name = "dynn_Sassaid"
+	culture = "lapodian"
+}
+
+#Liburnian
+
+liburni_lirid = {
+	name = "dynn_Lirid"
+	culture = "liburni"
+}
+
 

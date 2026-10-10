@@ -43,7 +43,7 @@
 79 = {		
 	culture = ioleian
 	religion = nuragic_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 80 = {		
@@ -67,13 +67,13 @@
 83 = {		
 	culture = ioleian
 	religion = nuragic_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 84 = {		
 	culture = ioleian
 	religion = nuragic_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 85 = {		
@@ -85,7 +85,7 @@
 86 = {		
 	culture = ioleian
 	religion = nuragic_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 87 = {		
@@ -97,7 +97,7 @@
 88 = {		
 	culture = corsian
 	religion = nuragic_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 89{ 
@@ -121,7 +121,7 @@
 92 = {		
 	culture = ioleian
 	religion = nuragic_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 93 = {		
@@ -139,19 +139,19 @@
 95 = {		
 	culture = balarian
 	religion = nuragic_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 96 = {		
 	culture = balarian
 	religion = nuragic_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 97 = {		
 	culture = balarian
 	religion = nuragic_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 98 = {		
@@ -175,7 +175,7 @@
 101 = {		
 	culture = corsian
 	religion = nuragic_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 102 = {		
@@ -187,7 +187,7 @@
 103 = {		
 	culture = corsian
 	religion = nuragic_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 104 = {		
@@ -211,13 +211,13 @@
 107 = {		
 	culture = corsian
 	religion = nuragic_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 108 = {		
 	culture = corsian
 	religion = nuragic_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 109 = {		
@@ -229,7 +229,7 @@
 110 = {		
 	culture = corsian
 	religion = nuragic_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 111 = {		
@@ -247,19 +247,19 @@
 3731 = {		
 	culture = talayotan
 	religion = nuragic_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 3732 = {		
 	culture = talayotan
 	religion = nuragic_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 3733 = {		
 	culture = talayotan
 	religion = nuragic_pagan
-	holding = none
+	holding = tribal_holding
 }
 
 3734 = {		

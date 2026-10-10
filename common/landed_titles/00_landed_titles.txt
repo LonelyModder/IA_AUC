@@ -22317,3 +22317,13 @@ d_santari = {
 	color = { 168 9 142 }
 	landless = yes 
 }
+
+d_lapodes = {
+	color = { 126 54 64 }
+	landless = yes 
+}
+
+d_liburnians = {
+	color = { 0 75 195 }
+	landless = yes 
+}
