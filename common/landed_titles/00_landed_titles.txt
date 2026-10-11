@@ -22327,3 +22327,8 @@ d_liburnians = {
 	color = { 0 75 195 }
 	landless = yes 
 }
+
+d_delmatae = {
+	color = { 42 153 208 }
+	landless = yes 
+}

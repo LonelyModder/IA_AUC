@@ -305,9 +305,9 @@
 }
 
 775 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = delmatian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 776 = {		

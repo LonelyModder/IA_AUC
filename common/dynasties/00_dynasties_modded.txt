@@ -1360,4 +1360,11 @@ liburni_lirid = {
 	culture = "liburni"
 }
 
+#Delmatian
+
+delmatian_vendid = {
+	name = "dynn_Vendid"
+	culture = "delmatian"
+}
+
 
