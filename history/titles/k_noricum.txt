@@ -43,3 +43,25 @@ c_davia = {
 		holder = 2000423
 	}
 }
+
+d_sevarcia = {
+	
+	258.4.4 = {
+		holder = 2000443
+	}
+	437.4.21 = {
+		holder = 2000444
+	}
+}
+
+c_drocubia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000443
+	}
+	437.4.21 = {
+		holder = 2000444
+	}
+}

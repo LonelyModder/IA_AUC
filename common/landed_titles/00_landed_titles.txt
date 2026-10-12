@@ -22332,3 +22332,23 @@ d_delmatae = {
 	color = { 42 153 208 }
 	landless = yes 
 }
+
+d_tariotes = {
+	color = { 0 90 70 }
+	landless = yes 
+}
+
+d_narensii = {
+	color = { 168 192 87 }
+	landless = yes 
+}
+
+d_ditioni = {
+	color = { 84 126 76 }
+	landless = yes 
+}
+
+d_sevarcia = {
+	color = { 168 30 152 }
+	landless = yes 
+}

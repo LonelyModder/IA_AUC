@@ -173,9 +173,9 @@
 }
 
 653 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = noric
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 654 = {		

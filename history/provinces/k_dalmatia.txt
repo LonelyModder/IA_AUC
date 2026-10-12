@@ -1,5 +1,5 @@
 ﻿724 = {		
-	culture = lapodian
+	culture = liburni
 	religion = illyrian_pagan
 	holding = tribal_holding
 }
@@ -11,9 +11,9 @@
 }
 
 726 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = liburni
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 727 = {		
@@ -77,9 +77,9 @@
 }
 
 737 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = lapodian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 738 = {		
@@ -101,9 +101,9 @@
 }
 
 741 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = delmatian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 742 = {		
@@ -113,21 +113,21 @@
 }
 
 743 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = delmatian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 744 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = delmatian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 745 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = delmatian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 746 = {		
@@ -149,9 +149,9 @@
 }
 
 749 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = lapodian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 750 = {		
@@ -173,15 +173,15 @@
 }
 
 753 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = delmatian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 754 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = delmatian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 755 = {		
@@ -191,9 +191,9 @@
 }
 
 756 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = delmatian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 757 = {		
@@ -215,9 +215,9 @@
 }
 
 760 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = delmatian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 761 = {		
@@ -233,9 +233,9 @@
 }
 
 763 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = delmatian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 764 = {		
@@ -245,9 +245,9 @@
 }
 
 765 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = delmatian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 766 = {		
@@ -287,15 +287,15 @@
 }
 
 772 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = delmatian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 773 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = delmatian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 774 = {		
@@ -323,9 +323,9 @@
 }
 
 778 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = delmatian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 779 = {		

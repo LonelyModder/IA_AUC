@@ -1367,4 +1367,26 @@ delmatian_vendid = {
 	culture = "delmatian"
 }
 
+delmatian_skenid = {
+	name = "dynn_Skenid"
+	culture = "delmatian"
+}
+
+delmatian_tizid = {
+	name = "dynn_Tizid"
+	culture = "delmatian"
+}
+
+delmatian_ditid = {
+	name = "dynn_Ditid"
+	culture = "delmatian"
+}
+
+#Noric
+
+noric_carosus = {
+	name = "dynn_Carosus"
+	culture = "noric"
+}
+
 

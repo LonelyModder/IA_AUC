@@ -10,6 +10,10 @@
 	250.1.1 = {
 		add_pressed_claim = title:d_delmatae
 		add_pressed_claim = title:c_delminium
+		add_pressed_claim = title:c_unaria
+		add_pressed_claim = title:c_salona
+		add_pressed_claim = title:c_pharos
+		add_pressed_claim = title:c_salvium
 	}
 	258.4.4 = {
 		add_character_flag = do_not_generate_starting_family
@@ -31,6 +35,148 @@
 	436.1.1 = {
 		add_pressed_claim = title:d_delmatae
 		add_pressed_claim = title:c_delminium
+		add_pressed_claim = title:c_unaria
+		add_pressed_claim = title:c_salona
+		add_pressed_claim = title:c_pharos
+		add_pressed_claim = title:c_salvium
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000437 = {
+	name = "Byousas"
+	dynasty = delmatian_skenid
+	religion = "illyrian_pagan"
+	culture = delmatian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_tariotes
+		add_pressed_claim = title:c_galtadonia
+		add_pressed_claim = title:c_scardona
+		add_pressed_claim = title:c_burnum
+		add_pressed_claim = title:c_aquum
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000438 = {
+	name = "Bouzetios"
+	dynasty = delmatian_skenid
+	religion = "illyrian_pagan"
+	culture = delmatian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_tariotes
+		add_pressed_claim = title:c_galtadonia
+		add_pressed_claim = title:c_scardona
+		add_pressed_claim = title:c_burnum
+		add_pressed_claim = title:c_aquum
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000439 = {
+	name = "Sarnos"
+	dynasty = delmatian_tizid
+	religion = "illyrian_pagan"
+	culture = delmatian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_narensii
+		add_pressed_claim = title:c_narona
+		add_pressed_claim = title:c_korkyra
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000440 = {
+	name = "Baridios"
+	dynasty = delmatian_tizid
+	religion = "illyrian_pagan"
+	culture = delmatian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_narensii
+		add_pressed_claim = title:c_narona
+		add_pressed_claim = title:c_korkyra
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000441 = {
+	name = "Aplis"
+	dynasty = delmatian_ditid
+	religion = "illyrian_pagan"
+	culture = delmatian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_ditioni
+		add_pressed_claim = title:c_temnium
+		add_pressed_claim = title:c_cesotus
+		add_pressed_claim = title:c_sedonia
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000442 = {
+	name = "Karbanios"
+	dynasty = delmatian_ditid
+	religion = "illyrian_pagan"
+	culture = delmatian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_ditioni
+		add_pressed_claim = title:c_temnium
+		add_pressed_claim = title:c_cesotus
+		add_pressed_claim = title:c_sedonia
 	}
 	437.4.21 = {
 		add_character_flag = do_not_generate_starting_family
