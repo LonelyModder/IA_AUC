@@ -581,9 +581,14 @@
 }
 
 893 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = bosuti
+	religion = thracian_pagan
+	holding = tribal_holding
+	437.4.21 = {
+		culture = baranis
+		religion = west_african_pagan
+		holding = tribal_holding
+	}
 }
 
 894 = {		
@@ -611,9 +616,14 @@
 }
 
 898 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = bosuti
+	religion = thracian_pagan
+	holding = tribal_holding
+	437.4.21 = {
+		culture = baranis
+		religion = west_african_pagan
+		holding = tribal_holding
+	}
 }
 
 889 = {		

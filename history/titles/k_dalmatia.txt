@@ -20,7 +20,7 @@ c_lecimnium = {
 	}
 }
 
-c_arupium = {
+c_arupiumb = {
 	258.4.4 = {	change_development_level = 1 }
 	437.4.21 = { change_development_level = 1 }
 	

@@ -1389,4 +1389,26 @@ noric_carosus = {
 	culture = "noric"
 }
 
+noric_ambisontius = {
+	name = "dynn_Ambisontius"
+	culture = "noric"
+}
+
+noric_tauriscus = {
+	name = "dynn_Tauriscus"
+	culture = "noric"
+}
+
+noric_noricus = {
+	name = "dynn_Noricus"
+	culture = "noric"
+}
+
+#Bosuti
+
+bosuti_busthus = {
+	name = "dynn_Busthus"
+	culture = "bosuti"
+}
+
 

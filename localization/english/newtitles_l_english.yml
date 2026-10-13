@@ -113,6 +113,10 @@
  d_narensii:0 "Narensii"
  d_ditioni:0 "Ditioni"
  d_sevarcia:0 "Sevarcia"
+ d_ambisontia:0 "Ambisonti"
+ d_taurisci:0 "Taurisci"
+ d_norici:0 "Norici"
+ d_bosuti:0 "Bosuti"
  # Empires
  e_westernrome:0 "Italia"
  e_africa:0 "Africa"

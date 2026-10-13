@@ -22352,3 +22352,23 @@ d_sevarcia = {
 	color = { 168 30 152 }
 	landless = yes 
 }
+
+d_ambisontia = {
+	color = { 42 51 28 }
+	landless = yes 
+}
+
+d_taurisci = {
+	color = { 84 129 41 }
+	landless = yes 
+}
+
+d_norici = {
+	color = { 42 96 163 }
+	landless = yes 
+}
+
+d_bosuti = {
+	color = { 43 96 13 }
+	landless = yes 
+}

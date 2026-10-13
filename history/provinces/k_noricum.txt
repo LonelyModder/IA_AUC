@@ -161,9 +161,9 @@
 }
 
 651 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = noric
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 652 = {		
@@ -203,9 +203,9 @@
 }
 
 658 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = noric
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 659 = {		
@@ -215,9 +215,9 @@
 }
 
 660 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = noric
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 661 = {		
@@ -233,9 +233,9 @@
 }
 
 663 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = noric
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 664 = {		
@@ -245,9 +245,9 @@
 }
 
 665 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = noric
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 666 = {		
@@ -263,9 +263,9 @@
 }
 
 668 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = noric
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 669 = {		
@@ -305,9 +305,9 @@
 }
 
 675 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = noric
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 676 = {		
@@ -323,9 +323,9 @@
 }
 
 678 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = noric
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 679 = {		
@@ -335,9 +335,9 @@
 }
 
 680 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = noric
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 681 = {		
@@ -371,9 +371,9 @@
 }
 
 686 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = noric
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 687 = {		

@@ -65,3 +65,153 @@ c_drocubia = {
 		holder = 2000444
 	}
 }
+
+c_lauriacum = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000443
+	}
+	437.4.21 = {
+		holder = 2000444
+	}
+}
+
+d_ambisontia = {
+	
+	258.4.4 = {
+		holder = 2000445
+	}
+	437.4.21 = {
+		holder = 2000446
+	}
+}
+
+c_moetania = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000445
+	}
+	437.4.21 = {
+		holder = 2000446
+	}
+}
+
+c_iuvavum = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000445
+	}
+	437.4.21 = {
+		holder = 2000446
+	}
+}
+
+c_pures = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000445
+	}
+	437.4.21 = {
+		holder = 2000446
+	}
+}
+
+c_lecia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000445
+	}
+	437.4.21 = {
+		holder = 2000446
+	}
+}
+
+d_taurisci = {
+	
+	258.4.4 = {
+		holder = 2000447
+	}
+	437.4.21 = {
+		holder = 2000448
+	}
+}
+
+c_cetium = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000447
+	}
+	437.4.21 = {
+		holder = 2000448
+	}
+}
+
+c_sallutia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000447
+	}
+	437.4.21 = {
+		holder = 2000448
+	}
+}
+
+d_norici = {
+	
+	258.4.4 = {
+		holder = 2000449
+	}
+	437.4.21 = {
+		holder = 2000450
+	}
+}
+
+c_cores = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000449
+	}
+	437.4.21 = {
+		holder = 2000450
+	}
+}
+
+c_lunae = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000449
+	}
+	437.4.21 = {
+		holder = 2000450
+	}
+}
+
+c_dicedia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000449
+	}
+	437.4.21 = {
+		holder = 2000450
+	}
+}

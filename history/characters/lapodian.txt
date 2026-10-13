@@ -10,7 +10,7 @@
 	250.1.1 = {
 		add_pressed_claim = title:d_lapodes
 		add_pressed_claim = title:c_lecimnium
-		add_pressed_claim = title:c_arupium
+		add_pressed_claim = title:c_arupiumb
 		add_pressed_claim = title:c_maetulum
 	}
 	258.4.4 = {
@@ -33,7 +33,7 @@
 	436.1.1 = {
 		add_pressed_claim = title:d_lapodes
 		add_pressed_claim = title:c_lecimnium
-		add_pressed_claim = title:c_arupium
+		add_pressed_claim = title:c_arupiumb
 		add_pressed_claim = title:c_maetulum
 	}
 	437.4.21 = {

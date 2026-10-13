@@ -10,6 +10,7 @@
 	250.1.1 = {
 		add_pressed_claim = title:d_sevarcia
 		add_pressed_claim = title:c_drocubia
+		add_pressed_claim = title:c_lauriacum
 	}
 	258.4.4 = {
 		add_character_flag = do_not_generate_starting_family
@@ -31,6 +32,145 @@
 	436.1.1 = {
 		add_pressed_claim = title:d_sevarcia
 		add_pressed_claim = title:c_drocubia
+		add_pressed_claim = title:c_lauriacum
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000445 = {
+	name = "Segovax"
+	dynasty = noric_ambisontius
+	religion = "celtic_pagan"
+	culture = noric
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_ambisontia
+		add_pressed_claim = title:c_moetania
+		add_pressed_claim = title:c_iuvavum
+		add_pressed_claim = title:c_pures
+		add_pressed_claim = title:c_lecia
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000446 = {
+	name = "Kimarcus"
+	dynasty = noric_ambisontius
+	religion = "celtic_pagan"
+	culture = noric
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_ambisontia
+		add_pressed_claim = title:c_moetania
+		add_pressed_claim = title:c_iuvavum
+		add_pressed_claim = title:c_pures
+		add_pressed_claim = title:c_lecia
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000447 = {
+	name = "Boio"
+	dynasty = noric_tauriscus
+	religion = "celtic_pagan"
+	culture = noric
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_taurisci
+		add_pressed_claim = title:c_cetium
+		add_pressed_claim = title:c_sallutia
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000448 = {
+	name = "Dumnorix"
+	dynasty = noric_tauriscus
+	religion = "celtic_pagan"
+	culture = noric
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_taurisci
+		add_pressed_claim = title:c_cetium
+		add_pressed_claim = title:c_sallutia
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000449 = {
+	name = "Bolgios"
+	dynasty = noric_noricus
+	religion = "celtic_pagan"
+	culture = noric
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_norici
+		add_pressed_claim = title:c_cores
+		add_pressed_claim = title:c_lunae
+		add_pressed_claim = title:c_dicedia
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000450 = {
+	name = "Commios"
+	dynasty = noric_noricus
+	religion = "celtic_pagan"
+	culture = noric
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_norici
+		add_pressed_claim = title:c_cores
+		add_pressed_claim = title:c_lunae
+		add_pressed_claim = title:c_dicedia
 	}
 	437.4.21 = {
 		add_character_flag = do_not_generate_starting_family
