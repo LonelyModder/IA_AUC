@@ -22372,3 +22372,63 @@ d_bosuti = {
 	color = { 43 96 13 }
 	landless = yes 
 }
+
+d_eravisci = {
+	color = { 42 27 158 }
+	landless = yes 
+}
+
+d_osi = {
+	color = { 84 42 196 }
+	landless = yes 
+}
+
+d_hercuniati = {
+	color = { 126 105 79 }
+	landless = yes 
+}
+
+d_cotini = {
+	color = { 168 141 177 }
+	landless = yes 
+}
+
+d_tylisi = {
+	color = { 85 99 141 }
+	landless = yes 
+}
+
+d_ardiaei = {
+	color = { 168 207 217 }
+	landless = yes 
+}
+
+d_scordisci = {
+	color = { 1 78 10 }
+	landless = yes 
+}
+
+d_melanditai = {
+	color = { 127 153 134 }
+	landless = yes 
+}
+
+d_wthyni = {
+	color = { 85 102 161 }
+	landless = yes 
+}
+
+d_odrysi = {
+	color = { 85 87 31 }
+	landless = yes 
+}
+
+d_asti = {
+	color = { 127 120 164 }
+	landless = yes 
+}
+
+d_latovici = {
+	color = { 84 144 171 }
+	landless = yes 
+}

@@ -12,8 +12,6 @@
 		add_pressed_claim = title:c_eurtobia
 		add_pressed_claim = title:c_catiae
 		add_pressed_claim = title:c_quolatus
-		add_pressed_claim = title:c_ielgia
-		add_pressed_claim = title:c_iemeres
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -37,8 +35,6 @@
 		add_pressed_claim = title:c_eurtobia
 		add_pressed_claim = title:c_catiae
 		add_pressed_claim = title:c_quolatus
-		add_pressed_claim = title:c_ielgia
-		add_pressed_claim = title:c_iemeres
 	}
 	#437.4.21 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -265,6 +261,48 @@
 		add_pressed_claim = title:c_cegane
 		add_pressed_claim = title:c_talelitana
 		add_pressed_claim = title:c_hetia
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000500 = {
+	name = "Ruvfe"
+	dynasty = raetian_calucus
+	religion = "etruscan_pagan"
+	culture = raetian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_ielgia
+		add_pressed_claim = title:c_iemeres
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000501 = {
+	name = "Spitus"
+	dynasty = raetian_calucus
+	religion = "etruscan_pagan"
+	culture = raetian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_ielgia
+		add_pressed_claim = title:c_iemeres
 	}
 	#437.4.21 = {
 	#	add_character_flag = do_not_generate_starting_family

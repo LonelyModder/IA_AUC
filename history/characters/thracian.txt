@@ -1,0 +1,431 @@
+﻿2000466 = {
+	name = "Diernais"
+	dynasty = thracian_melandus
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_melanditai
+		add_pressed_claim = title:c_melanditaia
+		add_pressed_claim = title:c_byzantium
+		add_pressed_claim = title:c_perinthus
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000467 = {
+	name = "Cothelas"
+	dynasty = thracian_melandus
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_melanditai
+		add_pressed_claim = title:c_melanditaia
+		add_pressed_claim = title:c_byzantium
+		add_pressed_claim = title:c_perinthus
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000468 = {
+	name = "Duras"
+	dynasty = thracian_cenus
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_thronenion
+		add_pressed_claim = title:c_aproi
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000469 = {
+	name = "Dapyx"
+	dynasty = thracian_cenus
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_thronenion
+		add_pressed_claim = title:c_aproi
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000470 = {
+	name = "Komozoi"
+	dynasty = thracian_doloncus
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_doloncia
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000471 = {
+	name = "Pierporus"
+	dynasty = thracian_doloncus
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_doloncia
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000472 = {
+	name = "Mucapor"
+	dynasty = thracian_psynthos
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_apsynthia
+		add_pressed_claim = title:c_aionos
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000473 = {
+	name = "Dadas"
+	dynasty = thracian_psynthos
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_apsynthia
+		add_pressed_claim = title:c_aionos
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000474 = {
+	name = "Vezina"
+	dynasty = thracian_melinus
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_melinophagia
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000475 = {
+	name = "Cotiso"
+	dynasty = thracian_melinus
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_melinophagia
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000476 = {
+	name = "Moskon"
+	dynasty = thracian_thunus
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_wthyni
+		add_pressed_claim = title:c_aphakros
+		add_pressed_claim = title:c_appolonia
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000477 = {
+	name = "Danillo"
+	dynasty = thracian_thunus
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_wthyni
+		add_pressed_claim = title:c_aphakros
+		add_pressed_claim = title:c_appolonia
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000478 = {
+	name = "Odrys"
+	dynasty = thracian_odrysid
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_odrysi
+		add_pressed_claim = title:c_hadrianopolis
+		add_pressed_claim = title:c_cyreos
+		add_pressed_claim = title:c_thyretria
+		add_pressed_claim = title:c_chamila
+		add_pressed_claim = title:c_nirerna
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000479 = {
+	name = "Blaikisa"
+	dynasty = thracian_odrysid
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_odrysi
+		add_pressed_claim = title:c_hadrianopolis
+		add_pressed_claim = title:c_cyreos
+		add_pressed_claim = title:c_thyretria
+		add_pressed_claim = title:c_chamila
+		add_pressed_claim = title:c_nirerna
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000480 = {
+	name = "Zoutoula"
+	dynasty = thracian_astos
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_asti
+		add_pressed_claim = title:c_deultum
+		add_pressed_claim = title:c_mesambria
+		add_pressed_claim = title:c_laodurii
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000481 = {
+	name = "Rholes"
+	dynasty = thracian_astos
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_asti
+		add_pressed_claim = title:c_deultum
+		add_pressed_claim = title:c_mesambria
+		add_pressed_claim = title:c_laodurii
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000482 = {
+	name = "Dusa"
+	dynasty = thracian_cicis
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_ciconia
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000483 = {
+	name = "Kaigiza"
+	dynasty = thracian_cicis
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_ciconia
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000484 = {
+	name = "Blaesus"
+	dynasty = thracian_sapeus
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_sapaea
+		add_pressed_claim = title:c_maroneia
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000485 = {
+	name = "Orola"
+	dynasty = thracian_sapeus
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_sapaea
+		add_pressed_claim = title:c_maroneia
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

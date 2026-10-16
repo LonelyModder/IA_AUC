@@ -215,3 +215,121 @@ c_dicedia = {
 		holder = 2000450
 	}
 }
+
+c_deloria = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000486
+	}
+	437.4.21 = {
+		holder = 2000487
+	}
+}
+
+c_cetus = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000488
+	}
+	437.4.21 = {
+		holder = 2000489
+	}
+}
+
+c_teurnia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000490
+	}
+	437.4.21 = {
+		holder = 2000491
+	}
+}
+
+c_virunum = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000492
+	}
+	437.4.21 = {
+		holder = 2000493
+	}
+}
+
+c_rilirus = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000492
+	}
+	437.4.21 = {
+		holder = 2000493
+	}
+}
+
+c_parneca = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000494
+	}
+	437.4.21 = {
+		holder = 2000495
+	}
+}
+
+d_latovici = {
+	
+	258.4.4 = {
+		holder = 2000496
+	}
+	437.4.21 = {
+		holder = 2000497
+	}
+}
+
+c_traletus = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000496
+	}
+	437.4.21 = {
+		holder = 2000497
+	}
+}
+
+c_sepatamia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000496
+	}
+	437.4.21 = {
+		holder = 2000497
+	}
+}
+
+c_flaviasolva = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000498
+	}
+	437.4.21 = {
+		holder = 2000499
+	}
+}

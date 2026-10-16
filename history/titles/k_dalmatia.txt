@@ -321,3 +321,61 @@ c_sedonia = {
 		holder = 2000442
 	}
 }
+
+d_ardiaei = {
+	
+	258.4.4 = {
+		holder = 2000462
+	}
+	437.4.21 = {
+		holder = 2000463
+	}
+}
+
+c_risinium = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000462
+	}
+	437.4.21 = {
+		holder = 2000463
+	}
+}
+
+c_naelodia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000462
+	}
+	437.4.21 = {
+		holder = 2000463
+	}
+}
+
+c_epidaurum = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000462
+	}
+	437.4.21 = {
+		holder = 2000463
+	}
+}
+
+c_quone = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000462
+	}
+	437.4.21 = {
+		holder = 2000463
+	}
+}

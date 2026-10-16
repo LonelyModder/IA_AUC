@@ -71,21 +71,21 @@
 }
 
 593 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = noric
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 594 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = noric
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 595 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = noric
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 596 = {		
@@ -95,15 +95,15 @@
 }
 
 597 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = noric
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 598 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = noric
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 599 = {		
@@ -281,9 +281,9 @@
 }
 
 671 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = noric
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 672 = {		
@@ -293,9 +293,9 @@
 }
 
 673 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = noric
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 674 = {		
@@ -401,9 +401,9 @@
 }
 
 691 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = noric
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 692 = {		
@@ -413,7 +413,7 @@
 }
 
 693 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = noric
+	religion = celtic_pagan
+	holding = tribal_holding
 }

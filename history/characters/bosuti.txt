@@ -11,6 +11,7 @@
 		add_pressed_claim = title:d_bosuti
 		add_pressed_claim = title:c_cibalae
 		add_pressed_claim = title:c_sirmium
+		add_pressed_claim = title:c_mursa
 	}
 	258.4.4 = {
 		add_character_flag = do_not_generate_starting_family

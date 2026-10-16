@@ -1,0 +1,275 @@
+﻿2000452 = {
+	name = "Adiatuanus"
+	dynasty = pannonian_culchus
+	religion = "celtic_pagan"
+	culture = pannonian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_eravisci
+		add_pressed_claim = title:c_brigetio
+		add_pressed_claim = title:c_mursella
+		add_pressed_claim = title:c_aquincum
+		add_pressed_claim = title:c_gorsium
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000453 = {
+	name = "Inamarcus"
+	dynasty = pannonian_culchus
+	religion = "celtic_pagan"
+	culture = pannonian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_eravisci
+		add_pressed_claim = title:c_brigetio
+		add_pressed_claim = title:c_mursella
+		add_pressed_claim = title:c_aquincum
+		add_pressed_claim = title:c_gorsium
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000454 = {
+	name = "Galba"
+	dynasty = pannonian_ossus
+	religion = "celtic_pagan"
+	culture = pannonian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_osi
+		add_pressed_claim = title:c_mogentianae
+		add_pressed_claim = title:c_psala
+		add_pressed_claim = title:c_igene
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000455 = {
+	name = "Mallaius"
+	dynasty = pannonian_ossus
+	religion = "celtic_pagan"
+	culture = pannonian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_osi
+		add_pressed_claim = title:c_mogentianae
+		add_pressed_claim = title:c_psala
+		add_pressed_claim = title:c_igene
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000456 = {
+	name = "Bellicianus"
+	dynasty = pannonian_hercuniatus
+	religion = "celtic_pagan"
+	culture = pannonian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_hercuniati
+		add_pressed_claim = title:c_quelia
+		add_pressed_claim = title:c_lilantus
+		add_pressed_claim = title:c_ralicum
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000457 = {
+	name = "Lucterius"
+	dynasty = pannonian_hercuniatus
+	religion = "celtic_pagan"
+	culture = pannonian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_hercuniati
+		add_pressed_claim = title:c_quelia
+		add_pressed_claim = title:c_lilantus
+		add_pressed_claim = title:c_ralicum
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000458 = {
+	name = "Prasutagus"
+	dynasty = pannonian_cotus
+	religion = "celtic_pagan"
+	culture = pannonian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_cotini
+		add_pressed_claim = title:c_pinae
+		add_pressed_claim = title:c_carnuntium
+		add_pressed_claim = title:c_sensania
+		add_pressed_claim = title:c_savaria
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000459 = {
+	name = "Duratios"
+	dynasty = pannonian_cotus
+	religion = "celtic_pagan"
+	culture = pannonian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_cotini
+		add_pressed_claim = title:c_pinae
+		add_pressed_claim = title:c_carnuntium
+		add_pressed_claim = title:c_sensania
+		add_pressed_claim = title:c_savaria
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000460 = {
+	name = "Donnus"
+	dynasty = pannonian_tylisus
+	religion = "celtic_pagan"
+	culture = pannonian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_tylisi
+		add_pressed_claim = title:c_sopianae
+		add_pressed_claim = title:c_gacalia
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000461 = {
+	name = "Iccius"
+	dynasty = pannonian_tylisus
+	religion = "celtic_pagan"
+	culture = pannonian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_tylisi
+		add_pressed_claim = title:c_sopianae
+		add_pressed_claim = title:c_gacalia
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000464 = {
+	name = "Boduognatus"
+	dynasty = pannonian_scordiscus
+	religion = "celtic_pagan"
+	culture = pannonian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_scordisci
+		add_pressed_claim = title:c_eusubia
+		add_pressed_claim = title:c_tanetia
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000465 = {
+	name = "Kimarcus"
+	dynasty = pannonian_scordiscus
+	religion = "celtic_pagan"
+	culture = pannonian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_scordisci
+		add_pressed_claim = title:c_eusubia
+		add_pressed_claim = title:c_tanetia
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}

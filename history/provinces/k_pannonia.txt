@@ -5,9 +5,9 @@
 }
 
 916 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = pannonian
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 917 = {		
@@ -29,15 +29,15 @@
 }
 
 920 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = pannonian
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 921 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = pannonian
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 922 = {		
@@ -53,9 +53,9 @@
 }
 
 924 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = pannonian
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 925 = {		
@@ -83,9 +83,9 @@
 }
 
 929 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = pannonian
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 930 = {		
@@ -119,9 +119,9 @@
 }
 
 935 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = pannonian
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 939 = {		
@@ -137,9 +137,9 @@
 }
 
 941 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = pannonian
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 942 = {		
@@ -155,9 +155,9 @@
 }
 
 944 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = pannonian
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 945 = {		
@@ -191,9 +191,9 @@
 }
 
 950 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = noric
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 951 = {		
@@ -227,9 +227,9 @@
 }
 
 956 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = noric
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 957 = {		
@@ -239,9 +239,9 @@
 }
 
 958 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = pannonian
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 959 = {		
@@ -263,9 +263,9 @@
 }
 
 962 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = pannonian
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 963 = {		
@@ -281,9 +281,9 @@
 }
 
 965 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = pannonian
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 966 = {		
@@ -305,9 +305,9 @@
 }
 
 969 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = pannonian
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 970 = {		
@@ -347,9 +347,9 @@
 }
 
 976 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = pannonian
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 977 = {		
@@ -359,9 +359,9 @@
 }
 
 978 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = pannonian
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 979 = {		
@@ -377,9 +377,9 @@
 }
 
 981 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = pannonian
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 982 = {		
@@ -407,9 +407,9 @@
 }
 
 986 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = pannonian
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 987 = {		
@@ -585,8 +585,8 @@
 	religion = thracian_pagan
 	holding = tribal_holding
 	437.4.21 = {
-		culture = baranis
-		religion = west_african_pagan
+		culture = pannonian
+		religion = celtic_pagan
 		holding = tribal_holding
 	}
 }
@@ -620,8 +620,8 @@
 	religion = thracian_pagan
 	holding = tribal_holding
 	437.4.21 = {
-		culture = baranis
-		religion = west_african_pagan
+		culture = pannonian
+		religion = celtic_pagan
 		holding = tribal_holding
 	}
 }
@@ -705,9 +705,9 @@
 }
 
 911 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = pannonian
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 912 = {		
@@ -723,9 +723,14 @@
 }
 
 900 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = bosuti
+	religion = thracian_pagan
+	holding = tribal_holding
+	437.4.21 = {
+		culture = pannonian
+		religion = celtic_pagan
+		holding = tribal_holding
+	}
 }
 
 905 = {		
@@ -753,9 +758,9 @@
 }
 
 904 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = pannonian
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 910 = {		

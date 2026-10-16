@@ -103,6 +103,7 @@
 		add_pressed_claim = title:d_taurisci
 		add_pressed_claim = title:c_cetium
 		add_pressed_claim = title:c_sallutia
+		add_pressed_claim = title:c_vindobona
 	}
 	258.4.4 = {
 		add_character_flag = do_not_generate_starting_family
@@ -125,6 +126,7 @@
 		add_pressed_claim = title:d_taurisci
 		add_pressed_claim = title:c_cetium
 		add_pressed_claim = title:c_sallutia
+		add_pressed_claim = title:c_vindobona
 	}
 	437.4.21 = {
 		add_character_flag = do_not_generate_starting_family
@@ -171,6 +173,294 @@
 		add_pressed_claim = title:c_cores
 		add_pressed_claim = title:c_lunae
 		add_pressed_claim = title:c_dicedia
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000486 = {
+	name = "Cattulanus"
+	dynasty = noric_serapius
+	religion = "celtic_pagan"
+	culture = noric
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:c_deloria
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000487 = {
+	name = "Indutiomarus"
+	dynasty = noric_serapius
+	religion = "celtic_pagan"
+	culture = noric
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:c_deloria
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000488 = {
+	name = "Drappes"
+	dynasty = noric_seretius
+	religion = "celtic_pagan"
+	culture = noric
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:c_cetus
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000489 = {
+	name = "Etitovius"
+	dynasty = noric_seretius
+	religion = "celtic_pagan"
+	culture = noric
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:c_cetus
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000490 = {
+	name = "Immanuentius"
+	dynasty = noric_ambiravus
+	religion = "celtic_pagan"
+	culture = noric
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:c_teurnia
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000491 = {
+	name = "Celatus"
+	dynasty = noric_ambiravus
+	religion = "celtic_pagan"
+	culture = noric
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:c_teurnia
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000492 = {
+	name = "Divico"
+	dynasty = noric_agonus
+	religion = "celtic_pagan"
+	culture = noric
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:c_virunum
+		add_pressed_claim = title:c_rilirus
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000493 = {
+	name = "Orgetorix"
+	dynasty = noric_agonus
+	religion = "celtic_pagan"
+	culture = noric
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:c_virunum
+		add_pressed_claim = title:c_rilirus
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000494 = {
+	name = "Segovax"
+	dynasty = noric_upperus
+	religion = "celtic_pagan"
+	culture = noric
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:c_parneca
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000495 = {
+	name = "Cailtram"
+	dynasty = noric_upperus
+	religion = "celtic_pagan"
+	culture = noric
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:c_parneca
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000496 = {
+	name = "Sinatus"
+	dynasty = noric_latovius
+	religion = "celtic_pagan"
+	culture = noric
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_latovici
+		add_pressed_claim = title:c_traletus
+		add_pressed_claim = title:c_sepatamia
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000497 = {
+	name = "Dubnovellaunus"
+	dynasty = noric_latovius
+	religion = "celtic_pagan"
+	culture = noric
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_latovici
+		add_pressed_claim = title:c_traletus
+		add_pressed_claim = title:c_sepatamia
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000498 = {
+	name = "Guiderius"
+	dynasty = noric_elvetus
+	religion = "celtic_pagan"
+	culture = noric
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:c_flaviasolva
+		add_pressed_claim = title:c_callires
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000499 = {
+	name = "Comux"
+	dynasty = noric_elvetus
+	religion = "celtic_pagan"
+	culture = noric
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:c_flaviasolva
+		add_pressed_claim = title:c_callires
 	}
 	437.4.21 = {
 		add_character_flag = do_not_generate_starting_family

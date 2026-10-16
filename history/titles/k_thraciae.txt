@@ -1,0 +1,303 @@
+d_melanditai = {
+	
+	258.4.4 = {
+		holder = 2000466
+	}
+	437.4.21 = {
+		holder = 2000467
+	}
+}
+
+c_melanditaia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000466
+	}
+	437.4.21 = {
+		holder = 2000467
+	}
+}
+
+c_byzantium = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000466
+	}
+	437.4.21 = {
+		holder = 2000467
+	}
+}
+
+c_perinthus = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000466
+	}
+	437.4.21 = {
+		holder = 2000467
+	}
+}
+
+c_thronenion = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000468
+	}
+	437.4.21 = {
+		holder = 2000469
+	}
+}
+
+c_aproi = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000468
+	}
+	437.4.21 = {
+		holder = 2000469
+	}
+}
+
+c_doloncia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000470
+	}
+	437.4.21 = {
+		holder = 2000471
+	}
+}
+
+c_apsynthia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000472
+	}
+	437.4.21 = {
+		holder = 2000473
+	}
+}
+
+c_aionos = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000472
+	}
+	437.4.21 = {
+		holder = 2000473
+	}
+}
+
+c_melinophagia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000474
+	}
+	437.4.21 = {
+		holder = 2000475
+	}
+}
+
+d_wthyni = {
+	
+	258.4.4 = {
+		holder = 2000476
+	}
+	437.4.21 = {
+		holder = 2000477
+	}
+}
+
+c_aphakros = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000476
+	}
+	437.4.21 = {
+		holder = 2000477
+	}
+}
+
+c_appolonia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000476
+	}
+	437.4.21 = {
+		holder = 2000477
+	}
+}
+
+d_odrysi = {
+	
+	258.4.4 = {
+		holder = 2000478
+	}
+	437.4.21 = {
+		holder = 2000479
+	}
+}
+
+c_hadrianopolis = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000478
+	}
+	437.4.21 = {
+		holder = 2000479
+	}
+}
+
+c_cyreos = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000478
+	}
+	437.4.21 = {
+		holder = 2000479
+	}
+}
+
+c_thyretria = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000478
+	}
+	437.4.21 = {
+		holder = 2000479
+	}
+}
+
+c_chamila = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000478
+	}
+	437.4.21 = {
+		holder = 2000479
+	}
+}
+
+c_nirerna = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000478
+	}
+	437.4.21 = {
+		holder = 2000479
+	}
+}
+
+d_asti = {
+	
+	258.4.4 = {
+		holder = 2000480
+	}
+	437.4.21 = {
+		holder = 2000481
+	}
+}
+
+c_deultum = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000480
+	}
+	437.4.21 = {
+		holder = 2000481
+	}
+}
+
+c_mesambria = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000480
+	}
+	437.4.21 = {
+		holder = 2000481
+	}
+}
+
+c_laodurii = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000480
+	}
+	437.4.21 = {
+		holder = 2000481
+	}
+}
+
+c_ciconia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000482
+	}
+	437.4.21 = {
+		holder = 2000483
+	}
+}
+
+c_sapaea = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000484
+	}
+	437.4.21 = {
+		holder = 2000485
+	}
+}
+
+c_maroneia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000484
+	}
+	437.4.21 = {
+		holder = 2000485
+	}
+}

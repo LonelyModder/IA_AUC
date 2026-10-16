@@ -1324,6 +1324,11 @@ raetian_vipinans = {
 	culture = "raetian"
 }
 
+raetian_calucus = {
+	name = "dynn_Calucus"
+	culture = "raetian"
+}
+
 #Bodinci
 
 bodinci_aulethus = {
@@ -1404,11 +1409,137 @@ noric_noricus = {
 	culture = "noric"
 }
 
+noric_serapius = {
+	name = "dynn_Serapius"
+	culture = "noric"
+}
+
+noric_seretius = {
+	name = "dynn_Seretius"
+	culture = "noric"
+}
+
+noric_ambiravus = {
+	name = "dynn_Ambiravus"
+	culture = "noric"
+}
+
+noric_agonus = {
+	name = "dynn_Agonus"
+	culture = "noric"
+}
+
+noric_upperus = {
+	name = "dynn_Upperus"
+	culture = "noric"
+}
+
+noric_latovius = {
+	name = "dynn_Latovius"
+	culture = "noric"
+}
+
+noric_elvetus = {
+	name = "dynn_Elvetus"
+	culture = "noric"
+}
+
 #Bosuti
 
 bosuti_busthus = {
 	name = "dynn_Busthus"
 	culture = "bosuti"
+}
+
+#Pannonian
+
+pannonian_culchus = {
+	name = "dynn_Culchus"
+	culture = "pannonian"
+}
+
+pannonian_ossus = {
+	name = "dynn_Ossus"
+	culture = "pannonian"
+}
+
+pannonian_hercuniatus = {
+	name = "dynn_Hercuniatus"
+	culture = "pannonian"
+}
+
+pannonian_cotus = {
+	name = "dynn_Cotus"
+	culture = "pannonian"
+}
+
+pannonian_tylisus = {
+	name = "dynn_Tylisus"
+	culture = "pannonian"
+}
+
+pannonian_scordiscus = {
+	name = "dynn_Scordiscus"
+	culture = "pannonian"
+}
+
+#Ardiaeian
+
+ardiaeian_ardiaeius = {
+	name = "dynn_Ardiaeius"
+	culture = "ardiaeian"
+}
+
+#Thracian
+
+thracian_melandus = {
+	name = "dynn_Melandus"
+	culture = "thracian"
+}
+
+thracian_cenus = {
+	name = "dynn_Cenus"
+	culture = "thracian"
+}
+
+thracian_doloncus = {
+	name = "dynn_Doloncus"
+	culture = "thracian"
+}
+
+thracian_psynthos = {
+	name = "dynn_Psynthos"
+	culture = "thracian"
+}
+
+thracian_melinus = {
+	name = "dynn_Melinus"
+	culture = "thracian"
+}
+
+thracian_thunus = {
+	name = "dynn_Thunus"
+	culture = "thracian"
+}
+
+thracian_odrysid = {
+	name = "dynn_Odrysid"
+	culture = "thracian"
+}
+
+thracian_astos = {
+	name = "dynn_Astos"
+	culture = "thracian"
+}
+
+thracian_cicis = {
+	name = "dynn_Cicis"
+	culture = "thracian"
+}
+
+thracian_sapeus = {
+	name = "dynn_Sapeus"
+	culture = "thracian"
 }
 
 

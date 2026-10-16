@@ -1,5 +1,5 @@
 ﻿2000433 = {
-	name = "Teitur"
+	name = "Aplis"
 	dynasty = liburni_lirid
 	religion = "illyrian_pagan"
 	culture = liburni
@@ -24,7 +24,7 @@
 }
 
 2000434 = {
-	name = "Tite"
+	name = "Sarios"
 	dynasty = liburni_lirid
 	religion = "illyrian_pagan"
 	culture = liburni

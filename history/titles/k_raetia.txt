@@ -155,10 +155,10 @@ c_ielgia = {
 	437.4.21 = { change_development_level = 1 }
 	
 	258.4.4 = {
-		holder = 2000414
+		holder = 2000500
 	}
 	437.4.21 = {
-		holder = 2000415
+		holder = 2000501
 	}
 }
 
@@ -167,10 +167,10 @@ c_iemeres = {
 	437.4.21 = { change_development_level = 1 }
 	
 	258.4.4 = {
-		holder = 2000414
+		holder = 2000500
 	}
 	437.4.21 = {
-		holder = 2000415
+		holder = 2000501
 	}
 }
 

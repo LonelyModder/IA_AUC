@@ -353,15 +353,15 @@
 }
 
 783 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = ardiaeian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 784 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = ardiaeian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 785 = {		
@@ -371,9 +371,9 @@
 }
 
 786 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = ardiaeian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 787 = {		
@@ -383,9 +383,9 @@
 }
 
 788 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = ardiaeian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 789 = {		
