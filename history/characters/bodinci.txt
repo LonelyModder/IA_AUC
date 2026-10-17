@@ -11,7 +11,7 @@
 		add_pressed_claim = title:d_aulethi
 		add_pressed_claim = title:c_mutina
 		add_pressed_claim = title:c_felsina
-		add_pressed_claim = title:c_prercadonia
+		add_pressed_claim = title:c_cadonia
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family

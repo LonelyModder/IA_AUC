@@ -1483,6 +1483,21 @@ pannonian_scordiscus = {
 	culture = "pannonian"
 }
 
+pannonian_belegus = {
+	name = "dynn_Belegus"
+	culture = "pannonian"
+}
+
+pannonian_iassu = {
+	name = "dynn_Iassu"
+	culture = "pannonian"
+}
+
+pannonian_varcinus = {
+	name = "dynn_Varcinus"
+	culture = "pannonian"
+}
+
 #Ardiaeian
 
 ardiaeian_ardiaeius = {

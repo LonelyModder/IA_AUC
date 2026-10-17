@@ -382,7 +382,7 @@
 		add_pressed_claim = title:c_mutina
 		add_pressed_claim = title:c_ravenna
 		add_pressed_claim = title:c_nomontium
-		add_pressed_claim = title:c_prercadonia
+		add_pressed_claim = title:c_cadonia
 		add_pressed_claim = title:c_spica
 		add_pressed_claim = title:c_rapinica
 		add_pressed_claim = title:c_sermelitana

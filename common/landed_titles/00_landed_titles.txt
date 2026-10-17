@@ -15914,7 +15914,7 @@ e_westernrome = {
 				
 			}
 			
-			c_prercadonia = {
+			c_cadonia = {
 				color = { 42 108 223 }
 				
 				b_prercadonia_395 = {
@@ -22430,5 +22430,20 @@ d_asti = {
 
 d_latovici = {
 	color = { 84 144 171 }
+	landless = yes 
+}
+
+d_belegites = {
+	color = { 169 132 182 }
+	landless = yes 
+}
+
+d_iasi = {
+	color = { 42 174 218 }
+	landless = yes 
+}
+
+d_varciani = {
+	color = { 126 135 84 }
 	landless = yes 
 }

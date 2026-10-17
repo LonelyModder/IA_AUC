@@ -340,3 +340,129 @@ c_callires = {
 		holder = 2000499
 	}
 }
+
+d_belegites = {
+	
+	258.4.4 = {
+		holder = 2000502
+	}
+	437.4.21 = {
+		holder = 2000503
+	}
+}
+
+c_poetovio = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000502
+	}
+	437.4.21 = {
+		holder = 2000503
+	}
+}
+
+c_celeia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000502
+	}
+	437.4.21 = {
+		holder = 2000503
+	}
+}
+
+c_pebia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000502
+	}
+	437.4.21 = {
+		holder = 2000503
+	}
+}
+
+d_iasi = {
+	
+	258.4.4 = {
+		holder = 2000504
+	}
+	437.4.21 = {
+		holder = 2000505
+	}
+}
+
+c_eumodonia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000504
+	}
+	437.4.21 = {
+		holder = 2000505
+	}
+}
+
+c_noenedonia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000504
+	}
+	437.4.21 = {
+		holder = 2000505
+	}
+}
+
+c_ienagene = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000504
+	}
+	437.4.21 = {
+		holder = 2000505
+	}
+}
+
+d_varciani = {
+	
+	258.4.4 = {
+		holder = 2000506
+	}
+	437.4.21 = {
+		holder = 2000507
+	}
+}
+
+c_dicotania = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000506
+	}
+	437.4.21 = {
+		holder = 2000507
+	}
+}
+
+c_siscia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000506
+	}
+	437.4.21 = {
+		holder = 2000507
+	}
+}

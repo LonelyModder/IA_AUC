@@ -129,6 +129,9 @@
  d_odrysi:0 "Odrysians"
  d_asti:0 "Asti"
  d_latovici:0 "Latovici"
+ d_belegites:0 "Belegites"
+ d_iasi:0 "Iasi"
+ d_varciani:0 "Varciani"
  # Empires
  e_westernrome:0 "Italia"
  e_africa:0 "Africa"
@@ -506,7 +509,7 @@
  c_mantua:0 "Mantua"
  c_mermabia:0 "Mermabia"
  c_ledonia:0 "Tigullia"
- c_prercadonia:0 "Prercadonia"
+ c_cadonia:0 "Cadonia"
  c_mutina:0 "Mutina"
  c_ardea:0 "Ardea"
  c_tibur:0 "Tibur"

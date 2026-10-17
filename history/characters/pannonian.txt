@@ -273,3 +273,139 @@
 		death = "260.1.1"
 	}
 }
+
+2000502 = {
+	name = "Galan"
+	dynasty = pannonian_belegus
+	religion = "celtic_pagan"
+	culture = pannonian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_belegites
+		add_pressed_claim = title:c_poetovio
+		add_pressed_claim = title:c_celeia
+		add_pressed_claim = title:c_pebia
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000503 = {
+	name = "Elitovius"
+	dynasty = pannonian_belegus
+	religion = "celtic_pagan"
+	culture = pannonian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_belegites
+		add_pressed_claim = title:c_poetovio
+		add_pressed_claim = title:c_celeia
+		add_pressed_claim = title:c_pebia
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000504 = {
+	name = "Diviciacus"
+	dynasty = pannonian_iassu
+	religion = "celtic_pagan"
+	culture = pannonian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_iasi
+		add_pressed_claim = title:c_eumodonia
+		add_pressed_claim = title:c_noenedonia
+		add_pressed_claim = title:c_ienagene
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000505 = {
+	name = "Talorc"
+	dynasty = pannonian_iassu
+	religion = "celtic_pagan"
+	culture = pannonian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_iasi
+		add_pressed_claim = title:c_eumodonia
+		add_pressed_claim = title:c_noenedonia
+		add_pressed_claim = title:c_ienagene
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000506 = {
+	name = "Inamarcus"
+	dynasty = pannonian_varcinus
+	religion = "celtic_pagan"
+	culture = pannonian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_varciani
+		add_pressed_claim = title:c_dicotania
+		add_pressed_claim = title:c_siscia
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000507 = {
+	name = "Togodumnus"
+	dynasty = pannonian_varcinus
+	religion = "celtic_pagan"
+	culture = pannonian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_varciani
+		add_pressed_claim = title:c_dicotania
+		add_pressed_claim = title:c_siscia
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
