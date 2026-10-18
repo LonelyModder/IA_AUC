@@ -379,3 +379,83 @@ c_quone = {
 		holder = 2000463
 	}
 }
+
+d_deuri = {
+	
+	258.4.4 = {
+		holder = 2000512
+	}
+	437.4.21 = {
+		holder = 2000513
+	}
+}
+
+c_pellia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000512
+	}
+	437.4.21 = {
+		holder = 2000513
+	}
+}
+
+c_nenenaica = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000512
+	}
+	437.4.21 = {
+		holder = 2000513
+	}
+}
+
+c_renitia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000512
+	}
+	437.4.21 = {
+		holder = 2000513
+	}
+}
+
+c_oenia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000512
+	}
+	437.4.21 = {
+		holder = 2000513
+	}
+}
+
+d_serdati = {
+	
+	258.4.4 = {
+		holder = 2000514
+	}
+	437.4.21 = {
+		holder = 2000515
+	}
+}
+
+c_melutamia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000514
+	}
+	437.4.21 = {
+		holder = 2000515
+	}
+}

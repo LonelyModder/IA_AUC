@@ -1,0 +1,87 @@
+﻿2000508 = {
+	name = "Sarnos"
+	dynasty = breucian_azalus
+	religion = "illyrian_pagan"
+	culture = breucian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_azali
+		add_pressed_claim = title:c_collanaica
+		add_pressed_claim = title:c_ritraea
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000509 = {
+	name = "Sestenius"
+	dynasty = breucian_azalus
+	religion = "illyrian_pagan"
+	culture = breucian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_azali
+		add_pressed_claim = title:c_collanaica
+		add_pressed_claim = title:c_ritraea
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000510 = {
+	name = "Karbanios"
+	dynasty = breucian_amantus
+	religion = "illyrian_pagan"
+	culture = breucian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_amantini
+		add_pressed_claim = title:c_didateia
+		add_pressed_claim = title:c_eubena
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000511 = {
+	name = "Bepos"
+	dynasty = breucian_amantus
+	religion = "illyrian_pagan"
+	culture = breucian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_amantini
+		add_pressed_claim = title:c_didateia
+		add_pressed_claim = title:c_eubena
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}

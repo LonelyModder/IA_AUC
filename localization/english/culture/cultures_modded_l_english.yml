@@ -69,6 +69,12 @@
  dindarian:0 "Dindarian"
  dindarian_prefix:0 "Dindarian"
  dindarian_collective_noun:1 "Dindarians"
+ breucian:0 "Breucian"
+ breucian_prefix:0 "Breucian"
+ breucian_collective_noun:1 "Breucians"
+ deurian:0 "Deurian"
+ deurian_prefix:0 "Deurian"
+ deurian_collective_noun:1 "Deurians"
  #Canaanite Group
  punic:0 "Punic"
  punic_prefix:0 "Punic"

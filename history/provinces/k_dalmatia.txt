@@ -167,9 +167,9 @@
 }
 
 752 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = deurian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 753 = {		
@@ -185,9 +185,9 @@
 }
 
 755 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = deurian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 756 = {		
@@ -221,9 +221,9 @@
 }
 
 761 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = deurian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 762 = {		
@@ -269,9 +269,9 @@
 }
 
 769 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = deurian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 770 = {		
@@ -587,9 +587,9 @@
 }
 
 822 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = deurian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 823 = {		

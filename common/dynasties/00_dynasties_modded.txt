@@ -1557,4 +1557,28 @@ thracian_sapeus = {
 	culture = "thracian"
 }
 
+#Breucian
+
+breucian_azalus = {
+	name = "dynn_Azalus"
+	culture = "breucian"
+}
+
+breucian_amantus = {
+	name = "dynn_Amantus"
+	culture = "breucian"
+}
+
+#Deurian
+
+deurian_duri = {
+	name = "dynn_Duri"
+	culture = "deurian"
+}
+
+deurian_serdus = {
+	name = "dynn_Serdus"
+	culture = "deurian"
+}
+
 

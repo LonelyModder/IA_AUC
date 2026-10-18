@@ -479,9 +479,9 @@
 }
 
 1475 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = breucian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 1476 = {		
@@ -605,9 +605,9 @@
 }
 
 1472 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = breucian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 1511 = {		

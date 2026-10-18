@@ -466,3 +466,49 @@ c_siscia = {
 		holder = 2000507
 	}
 }
+
+d_azali = {
+	
+	258.4.4 = {
+		holder = 2000508
+	}
+	437.4.21 = {
+		holder = 2000509
+	}
+}
+
+c_collanaica = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000508
+	}
+	437.4.21 = {
+		holder = 2000509
+	}
+}
+
+c_ritraea = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000508
+	}
+	437.4.21 = {
+		holder = 2000509
+	}
+}
+
+c_hapecia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000514
+	}
+	437.4.21 = {
+		holder = 2000515
+	}
+}

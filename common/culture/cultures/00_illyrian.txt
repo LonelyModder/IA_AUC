@@ -23,7 +23,7 @@
 }
 
 lapygian = {
-	color = { 0.0 0.55 0.55 }
+	color = { 0.0 0.66 0.47 }
 	
 	parents = { illyrian_group }
 	
@@ -52,7 +52,7 @@ lapygian = {
 }
 
 siculian = {
-	color = { 0.1 0.55 0.55 }
+	color = { 0.1 0.66 0.47 }
 	
 	parents = { illyrian_group }
 	
@@ -81,7 +81,7 @@ siculian = {
 }
 
 delmatian = {
-	color = { 0.2 0.55 0.55 }
+	color = { 0.2 0.66 0.47 }
 	
 	parents = { illyrian_group }
 	
@@ -110,7 +110,7 @@ delmatian = {
 }
 
 ardiaeian = {
-	color = { 0.3 0.55 0.55 }
+	color = { 0.3 0.66 0.47 }
 	
 	parents = { illyrian_group }
 	
@@ -139,7 +139,7 @@ ardiaeian = {
 }
 
 encheleian = {
-	color = { 0.4 0.55 0.55 }
+	color = { 0.4 0.66 0.47 }
 	
 	parents = { illyrian_group }
 	
@@ -168,7 +168,65 @@ encheleian = {
 }
 
 dindarian = {
-	color = { 0.5 0.55 0.55 }
+	color = { 0.5 0.66 0.47 }
+	
+	parents = { illyrian_group }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_siculian
+	language = language_illyrian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_formation_fighting
+		tradition_legalistic
+		tradition_hereditary_hierarchy
+		tradition_noble_adoption
+	}
+	
+	name_list = name_list_illyrian
+
+	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
+	building_gfx = { mediterranean_building_gfx } 
+	clothing_gfx = { byzantine_clothing_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { eastern_unit_gfx } 		
+
+	ethnicities = {
+		10 = mediterranean
+	}
+}
+
+breucian = {
+	color = { 0.6 0.66 0.47 }
+	
+	parents = { illyrian_group }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_siculian
+	language = language_illyrian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_formation_fighting
+		tradition_legalistic
+		tradition_hereditary_hierarchy
+		tradition_noble_adoption
+	}
+	
+	name_list = name_list_illyrian
+
+	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
+	building_gfx = { mediterranean_building_gfx } 
+	clothing_gfx = { byzantine_clothing_gfx } 
+	clothing_gfx = { western_clothing_gfx } 
+	unit_gfx = { eastern_unit_gfx } 		
+
+	ethnicities = {
+		10 = mediterranean
+	}
+}
+
+deurian = {
+	color = { 0.7 0.66 0.47 }
 	
 	parents = { illyrian_group }
 	

@@ -22447,3 +22447,23 @@ d_varciani = {
 	color = { 126 135 84 }
 	landless = yes 
 }
+
+d_azali = {
+	color = { 126 120 209 }
+	landless = yes 
+}
+
+d_amantini = {
+	color = { 43 153 163 }
+	landless = yes 
+}
+
+d_deuri = {
+	color = { 84 141 206 }
+	landless = yes 
+}
+
+d_serdati = {
+	color = { 126 114 74 }
+	landless = yes 
+}

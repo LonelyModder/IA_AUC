@@ -1,0 +1,33 @@
+d_amantini = {
+	
+	258.4.4 = {
+		holder = 2000510
+	}
+	437.4.21 = {
+		holder = 2000511
+	}
+}
+
+c_didateia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000510
+	}
+	437.4.21 = {
+		holder = 2000511
+	}
+}
+
+c_eubena = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000510
+	}
+	437.4.21 = {
+		holder = 2000511
+	}
+}
