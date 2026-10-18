@@ -321,6 +321,7 @@
  dynn_Skenid:0 "Skenid"
  dynn_Tizid:0 "Tizid"
  dynn_Ditid:0 "Ditid"
+ dynn_Dorsu:0 "Dorsu"
  #Noric
  dynn_Carosus:0 "Carosus"
  dynn_Ambisontius:0 "Ambisontius"
@@ -347,6 +348,8 @@
  dynn_Varcinus:0 "Varcinus"
  #Ardiaeian
  dynn_Ardiaeius:0 "Ardiaeius"
+ dynn_Melcumius0:0 "Melcumius"
+ dynn_Glintos:0 "Glintos"
  #Thracian
  dynn_Melandus:0 "Melandus"
  dynn_Cenus:0 "Cenus"
@@ -364,3 +367,6 @@
  #Deurian
  dynn_Duri:0 "Duri"
  dynn_Serdus:0 "Serdus"
+ dynn_Mazius:0 "Mazius"
+ #Dindarian
+ dynn_Dindaros:0 "Dindaros"

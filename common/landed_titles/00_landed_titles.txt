@@ -22467,3 +22467,13 @@ d_serdati = {
 	color = { 126 114 74 }
 	landless = yes 
 }
+
+d_maezaei = {
+	color = { 84 207 96 }
+	landless = yes 
+}
+
+d_dindari = {
+	color = { 42 15 93 }
+	landless = yes 
+}

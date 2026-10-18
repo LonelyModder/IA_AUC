@@ -45,3 +45,87 @@
 		death = "260.1.1"
 	}
 }
+
+2000520 = {
+	name = "Daitor"
+	dynasty = ardiaeian_melcumius
+	religion = "illyrian_pagan"
+	culture = ardiaeian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:c_domnium
+		add_pressed_claim = title:c_povia
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000521 = {
+	name = "Passalos"
+	dynasty = ardiaeian_melcumius
+	religion = "illyrian_pagan"
+	culture = ardiaeian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:c_domnium
+		add_pressed_claim = title:c_povia
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000522 = {
+	name = "Pladomenos"
+	dynasty = ardiaeian_glintos
+	religion = "illyrian_pagan"
+	culture = ardiaeian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:c_iurnellia
+		add_pressed_claim = title:c_lamavia
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000523 = {
+	name = "Iaritos"
+	dynasty = ardiaeian_glintos
+	religion = "illyrian_pagan"
+	culture = ardiaeian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:c_iurnellia
+		add_pressed_claim = title:c_lamavia
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}

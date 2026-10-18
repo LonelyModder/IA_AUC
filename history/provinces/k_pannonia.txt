@@ -693,9 +693,9 @@
 }
 
 866 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = deurian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 903 = {		
@@ -776,9 +776,9 @@
 }
 
 883 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = deurian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 884 = {		

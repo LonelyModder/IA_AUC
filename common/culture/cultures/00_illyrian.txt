@@ -23,7 +23,7 @@
 }
 
 lapygian = {
-	color = { 0.0 0.66 0.47 }
+	color = { 0.0 0.2 0.6 }
 	
 	parents = { illyrian_group }
 	
@@ -52,7 +52,7 @@ lapygian = {
 }
 
 siculian = {
-	color = { 0.1 0.66 0.47 }
+	color = { 0.05 0.2 0.6 }
 	
 	parents = { illyrian_group }
 	
@@ -81,7 +81,7 @@ siculian = {
 }
 
 delmatian = {
-	color = { 0.2 0.66 0.47 }
+	color = { 0.1 0.2 0.6 }
 	
 	parents = { illyrian_group }
 	
@@ -110,7 +110,7 @@ delmatian = {
 }
 
 ardiaeian = {
-	color = { 0.3 0.66 0.47 }
+	color = { 0.15 0.2 0.6 }
 	
 	parents = { illyrian_group }
 	
@@ -139,7 +139,7 @@ ardiaeian = {
 }
 
 encheleian = {
-	color = { 0.4 0.66 0.47 }
+	color = { 0.2 0.2 0.6 }
 	
 	parents = { illyrian_group }
 	
@@ -168,7 +168,7 @@ encheleian = {
 }
 
 dindarian = {
-	color = { 0.5 0.66 0.47 }
+	color = { 0.25 0.2 0.6 }
 	
 	parents = { illyrian_group }
 	
@@ -197,7 +197,7 @@ dindarian = {
 }
 
 breucian = {
-	color = { 0.6 0.66 0.47 }
+	color = { 0.3 0.2 0.6 }
 	
 	parents = { illyrian_group }
 	
@@ -226,7 +226,7 @@ breucian = {
 }
 
 deurian = {
-	color = { 0.7 0.66 0.47 }
+	color = { 0.35 0.2 0.6 }
 	
 	parents = { illyrian_group }
 	

@@ -395,15 +395,15 @@
 }
 
 790 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = ardiaeian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 791 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = delmatian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 792 = {		
@@ -437,9 +437,9 @@
 }
 
 797 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = delmatian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 798 = {		
@@ -467,9 +467,9 @@
 }
 
 802 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = dindarian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 803 = {		
@@ -485,9 +485,9 @@
 }
 
 805 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = ardiaeian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 806 = {		
@@ -497,9 +497,9 @@
 }
 
 807 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = ardiaeian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 808 = {		
@@ -509,9 +509,9 @@
 }
 
 809 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = ardiaeian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 810 = {		
@@ -527,9 +527,9 @@
 }
 
 812 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = dindarian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 813 = {		
@@ -539,9 +539,9 @@
 }
 
 814 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = dindarian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 815 = {		
@@ -551,9 +551,9 @@
 }
 
 816 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = dindarian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 817 = {		
@@ -575,9 +575,9 @@
 }
 
 820 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = dindarian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 821 = {		

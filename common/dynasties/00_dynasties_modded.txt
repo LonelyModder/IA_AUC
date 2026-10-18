@@ -1387,6 +1387,11 @@ delmatian_ditid = {
 	culture = "delmatian"
 }
 
+delmatian_dorsu = {
+	name = "dynn_Dorsu"
+	culture = "delmatian"
+}
+
 #Noric
 
 noric_carosus = {
@@ -1505,6 +1510,23 @@ ardiaeian_ardiaeius = {
 	culture = "ardiaeian"
 }
 
+ardiaeian_melcumius = {
+	name = "dynn_Melcumius"
+	culture = "ardiaeian"
+}
+
+ardiaeian_glintos = {
+	name = "dynn_Glintos"
+	culture = "ardiaeian"
+}
+
+#Dindarian
+
+dindarian_dindaros = {
+	name = "dynn_Dindaros"
+	culture = "dindarian"
+}
+
 #Thracian
 
 thracian_melandus = {
@@ -1581,4 +1603,7 @@ deurian_serdus = {
 	culture = "deurian"
 }
 
-
+deurian_mazius = {
+	name = "dynn_Mazius"
+	culture = "deurian"
+}

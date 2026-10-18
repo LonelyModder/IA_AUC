@@ -58,7 +58,7 @@
 	250.1.1 = {
 		add_pressed_claim = title:d_serdati
 		add_pressed_claim = title:c_melutamia
-		add_pressed_claim = title:c_hapecia
+		add_pressed_claim = title:c_hepecia
 	}
 	258.4.4 = {
 		add_character_flag = do_not_generate_starting_family
@@ -80,7 +80,51 @@
 	436.1.1 = {
 		add_pressed_claim = title:d_serdati
 		add_pressed_claim = title:c_melutamia
-		add_pressed_claim = title:c_hapecia
+		add_pressed_claim = title:c_hepecia
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000518 = {
+	name = "Ulkidios"
+	dynasty = deurian_mazius
+	religion = "illyrian_pagan"
+	culture = deurian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_maezaei
+		add_pressed_claim = title:c_distrerus
+		add_pressed_claim = title:c_luceres
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000519 = {
+	name = "Sourko"
+	dynasty = deurian_mazius
+	religion = "illyrian_pagan"
+	culture = deurian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_maezaei
+		add_pressed_claim = title:c_distrerus
+		add_pressed_claim = title:c_luceres
 	}
 	437.4.21 = {
 		add_character_flag = do_not_generate_starting_family

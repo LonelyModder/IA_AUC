@@ -459,3 +459,145 @@ c_melutamia = {
 		holder = 2000515
 	}
 }
+
+c_daorson = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000516
+	}
+	437.4.21 = {
+		holder = 2000517
+	}
+}
+
+c_nilitana = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000516
+	}
+	437.4.21 = {
+		holder = 2000517
+	}
+}
+
+c_domnium = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000520
+	}
+	437.4.21 = {
+		holder = 2000521
+	}
+}
+
+c_povia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000520
+	}
+	437.4.21 = {
+		holder = 2000521
+	}
+}
+
+c_iurnellia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000522
+	}
+	437.4.21 = {
+		holder = 2000523
+	}
+}
+
+c_lamavia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000522
+	}
+	437.4.21 = {
+		holder = 2000523
+	}
+}
+
+d_dindari = {
+	
+	258.4.4 = {
+		holder = 2000524
+	}
+	437.4.21 = {
+		holder = 2000525
+	}
+}
+
+c_pamnium = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000524
+	}
+	437.4.21 = {
+		holder = 2000525
+	}
+}
+
+c_domavia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000524
+	}
+	437.4.21 = {
+		holder = 2000525
+	}
+}
+
+c_oensutania = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000524
+	}
+	437.4.21 = {
+		holder = 2000525
+	}
+}
+
+c_numuria = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000524
+	}
+	437.4.21 = {
+		holder = 2000525
+	}
+}
+
+c_icorus = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000524
+	}
+	437.4.21 = {
+		holder = 2000525
+	}
+}

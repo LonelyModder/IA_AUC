@@ -501,7 +501,7 @@ c_ritraea = {
 	}
 }
 
-c_hapecia = {
+c_hepecia = {
 	258.4.4 = {	change_development_level = 1 }
 	437.4.21 = { change_development_level = 1 }
 	
@@ -510,5 +510,39 @@ c_hapecia = {
 	}
 	437.4.21 = {
 		holder = 2000515
+	}
+}
+
+d_maezaei = {
+	
+	258.4.4 = {
+		holder = 2000518
+	}
+	437.4.21 = {
+		holder = 2000519
+	}
+}
+
+c_distrerus = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000518
+	}
+	437.4.21 = {
+		holder = 2000519
+	}
+}
+
+c_luceres = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000518
+	}
+	437.4.21 = {
+		holder = 2000519
 	}
 }
