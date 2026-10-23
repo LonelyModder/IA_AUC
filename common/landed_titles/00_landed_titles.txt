@@ -22477,3 +22477,48 @@ d_dindari = {
 	color = { 42 15 93 }
 	landless = yes 
 }
+
+d_galabri = {
+	color = { 169 224 177 }
+	landless = yes 
+}
+
+d_thunatae = {
+	color = { 169 177 240 }
+	landless = yes 
+}
+
+d_ulciniatae = {
+	color = { 169 27 142 }
+	landless = yes 
+}
+
+d_pirustae = {
+	color = { 85 141 161 }
+	landless = yes 
+}
+
+d_enchelei = {
+	color = { 169 0 202 }
+	landless = yes 
+}
+
+d_taulantii = {
+	color = { 43 36 208 }
+	landless = yes 
+}
+
+k_enchelei = {
+	color = { 169 0 202 }
+	landless = yes 
+}
+
+d_mygdoni = {
+	color = { 43 84 53 }
+	landless = yes 
+}
+
+d_maedi = {
+	color = { 169 93 182 }
+	landless = yes 
+}

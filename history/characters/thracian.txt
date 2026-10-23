@@ -429,3 +429,127 @@
 		death = "469.1.1"
 	}
 }
+
+2000566 = {
+	name = "Zinna"
+	dynasty = thracian_bisaltus
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_bisalta
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000567 = {
+	name = "Dromichaetes"
+	dynasty = thracian_bisaltus
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_bisalta
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000570 = {
+	name = "Zinna"
+	dynasty = thracian_maedus
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_maedi
+		add_pressed_claim = title:c_argilos
+		add_pressed_claim = title:c_therma
+		add_pressed_claim = title:c_perilene
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000571 = {
+	name = "Dromichaetes"
+	dynasty = thracian_maedus
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_maedi
+		add_pressed_claim = title:c_argilos
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000574 = {
+	name = "Orola"
+	dynasty = thracian_pierus
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_amphipolis
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000575 = {
+	name = "Petipor"
+	dynasty = thracian_pierus
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_amphipolis
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

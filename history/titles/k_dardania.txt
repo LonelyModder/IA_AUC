@@ -31,3 +31,283 @@ c_eubena = {
 		holder = 2000511
 	}
 }
+
+d_galabri = {
+	
+	258.4.4 = {
+		holder = 2000526
+	}
+	437.4.21 = {
+		holder = 2000527
+	}
+}
+
+c_dardanorum = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000526
+	}
+	437.4.21 = {
+		holder = 2000527
+	}
+}
+
+c_pyrgoupoli = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000526
+	}
+	437.4.21 = {
+		holder = 2000527
+	}
+}
+
+c_pavleze = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000526
+	}
+	437.4.21 = {
+		holder = 2000527
+	}
+}
+
+d_thunatae = {
+	
+	258.4.4 = {
+		holder = 2000528
+	}
+	437.4.21 = {
+		holder = 2000529
+	}
+}
+
+c_scupi = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000528
+	}
+	437.4.21 = {
+		holder = 2000529
+	}
+}
+
+c_rhithalos = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000528
+	}
+	437.4.21 = {
+		holder = 2000529
+	}
+}
+
+c_ulpiana = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000528
+	}
+	437.4.21 = {
+		holder = 2000529
+	}
+}
+
+c_chaphos = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000528
+	}
+	437.4.21 = {
+		holder = 2000529
+	}
+}
+
+d_ulciniatae = {
+	
+	258.4.4 = {
+		holder = 2000530
+	}
+	437.4.21 = {
+		holder = 2000531
+	}
+}
+
+c_dolcea = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000530
+	}
+	437.4.21 = {
+		holder = 2000531
+	}
+}
+
+c_agruvium = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000530
+	}
+	437.4.21 = {
+		holder = 2000531
+	}
+}
+
+c_scodra = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000530
+	}
+	437.4.21 = {
+		holder = 2000531
+	}
+}
+
+c_lissus = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000532
+	}
+	437.4.21 = {
+		holder = 2000533
+	}
+}
+
+c_empillai = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000534
+	}
+	437.4.21 = {
+		holder = 2000535
+	}
+}
+
+c_taraca = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000536
+	}
+	437.4.21 = {
+		holder = 2000537
+	}
+}
+
+d_pirustae = {
+	
+	258.4.4 = {
+		holder = 2000538
+	}
+	437.4.21 = {
+		holder = 2000539
+	}
+}
+
+c_maluesa = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000538
+	}
+	437.4.21 = {
+		holder = 2000539
+	}
+}
+
+c_hellusae = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000538
+	}
+	437.4.21 = {
+		holder = 2000539
+	}
+}
+
+c_syrapezus = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000538
+	}
+	437.4.21 = {
+		holder = 2000539
+	}
+}
+
+c_pharinia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000538
+	}
+	437.4.21 = {
+		holder = 2000539
+	}
+}
+
+c_petsonemus = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000538
+	}
+	437.4.21 = {
+		holder = 2000539
+	}
+}
+
+c_sybidnae = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000540
+	}
+	437.4.21 = {
+		holder = 2000541
+	}
+}
+
+c_deubiene = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000542
+	}
+	437.4.21 = {
+		holder = 2000543
+	}
+}

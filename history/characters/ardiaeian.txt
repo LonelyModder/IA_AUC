@@ -129,3 +129,249 @@
 		death = "260.1.1"
 	}
 }
+
+2000530 = {
+	name = "Tourranios"
+	dynasty = ardiaeian_ulcus
+	religion = "illyrian_pagan"
+	culture = ardiaeian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_ulciniatae
+		add_pressed_claim = title:c_dolcea
+		add_pressed_claim = title:c_agruvium
+		add_pressed_claim = title:c_scodra
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000531 = {
+	name = "Tizios"
+	dynasty = ardiaeian_ulcus
+	religion = "illyrian_pagan"
+	culture = ardiaeian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_ulciniatae
+		add_pressed_claim = title:c_dolcea
+		add_pressed_claim = title:c_agruvium
+		add_pressed_claim = title:c_scodra
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000532 = {
+	name = "Laidos"
+	dynasty = ardiaeian_albanus
+	religion = "illyrian_pagan"
+	culture = ardiaeian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:c_lissus
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000533 = {
+	name = "Passalos"
+	dynasty = ardiaeian_albanus
+	religion = "illyrian_pagan"
+	culture = ardiaeian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:c_lissus
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000534 = {
+	name = "Messor"
+	dynasty = ardiaeian_penestus
+	religion = "illyrian_pagan"
+	culture = ardiaeian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:c_empillai
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000535 = {
+	name = "Skenos"
+	dynasty = ardiaeian_penestus
+	religion = "illyrian_pagan"
+	culture = ardiaeian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:c_empillai
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000536 = {
+	name = "Sarnos"
+	dynasty = ardiaeian_scirtarius
+	religion = "illyrian_pagan"
+	culture = ardiaeian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:c_taraca
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000537 = {
+	name = "Sarios"
+	dynasty = ardiaeian_scirtarius
+	religion = "illyrian_pagan"
+	culture = ardiaeian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:c_taraca
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000540 = {
+	name = "Bendo"
+	dynasty = ardiaeian_lebeatus
+	religion = "illyrian_pagan"
+	culture = ardiaeian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:c_sybidnae
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000541 = {
+	name = "Bepos"
+	dynasty = ardiaeian_lebeatus
+	religion = "illyrian_pagan"
+	culture = ardiaeian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:c_sybidnae
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000542 = {
+	name = "Ulkidios"
+	dynasty = ardiaeian_ceraunos
+	religion = "illyrian_pagan"
+	culture = ardiaeian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:c_deubiene
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000543 = {
+	name = "Tourrinios"
+	dynasty = ardiaeian_ceraunos
+	religion = "illyrian_pagan"
+	culture = ardiaeian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:c_deubiene
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}

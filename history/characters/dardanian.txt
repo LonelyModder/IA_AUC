@@ -1,0 +1,93 @@
+﻿2000526 = {
+	name = "Statos"
+	dynasty = dardanian_galabros
+	religion = "illyrian_pagan"
+	culture = dardanian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_galabri
+		add_pressed_claim = title:c_dardanorum
+		add_pressed_claim = title:c_pyrgoupoli
+		add_pressed_claim = title:c_pavleze
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000527 = {
+	name = "Likkaios"
+	dynasty = dardanian_dindaros
+	religion = "illyrian_pagan"
+	culture = dardanian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_galabri
+		add_pressed_claim = title:c_dardanorum
+		add_pressed_claim = title:c_pyrgoupoli
+		add_pressed_claim = title:c_pavleze
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000528 = {
+	name = "Tourranios"
+	dynasty = dardanian_thunus
+	religion = "illyrian_pagan"
+	culture = dardanian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_thunatae
+		add_pressed_claim = title:c_scupi
+		add_pressed_claim = title:c_rhithalos
+		add_pressed_claim = title:c_ulpiana
+		add_pressed_claim = title:c_chaphos
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000529 = {
+	name = "Tizios"
+	dynasty = dardanian_thunus
+	religion = "illyrian_pagan"
+	culture = dardanian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_thunatae
+		add_pressed_claim = title:c_scupi
+		add_pressed_claim = title:c_rhithalos
+		add_pressed_claim = title:c_ulpiana
+		add_pressed_claim = title:c_chaphos
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}

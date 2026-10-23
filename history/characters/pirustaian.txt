@@ -1,0 +1,49 @@
+﻿2000538 = {
+	name = "Turelios"
+	dynasty = pirustaian_pirustus
+	religion = "illyrian_pagan"
+	culture = pirustaian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_pirustae
+		add_pressed_claim = title:c_maluesa
+		add_pressed_claim = title:c_hellusae
+		add_pressed_claim = title:c_syrapezus
+		add_pressed_claim = title:c_pharinia
+		add_pressed_claim = title:c_petsonemus
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000539 = {
+	name = "Tourranios"
+	dynasty = pirustaian_pirustus
+	religion = "illyrian_pagan"
+	culture = pirustaian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_pirustae
+		add_pressed_claim = title:c_maluesa
+		add_pressed_claim = title:c_hellusae
+		add_pressed_claim = title:c_syrapezus
+		add_pressed_claim = title:c_pharinia
+		add_pressed_claim = title:c_petsonemus
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}

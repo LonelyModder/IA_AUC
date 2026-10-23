@@ -1,0 +1,335 @@
+c_styberra = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000544
+	}
+	437.4.21 = {
+		holder = 2000545
+	}
+}
+
+c_amphylos = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000546
+	}
+	437.4.21 = {
+		holder = 2000547
+	}
+}
+
+c_didantium = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000548
+	}
+	437.4.21 = {
+		holder = 2000549
+	}
+}
+
+c_stobi = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000550
+	}
+	437.4.21 = {
+		holder = 2000551
+	}
+}
+
+c_aspetri = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000552
+	}
+	437.4.21 = {
+		holder = 2000553
+	}
+}
+
+d_enchelei = {
+	
+	258.4.4 = {
+		holder = 2000554
+	}
+	437.4.21 = {
+		holder = 2000555
+	}
+}
+
+k_enchelei = {
+	
+	437.4.21 = {
+		holder = 2000555
+	}
+}
+
+c_aigene = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000554
+	}
+	437.4.21 = {
+		holder = 2000555
+	}
+}
+
+c_lapithila = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000554
+	}
+	437.4.21 = {
+		holder = 2000555
+	}
+}
+
+c_assyma = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000554
+	}
+	437.4.21 = {
+		holder = 2000555
+	}
+}
+
+d_taulantii = {
+	
+	258.4.4 = {
+		holder = 2000556
+	}
+	437.4.21 = {
+		liege="k_enchelei"
+		holder = 2000557
+	}
+}
+
+c_dyrrachium = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000556
+	}
+	437.4.21 = {
+		liege="k_enchelei"
+		holder = 2000557
+	}
+}
+
+c_epidamnos = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000556
+	}
+	437.4.21 = {
+		liege="k_enchelei"
+		holder = 2000557
+	}
+}
+
+c_apollonia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000556
+	}
+	437.4.21 = {
+		liege="k_enchelei"
+		holder = 2000557
+	}
+}
+
+c_byllis = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000558
+	}
+	437.4.21 = {
+		liege="k_enchelei"
+		holder = 2000559
+	}
+}
+
+c_achesmos = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000558
+	}
+	437.4.21 = {
+		liege="k_enchelei"
+		holder = 2000559
+	}
+}
+
+c_amantia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000560
+	}
+	437.4.21 = {
+		liege="k_enchelei"
+		holder = 2000561
+	}
+}
+
+c_oenetri = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000562
+	}
+	437.4.21 = {
+		liege="k_enchelei"
+		holder = 2000563
+	}
+}
+
+c_brygia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000564
+	}
+	437.4.21 = {
+		liege="k_enchelei"
+		holder = 2000565
+	}
+}
+
+c_bisalta = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000566
+	}
+	437.4.21 = {
+		liege="k_enchelei"
+		holder = 2000567
+	}
+}
+
+d_mygdoni = {
+	
+	258.4.4 = {
+		holder = 2000568
+	}
+	437.4.21 = {
+		holder = 2000569
+	}
+}
+
+c_akte = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000568
+	}
+	437.4.21 = {
+		holder = 2000569
+	}
+}
+
+c_mende = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000568
+	}
+}
+
+d_maedi = {
+	
+	258.4.4 = {
+		holder = 2000570
+	}
+	437.4.21 = {
+		holder = 2000571
+	}
+}
+
+c_argilos = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000570
+	}
+	437.4.21 = {
+		holder = 2000571
+	}
+}
+
+c_therma = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000570
+	}
+}
+
+c_perilene = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000570
+	}
+}
+
+c_oliliki = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000572
+	}
+	437.4.21 = {
+		holder = 2000573
+	}
+}
+
+c_amphipolis = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000574
+	}
+	437.4.21 = {
+		holder = 2000575
+	}
+}

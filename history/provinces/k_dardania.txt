@@ -1,7 +1,7 @@
 ﻿1425 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = ardiaeian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 1426 = {		
@@ -11,15 +11,15 @@
 }
 
 1427 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = ardiaeian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 1428 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = ardiaeian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 1429 = {		
@@ -35,9 +35,9 @@
 }
 
 1431 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = ardiaeian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 1432 = {		
@@ -47,9 +47,9 @@
 }
 
 1433 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = ardiaeian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 1434 = {		
@@ -77,9 +77,9 @@
 }
 
 1438 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = ardiaeian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 1439 = {		
@@ -101,9 +101,9 @@
 }
 
 1442 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = ardiaeian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 1443 = {		
@@ -149,9 +149,9 @@
 }
 
 1450 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = pirustaian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 1451 = {		
@@ -167,9 +167,9 @@
 }
 
 1453 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = pirustaian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 1454 = {		
@@ -185,9 +185,9 @@
 }
 
 1456 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = pirustaian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 1457 = {		
@@ -221,9 +221,9 @@
 }
 
 1462 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = ardiaeian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 1463 = {		
@@ -233,9 +233,9 @@
 }
 
 1464 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = dardanian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 1465 = {		
@@ -257,9 +257,9 @@
 }
 
 1468 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = pirustaian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 1469 = {		
@@ -275,9 +275,9 @@
 }
 
 1471 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = pirustaian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 1481 = {		
@@ -287,15 +287,15 @@
 }
 
 1482 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = dardanian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 1483 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = dardanian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 1484 = {		
@@ -323,9 +323,9 @@
 }
 
 1488 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = dardanian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 1489 = {		
@@ -335,9 +335,9 @@
 }
 
 1500 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = dardanian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 1501 = {		
@@ -347,15 +347,15 @@
 }
 
 1502 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = dardanian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 1503 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = dardanian
+	religion = illyrian_pagan
+	holding = tribal_holding
 }
 
 1504 = {		

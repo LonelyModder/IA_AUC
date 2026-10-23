@@ -350,7 +350,14 @@
  dynn_Ardiaeius:0 "Ardiaeius"
  dynn_Melcumius0:0 "Melcumius"
  dynn_Glintos:0 "Glintos"
+ dynn_Ulcus:0 "Ulcus"
+ dynn_Albanus:0 "Albanus"
+ dynn_Penestus:0 "Penestus"
+ dynn_Scirtarius:0 "Scirtarius"
+ dynn_Lebeatus:0 "Lebeatus"
+ dynn_Ceraunos:0 "Ceraunos"
  #Thracian
+ dynn_Bisaltus:0 "Bisaltus"
  dynn_Melandus:0 "Melandus"
  dynn_Cenus:0 "Cenus"
  dynn_Doloncus:0 "Doloncus"
@@ -359,6 +366,8 @@
  dynn_Thunus:0 "Thunus"
  dynn_Odrysid:0 "Odrysid"
  dynn_Astos:0 "Astos"
+ dynn_Maedus:0 "Maedus"
+ dynn_Pierus:0 "Pierus"
  dynn_Cicis:0 "Cicis"
  dynn_Sapeus:0 "Sapeus"
  #Breucian
@@ -370,3 +379,24 @@
  dynn_Mazius:0 "Mazius"
  #Dindarian
  dynn_Dindaros:0 "Dindaros"
+ #Dardanian
+ dynn_Galabros:0 "Galabros"
+ dynn_Thunus:0 "Thunus"
+ #Pirustaian
+ dynn_Pirustus:0 "Pirustus"
+ #Paeonian
+ dynn_Derronus:0 "Derronus"
+ dynn_Agrianes:0 "Agrianes"
+ dynn_Doberus:0 "Doberus"
+ dynn_Sirus:0 "Sirus"
+ dynn_Paeoplus:0 "Paeoplus"
+ dynn_Almopos:0 "Almopos"
+ dynn_Odomantos:0 "Odomantos"
+ #Encheleian
+ dynn_Enchelus:0 "Enchelus"
+ dynn_Tulantus:0 "Tulantus"
+ dynn_Byllus:0 "Byllus"
+ dynn_Amantus:0 "Amantus"
+ dynn_Parthinus:0 "Parthinus"
+ #Brygian
+ dynn_Mygdonus:0 "Mygdonus"

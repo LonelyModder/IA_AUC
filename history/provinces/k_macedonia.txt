@@ -245,9 +245,9 @@
 }
 
 1301 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1302 = {		
@@ -269,9 +269,9 @@
 }
 
 1305 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1306 = {		
@@ -281,9 +281,9 @@
 }
 
 1307 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = brygian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1308 = {		
@@ -299,9 +299,9 @@
 }
 
 1310 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = brygian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1311 = {		
@@ -317,9 +317,9 @@
 }
 
 1313 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1314 = {		
@@ -329,9 +329,9 @@
 }
 
 1315 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1316 = {		
@@ -365,9 +365,9 @@
 }
 
 1321 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = paeonian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1322 = {		
@@ -443,9 +443,9 @@
 }
 
 1334 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = paeonian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1335 = {		
@@ -461,9 +461,9 @@
 }
 
 1337 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = paeonian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1338 = {		
@@ -509,9 +509,9 @@
 }
 
 1347 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = paeonian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1348 = {		
@@ -545,9 +545,9 @@
 }
 
 1370 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = paeonian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1371 = {		
@@ -557,9 +557,9 @@
 }
 
 1372 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = brygian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1373 = {		
@@ -581,9 +581,9 @@
 }
 
 1376 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = paeonian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1377 = {		
@@ -593,9 +593,9 @@
 }
 
 1378 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1379 = {		

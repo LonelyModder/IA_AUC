@@ -180,7 +180,7 @@ c_pharos = {
 		holder = 2000435
 	}
 	437.4.21 = {
-		holder = 2000436
+		holder = 2000434
 	}
 }
 
@@ -272,7 +272,7 @@ c_korkyra = {
 		holder = 2000439
 	}
 	437.4.21 = {
-		holder = 2000440
+		holder = 2000434
 	}
 }
 

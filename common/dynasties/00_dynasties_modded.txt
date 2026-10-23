@@ -1520,6 +1520,36 @@ ardiaeian_glintos = {
 	culture = "ardiaeian"
 }
 
+ardiaeian_ulcus = {
+	name = "dynn_Ulcus"
+	culture = "ardiaeian"
+}
+
+ardiaeian_albanus = {
+	name = "dynn_Albanus"
+	culture = "ardiaeian"
+}
+
+ardiaeian_penestus = {
+	name = "dynn_Penestus"
+	culture = "ardiaeian"
+}
+
+ardiaeian_scirtarius = {
+	name = "dynn_Scirtarius"
+	culture = "ardiaeian"
+}
+
+ardiaeian_lebeatus = {
+	name = "dynn_Lebeatus"
+	culture = "ardiaeian"
+}
+
+ardiaeian_ceraunos = {
+	name = "dynn_Ceraunos"
+	culture = "ardiaeian"
+}
+
 #Dindarian
 
 dindarian_dindaros = {
@@ -1534,8 +1564,23 @@ thracian_melandus = {
 	culture = "thracian"
 }
 
+thracian_maedus = {
+	name = "dynn_Maedus"
+	culture = "thracian"
+}
+
+thracian_pierus = {
+	name = "dynn_Pierus"
+	culture = "thracian"
+}
+
 thracian_cenus = {
 	name = "dynn_Cenus"
+	culture = "thracian"
+}
+
+thracian_bisaltus = {
+	name = "dynn_Bisaltus"
 	culture = "thracian"
 }
 
@@ -1606,4 +1651,94 @@ deurian_serdus = {
 deurian_mazius = {
 	name = "dynn_Mazius"
 	culture = "deurian"
+}
+
+#Dardanian
+
+dardanian_galabros = {
+	name = "dynn_Galabros"
+	culture = "dardanian"
+}
+
+dardanian_thunus = {
+	name = "dynn_Thunus"
+	culture = "dardanian"
+}
+
+#Pirustaian
+
+pirustaian_pirustus = {
+	name = "dynn_Pirustus"
+	culture = "pirustaian"
+}
+
+#Peonian
+
+paeonian_derronus = {
+	name = "dynn_Derronus"
+	culture = "paeonian"
+}
+
+paeonian_agrianes = {
+	name = "dynn_Agrianes"
+	culture = "paeonian"
+}
+
+paeonian_odomantos = {
+	name = "dynn_Odomantos"
+	culture = "paeonian"
+}
+
+paeonian_doberus = {
+	name = "dynn_Doberus"
+	culture = "paeonian"
+}
+
+paeonian_sirus = {
+	name = "dynn_Sirus"
+	culture = "paeonian"
+}
+
+paeonian_paeoplus = {
+	name = "dynn_Paeoplus"
+	culture = "paeonian"
+}
+
+paeonian_almopos = {
+	name = "dynn_Almopos"
+	culture = "paeonian"
+}
+
+#Encheleian
+
+encheleian_enchelus = {
+	name = "dynn_Enchelus"
+	culture = "encheleian"
+}
+
+encheleian_tulantus = {
+	name = "dynn_Tulantus"
+	culture = "encheleian"
+}
+
+encheleian_byllus = {
+	name = "dynn_Byllus"
+	culture = "encheleian"
+}
+
+encheleian_amantus = {
+	name = "dynn_Amantus"
+	culture = "encheleian"
+}
+
+encheleian_parthinus = {
+	name = "dynn_Parthinus"
+	culture = "encheleian"
+}
+
+#Brygian
+
+brygian_mygdonus = {
+	name = "dynn_Mygdonus"
+	culture = "brygian"
 }

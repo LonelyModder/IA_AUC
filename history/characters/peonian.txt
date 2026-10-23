@@ -1,0 +1,279 @@
+﻿2000544 = {
+	name = "Vezina"
+	dynasty = paeonian_derronus
+	religion = "thracian_pagan"
+	culture = paeonian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:c_styberra
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000545 = {
+	name = "Kaigiza"
+	dynasty = paeonian_derronus
+	religion = "thracian_pagan"
+	culture = paeonian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:c_styberra
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000546 = {
+	name = "Orola"
+	dynasty = paeonian_agrianes
+	religion = "thracian_pagan"
+	culture = paeonian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:c_amphylos
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000547 = {
+	name = "Dapyx"
+	dynasty = paeonian_agrianes
+	religion = "thracian_pagan"
+	culture = paeonian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:c_amphylos
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000548 = {
+	name = "Rhemaxos"
+	dynasty = paeonian_doberus
+	religion = "thracian_pagan"
+	culture = paeonian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:c_didantium
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000549 = {
+	name = "Tiati"
+	dynasty = paeonian_doberus
+	religion = "thracian_pagan"
+	culture = paeonian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:c_didantium
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000550 = {
+	name = "Natoporus"
+	dynasty = paeonian_sirus
+	religion = "thracian_pagan"
+	culture = paeonian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:c_stobi
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000551 = {
+	name = "Zinna"
+	dynasty = paeonian_sirus
+	religion = "thracian_pagan"
+	culture = paeonian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:c_stobi
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000552 = {
+	name = "Dotouzi"
+	dynasty = paeonian_paeoplus
+	religion = "thracian_pagan"
+	culture = paeonian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:c_aspetri
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000553 = {
+	name = "Bastiza"
+	dynasty = paeonian_paeoplus
+	religion = "thracian_pagan"
+	culture = paeonian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:c_aspetri
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000564 = {
+	name = "Dotouzi"
+	dynasty = paeonian_almopos
+	religion = "thracian_pagan"
+	culture = paeonian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:c_brygia
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000565 = {
+	name = "Bastiza"
+	dynasty = paeonian_almopos
+	religion = "thracian_pagan"
+	culture = paeonian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:c_brygia
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000572 = {
+	name = "Komozoi"
+	dynasty = paeonian_odomantos
+	religion = "thracian_pagan"
+	culture = paeonian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:c_oliliki
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000573 = {
+	name = "Moskon"
+	dynasty = paeonian_odomantos
+	religion = "thracian_pagan"
+	culture = paeonian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:c_oliliki
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}

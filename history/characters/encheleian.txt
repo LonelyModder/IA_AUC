@@ -1,0 +1,214 @@
+﻿2000554 = {
+	name = "Enchelos"
+	dynasty = encheleian_enchelus
+	religion = "illyrian_pagan"
+	culture = encheleian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_enchelei
+		add_pressed_claim = title:c_aigene
+		add_pressed_claim = title:c_lapithila
+		add_pressed_claim = title:c_assyma
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000555 = {
+	name = "Iaritos"
+	dynasty = encheleian_enchelus
+	religion = "illyrian_pagan"
+	culture = encheleian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:k_enchelei
+		add_pressed_claim = title:d_enchelei
+		add_pressed_claim = title:c_aigene
+		add_pressed_claim = title:c_lapithila
+		add_pressed_claim = title:c_assyma
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000556 = {
+	name = "Bryoukos"
+	dynasty = encheleian_tulantus
+	religion = "illyrian_pagan"
+	culture = encheleian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:d_taulantii
+		add_pressed_claim = title:c_dyrrachium
+		add_pressed_claim = title:c_epidamnos
+		add_pressed_claim = title:c_apollonia
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000557 = {
+	name = "Tizios"
+	dynasty = encheleian_tulantus
+	religion = "illyrian_pagan"
+	culture = encheleian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:d_taulantii
+		add_pressed_claim = title:c_dyrrachium
+		add_pressed_claim = title:c_epidamnos
+		add_pressed_claim = title:c_apollonia
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000558 = {
+	name = "Ledros"
+	dynasty = encheleian_byllus
+	religion = "illyrian_pagan"
+	culture = encheleian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:c_byllis
+		add_pressed_claim = title:c_achesmos
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000559 = {
+	name = "Paio"
+	dynasty = encheleian_byllus
+	religion = "illyrian_pagan"
+	culture = encheleian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:c_byllis
+		add_pressed_claim = title:c_achesmos
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000560 = {
+	name = "Iaritos"
+	dynasty = encheleian_amantus
+	religion = "illyrian_pagan"
+	culture = encheleian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:c_amantia
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000561 = {
+	name = "Bato"
+	dynasty = encheleian_amantus
+	religion = "illyrian_pagan"
+	culture = encheleian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:c_amantia
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000562 = {
+	name = "Baranos"
+	dynasty = encheleian_parthinus
+	religion = "illyrian_pagan"
+	culture = encheleian
+	#father = 32974
+	230.1.1 = {
+		birth = "230.1.1"
+	}
+	250.1.1 = {
+		add_pressed_claim = title:c_oenetri
+	}
+	258.4.4 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	260.1.1 = {
+		death = "260.1.1"
+	}
+}
+
+2000563 = {
+	name = "Bouzetios"
+	dynasty = encheleian_parthinus
+	religion = "illyrian_pagan"
+	culture = encheleian
+	#father = 32974
+	400.1.1 = {
+		birth = "400.1.1"
+	}
+	436.1.1 = {
+		add_pressed_claim = title:c_oenetri
+	}
+	437.4.21 = {
+		add_character_flag = do_not_generate_starting_family
+	}
+	460.1.1 = {
+		death = "260.1.1"
+	}
+}
