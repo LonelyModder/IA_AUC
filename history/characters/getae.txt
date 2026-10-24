@@ -1,0 +1,43 @@
+﻿2000576 = {
+	name = "Moskon"
+	dynasty = getae_getus
+	religion = "thracian_pagan"
+	culture = getae
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_getae
+		add_pressed_claim = title:c_novidunum
+		add_pressed_claim = title:c_istros
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000577 = {
+	name = "Kaigiza"
+	dynasty = getae_getus
+	religion = "thracian_pagan"
+	culture = getae
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_getae
+		add_pressed_claim = title:c_novidunum
+		add_pressed_claim = title:c_istros
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

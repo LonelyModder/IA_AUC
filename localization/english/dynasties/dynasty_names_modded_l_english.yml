@@ -370,6 +370,7 @@
  dynn_Pierus:0 "Pierus"
  dynn_Cicis:0 "Cicis"
  dynn_Sapeus:0 "Sapeus"
+ dynn_Oinensos:0 "Oinensos"
  #Breucian
  dynn_Azalus:0 "Azalus"
  dynn_Amantus:0 "Amantus"
@@ -400,3 +401,5 @@
  dynn_Parthinus:0 "Parthinus"
  #Brygian
  dynn_Mygdonus:0 "Mygdonus"
+ #Getae
+ dynn_Getus:0 "Getus"

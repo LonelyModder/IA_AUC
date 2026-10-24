@@ -1,0 +1,91 @@
+d_getae = {
+	
+	258.4.4 = {
+		holder = 2000576
+	}
+	437.4.21 = {
+		holder = 2000577
+	}
+}
+
+c_novidunum = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000576
+	}
+	437.4.21 = {
+		holder = 2000577
+	}
+}
+
+c_istros = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000576
+	}
+	437.4.21 = {
+		holder = 2000577
+	}
+}
+
+d_oinensi = {
+	
+	258.4.4 = {
+		holder = 2000578
+	}
+	437.4.21 = {
+		holder = 2000579
+	}
+}
+
+c_cumaseia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000578
+	}
+	437.4.21 = {
+		holder = 2000579
+	}
+}
+
+c_tomis = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000578
+	}
+	437.4.21 = {
+		holder = 2000579
+	}
+}
+
+c_istrus = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000578
+	}
+	437.4.21 = {
+		holder = 2000579
+	}
+}
+
+c_akrathon = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000578
+	}
+	437.4.21 = {
+		holder = 2000579
+	}
+}

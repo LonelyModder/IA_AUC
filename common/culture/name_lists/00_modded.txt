@@ -3483,6 +3483,9 @@ name_list_thracian = {
 		Denzibalus Diernais Dotouzi Duras Vezina Zoutoula 
 		Kaigiza Komozoi Moskon Mucapor Mucatra Natoporus Orola Petipor Pierporus Rhemaxos Rholes Rubobostes Rolouzis Rigozus Scoris Tiati Tarbus Tsiru Zinna
 		Dromichaetes
+		Teres Sitalkes Seuthes Cotys Rheskuporis Rhoemetalces Sparatokos Kersobleptes Amadokos Medokos Hebryzelmis Ketriporis Skostodokos Berisades Dromichaetes Zalmoxis Bendis	
+		Bryzos Byzas Berzas Dentus Dizapes Dizapor Diazenis Diazelmis Desakenthos Eptakenthos Mukaporis Mukakenthos Mukazenis Rhaskos Rhaskuporis Satres SautesSkaris Zile Zipyros	
+		Zipaibes Drenis Gaidres	
 	}
 	female_names = {
 		Duccidava Rescuturme Zina Zinai Petriturme Zindurme Roibana Oriza Rescurai Raina Sanziana Claria Eccana

@@ -553,3 +553,51 @@
 		death = "469.1.1"
 	}
 }
+
+2000578 = {
+	name = "Mucapor"
+	dynasty = thracian_oinensos
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_oinensi
+		add_pressed_claim = title:c_cumaseia
+		add_pressed_claim = title:c_tomis
+		add_pressed_claim = title:c_istrus
+		add_pressed_claim = title:c_akrathon
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000579 = {
+	name = "Rholes"
+	dynasty = thracian_oinensos
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_oinensi
+		add_pressed_claim = title:c_cumaseia
+		add_pressed_claim = title:c_tomis
+		add_pressed_claim = title:c_istrus
+		add_pressed_claim = title:c_akrathon
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

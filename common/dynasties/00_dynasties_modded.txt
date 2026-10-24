@@ -1624,6 +1624,11 @@ thracian_sapeus = {
 	culture = "thracian"
 }
 
+thracian_oinensos = {
+	name = "dynn_Oinensos"
+	culture = "thracian"
+}
+
 #Breucian
 
 breucian_azalus = {
@@ -1741,4 +1746,11 @@ encheleian_parthinus = {
 brygian_mygdonus = {
 	name = "dynn_Mygdonus"
 	culture = "brygian"
+}
+
+#Getae
+
+getae_getus = {
+	name = "dynn_Getus"
+	culture = "getae"
 }

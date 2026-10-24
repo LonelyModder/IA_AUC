@@ -22522,3 +22522,13 @@ d_maedi = {
 	color = { 169 93 182 }
 	landless = yes 
 }
+
+d_getae = {
+	color = { 43 126 73 }
+	landless = yes 
+}
+
+d_oinensi = {
+	color = { 169 105 197 }
+	landless = yes 
+}

@@ -288,9 +288,9 @@
 }
 
 1736 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1737 = {		
@@ -318,9 +318,9 @@
 }
 
 1741 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1742 = {		
@@ -330,15 +330,15 @@
 }
 
 1743 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1744 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1745 = {		
@@ -372,9 +372,9 @@
 }
 
 1750 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = getae
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1751 = {		
@@ -384,9 +384,9 @@
 }
 
 1752 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = getae
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1753 = {		
