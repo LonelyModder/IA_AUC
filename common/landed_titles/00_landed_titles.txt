@@ -22532,3 +22532,53 @@ d_oinensi = {
 	color = { 169 105 197 }
 	landless = yes 
 }
+
+d_crobyzi = {
+	color = { 127 72 64 }
+	landless = yes 
+}
+
+d_tirizi = {
+	color = { 43 36 58 }
+	landless = yes 
+}
+
+d_moesi = {
+	color = { 169 0 52 }
+	landless = yes 
+}
+
+d_dimensi = {
+	color = { 1 201 50 }
+	landless = yes 
+}
+
+d_apiarensia = {
+	color = { 169 174 202 }
+	landless = yes 
+}
+
+d_tricornensia = {
+	color = { 85 240 240 }
+	landless = yes 
+}
+
+d_picensia = {
+	color = { 85 78 186 }
+	landless = yes 
+}
+
+d_triballi = {
+	color = { 85 108 191 }
+	landless = yes 
+}
+
+d_treri = {
+	color = { 43 150 198 }
+	landless = yes 
+}
+
+d_tilataei = {
+	color = { 43 150 198 }
+	landless = yes 
+}

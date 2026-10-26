@@ -601,3 +601,549 @@
 		death = "469.1.1"
 	}
 }
+
+2000580 = {
+	name = "Berzas"
+	dynasty = thracian_crobyzos
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_crobyzi
+		add_pressed_claim = title:c_durostorum
+		add_pressed_claim = title:c_ptalentium
+		add_pressed_claim = title:c_himylos
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000581 = {
+	name = "Mukaporis"
+	dynasty = thracian_crobyzos
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_crobyzi
+		add_pressed_claim = title:c_durostorum
+		add_pressed_claim = title:c_ptalentium
+		add_pressed_claim = title:c_himylos
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000582 = {
+	name = "Zipaibes"
+	dynasty = thracian_sacus
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_ankion
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000583 = {
+	name = "Rhaskos"
+	dynasty = thracian_sacus
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_ankion
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000584 = {
+	name = "Rhoemetalces"
+	dynasty = thracian_obulensos
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_dionysopolis
+		add_pressed_claim = title:c_callatis
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000585 = {
+	name = "Diazelmis"
+	dynasty = thracian_obulensos
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_dionysopolis
+		add_pressed_claim = title:c_callatis
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000586 = {
+	name = "Berzas"
+	dynasty = thracian_tirizos
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_tirizi
+		add_pressed_claim = title:c_marcianopolis
+		add_pressed_claim = title:c_odessos
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000587 = {
+	name = "Zipyros"
+	dynasty = thracian_tirizos
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_tirizi
+		add_pressed_claim = title:c_marcianopolis
+		add_pressed_claim = title:c_odessos
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000588 = {
+	name = "Rhoemetalces"
+	dynasty = thracian_moezos
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_moesi
+		add_pressed_claim = title:c_nicopolis
+		add_pressed_claim = title:c_phanaki
+		add_pressed_claim = title:c_dissos
+		add_pressed_claim = title:c_tripenion
+		add_pressed_claim = title:c_poseidenes
+		add_pressed_claim = title:c_abasa
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000589 = {
+	name = "Ketriporis"
+	dynasty = thracian_moezos
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_moesi
+		add_pressed_claim = title:c_nicopolis
+		add_pressed_claim = title:c_phanaki
+		add_pressed_claim = title:c_dissos
+		add_pressed_claim = title:c_tripenion
+		add_pressed_claim = title:c_poseidenes
+		add_pressed_claim = title:c_abasa
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000590 = {
+	name = "Amadokos"
+	dynasty = thracian_dimensos
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_dimensi
+		add_pressed_claim = title:c_novae
+		add_pressed_claim = title:c_pandina
+		add_pressed_claim = title:c_chersipolis
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000591 = {
+	name = "Zipaibes"
+	dynasty = thracian_dimensos
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_dimensi
+		add_pressed_claim = title:c_novae
+		add_pressed_claim = title:c_pandina
+		add_pressed_claim = title:c_chersipolis
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000592 = {
+	name = "Sparatokos"
+	dynasty = thracian_apiarensos
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_apiarensia
+		add_pressed_claim = title:c_melta
+		add_pressed_claim = title:c_odescus
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000593 = {
+	name = "Amadokos"
+	dynasty = thracian_apiarensos
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_apiarensia
+		add_pressed_claim = title:c_melta
+		add_pressed_claim = title:c_odescus
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000594 = {
+	name = "Pierporus"
+	dynasty = thracian_tricornus
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_tricornensia
+		add_pressed_claim = title:c_athina
+		add_pressed_claim = title:c_delactus
+		add_pressed_claim = title:c_viminacium
+		add_pressed_claim = title:c_horreum
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000595 = {
+	name = "Dizapor"
+	dynasty = thracian_tricornus
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_tricornensia
+		add_pressed_claim = title:c_athina
+		add_pressed_claim = title:c_delactus
+		add_pressed_claim = title:c_viminacium
+		add_pressed_claim = title:c_horreum
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000596 = {
+	name = "Duras"
+	dynasty = thracian_picensios
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_picensia
+		add_pressed_claim = title:c_platomenus
+		add_pressed_claim = title:c_ulpia
+		add_pressed_claim = title:c_drobeta
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000597 = {
+	name = "Rhaskos"
+	dynasty = thracian_picensios
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_picensia
+		add_pressed_claim = title:c_platomenus
+		add_pressed_claim = title:c_ulpia
+		add_pressed_claim = title:c_drobeta
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000598 = {
+	name = "Blaesus"
+	dynasty = thracian_triballus
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_triballi
+		add_pressed_claim = title:c_naissus
+		add_pressed_claim = title:c_thomurion
+		add_pressed_claim = title:c_magnamum
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000599 = {
+	name = "Seuthes"
+	dynasty = thracian_triballus
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_triballi
+		add_pressed_claim = title:c_naissus
+		add_pressed_claim = title:c_thomurion
+		add_pressed_claim = title:c_magnamum
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000600 = {
+	name = "Kersobleptes"
+	dynasty = thracian_treros
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_treri
+		add_pressed_claim = title:c_actenion
+		add_pressed_claim = title:c_pautalia
+		add_pressed_claim = title:c_lindone
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000601 = {
+	name = "Berisades"
+	dynasty = thracian_treros
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_treri
+		add_pressed_claim = title:c_actenion
+		add_pressed_claim = title:c_pautalia
+		add_pressed_claim = title:c_lindone
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000602 = {
+	name = "Drenis"
+	dynasty = thracian_tilatus
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_tilataei
+		add_pressed_claim = title:c_serdica
+		add_pressed_claim = title:c_pixale
+		add_pressed_claim = title:c_hemaphos
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000603 = {
+	name = "Zipaibes"
+	dynasty = thracian_tilatus
+	religion = "thracian_pagan"
+	culture = thracian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_tilataei
+		add_pressed_claim = title:c_serdica
+		add_pressed_claim = title:c_pixale
+		add_pressed_claim = title:c_hemaphos
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

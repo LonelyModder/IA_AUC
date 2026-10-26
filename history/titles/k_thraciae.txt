@@ -301,3 +301,37 @@ c_maroneia = {
 		holder = 2000485
 	}
 }
+
+d_tilataei = {
+	
+	258.4.4 = {
+		holder = 2000602
+	}
+	437.4.21 = {
+		holder = 2000603
+	}
+}
+
+c_serdica = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000602
+	}
+	437.4.21 = {
+		holder = 2000603
+	}
+}
+
+c_pixale = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000602
+	}
+	437.4.21 = {
+		holder = 2000603
+	}
+}

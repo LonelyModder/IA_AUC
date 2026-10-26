@@ -258,9 +258,9 @@
 }
 
 1631 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1632 = {		
@@ -270,9 +270,9 @@
 }
 
 1633 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1634 = {		

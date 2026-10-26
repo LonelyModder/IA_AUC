@@ -318,3 +318,245 @@ c_deubiene = {
 		holder = 2000543
 	}
 }
+
+d_apiarensia = {
+	
+	258.4.4 = {
+		holder = 2000592
+	}
+	437.4.21 = {
+		holder = 2000593
+	}
+}
+
+c_melta = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000592
+	}
+	437.4.21 = {
+		holder = 2000593
+	}
+}
+
+c_odescus = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000592
+	}
+	437.4.21 = {
+		holder = 2000593
+	}
+}
+
+d_tricornensia = {
+	
+	258.4.4 = {
+		holder = 2000594
+	}
+	437.4.21 = {
+		holder = 2000595
+	}
+}
+
+c_athina = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000594
+	}
+	437.4.21 = {
+		holder = 2000595
+	}
+}
+
+c_delactus = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000594
+	}
+	437.4.21 = {
+		holder = 2000595
+	}
+}
+
+c_viminacium = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000594
+	}
+	437.4.21 = {
+		holder = 2000595
+	}
+}
+
+c_horreum = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000594
+	}
+	437.4.21 = {
+		holder = 2000595
+	}
+}
+
+d_picensia = {
+	
+	258.4.4 = {
+		holder = 2000596
+	}
+	437.4.21 = {
+		holder = 2000597
+	}
+}
+
+c_platomenus = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000596
+	}
+	437.4.21 = {
+		holder = 2000597
+	}
+}
+
+c_ulpia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000596
+	}
+	437.4.21 = {
+		holder = 2000597
+	}
+}
+
+c_drobeta = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000596
+	}
+	437.4.21 = {
+		holder = 2000597
+	}
+}
+
+d_triballi = {
+	
+	258.4.4 = {
+		holder = 2000598
+	}
+	437.4.21 = {
+		holder = 2000599
+	}
+}
+
+c_naissus = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000598
+	}
+	437.4.21 = {
+		holder = 2000599
+	}
+}
+
+c_thomurion = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000598
+	}
+	437.4.21 = {
+		holder = 2000599
+	}
+}
+
+c_magnamum = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000598
+	}
+	437.4.21 = {
+		holder = 2000599
+	}
+}
+
+d_treri = {
+	
+	258.4.4 = {
+		holder = 2000600
+	}
+	437.4.21 = {
+		holder = 2000601
+	}
+}
+
+c_actenion = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000600
+	}
+	437.4.21 = {
+		holder = 2000601
+	}
+}
+
+c_pautalia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000600
+	}
+	437.4.21 = {
+		holder = 2000601
+	}
+}
+
+c_lindone = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000600
+	}
+	437.4.21 = {
+		holder = 2000601
+	}
+}
+
+c_hemaphos = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000602
+	}
+	437.4.21 = {
+		holder = 2000603
+	}
+}

@@ -305,9 +305,9 @@
 }
 
 1485 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1486 = {		
@@ -401,9 +401,9 @@
 }
 
 1531 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1532 = {		
@@ -413,9 +413,9 @@
 }
 
 1536 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1537 = {		
@@ -449,9 +449,9 @@
 }
 
 1545 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1546 = {		
@@ -515,9 +515,9 @@
 }
 
 1557 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1558 = {		
@@ -533,9 +533,9 @@
 }
 
 1560 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1490 = {		
@@ -581,9 +581,9 @@
 }
 
 1496 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1497 = {		
@@ -593,9 +593,9 @@
 }
 
 1498 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1499 = {		
@@ -611,9 +611,9 @@
 }
 
 1511 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1512 = {		
@@ -635,9 +635,9 @@
 }
 
 1515 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1516 = {		
@@ -683,15 +683,15 @@
 }
 
 1521 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1522 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1523 = {		
@@ -713,9 +713,9 @@
 }
 
 1527 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1528 = {		
@@ -731,9 +731,9 @@
 }
 
 1530 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1554 = {		
@@ -767,9 +767,9 @@
 }
 
 1542 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1548 = {		
@@ -803,7 +803,7 @@
 }
 
 1553 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }

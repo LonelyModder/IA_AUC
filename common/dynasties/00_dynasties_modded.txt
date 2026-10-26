@@ -1629,6 +1629,66 @@ thracian_oinensos = {
 	culture = "thracian"
 }
 
+thracian_crobyzos = {
+	name = "dynn_Crobyzos"
+	culture = "thracian"
+}
+
+thracian_sacus = {
+	name = "dynn_Sacus"
+	culture = "thracian"
+}
+
+thracian_obulensos = {
+	name = "dynn_Obulensos"
+	culture = "thracian"
+}
+
+thracian_tirizos = {
+	name = "dynn_Tirizos"
+	culture = "thracian"
+}
+
+thracian_moezos = {
+	name = "dynn_Moezos"
+	culture = "thracian"
+}
+
+thracian_dimensos = {
+	name = "dynn_Dimensos"
+	culture = "thracian"
+}
+
+thracian_apiarensos = {
+	name = "dynn_Apiarensos"
+	culture = "thracian"
+}
+
+thracian_tricornus = {
+	name = "dynn_Tricornus"
+	culture = "thracian"
+}
+
+thracian_picensios = {
+	name = "dynn_Picensios"
+	culture = "thracian"
+}
+
+thracian_triballus = {
+	name = "dynn_Triballus"
+	culture = "thracian"
+}
+
+thracian_treros = {
+	name = "dynn_Treros"
+	culture = "thracian"
+}
+
+thracian_tilatus = {
+	name = "dynn_Tilatus"
+	culture = "thracian"
+}
+
 #Breucian
 
 breucian_azalus = {
