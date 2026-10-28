@@ -323,9 +323,9 @@
 }
 
 1314 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = castle_holding
 }
 
 1315 = {		
@@ -353,9 +353,9 @@
 }
 
 1319 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1320 = {		
@@ -377,9 +377,9 @@
 }
 
 1323 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1324 = {		
@@ -395,9 +395,9 @@
 }
 
 1326 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1327 = {		
@@ -407,9 +407,9 @@
 }
 
 1328 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1329 = {		
@@ -437,9 +437,9 @@
 }
 
 1333 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1334 = {		
@@ -485,9 +485,9 @@
 }
 
 1341 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1342 = {		

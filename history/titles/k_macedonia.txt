@@ -333,3 +333,97 @@ c_amphipolis = {
 		holder = 2000575
 	}
 }
+
+c_thasos = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000604
+	}
+	437.4.21 = {
+		holder = 2000605
+	}
+}
+
+c_laramum = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000614
+	}
+	437.4.21 = {
+		holder = 2000615
+	}
+}
+
+c_aphenia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000620
+	}
+	437.4.21 = {
+		holder = 2000621
+	}
+}
+
+c_philippi = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000620
+	}
+	437.4.21 = {
+		holder = 2000621
+	}
+}
+
+d_dii = {
+	
+	258.4.4 = {
+		holder = 2000622
+	}
+	437.4.21 = {
+		holder = 2000623
+	}
+}
+
+c_heira = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000622
+	}
+	437.4.21 = {
+		holder = 2000623
+	}
+}
+
+c_leprilene = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000622
+	}
+	437.4.21 = {
+		holder = 2000623
+	}
+}
+
+c_sintike = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000622
+	}
+	437.4.21 = {
+		holder = 2000623
+	}
+}

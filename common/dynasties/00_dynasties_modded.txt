@@ -1564,6 +1564,51 @@ thracian_melandus = {
 	culture = "thracian"
 }
 
+thracian_coelatus = {
+	name = "dynn_Coelatus"
+	culture = "thracian"
+}
+
+thracian_artacus = {
+	name = "dynn_Artacus"
+	culture = "thracian"
+}
+
+thracian_caenus = {
+	name = "dynn_Caenus"
+	culture = "thracian"
+}
+
+thracian_corallus = {
+	name = "dynn_Corallus"
+	culture = "thracian"
+}
+
+thracian_edonius = {
+	name = "dynn_Edonius"
+	culture = "thracian"
+}
+
+thracian_briantus = {
+	name = "dynn_Briantus"
+	culture = "thracian"
+}
+
+thracian_bessus = {
+	name = "dynn_Bessus"
+	culture = "thracian"
+}
+
+thracian_diius = {
+	name = "dynn_Diius"
+	culture = "thracian"
+}
+
+thracian_bottius = {
+	name = "dynn_Bottius"
+	culture = "thracian"
+}
+
 thracian_maedus = {
 	name = "dynn_Maedus"
 	culture = "thracian"
@@ -1813,4 +1858,11 @@ brygian_mygdonus = {
 getae_getus = {
 	name = "dynn_Getus"
 	culture = "getae"
+}
+
+#Greco-Punic
+
+grecopunic_milkiasaphid = {
+	name = "dynn_Milkiasaphid"
+	culture = "grecopunic"
 }

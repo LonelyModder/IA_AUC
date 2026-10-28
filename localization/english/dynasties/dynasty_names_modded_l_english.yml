@@ -362,6 +362,15 @@
  dynn_Cenus:0 "Cenus"
  dynn_Doloncus:0 "Doloncus"
  dynn_Psynthos:0 "Psynthos"
+ dynn_Coelatus:0 "Coelatus"
+ dynn_Caenus:0 "Caenus"
+ dynn_Corallus:0 "Corallus"
+ dynn_Edonius:0 "Edonius"
+ dynn_Briantus:0 "Briantus"
+ dynn_Diius:0 "Dius"
+ dynn_Artacus:0 "Artacus"
+ dynn_Bottius:0 "Bottius"
+ dynn_Bessus:0 "Bessus"
  dynn_Melinus:0 "Melinus"
  dynn_Thunus:0 "Thunus"
  dynn_Odrysid:0 "Odrysid"
@@ -415,3 +424,5 @@
  dynn_Mygdonus:0 "Mygdonus"
  #Getae
  dynn_Getus:0 "Getus"
+ #Greco-Punic
+ dynn_Milkiasaphid:0 "Milkiasaphid"

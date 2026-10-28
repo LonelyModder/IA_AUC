@@ -1,25 +1,25 @@
 ﻿1581 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1582 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1583 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1584 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1585 = {		
@@ -126,9 +126,9 @@
 
 
 1604 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1605 = {		
@@ -234,9 +234,9 @@
 }
 
 1627 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1628 = {		
@@ -252,9 +252,9 @@
 }
 
 1630 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1631 = {		
@@ -276,9 +276,9 @@
 }
 
 1634 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1635 = {		
@@ -312,9 +312,9 @@
 }
 
 1640 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1641 = {		
@@ -324,9 +324,9 @@
 }
 
 1642 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1643 = {		
@@ -348,9 +348,9 @@
 }
 
 1646 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1647 = {		
@@ -372,9 +372,9 @@
 }
 
 1651 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1652 = {		
@@ -384,9 +384,9 @@
 }
 
 1653 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1654 = {		
@@ -420,9 +420,9 @@
 }
 
 1659 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1660 = {		
@@ -516,9 +516,9 @@
 }
 
 1675 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thracian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 1676 = {		

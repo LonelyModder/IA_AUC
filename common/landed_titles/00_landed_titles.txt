@@ -22582,3 +22582,28 @@ d_tilataei = {
 	color = { 43 150 198 }
 	landless = yes 
 }
+
+d_coelaletae = {
+	color = { 1 66 155 }
+	landless = yes 
+}
+
+d_artaci = {
+	color = { 43 9 18 }
+	landless = yes 
+}
+
+d_caeni = {
+	color = { 85 27 21 }
+	landless = yes 
+}
+
+d_bessi = {
+	color = { 43 192 13 }
+	landless = yes 
+}
+
+d_dii = {
+	color = { 169 153 192 }
+	landless = yes 
+}
