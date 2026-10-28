@@ -35,9 +35,9 @@
 }
 
 1261 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = epirote
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 1262 = {		
@@ -65,21 +65,25 @@
 }
 
 1270 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = epirote
+	religion = greek_pagan
+	holding = tribal_holding
 }
 
 1263 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = epirote
+	religion = greek_pagan
+	holding = tribal_holding
+	437.4.21 = {
+		culture = liburnian
+		religion = illyrian_pagan
+	}
 }
 
 1266 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = epirote
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 1268 = {		
@@ -89,9 +93,9 @@
 }
 
 1269 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = epirote
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 1274 = {		
@@ -101,9 +105,9 @@
 }
 
 1275 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = epirote
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 1276 = {		
@@ -131,9 +135,9 @@
 }
 
 1272 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = epirote
+	religion = greek_pagan
+	holding = tribal_holding
 }
 
 1277 = {		
@@ -209,9 +213,9 @@
 }
 
 1280 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = epirote
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 1351 = {		

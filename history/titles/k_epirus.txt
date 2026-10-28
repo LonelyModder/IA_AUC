@@ -1,0 +1,138 @@
+d_molossia = {
+	
+	258.4.4 = {
+		holder = 2000632
+	}
+	437.4.21 = {
+		holder = 2000633
+	}
+}
+
+c_pogoni = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000632
+	}
+	437.4.21 = {
+		holder = 2000633
+	}
+}
+
+c_dodona = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000632
+	}
+	437.4.21 = {
+		holder = 2000633
+	}
+}
+
+c_emporia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000632
+	}
+	437.4.21 = {
+		holder = 2000633
+	}
+}
+
+d_thesprotia = {
+	
+	258.4.4 = {
+		holder = 2000634
+	}
+	437.4.21 = {
+		holder = 2000635
+	}
+}
+
+c_ephyra = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000634
+	}
+	437.4.21 = {
+		holder = 2000635
+	}
+}
+
+c_ambracia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000634
+	}
+	437.4.21 = {
+		holder = 2000635
+	}
+}
+
+c_amantia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000560
+	}
+	437.4.21 = {
+		liege="k_enchelei"
+		holder = 2000561
+	}
+}
+
+d_chaonia = {
+	
+	258.4.4 = {
+		holder = 2000636
+	}
+	437.4.21 = {
+		holder = 2000637
+	}
+}
+
+c_buthrotum = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000636
+	}
+	437.4.21 = {
+		holder = 2000637
+	}
+}
+
+c_delezus = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000636
+	}
+	437.4.21 = {
+		holder = 2000637
+	}
+}
+
+c_corcyra = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000636
+	}
+	437.4.21 = {
+		holder = 2000434
+	}
+}

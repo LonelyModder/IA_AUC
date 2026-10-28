@@ -187,19 +187,6 @@ c_achesmos = {
 	}
 }
 
-c_amantia = {
-	258.4.4 = {	change_development_level = 1 }
-	437.4.21 = { change_development_level = 1 }
-	
-	258.4.4 = {
-		holder = 2000560
-	}
-	437.4.21 = {
-		liege="k_enchelei"
-		holder = 2000561
-	}
-}
-
 c_oenetri = {
 	258.4.4 = {	change_development_level = 1 }
 	437.4.21 = { change_development_level = 1 }
@@ -425,5 +412,78 @@ c_sintike = {
 	}
 	437.4.21 = {
 		holder = 2000623
+	}
+}
+
+k_makedon = {
+	
+	258.4.4 = {
+		holder = 2000624
+	}
+	437.4.21 = {
+		holder = 2000625
+	}
+}
+
+c_aigeai = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000624
+	}
+	437.4.21 = {
+		holder = 2000625
+	}
+}
+
+c_dion = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000624
+	}
+	437.4.21 = {
+		holder = 2000625
+	}
+}
+
+c_elimeia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000626
+	}
+	437.4.21 = {
+		liege="k_makedon"
+		holder = 2000627
+	}
+}
+
+c_orestis = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000628
+	}
+	437.4.21 = {
+		liege="k_makedon"
+		holder = 2000629
+	}
+}
+
+c_lyncestis = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000628
+	}
+	437.4.21 = {
+		liege="k_makedon"
+		holder = 2000629
 	}
 }

@@ -173,21 +173,21 @@
 }
 
 1288 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = macedonian
+	religion = greek_pagan
+	holding = tribal_holding
 }
 
 1289 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = macedonian
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 1291 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = macedonian
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 1292 = {		
@@ -413,9 +413,9 @@
 }
 
 1329 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = macedonian
+	religion = greek_pagan
+	holding = tribal_holding
 }
 
 1330 = {		
@@ -479,9 +479,9 @@
 }
 
 1340 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = macedonian
+	religion = greek_pagan
+	holding = tribal_holding
 }
 
 1341 = {		

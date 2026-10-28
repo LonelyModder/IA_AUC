@@ -1866,3 +1866,42 @@ grecopunic_milkiasaphid = {
 	name = "dynn_Milkiasaphid"
 	culture = "grecopunic"
 }
+
+#Macedonian
+
+macedonian_argaed = {
+	name = "dynn_Argaed"
+	culture = "macedonian"
+}
+
+macedonian_antigonid = {
+	name = "dynn_Antigonid"
+	culture = "macedonian"
+}
+
+macedonian_orestis = {
+	name = "dynn_Orestis"
+	culture = "macedonian"
+}
+
+macedonian_lyncestus = {
+	name = "dynn_Lyncestus"
+	culture = "macedonian"
+}
+
+#Epirote
+
+epirote_aeacidae = {
+	name = "dynn_Aeacidae"
+	culture = "epirote"
+}
+
+epirote_pheidonid = {
+	name = "dynn_Pheidonid"
+	culture = "epirote"
+}
+
+epirote_chaonid = {
+	name = "dynn_Chaonid"
+	culture = "epirote"
+}

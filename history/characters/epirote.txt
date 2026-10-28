@@ -1,0 +1,134 @@
+﻿2000632 = {
+	name = "Deriades"
+	dynasty = epirote_aeacidae
+	religion = "greek_pagan"
+	culture = epirote
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_molossia
+		add_pressed_claim = title:c_pogoni
+		add_pressed_claim = title:c_dodona
+		add_pressed_claim = title:c_emporia
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000633 = {
+	name = "Polyeuktos"
+	dynasty = epirote_lyncestus
+	religion = "greek_pagan"
+	culture = epirote
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_molossia
+		add_pressed_claim = title:c_pogoni
+		add_pressed_claim = title:c_dodona
+		add_pressed_claim = title:c_emporia
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000634 = {
+	name = "Hektor"
+	dynasty = epirote_pheidonid
+	religion = "greek_pagan"
+	culture = epirote
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_thesprotia
+		add_pressed_claim = title:c_ephyra
+		add_pressed_claim = title:c_ambracia
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000635 = {
+	name = "Menippos"
+	dynasty = epirote_pheidonid
+	religion = "greek_pagan"
+	culture = epirote
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_thesprotia
+		add_pressed_claim = title:c_ephyra
+		add_pressed_claim = title:c_ambracia
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000636 = {
+	name = "Aristarchos"
+	dynasty = epirote_chaonid
+	religion = "greek_pagan"
+	culture = epirote
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_chaonia
+		add_pressed_claim = title:c_buthrotum
+		add_pressed_claim = title:c_delezus
+		add_pressed_claim = title:c_corcyra
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000637 = {
+	name = "Menon"
+	dynasty = epirote_chaonid
+	religion = "greek_pagan"
+	culture = epirote
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_chaonia
+		add_pressed_claim = title:c_buthrotum
+		add_pressed_claim = title:c_delezus
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

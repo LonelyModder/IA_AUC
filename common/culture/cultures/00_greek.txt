@@ -23,7 +23,7 @@
 }
 
 italiote = {
-	color = { 0.36 0.54 0.66 }
+	color = { 0.54 0.81 0.94 }
 	
 	parents = { hellenic_group }
 	
@@ -52,7 +52,7 @@ italiote = {
 }
 
 scielote = {
-	color = { 0.0 1.0 1.0 }
+	color = { 0.44 0.81 0.94 }
 	
 	parents = { hellenic_group }
 	
@@ -81,7 +81,7 @@ scielote = {
 }
 
 cypriote = {
-	color = { 0.11 0.67 0.84 }
+	color = { 0.34 0.81 0.94 }
 	
 	parents = { hellenic_group }
 	
@@ -110,7 +110,7 @@ cypriote = {
 }
 
 hijawan = {
-	color = { 0.0 0.2 0.6 }
+	color = { 0.24 0.81 0.94 }
 	
 	parents = { hellenic_group }
 	
@@ -139,7 +139,7 @@ hijawan = {
 }
 
 epirote = {
-	color = { 0.0 0.2 0.6 }
+	color = { 0.14 0.81 0.94 }
 	
 	parents = { hellenic_group }
 	
@@ -168,7 +168,7 @@ epirote = {
 }
 
 macedonian = {
-	color = { 0.0 0.2 0.6 }
+	color = { 0.04 0.81 0.94 }
 	
 	parents = { hellenic_group }
 	

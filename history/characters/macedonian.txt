@@ -1,0 +1,163 @@
+﻿2000624 = {
+	name = "Coenus"
+	dynasty = macedonian_argaed
+	religion = "greek_pagan"
+	culture = macedonian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:k_makedon
+		add_pressed_claim = title:c_aigeai
+		add_pressed_claim = title:c_dion
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000625 = {
+	name = "Hermogenes"
+	dynasty = macedonian_argaed
+	religion = "greek_pagan"
+	culture = macedonian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:k_makedon
+		add_pressed_claim = title:c_aigeai
+		add_pressed_claim = title:c_dion
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000626 = {
+	name = "Ikadion"
+	dynasty = macedonian_antigonid
+	religion = "greek_pagan"
+	culture = macedonian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_elimeia
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000627 = {
+	name = "Neoptolemos"
+	dynasty = macedonian_antigonid
+	religion = "greek_pagan"
+	culture = macedonian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_elimeia
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000628 = {
+	name = "Audoleon"
+	dynasty = macedonian_orestis
+	religion = "greek_pagan"
+	culture = macedonian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_orestis
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000629 = {
+	name = "Nikias"
+	dynasty = macedonian_orestis
+	religion = "greek_pagan"
+	culture = macedonian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_orestis
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000630 = {
+	name = "Diodotos"
+	dynasty = macedonian_lyncestus
+	religion = "greek_pagan"
+	culture = macedonian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_lyncestis
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000631 = {
+	name = "Koinos"
+	dynasty = macedonian_lyncestus
+	religion = "greek_pagan"
+	culture = macedonian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_lyncestis
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
