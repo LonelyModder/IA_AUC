@@ -1,0 +1,83 @@
+c_skyros = {
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000648
+	}
+	437.4.21 = {
+		holder = 2000649
+	}
+}
+
+c_athenae = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000650
+	}
+	437.4.21 = {
+		holder = 2000651
+	}
+}
+
+c_cynouria = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000652
+	}
+	437.4.21 = {
+		holder = 2000653
+	}
+}
+
+c_argos = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000654
+	}
+	437.4.21 = {
+		holder = 2000655
+	}
+}
+
+c_korynthos = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	230.4.4 = {
+		holder = 2000656
+	}
+	437.4.21 = {
+		holder = 2000657
+	}
+}
+
+c_megara = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	230.4.4 = {
+		holder = 2000656
+	}
+	437.4.21 = {
+		holder = 2000657
+	}
+}
+
+c_sparta = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	230.4.4 = {
+		holder = 2000659
+	}
+	444.4.21 = {
+		holder = 2000660
+	}
+}

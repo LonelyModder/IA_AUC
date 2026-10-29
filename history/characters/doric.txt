@@ -1,0 +1,142 @@
+﻿2000654 = {
+	name = "Medon"
+	dynasty = doric_temenid
+	religion = "greek_pagan"
+	culture = doric
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_argos
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000655 = {
+	name = "Aristodamis"
+	dynasty = doric_temenid
+	religion = "greek_pagan"
+	culture = doric
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_argos
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000656 = {
+	name = "Prymnis"
+	dynasty = doric_bacchiadae
+	religion = "greek_pagan"
+	culture = doric
+	#father = 32974
+	212.1.1 = {
+		birth = "212.1.1"
+	}
+	230.4.4 = {
+		add_pressed_claim = title:c_korynthos
+		add_pressed_claim = title:c_megara
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	265.4.4 = {
+		death = "265.4.4"
+	}
+}
+
+2000657 = {
+	name = "Telestes"
+	dynasty = doric_bacchiadae
+	religion = "greek_pagan"
+	culture = doric
+	#father = 32974
+	419.1.1 = {
+		birth = "419.1.1"
+	}
+	431.4.21 = {
+		add_pressed_claim = title:c_korynthos
+		add_pressed_claim = title:c_megara
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000658 = {
+	name = "Bacchis"
+	dynasty = doric_bacchiadae
+	religion = "greek_pagan"
+	culture = doric
+	father = 2000656
+	247.1.1 = {
+		birth = "247.1.1"
+	}
+	265.4.4 = {
+		add_pressed_claim = title:c_korynthos
+		add_pressed_claim = title:c_megara
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000659 = {
+	name = "Eurysthenes"
+	dynasty = doric_agiad
+	religion = "greek_pagan"
+	culture = doric
+	#father = 32974
+	212.1.1 = {
+		birth = "212.1.1"
+	}
+	230.4.4 = {
+		add_pressed_claim = title:c_sparta
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	265.4.4 = {
+		death = "265.4.4"
+	}
+}
+
+2000660 = {
+	name = "Teleclus"
+	dynasty = doric_agiad
+	religion = "greek_pagan"
+	culture = doric
+	#father = 32974
+	412.1.1 = {
+		birth = "412.1.1"
+	}
+	430.4.21 = {
+		add_pressed_claim = title:c_sparta
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

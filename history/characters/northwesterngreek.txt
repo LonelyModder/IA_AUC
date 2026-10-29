@@ -1,0 +1,79 @@
+﻿2000642 = {
+	name = "Hermesianax"
+	dynasty = northwesterngreek_leucid
+	religion = "greek_pagan"
+	culture = northwesterngreek
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_leucas
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000643 = {
+	name = "Pantauchos"
+	dynasty = northwesterngreek_leucid
+	religion = "greek_pagan"
+	culture = northwesterngreek
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_leucas
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000644 = {
+	name = "Halkyoneus"
+	dynasty = northwesterngreek_alcmaeonid
+	religion = "greek_pagan"
+	culture = northwesterngreek
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_acarnania
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000645 = {
+	name = "Leontios"
+	dynasty = northwesterngreek_alcmaeonid
+	religion = "greek_pagan"
+	culture = northwesterngreek
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_acarnania
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

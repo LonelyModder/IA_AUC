@@ -435,3 +435,20 @@
  dynn_Aeacidae:0 "Aeacidae"
  dynn_Pheidonid:0 "Pheidonid"
  dynn_Chaonid:0 "Chaonid"
+ dynn_Amynandrid:0 "Amynandrid"
+ #Pelasgian
+ dynn_Lemnus:0 "Hermon"
+ dynn_Imbros:0 "Kabeirid"
+ dynn_Cynurid:0 "Cynurid"
+ #North-Western Greek
+ dynn_Leucid:0 "Odysid"
+ dynn_Alcmaeonid:0 "Alcmaeonid"
+ #Thessalian
+ dynn_Deidamid:0 "Deidamid"
+ #Attic
+ dynn_Phorbid:0 "Phorbid"
+ dynn_Charopid:0 "Charopid"
+ #Doric
+ dynn_Temenid:0 "Temenid"
+ dynn_Bacchiadae:0 "Bacchiadae"
+ dynn_Agiad:0 "Agiad"

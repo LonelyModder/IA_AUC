@@ -1905,3 +1905,73 @@ epirote_chaonid = {
 	name = "dynn_Chaonid"
 	culture = "epirote"
 }
+
+epirote_amynandrid = {
+	name = "dynn_Amynandrid"
+	culture = "epirote"
+}
+
+#Pelasgian
+
+pelasgian_lemnus = {
+	name = "dynn_Lemnus"
+	culture = "pelasgian"
+}
+
+pelasgian_imbros = {
+	name = "dynn_Imbros"
+	culture = "pelasgian"
+}
+
+pelasgian_cynurid = {
+	name = "dynn_Cynurid"
+	culture = "pelasgian"
+}
+
+#North-Western Greek
+
+northwesterngreek_leucid = {
+	name = "dynn_Leucid"
+	culture = "northwesterngreek"
+}
+
+northwesterngreek_alcmaeonid = {
+	name = "dynn_Alcmaeonid"
+	culture = "northwesterngreek"
+}
+
+#Thessalian
+
+thessalian_deidamid = {
+	name = "dynn_Deidamid"
+	culture = "thessalian"
+}
+
+#Attic
+
+attic_phorbid = {
+	name = "dynn_Phorbid"
+	culture = "attic"
+}
+
+attic_charopid = {
+	name = "dynn_Charopid"
+	culture = "attic"
+}
+
+#Doric
+
+doric_temenid = {
+	name = "dynn_Temenid"
+	culture = "doric"
+}
+
+doric_bacchiadae = {
+	name = "dynn_Bacchiadae"
+	culture = "doric"
+}
+
+doric_agiad = {
+	name = "dynn_Agiad"
+	culture = "doric"
+}

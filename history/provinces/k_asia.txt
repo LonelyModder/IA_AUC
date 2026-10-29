@@ -17,15 +17,15 @@
 }
 
 1591 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = pelasgian
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 1592 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = pelasgian
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 2653 = {		

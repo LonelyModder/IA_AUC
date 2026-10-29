@@ -1,0 +1,119 @@
+﻿2000638 = {
+	name = "Balakros"
+	dynasty = pelasgian_lemnus
+	religion = "greek_pagan"
+	culture = pelasgian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_lemnos
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000639 = {
+	name = "Meleagros"
+	dynasty = pelasgian_lemnus
+	religion = "greek_pagan"
+	culture = pelasgian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_lemnos
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000640 = {
+	name = "Hermarchos"
+	dynasty = pelasgian_imbros
+	religion = "greek_pagan"
+	culture = pelasgian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_imbros
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000641 = {
+	name = "Perseus"
+	dynasty = pelasgian_imbros
+	religion = "greek_pagan"
+	culture = pelasgian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_imbros
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000652 = {
+	name = "Eupolemos"
+	dynasty = pelasgian_cynurid
+	religion = "greek_pagan"
+	culture = pelasgian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_cynouria
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000653 = {
+	name = "Polemon"
+	dynasty = pelasgian_cynurid
+	religion = "greek_pagan"
+	culture = pelasgian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_cynouria
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
