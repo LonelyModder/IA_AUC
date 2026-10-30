@@ -182,3 +182,15 @@ c_athamania = {
 		holder = 2000647
 	}
 }
+
+c_oryreum = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000646
+	}
+	437.4.21 = {
+		holder = 2000647
+	}
+}

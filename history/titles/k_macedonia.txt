@@ -286,6 +286,9 @@ c_therma = {
 	258.4.4 = {
 		holder = 2000570
 	}
+	437.4.21 = {
+		holder = 2000625
+	}
 }
 
 c_perilene = {
@@ -294,6 +297,9 @@ c_perilene = {
 	
 	258.4.4 = {
 		holder = 2000570
+	}
+	437.4.21 = {
+		holder = 2000625
 	}
 }
 
@@ -426,8 +432,8 @@ k_makedon = {
 }
 
 c_aigeai = {
-	258.4.4 = {	change_development_level = 1 }
-	437.4.21 = { change_development_level = 1 }
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
 	
 	258.4.4 = {
 		holder = 2000624
@@ -438,8 +444,44 @@ c_aigeai = {
 }
 
 c_dion = {
-	258.4.4 = {	change_development_level = 1 }
-	437.4.21 = { change_development_level = 1 }
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000624
+	}
+	437.4.21 = {
+		holder = 2000625
+	}
+}
+
+c_pharorion = {
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000624
+	}
+	437.4.21 = {
+		holder = 2000625
+	}
+}
+
+c_aiane = {
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000624
+	}
+	437.4.21 = {
+		holder = 2000625
+	}
+}
+
+c_pella = {
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
 	
 	258.4.4 = {
 		holder = 2000624
@@ -450,8 +492,8 @@ c_dion = {
 }
 
 c_elimeia = {
-	258.4.4 = {	change_development_level = 1 }
-	437.4.21 = { change_development_level = 1 }
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
 	
 	258.4.4 = {
 		holder = 2000626
@@ -480,10 +522,11 @@ c_lyncestis = {
 	437.4.21 = { change_development_level = 1 }
 	
 	258.4.4 = {
-		holder = 2000628
+		holder = 2000630
 	}
 	437.4.21 = {
 		liege="k_makedon"
-		holder = 2000629
+		holder = 2000631
 	}
 }
+
