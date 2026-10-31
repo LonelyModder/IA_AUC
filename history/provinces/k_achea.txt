@@ -41,9 +41,9 @@
 }
 
 1152 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = doric
+	religion = greek_pantheon
+	holding = castle_holding
 }
 
 1153 = {		
@@ -53,9 +53,9 @@
 }
 
 1154 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = doric
+	religion = greek_pantheon
+	holding = castle_holding
 }
 
 1155 = {		
@@ -65,9 +65,9 @@
 }
 
 1156 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = doric
+	religion = greek_pantheon
+	holding = castle_holding
 }
 1157 = {		
 	culture = baranis
@@ -178,9 +178,9 @@
 }
 
 1175 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = arcadian
+	religion = greek_pantheon
+	holding = castle_holding
 }
 
 1176 = {		
@@ -190,15 +190,15 @@
 }
 
 1177 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = arcadian
+	religion = greek_pantheon
+	holding = castle_holding
 }
 
 1178 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = arcadian
+	religion = greek_pantheon
+	holding = castle_holding
 }
 
 1179 = {		

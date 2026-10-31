@@ -140,3 +140,124 @@
 		death = "469.1.1"
 	}
 }
+
+2000661 = {
+	name = "Euktemon"
+	dynasty = doric_cresphontes
+	religion = "greek_pagan"
+	culture = doric
+	#father = 32974
+	212.1.1 = {
+		birth = "212.1.1"
+	}
+	230.4.4 = {
+		add_pressed_claim = title:c_messene
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	265.4.4 = {
+		death = "265.4.4"
+	}
+}
+
+2000662 = {
+	name = "Kephisodotos"
+	dynasty = doric_cresphontes
+	religion = "greek_pagan"
+	culture = doric
+	#father = 32974
+	412.1.1 = {
+		birth = "412.1.1"
+	}
+	430.4.21 = {
+		add_pressed_claim = title:d_messenia
+		add_pressed_claim = title:c_messene
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000663 = {
+	name = "Hagesandros"
+	dynasty = doric_glaucid
+	religion = "greek_pagan"
+	culture = doric
+	#father = 32974
+	212.1.1 = {
+		birth = "212.1.1"
+	}
+	230.4.4 = {
+		add_pressed_claim = title:c_pylos
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	265.4.4 = {
+		death = "265.4.4"
+	}
+}
+
+2000664 = {
+	name = "Metron"
+	dynasty = doric_glaucid
+	religion = "greek_pagan"
+	culture = doric
+	#father = 32974
+	412.1.1 = {
+		birth = "412.1.1"
+	}
+	430.4.21 = {
+		add_pressed_claim = title:c_pylos
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000665 = {
+	name = "Eukrates"
+	dynasty = doric_aepytus
+	religion = "greek_pagan"
+	culture = doric
+	#father = 32974
+	212.1.1 = {
+		birth = "212.1.1"
+	}
+	230.4.4 = {
+		add_pressed_claim = title:c_stenyclarus
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	265.4.4 = {
+		death = "265.4.4"
+	}
+}
+
+2000666 = {
+	name = "Hierax"
+	dynasty = doric_aepytus
+	religion = "greek_pagan"
+	culture = doric
+	#father = 32974
+	412.1.1 = {
+		birth = "412.1.1"
+	}
+	430.4.21 = {
+		add_pressed_claim = title:c_stenyclarus
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

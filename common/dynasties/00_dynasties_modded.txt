@@ -1975,3 +1975,35 @@ doric_agiad = {
 	name = "dynn_Agiad"
 	culture = "doric"
 }
+
+doric_cresphontes = {
+	name = "dynn_Cresphontes"
+	culture = "doric"
+}
+
+doric_glaucid = {
+	name = "dynn_Glaucid"
+	culture = "doric"
+}
+
+doric_aepytus = {
+	name = "dynn_Aepytus"
+	culture = "doric"
+}
+
+#Arcadian
+
+arcadian_aleid = {
+	name = "dynn_Aleid"
+	culture = "arcadian"
+}
+
+arcadian_arcasid = {
+	name = "dynn_Arcasid"
+	culture = "arcadian"
+}
+
+arcadian_aepytid = {
+	name = "dynn_Aepytid"
+	culture = "arcadian"
+}

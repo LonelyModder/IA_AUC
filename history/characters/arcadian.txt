@@ -1,0 +1,119 @@
+﻿2000667 = {
+	name = "Harpalos"
+	dynasty = arcadian_aleid
+	religion = "greek_pagan"
+	culture = arcadian
+	#father = 32974
+	212.1.1 = {
+		birth = "212.1.1"
+	}
+	230.4.4 = {
+		add_pressed_claim = title:c_tegea
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	265.4.4 = {
+		death = "265.4.4"
+	}
+}
+
+2000668 = {
+	name = "Simmias"
+	dynasty = arcadian_aleid
+	religion = "greek_pagan"
+	culture = arcadian
+	#father = 32974
+	412.1.1 = {
+		birth = "412.1.1"
+	}
+	430.4.21 = {
+		add_pressed_claim = title:c_tegea
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000669 = {
+	name = "Gylippos"
+	dynasty = arcadian_arcasid
+	religion = "greek_pagan"
+	culture = arcadian
+	#father = 32974
+	212.1.1 = {
+		birth = "212.1.1"
+	}
+	230.4.4 = {
+		add_pressed_claim = title:c_orchomenus
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	265.4.4 = {
+		death = "265.4.4"
+	}
+}
+
+2000670 = {
+	name = "Leostratos"
+	dynasty = arcadian_arcasid
+	religion = "greek_pagan"
+	culture = arcadian
+	#father = 32974
+	412.1.1 = {
+		birth = "412.1.1"
+	}
+	430.4.21 = {
+		add_pressed_claim = title:c_orchomenus
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000671 = {
+	name = "Ikadion"
+	dynasty = arcadian_aepytid
+	religion = "greek_pagan"
+	culture = arcadian
+	#father = 32974
+	212.1.1 = {
+		birth = "212.1.1"
+	}
+	230.4.4 = {
+		add_pressed_claim = title:c_phocyra
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	265.4.4 = {
+		death = "265.4.4"
+	}
+}
+
+2000672 = {
+	name = "Pantaleon"
+	dynasty = arcadian_aepytid
+	religion = "greek_pagan"
+	culture = arcadian
+	#father = 32974
+	412.1.1 = {
+		birth = "412.1.1"
+	}
+	430.4.21 = {
+		add_pressed_claim = title:c_phocyra
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

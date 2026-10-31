@@ -81,3 +81,84 @@ c_sparta = {
 		holder = 2000660
 	}
 }
+
+d_messenia = {
+	
+	444.4.21 = {
+		holder = 2000662
+	}
+}
+
+c_messene = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	230.4.4 = {
+		holder = 2000661
+	}
+	444.4.21 = {
+		holder = 2000662
+	}
+}
+
+c_pylos = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	230.4.4 = {
+		holder = 2000663
+	}
+	444.4.21 = {
+		liege="d_messenia"
+		holder = 2000664
+	}
+}
+
+c_stenyclarus = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	230.4.4 = {
+		holder = 2000665
+	}
+	444.4.21 = {
+		liege="d_messenia"
+		holder = 2000666
+	}
+}
+
+c_tegea = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	230.4.4 = {
+		holder = 2000667
+	}
+	444.4.21 = {
+		holder = 2000668
+	}
+}
+
+c_orchomenus = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	230.4.4 = {
+		holder = 2000669
+	}
+	444.4.21 = {
+		holder = 2000670
+	}
+}
+
+c_phocyra = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	230.4.4 = {
+		holder = 2000671
+	}
+	444.4.21 = {
+		holder = 2000672
+	}
+}
