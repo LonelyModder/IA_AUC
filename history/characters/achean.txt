@@ -77,3 +77,123 @@
 		death = "469.1.1"
 	}
 }
+
+2000696 = {
+	name = "Epimenes"
+	dynasty = achean_tisamenid
+	religion = "greek_pagan"
+	culture = achean
+	#father = 32974
+	212.1.1 = {
+		birth = "212.1.1"
+	}
+	230.4.4 = {
+		add_pressed_claim = title:c_aigion
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	265.4.4 = {
+		death = "265.4.4"
+	}
+}
+
+2000697 = {
+	name = "Kleitos"
+	dynasty = achean_tisamenid
+	religion = "greek_pagan"
+	culture = achean
+	#father = 32974
+	412.1.1 = {
+		birth = "412.1.1"
+	}
+	430.4.21 = {
+		add_pressed_claim = title:c_aigion
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000698 = {
+	name = "Damophon"
+	dynasty = achean_patreid
+	religion = "greek_pagan"
+	culture = achean
+	#father = 32974
+	212.1.1 = {
+		birth = "212.1.1"
+	}
+	230.4.4 = {
+		add_pressed_claim = title:c_patras
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	265.4.4 = {
+		death = "265.4.4"
+	}
+}
+
+2000699 = {
+	name = "Arrhidaios"
+	dynasty = achean_patreid
+	religion = "greek_pagan"
+	culture = achean
+	#father = 32974
+	412.1.1 = {
+		birth = "412.1.1"
+	}
+	430.4.21 = {
+		add_pressed_claim = title:c_patras
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000700 = {
+	name = "Kebalinos"
+	dynasty = achean_epopeid
+	religion = "greek_pagan"
+	culture = achean
+	#father = 32974
+	212.1.1 = {
+		birth = "212.1.1"
+	}
+	230.4.4 = {
+		add_pressed_claim = title:c_sicyon
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	265.4.4 = {
+		death = "265.4.4"
+	}
+}
+
+2000701 = {
+	name = "Lydiadas"
+	dynasty = achean_epopeid
+	religion = "greek_pagan"
+	culture = achean
+	#father = 32974
+	412.1.1 = {
+		birth = "412.1.1"
+	}
+	430.4.21 = {
+		add_pressed_claim = title:c_sicyon
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

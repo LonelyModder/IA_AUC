@@ -444,8 +444,14 @@
  dynn_Leucid:0 "Odysid"
  dynn_Alcmaeonid:0 "Alcmaeonid"
  dynn_Oxylid:0 "Oxylid"
+ dynn_Lepreid:0 "Lepreid"
+ dynn_Trachinid:0 "Trachinid"
  #Thessalian
  dynn_Deidamid:0 "Deidamid"
+ dynn_Phoenixid:0 "Phoenixid"
+ dynn_Aleuad:0 "Aleuad"
+ dynn_Staphylid:0 "Staphylid"
+ dynn_Echecratid:0 "Echecratid"
  #Attic
  dynn_Phorbid:0 "Phorbid"
  dynn_Charopid:0 "Charopid"
@@ -456,6 +462,8 @@
  dynn_Cresphontes:0 "Cresphontes"
  dynn_Glaucid:0 "Glaucid"
  dynn_Aepytus:0 "Aepytid"
+ dynn_Deiphontid:0 "Deiphontid"
+ dynn_Pittheid:0 "Pittheid"
  #Arcadian
  dynn_Aleid:0 "Aleid"
  dynn_Arcasid:0 "Arcasid"
@@ -463,3 +471,8 @@
  #Achean
  dynn_Arcesiad:0 "Arcesiad"
  dynn_Tephid:0 "Tephid"
+ dynn_Tisamenid:0 "Tisamenid"
+ dynn_Patreid:0 "Patreid"
+ dynn_Epopeid:0 "Epopeid"
+ #Ionian
+ dynn_Abantid:0 "Abantid"

@@ -136,6 +136,13 @@ c_chaphos = {
 	}
 }
 
+k_enchelei = {
+	
+	437.4.21 = {
+		holder = 2000555
+	}
+}
+
 d_ulciniatae = {
 	
 	258.4.4 = {

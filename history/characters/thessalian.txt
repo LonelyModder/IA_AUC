@@ -37,3 +37,165 @@
 		death = "469.1.1"
 	}
 }
+
+2000682 = {
+	name = "Sopolis"
+	dynasty = thessalian_phoenixid
+	religion = "greek_pagan"
+	culture = thessalian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_dolopia
+		add_pressed_claim = title:c_amphatreia
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000683 = {
+	name = "Hierax"
+	dynasty = thessalian_phoenixid
+	religion = "greek_pagan"
+	culture = thessalian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_dolopia
+		add_pressed_claim = title:c_amphatreia
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000684 = {
+	name = "Damophon"
+	dynasty = thessalian_aleuad
+	religion = "greek_pagan"
+	culture = thessalian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_larissa
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000685 = {
+	name = "Deriades"
+	dynasty = thessalian_aleuad
+	religion = "greek_pagan"
+	culture = thessalian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_larissa
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000692 = {
+	name = "Ismenias"
+	dynasty = thessalian_staphylid
+	religion = "greek_pagan"
+	culture = thessalian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_sporades
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000693 = {
+	name = "Ktesikles"
+	dynasty = thessalian_staphylid
+	religion = "greek_pagan"
+	culture = thessalian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_sporades
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000694 = {
+	name = "Nikomedes"
+	dynasty = thessalian_echecratid
+	religion = "greek_pagan"
+	culture = thessalian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_pharsalos
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000695 = {
+	name = "Marsyas"
+	dynasty = thessalian_echecratid
+	religion = "greek_pagan"
+	culture = thessalian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_pharsalos
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

@@ -261,3 +261,83 @@
 		death = "469.1.1"
 	}
 }
+
+2000688 = {
+	name = "Eurylochos"
+	dynasty = doric_deiphontid
+	religion = "greek_pagan"
+	culture = doric
+	#father = 32974
+	212.1.1 = {
+		birth = "212.1.1"
+	}
+	230.4.4 = {
+		add_pressed_claim = title:c_epidauros
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	265.4.4 = {
+		death = "265.4.4"
+	}
+}
+
+2000689 = {
+	name = "Machatas"
+	dynasty = doric_deiphontid
+	religion = "greek_pagan"
+	culture = doric
+	#father = 32974
+	412.1.1 = {
+		birth = "412.1.1"
+	}
+	430.4.21 = {
+		add_pressed_claim = title:c_epidauros
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000690 = {
+	name = "Hegemachos"
+	dynasty = doric_pittheid
+	religion = "greek_pagan"
+	culture = doric
+	#father = 32974
+	212.1.1 = {
+		birth = "212.1.1"
+	}
+	230.4.4 = {
+		add_pressed_claim = title:c_troizen
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	265.4.4 = {
+		death = "265.4.4"
+	}
+}
+
+2000691 = {
+	name = "Leontios"
+	dynasty = doric_pittheid
+	religion = "greek_pagan"
+	culture = doric
+	#father = 32974
+	412.1.1 = {
+		birth = "412.1.1"
+	}
+	430.4.21 = {
+		add_pressed_claim = title:c_troizen
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

@@ -1945,10 +1945,40 @@ northwesterngreek_oxylid = {
 	culture = "northwesterngreek"
 }
 
+northwesterngreek_lepreid = {
+	name = "dynn_Lepreid"
+	culture = "northwesterngreek"
+}
+
+northwesterngreek_trachinid = {
+	name = "dynn_Trachinid"
+	culture = "northwesterngreek"
+}
+
 #Thessalian
 
 thessalian_deidamid = {
 	name = "dynn_Deidamid"
+	culture = "thessalian"
+}
+
+thessalian_phoenixid = {
+	name = "dynn_Phoenixid"
+	culture = "thessalian"
+}
+
+thessalian_aleuad = {
+	name = "dynn_Aleuad"
+	culture = "thessalian"
+}
+
+thessalian_staphylid = {
+	name = "dynn_Staphylid"
+	culture = "thessalian"
+}
+
+thessalian_echecratid = {
+	name = "dynn_Echecratid"
 	culture = "thessalian"
 }
 
@@ -1973,6 +2003,16 @@ doric_temenid = {
 
 doric_bacchiadae = {
 	name = "dynn_Bacchiadae"
+	culture = "doric"
+}
+
+doric_deiphontid = {
+	name = "dynn_Deiphontid"
+	culture = "doric"
+}
+
+doric_pittheid = {
+	name = "dynn_Pittheid"
 	culture = "doric"
 }
 
@@ -2023,4 +2063,26 @@ achean_arcesiad = {
 achean_tephid = {
 	name = "dynn_Tephid"
 	culture = "achean"
+}
+
+achean_tisamenid = {
+	name = "dynn_Tisamenid"
+	culture = "achean"
+}
+
+achean_patreid = {
+	name = "dynn_Patreid"
+	culture = "achean"
+}
+
+achean_epopeid = {
+	name = "dynn_Epopeid"
+	culture = "achean"
+}
+
+#Ionian
+
+ionian_abantid = {
+	name = "dynn_Abantid"
+	culture = "ionian"
 }

@@ -82,6 +82,54 @@ c_sparta = {
 	}
 }
 
+c_epidauros = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	230.4.4 = {
+		holder = 2000688
+	}
+	444.4.21 = {
+		holder = 2000689
+	}
+}
+
+c_troizen = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	230.4.4 = {
+		holder = 2000690
+	}
+	444.4.21 = {
+		holder = 2000691
+	}
+}
+
+c_sporades = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	230.4.4 = {
+		holder = 2000692
+	}
+	444.4.21 = {
+		holder = 2000693
+	}
+}
+
+c_pharsalos = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	230.4.4 = {
+		holder = 2000692
+	}
+	444.4.21 = {
+		holder = 2000693
+	}
+}
+
 d_messenia = {
 	
 	444.4.21 = {
@@ -151,6 +199,42 @@ c_orchomenus = {
 	}
 }
 
+c_aigion = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	230.4.4 = {
+		holder = 2000696
+	}
+	444.4.21 = {
+		holder = 2000697
+	}
+}
+
+c_patras = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	230.4.4 = {
+		holder = 2000698
+	}
+	444.4.21 = {
+		holder = 2000699
+	}
+}
+
+c_sicyon = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	230.4.4 = {
+		holder = 2000700
+	}
+	444.4.21 = {
+		holder = 2000701
+	}
+}
+
 c_phocyra = {
 	258.4.4 = {	change_development_level = 10 }
 	437.4.21 = { change_development_level = 15 }
@@ -196,5 +280,53 @@ c_elis = {
 	}
 	444.4.21 = {
 		holder = 2000678
+	}
+}
+
+c_lepreum = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	230.4.4 = {
+		holder = 2000679
+	}
+	444.4.21 = {
+		holder = 2000680
+	}
+}
+
+c_dolopia = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000682
+	}
+	437.4.21 = {
+		holder = 2000683
+	}
+}
+
+c_larissa = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000684
+	}
+	437.4.21 = {
+		holder = 2000685
+	}
+}
+
+c_malia = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000686
+	}
+	437.4.21 = {
+		holder = 2000687
 	}
 }
