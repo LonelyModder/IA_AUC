@@ -443,6 +443,7 @@
  #North-Western Greek
  dynn_Leucid:0 "Odysid"
  dynn_Alcmaeonid:0 "Alcmaeonid"
+ dynn_Oxylid:0 "Oxylid"
  #Thessalian
  dynn_Deidamid:0 "Deidamid"
  #Attic
@@ -459,3 +460,6 @@
  dynn_Aleid:0 "Aleid"
  dynn_Arcasid:0 "Arcasid"
  dynn_Aepytid:0 "Aepytid"
+ #Achean
+ dynn_Arcesiad:0 "Arcesiad"
+ dynn_Tephid:0 "Tephid"

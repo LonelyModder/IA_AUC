@@ -1940,6 +1940,11 @@ northwesterngreek_alcmaeonid = {
 	culture = "northwesterngreek"
 }
 
+northwesterngreek_oxylid = {
+	name = "dynn_Oxylid"
+	culture = "northwesterngreek"
+}
+
 #Thessalian
 
 thessalian_deidamid = {
@@ -2006,4 +2011,16 @@ arcadian_arcasid = {
 arcadian_aepytid = {
 	name = "dynn_Aepytid"
 	culture = "arcadian"
+}
+
+#Achean
+
+achean_arcesiad = {
+	name = "dynn_Arcesiad"
+	culture = "achean"
+}
+
+achean_tephid = {
+	name = "dynn_Tephid"
+	culture = "achean"
 }

@@ -5,15 +5,15 @@
 }
 
 1255 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = achean
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 1256 = {		
 	culture = northwesterngreek
 	religion = greek_pagan
-	holding = tribal_holding
+	holding = castle_holding
 }
 
 1257 = {		

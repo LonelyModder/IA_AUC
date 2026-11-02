@@ -162,3 +162,39 @@ c_phocyra = {
 		holder = 2000672
 	}
 }
+
+c_cephallania = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	230.4.4 = {
+		holder = 2000673
+	}
+	444.4.21 = {
+		holder = 2000674
+	}
+}
+
+c_zacynthus = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	230.4.4 = {
+		holder = 2000675
+	}
+	444.4.21 = {
+		holder = 2000676
+	}
+}
+
+c_elis = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	230.4.4 = {
+		holder = 2000677
+	}
+	444.4.21 = {
+		holder = 2000678
+	}
+}

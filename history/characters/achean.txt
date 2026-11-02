@@ -1,1 +1,79 @@
-﻿
+﻿2000673 = {
+	name = "Archias"
+	dynasty = achean_arcesiad
+	religion = "greek_pagan"
+	culture = achean
+	#father = 32974
+	212.1.1 = {
+		birth = "212.1.1"
+	}
+	230.4.4 = {
+		add_pressed_claim = title:c_cephallania
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	265.4.4 = {
+		death = "265.4.4"
+	}
+}
+
+2000674 = {
+	name = "Gylippos"
+	dynasty = achean_arcesiad
+	religion = "greek_pagan"
+	culture = achean
+	#father = 32974
+	412.1.1 = {
+		birth = "412.1.1"
+	}
+	430.4.21 = {
+		add_pressed_claim = title:c_cephallania
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000675 = {
+	name = "Dikaios"
+	dynasty = achean_tephid
+	religion = "greek_pagan"
+	culture = achean
+	#father = 32974
+	212.1.1 = {
+		birth = "212.1.1"
+	}
+	230.4.4 = {
+		add_pressed_claim = title:c_zacynthus
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	265.4.4 = {
+		death = "265.4.4"
+	}
+}
+
+2000676 = {
+	name = "Lydiadas"
+	dynasty = achean_tephid
+	religion = "greek_pagan"
+	culture = achean
+	#father = 32974
+	412.1.1 = {
+		birth = "412.1.1"
+	}
+	430.4.21 = {
+		add_pressed_claim = title:c_zacynthus
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
