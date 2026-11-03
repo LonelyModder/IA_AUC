@@ -1,7 +1,7 @@
 ﻿1145 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = doric
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 1146 = {		
@@ -11,9 +11,9 @@
 }
 
 1147 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = doric
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 1148 = {		
@@ -35,9 +35,9 @@
 }
 
 1151 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = doric
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 1152 = {		
@@ -94,9 +94,9 @@
 }
 
 1161 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = northwesterngreek
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 1162 = {		
@@ -208,9 +208,9 @@
 }
 
 1180 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = attic
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 1181 = {		
@@ -238,9 +238,9 @@
 }
 
 1185 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = beotian
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 1186 = {		
@@ -262,27 +262,27 @@
 }
 
 1189 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = beotian
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 1190 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = ionian
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 1191 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = ionian
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 1192 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = ionian
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 1193 = {		
@@ -388,39 +388,39 @@
 }
 
 1210 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = ionian
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 1211 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = ionian
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 1212 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = ionian
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 1213 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = doric
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 1214 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = ionian
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 1215 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = ionian
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 1216 = {		

@@ -1935,6 +1935,11 @@ northwesterngreek_leucid = {
 	culture = "northwesterngreek"
 }
 
+northwesterngreek_diogenid = {
+	name = "dynn_Diogenid"
+	culture = "northwesterngreek"
+}
+
 northwesterngreek_alcmaeonid = {
 	name = "dynn_Alcmaeonid"
 	culture = "northwesterngreek"
@@ -1994,10 +1999,30 @@ attic_charopid = {
 	culture = "attic"
 }
 
+attic_keleid = {
+	name = "dynn_Keleid"
+	culture = "attic"
+}
+
 #Doric
 
 doric_temenid = {
 	name = "dynn_Temenid"
+	culture = "doric"
+}
+
+doric_eurytionid = {
+	name = "dynn_Eurytionid"
+	culture = "doric"
+}
+
+doric_maniad = {
+	name = "dynn_Maniad"
+	culture = "doric"
+}
+
+doric_limeraid = {
+	name = "dynn_Limeraid"
 	culture = "doric"
 }
 
@@ -2008,6 +2033,11 @@ doric_bacchiadae = {
 
 doric_deiphontid = {
 	name = "dynn_Deiphontid"
+	culture = "doric"
+}
+
+doric_melius = {
+	name = "dynn_Melius"
 	culture = "doric"
 }
 
@@ -2085,4 +2115,61 @@ achean_epopeid = {
 ionian_abantid = {
 	name = "dynn_Abantid"
 	culture = "ionian"
+}
+
+ionian_aniad = {
+	name = "dynn_Aniad"
+	culture = "ionian"
+}
+
+ionian_keid = {
+	name = "dynn_Keid"
+	culture = "ionian"
+}
+
+ionian_cothid = {
+	name = "dynn_Cothid"
+	culture = "ionian"
+}
+
+ionian_chalkodontid = {
+	name = "dynn_Chalkodontid"
+	culture = "ionian"
+}
+
+ionian_hippobotai = {
+	name = "dynn_Hippobotai"
+	culture = "ionian"
+}
+
+ionian_eretrieid = {
+	name = "dynn_Eretrieid"
+	culture = "ionian"
+}
+
+ionian_elephenorid = {
+	name = "dynn_Elephenorid"
+	culture = "ionian"
+}
+
+ionian_naxid = {
+	name = "dynn_Naxid"
+	culture = "ionian"
+}
+
+ionian_parid = {
+	name = "dynn_Parid"
+	culture = "ionian"
+}
+
+#Beotian
+
+beotian_cadmeid = {
+	name = "dynn_Cadmeid"
+	culture = "beotian"
+}
+
+beotian_minyad = {
+	name = "dynn_Minyad"
+	culture = "beotian"
 }

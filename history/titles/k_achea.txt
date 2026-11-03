@@ -82,6 +82,66 @@ c_sparta = {
 	}
 }
 
+c_kythera = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	230.4.4 = {
+		holder = 2000726
+	}
+	444.4.21 = {
+		holder = 2000727
+	}
+}
+
+c_oenippi = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	230.4.4 = {
+		holder = 2000728
+	}
+	444.4.21 = {
+		holder = 2000729
+	}
+}
+
+c_helus = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	230.4.4 = {
+		holder = 2000730
+	}
+	444.4.21 = {
+		holder = 2000731
+	}
+}
+
+c_thebes = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	230.4.4 = {
+		holder = 2000702
+	}
+	444.4.21 = {
+		holder = 2000703
+	}
+}
+
+c_orchomenos = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	230.4.4 = {
+		holder = 2000704
+	}
+	444.4.21 = {
+		holder = 2000705
+	}
+}
+
 c_epidauros = {
 	258.4.4 = {	change_development_level = 10 }
 	437.4.21 = { change_development_level = 15 }
@@ -91,6 +151,126 @@ c_epidauros = {
 	}
 	444.4.21 = {
 		holder = 2000689
+	}
+}
+
+c_chalcis = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	230.4.4 = {
+		holder = 2000706
+	}
+	444.4.21 = {
+		holder = 2000707
+	}
+}
+
+c_eretria = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	230.4.4 = {
+		holder = 2000708
+	}
+	444.4.21 = {
+		holder = 2000709
+	}
+}
+
+c_naxos = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	230.4.4 = {
+		holder = 2000710
+	}
+	444.4.21 = {
+		holder = 2000711
+	}
+}
+
+c_paros = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	230.4.4 = {
+		holder = 2000710
+	}
+	444.4.21 = {
+		holder = 2000711
+	}
+}
+
+c_delos = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	230.4.4 = {
+		holder = 2000716
+	}
+	444.4.21 = {
+		holder = 2000717
+	}
+}
+
+c_keos = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	230.4.4 = {
+		holder = 2000720
+	}
+	444.4.21 = {
+		holder = 2000721
+	}
+}
+
+c_elefsina = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	230.4.4 = {
+		holder = 2000724
+	}
+	444.4.21 = {
+		holder = 2000725
+	}
+}
+
+c_cerinthus = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	230.4.4 = {
+		holder = 2000722
+	}
+	444.4.21 = {
+		holder = 2000723
+	}
+}
+
+c_andros = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	230.4.4 = {
+		holder = 2000718
+	}
+	444.4.21 = {
+		holder = 2000719
+	}
+}
+
+c_melos = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	230.4.4 = {
+		holder = 2000714
+	}
+	444.4.21 = {
+		holder = 2000715
 	}
 }
 
@@ -280,6 +460,18 @@ c_elis = {
 	}
 	444.4.21 = {
 		holder = 2000678
+	}
+}
+
+c_olympia = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	230.4.4 = {
+		holder = 2000732
+	}
+	444.4.21 = {
+		holder = 2000733
 	}
 }
 

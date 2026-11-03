@@ -17,3 +17,323 @@
 		death = "469.1.1"
 	}
 }
+
+2000706 = {
+	name = "Hyakinthos"
+	dynasty = ionian_chalkodontid
+	religion = "greek_pagan"
+	culture = ionian
+	#father = 32974
+	212.1.1 = {
+		birth = "212.1.1"
+	}
+	230.4.4 = {
+		add_pressed_claim = title:c_chalcis
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	265.4.4 = {
+		death = "265.4.4"
+	}
+}
+
+2000707 = {
+	name = "Euthydemos"
+	dynasty = ionian_hippobotai
+	religion = "greek_pagan"
+	culture = ionian
+	#father = 32974
+	412.1.1 = {
+		birth = "412.1.1"
+	}
+	430.4.21 = {
+		add_pressed_claim = title:c_chalcis
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000708 = {
+	name = "Halkyoneus"
+	dynasty = ionian_eretrieid
+	religion = "greek_pagan"
+	culture = ionian
+	#father = 32974
+	212.1.1 = {
+		birth = "212.1.1"
+	}
+	230.4.4 = {
+		add_pressed_claim = title:c_eretria
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	265.4.4 = {
+		death = "265.4.4"
+	}
+}
+
+2000709 = {
+	name = "Numenios"
+	dynasty = ionian_elephenorid
+	religion = "greek_pagan"
+	culture = ionian
+	#father = 32974
+	412.1.1 = {
+		birth = "412.1.1"
+	}
+	430.4.21 = {
+		add_pressed_claim = title:c_eretria
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000710 = {
+	name = "Krenides"
+	dynasty = ionian_naxid
+	religion = "greek_pagan"
+	culture = ionian
+	#father = 32974
+	212.1.1 = {
+		birth = "212.1.1"
+	}
+	230.4.4 = {
+		add_pressed_claim = title:c_naxos
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	265.4.4 = {
+		death = "265.4.4"
+	}
+}
+
+2000711 = {
+	name = "Agaios"
+	dynasty = ionian_naxid
+	religion = "greek_pagan"
+	culture = ionian
+	#father = 32974
+	412.1.1 = {
+		birth = "412.1.1"
+	}
+	430.4.21 = {
+		add_pressed_claim = title:c_naxos
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000712 = {
+	name = "Milon"
+	dynasty = ionian_parid
+	religion = "greek_pagan"
+	culture = ionian
+	#father = 32974
+	212.1.1 = {
+		birth = "212.1.1"
+	}
+	230.4.4 = {
+		add_pressed_claim = title:c_paros
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	265.4.4 = {
+		death = "265.4.4"
+	}
+}
+
+2000713 = {
+	name = "Dropidas"
+	dynasty = ionian_parid
+	religion = "greek_pagan"
+	culture = ionian
+	#father = 32974
+	412.1.1 = {
+		birth = "412.1.1"
+	}
+	430.4.21 = {
+		add_pressed_claim = title:c_paros
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000716 = {
+	name = "Demetrios"
+	dynasty = ionian_aniad
+	religion = "greek_pagan"
+	culture = ionian
+	#father = 32974
+	212.1.1 = {
+		birth = "212.1.1"
+	}
+	230.4.4 = {
+		add_pressed_claim = title:c_delos
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	265.4.4 = {
+		death = "265.4.4"
+	}
+}
+
+2000717 = {
+	name = "Euthykritos"
+	dynasty = ionian_aniad
+	religion = "greek_pagan"
+	culture = ionian
+	#father = 32974
+	412.1.1 = {
+		birth = "412.1.1"
+	}
+	430.4.21 = {
+		add_pressed_claim = title:c_delos
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000718 = {
+	name = "Gorgippos"
+	dynasty = ionian_aniad
+	religion = "greek_pagan"
+	culture = ionian
+	#father = 32974
+	212.1.1 = {
+		birth = "212.1.1"
+	}
+	230.4.4 = {
+		add_pressed_claim = title:c_andros
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	265.4.4 = {
+		death = "265.4.4"
+	}
+}
+
+2000719 = {
+	name = "Gorgos"
+	dynasty = ionian_aniad
+	religion = "greek_pagan"
+	culture = ionian
+	#father = 32974
+	412.1.1 = {
+		birth = "412.1.1"
+	}
+	430.4.21 = {
+		add_pressed_claim = title:c_andros
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000720 = {
+	name = "Gorgippos"
+	dynasty = ionian_keid
+	religion = "greek_pagan"
+	culture = ionian
+	#father = 32974
+	212.1.1 = {
+		birth = "212.1.1"
+	}
+	230.4.4 = {
+		add_pressed_claim = title:c_keos
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	265.4.4 = {
+		death = "265.4.4"
+	}
+}
+
+2000721 = {
+	name = "Gorgos"
+	dynasty = ionian_keid
+	religion = "greek_pagan"
+	culture = ionian
+	#father = 32974
+	412.1.1 = {
+		birth = "412.1.1"
+	}
+	430.4.21 = {
+		add_pressed_claim = title:c_keos
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000722 = {
+	name = "Erigyios"
+	dynasty = ionian_cothid
+	religion = "greek_pagan"
+	culture = ionian
+	#father = 32974
+	212.1.1 = {
+		birth = "212.1.1"
+	}
+	230.4.4 = {
+		add_pressed_claim = title:c_cerinthus
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	265.4.4 = {
+		death = "265.4.4"
+	}
+}
+
+2000723 = {
+	name = "Kalas"
+	dynasty = ionian_cothid
+	religion = "greek_pagan"
+	culture = ionian
+	#father = 32974
+	412.1.1 = {
+		birth = "412.1.1"
+	}
+	430.4.21 = {
+		add_pressed_claim = title:c_cerinthus
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

@@ -341,3 +341,163 @@
 		death = "469.1.1"
 	}
 }
+
+2000714 = {
+	name = "Harpalos"
+	dynasty = doric_melius
+	religion = "greek_pagan"
+	culture = doric
+	#father = 32974
+	212.1.1 = {
+		birth = "212.1.1"
+	}
+	230.4.4 = {
+		add_pressed_claim = title:c_melos
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	265.4.4 = {
+		death = "265.4.4"
+	}
+}
+
+2000715 = {
+	name = "Milon"
+	dynasty = doric_melius
+	religion = "greek_pagan"
+	culture = doric
+	#father = 32974
+	412.1.1 = {
+		birth = "412.1.1"
+	}
+	430.4.21 = {
+		add_pressed_claim = title:c_melos
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000726 = {
+	name = "Nikokles"
+	dynasty = doric_eurytionid
+	religion = "greek_pagan"
+	culture = doric
+	#father = 32974
+	212.1.1 = {
+		birth = "212.1.1"
+	}
+	230.4.4 = {
+		add_pressed_claim = title:c_kythera
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	265.4.4 = {
+		death = "265.4.4"
+	}
+}
+
+2000727 = {
+	name = "Nikias"
+	dynasty = doric_eurytionid
+	religion = "greek_pagan"
+	culture = doric
+	#father = 32974
+	412.1.1 = {
+		birth = "412.1.1"
+	}
+	430.4.21 = {
+		add_pressed_claim = title:c_kythera
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000728 = {
+	name = "Nikokles"
+	dynasty = doric_maniad
+	religion = "greek_pagan"
+	culture = doric
+	#father = 32974
+	212.1.1 = {
+		birth = "212.1.1"
+	}
+	230.4.4 = {
+		add_pressed_claim = title:c_oenippi
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	265.4.4 = {
+		death = "265.4.4"
+	}
+}
+
+2000729 = {
+	name = "Nikias"
+	dynasty = doric_maniad
+	religion = "greek_pagan"
+	culture = doric
+	#father = 32974
+	412.1.1 = {
+		birth = "412.1.1"
+	}
+	430.4.21 = {
+		add_pressed_claim = title:c_oenippi
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000730 = {
+	name = "Hippalos"
+	dynasty = doric_limeraid
+	religion = "greek_pagan"
+	culture = doric
+	#father = 32974
+	212.1.1 = {
+		birth = "212.1.1"
+	}
+	230.4.4 = {
+		add_pressed_claim = title:c_helus
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	265.4.4 = {
+		death = "265.4.4"
+	}
+}
+
+2000731 = {
+	name = "Nearchos"
+	dynasty = doric_limeraid
+	religion = "greek_pagan"
+	culture = doric
+	#father = 32974
+	412.1.1 = {
+		birth = "412.1.1"
+	}
+	430.4.21 = {
+		add_pressed_claim = title:c_helus
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

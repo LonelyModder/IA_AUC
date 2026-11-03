@@ -1,0 +1,79 @@
+﻿2000702 = {
+	name = "Hagesandros"
+	dynasty = beotian_cadmeid
+	religion = "greek_pagan"
+	culture = beotian
+	#father = 32974
+	212.1.1 = {
+		birth = "212.1.1"
+	}
+	230.4.4 = {
+		add_pressed_claim = title:c_thebes
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	265.4.4 = {
+		death = "265.4.4"
+	}
+}
+
+2000703 = {
+	name = "Hegesias"
+	dynasty = beotian_cadmeid
+	religion = "greek_pagan"
+	culture = beotian
+	#father = 32974
+	412.1.1 = {
+		birth = "412.1.1"
+	}
+	430.4.21 = {
+		add_pressed_claim = title:c_thebes
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000704 = {
+	name = "Harpalos"
+	dynasty = beotian_minyad
+	religion = "greek_pagan"
+	culture = beotian
+	#father = 32974
+	212.1.1 = {
+		birth = "212.1.1"
+	}
+	230.4.4 = {
+		add_pressed_claim = title:c_orchomenos
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	265.4.4 = {
+		death = "265.4.4"
+	}
+}
+
+2000705 = {
+	name = "Sosthenes"
+	dynasty = beotian_minyad
+	religion = "greek_pagan"
+	culture = beotian
+	#father = 32974
+	412.1.1 = {
+		birth = "412.1.1"
+	}
+	430.4.21 = {
+		add_pressed_claim = title:c_orchomenos
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
