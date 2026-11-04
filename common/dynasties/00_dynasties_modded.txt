@@ -1935,6 +1935,36 @@ northwesterngreek_leucid = {
 	culture = "northwesterngreek"
 }
 
+northwesterngreek_naupactid = {
+	name = "dynn_Naupactid"
+	culture = "northwesterngreek"
+}
+
+northwesterngreek_aetolid = {
+	name = "dynn_Aetolid"
+	culture = "northwesterngreek"
+}
+
+northwesterngreek_rhimid = {
+	name = "dynn_Rhimid"
+	culture = "northwesterngreek"
+}
+
+northwesterngreek_aegimid = {
+	name = "dynn_Aegimid"
+	culture = "northwesterngreek"
+}
+
+northwesterngreek_ducalionid = {
+	name = "dynn_Ducalionid"
+	culture = "northwesterngreek"
+}
+
+northwesterngreek_phocid = {
+	name = "dynn_Phocid"
+	culture = "northwesterngreek"
+}
+
 northwesterngreek_diogenid = {
 	name = "dynn_Diogenid"
 	culture = "northwesterngreek"
@@ -1969,6 +1999,21 @@ thessalian_deidamid = {
 
 thessalian_phoenixid = {
 	name = "dynn_Phoenixid"
+	culture = "thessalian"
+}
+
+thessalian_peliad = {
+	name = "dynn_Peliad"
+	culture = "thessalian"
+}
+
+thessalian_asclepiad = {
+	name = "dynn_Asclepiad"
+	culture = "thessalian"
+}
+
+thessalian_thyid = {
+	name = "dynn_Thyid"
 	culture = "thessalian"
 }
 
@@ -2172,4 +2217,63 @@ beotian_cadmeid = {
 beotian_minyad = {
 	name = "dynn_Minyad"
 	culture = "beotian"
+}
+
+beotian_glaukid = {
+	name = "dynn_Glaukid"
+	culture = "beotian"
+}
+
+#Cretan
+
+cretan_althaimenid = {
+	name = "dynn_Althaimenid"
+	culture = "cretan"
+}
+
+cretan_kydonid = {
+	name = "dynn_Kydonid"
+	culture = "cretan"
+}
+
+cretan_koureteid = {
+	name = "dynn_Koureteid"
+	culture = "cretan"
+}
+
+cretan_tarrhaid = {
+	name = "dynn_Tarrhaid"
+	culture = "cretan"
+}
+
+cretan_europid = {
+	name = "dynn_Europid"
+	culture = "cretan"
+}
+
+cretan_aigaionid = {
+	name = "dynn_Aigaionid"
+	culture = "cretan"
+}
+
+cretan_rhytionid = {
+	name = "dynn_Rhytionid"
+	culture = "cretan"
+}
+
+cretan_kamariad = {
+	name = "dynn_Kamariad"
+	culture = "cretan"
+}
+
+cretan_cyrbid = {
+	name = "dynn_Cyrbid"
+	culture = "cretan"
+}
+
+#Eteocretan
+
+eteocretan_drerid = {
+	name = "dynn_Drerid"
+	culture = "eteocretan"
 }

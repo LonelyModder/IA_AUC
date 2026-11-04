@@ -1,0 +1,119 @@
+c_cnossos = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000734
+	}
+	437.4.21 = {
+		holder = 2000735
+	}
+}
+
+c_cydonea = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000736
+	}
+	437.4.21 = {
+		holder = 2000737
+	}
+}
+
+c_eleutherna = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000738
+	}
+	437.4.21 = {
+		holder = 2000739
+	}
+}
+
+c_lappa = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000740
+	}
+	437.4.21 = {
+		holder = 2000741
+	}
+}
+
+c_gortys = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000742
+	}
+	437.4.21 = {
+		holder = 2000743
+	}
+}
+
+c_lyctus = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000744
+	}
+	437.4.21 = {
+		holder = 2000745
+	}
+}
+
+c_rhytium = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000746
+	}
+	437.4.21 = {
+		holder = 2000747
+	}
+}
+
+c_lato = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000748
+	}
+	437.4.21 = {
+		holder = 2000749
+	}
+}
+
+c_hierapytna = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000750
+	}
+	437.4.21 = {
+		holder = 2000751
+	}
+}
+
+c_dreros = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000752
+	}
+	437.4.21 = {
+		holder = 2000753
+	}
+}

@@ -29,9 +29,9 @@
 }
 
 1239 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thessalian
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 1240 = {		
@@ -59,9 +59,9 @@
 }
 
 1244 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thessalian
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 1245 = {		
@@ -101,9 +101,9 @@
 }
 
 1251 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = thessalian
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 1252 = {		

@@ -199,3 +199,123 @@
 		death = "469.1.1"
 	}
 }
+
+2000756 = {
+	name = "Damophon"
+	dynasty = thessalian_peliad
+	religion = "greek_pagan"
+	culture = thessalian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_pegasae
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000757 = {
+	name = "Arseas"
+	dynasty = thessalian_peliad
+	religion = "greek_pagan"
+	culture = thessalian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_pegasae
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000758 = {
+	name = "Epokillos"
+	dynasty = thessalian_asclepiad
+	religion = "greek_pagan"
+	culture = thessalian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_tricca
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000759 = {
+	name = "Metron"
+	dynasty = thessalian_asclepiad
+	religion = "greek_pagan"
+	culture = thessalian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_tricca
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000760 = {
+	name = "Aratos"
+	dynasty = thessalian_thyid
+	religion = "greek_pagan"
+	culture = thessalian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_magnesia
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000761 = {
+	name = "Karsis"
+	dynasty = thessalian_thyid
+	religion = "greek_pagan"
+	culture = thessalian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_magnesia
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

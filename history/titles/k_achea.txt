@@ -1,6 +1,6 @@
 c_skyros = {
-	258.4.4 = {	change_development_level = 3 }
-	437.4.21 = { change_development_level = 5 }
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
 	
 	258.4.4 = {
 		holder = 2000648
@@ -11,8 +11,8 @@ c_skyros = {
 }
 
 c_athenae = {
-	258.4.4 = {	change_development_level = 5 }
-	437.4.21 = { change_development_level = 10 }
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
 	
 	258.4.4 = {
 		holder = 2000650
@@ -22,14 +22,22 @@ c_athenae = {
 	}
 }
 
+d_argolis = {
+	
+	444.4.21 = {
+		holder = 2000655
+	}
+}
+
 c_cynouria = {
-	258.4.4 = {	change_development_level = 5 }
-	437.4.21 = { change_development_level = 10 }
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
 	
 	258.4.4 = {
 		holder = 2000652
 	}
 	437.4.21 = {
+		liege="d_argolis"
 		holder = 2000653
 	}
 }
@@ -70,6 +78,13 @@ c_megara = {
 	}
 }
 
+d_laconia = {
+	
+	444.4.21 = {
+		holder = 2000660
+	}
+}
+
 c_sparta = {
 	258.4.4 = {	change_development_level = 10 }
 	437.4.21 = { change_development_level = 15 }
@@ -102,6 +117,7 @@ c_oenippi = {
 		holder = 2000728
 	}
 	444.4.21 = {
+		liege="d_laconia"
 		holder = 2000729
 	}
 }
@@ -114,6 +130,7 @@ c_helus = {
 		holder = 2000730
 	}
 	444.4.21 = {
+		liege="d_laconia"
 		holder = 2000731
 	}
 }
@@ -127,6 +144,90 @@ c_thebes = {
 	}
 	444.4.21 = {
 		holder = 2000703
+	}
+}
+
+c_aetolia = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	230.4.4 = {
+		holder = 2000762
+	}
+	444.4.21 = {
+		holder = 2000763
+	}
+}
+
+c_themum = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	230.4.4 = {
+		holder = 2000764
+	}
+	444.4.21 = {
+		holder = 2000765
+	}
+}
+
+c_rhamnakros = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	230.4.4 = {
+		holder = 2000766
+	}
+	444.4.21 = {
+		holder = 2000767
+	}
+}
+
+c_doris = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	230.4.4 = {
+		holder = 2000768
+	}
+	444.4.21 = {
+		holder = 2000769
+	}
+}
+
+c_opus = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	230.4.4 = {
+		holder = 2000770
+	}
+	444.4.21 = {
+		holder = 2000771
+	}
+}
+
+c_elatea = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	230.4.4 = {
+		holder = 2000772
+	}
+	444.4.21 = {
+		holder = 2000773
+	}
+}
+
+c_delphi = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	230.4.4 = {
+		holder = 2000774
+	}
+	444.4.21 = {
+		holder = 2000775
 	}
 }
 
@@ -227,8 +328,8 @@ c_keos = {
 }
 
 c_elefsina = {
-	258.4.4 = {	change_development_level = 5 }
-	437.4.21 = { change_development_level = 10 }
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
 	
 	230.4.4 = {
 		holder = 2000724
@@ -303,10 +404,46 @@ c_pharsalos = {
 	437.4.21 = { change_development_level = 10 }
 	
 	230.4.4 = {
-		holder = 2000692
+		holder = 2000694
 	}
 	444.4.21 = {
-		holder = 2000693
+		holder = 2000695
+	}
+}
+
+c_pegasae = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	230.4.4 = {
+		holder = 2000756
+	}
+	444.4.21 = {
+		holder = 2000757
+	}
+}
+
+c_tricca = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	230.4.4 = {
+		holder = 2000758
+	}
+	444.4.21 = {
+		holder = 2000759
+	}
+}
+
+c_magnesia = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	230.4.4 = {
+		holder = 2000760
+	}
+	444.4.21 = {
+		holder = 2000761
 	}
 }
 
@@ -484,6 +621,18 @@ c_lepreum = {
 	}
 	444.4.21 = {
 		holder = 2000680
+	}
+}
+
+c_actegea = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	230.4.4 = {
+		holder = 2000754
+	}
+	444.4.21 = {
+		holder = 2000755
 	}
 }
 

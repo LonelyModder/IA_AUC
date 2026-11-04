@@ -1,7 +1,7 @@
 ﻿2000604 = {
 	name = "Hiram"
 	dynasty = grecopunic_milkiasaphid
-	religion = "grecopunic_pagan"
+	religion = "canaanite_pagan"
 	culture = grecopunic
 	#father = 32974
 	221.1.1 = {
@@ -21,7 +21,7 @@
 2000605 = {
 	name = "Khiletzbaal"
 	dynasty = grecopunic_milkiasaphid
-	religion = "grecopunic_pagan"
+	religion = "canaanite_pagan"
 	culture = grecopunic
 	#father = 32974
 	401.1.1 = {

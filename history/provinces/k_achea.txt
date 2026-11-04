@@ -18,7 +18,7 @@
 
 1148 = {		
 	culture = pelasgian
-	religion = greek_pantheon
+	religion = greek_pagan
 	holding = castle_holding
 }
 
@@ -30,7 +30,7 @@
 
 1150 = {		
 	culture = doric
-	religion = greek_pantheon
+	religion = greek_pagan
 	holding = castle_holding
 }
 
@@ -42,7 +42,7 @@
 
 1152 = {		
 	culture = doric
-	religion = greek_pantheon
+	religion = greek_pagan
 	holding = castle_holding
 }
 
@@ -54,7 +54,7 @@
 
 1154 = {		
 	culture = doric
-	religion = greek_pantheon
+	religion = greek_pagan
 	holding = castle_holding
 }
 
@@ -66,7 +66,7 @@
 
 1156 = {		
 	culture = doric
-	religion = greek_pantheon
+	religion = greek_pagan
 	holding = castle_holding
 }
 1157 = {		
@@ -107,13 +107,13 @@
 
 1163 = {		
 	culture = doric
-	religion = greek_pantheon
+	religion = greek_pagan
 	holding = castle_holding
 }
 
 1164 = {		
 	culture = achean
-	religion = greek_pantheon
+	religion = greek_pagan
 	holding = castle_holding
 }
 
@@ -125,7 +125,7 @@
 
 1166 = {		
 	culture = achean
-	religion = greek_pantheon
+	religion = greek_pagan
 	holding = castle_holding
 }
 
@@ -137,25 +137,25 @@
 
 1168 = {		
 	culture = achean
-	religion = greek_pantheon
+	religion = greek_pagan
 	holding = castle_holding
 }
 
 1169 = {		
 	culture = doric
-	religion = greek_pantheon
+	religion = greek_pagan
 	holding = castle_holding
 }
 
 1170 = {		
 	culture = doric
-	religion = greek_pantheon
+	religion = greek_pagan
 	holding = castle_holding
 }
 
 1171 = {		
 	culture = doric
-	religion = greek_pantheon
+	religion = greek_pagan
 	holding = castle_holding
 }
 
@@ -179,7 +179,7 @@
 
 1175 = {		
 	culture = arcadian
-	religion = greek_pantheon
+	religion = greek_pagan
 	holding = castle_holding
 }
 
@@ -191,19 +191,19 @@
 
 1177 = {		
 	culture = arcadian
-	religion = greek_pantheon
+	religion = greek_pagan
 	holding = castle_holding
 }
 
 1178 = {		
 	culture = arcadian
-	religion = greek_pantheon
+	religion = greek_pagan
 	holding = castle_holding
 }
 
 1179 = {		
 	culture = doric
-	religion = greek_pantheon
+	religion = greek_pagan
 	holding = castle_holding
 }
 
@@ -215,7 +215,7 @@
 
 1181 = {		
 	culture = attic
-	religion = greek_pantheon
+	religion = greek_pagan
 	holding = castle_holding
 }
 
@@ -293,7 +293,7 @@
 
 1194 = {		
 	culture = thessalian
-	religion = greek_pantheon
+	religion = greek_pagan
 	holding = castle_holding
 }
 
@@ -304,9 +304,9 @@
 }
 
 1196 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = beotian
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 1197 = {		
@@ -316,15 +316,15 @@
 }
 
 1198 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = northwesterngreek
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 1199 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = northwesterngreek
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 1200 = {		
@@ -334,15 +334,15 @@
 }
 
 1201 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = northwesterngreek
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 1202 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = northwesterngreek
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 1203 = {		
@@ -352,15 +352,15 @@
 }
 
 1204 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = northwesterngreek
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 1205 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = northwesterngreek
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 1206 = {		
@@ -370,9 +370,9 @@
 }
 
 1207 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = northwesterngreek
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 1208 = {		

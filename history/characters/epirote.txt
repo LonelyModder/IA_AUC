@@ -23,7 +23,7 @@
 
 2000633 = {
 	name = "Polyeuktos"
-	dynasty = epirote_lyncestus
+	dynasty = epirote_aeacidae
 	religion = "greek_pagan"
 	culture = epirote
 	#father = 32974

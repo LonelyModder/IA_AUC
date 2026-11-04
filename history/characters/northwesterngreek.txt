@@ -237,3 +237,283 @@
 		death = "469.1.1"
 	}
 }
+
+2000762 = {
+	name = "Gylippos"
+	dynasty = northwesterngreek_naupactid
+	religion = "greek_pagan"
+	culture = northwesterngreek
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_aetolia
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000763 = {
+	name = "Kleomenes"
+	dynasty = northwesterngreek_naupactid
+	religion = "greek_pagan"
+	culture = northwesterngreek
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_aetolia
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000764 = {
+	name = "Chrysippos"
+	dynasty = northwesterngreek_aetolid
+	religion = "greek_pagan"
+	culture = northwesterngreek
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_themum
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000765 = {
+	name = "Nikias"
+	dynasty = northwesterngreek_aetolid
+	religion = "greek_pagan"
+	culture = northwesterngreek
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_themum
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000766 = {
+	name = "Ariston"
+	dynasty = northwesterngreek_rhimid
+	religion = "greek_pagan"
+	culture = northwesterngreek
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_rhamnakros
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000767 = {
+	name = "Harpalos"
+	dynasty = northwesterngreek_rhimid
+	religion = "greek_pagan"
+	culture = northwesterngreek
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_rhamnakros
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000768 = {
+	name = "Krenides"
+	dynasty = northwesterngreek_aegimid
+	religion = "greek_pagan"
+	culture = northwesterngreek
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_doris
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000769 = {
+	name = "Dion"
+	dynasty = northwesterngreek_aegimid
+	religion = "greek_pagan"
+	culture = northwesterngreek
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_doris
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000770 = {
+	name = "Aristogeiton"
+	dynasty = northwesterngreek_ducalionid
+	religion = "greek_pagan"
+	culture = northwesterngreek
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_opus
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000771 = {
+	name = "Charinos"
+	dynasty = northwesterngreek_ducalionid
+	religion = "greek_pagan"
+	culture = northwesterngreek
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_opus
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000772 = {
+	name = "Antialkidas"
+	dynasty = northwesterngreek_phocid
+	religion = "greek_pagan"
+	culture = northwesterngreek
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_elatea
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000773 = {
+	name = "Polyperchon"
+	dynasty = northwesterngreek_phocid
+	religion = "greek_pagan"
+	culture = northwesterngreek
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_elatea
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000774 = {
+	name = "Pythodelos"
+	dynasty = northwesterngreek_phocid
+	religion = "greek_pagan"
+	culture = northwesterngreek
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_delphi
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000775 = {
+	name = "Polemon"
+	dynasty = northwesterngreek_phocid
+	religion = "greek_pagan"
+	culture = northwesterngreek
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_delphi
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
