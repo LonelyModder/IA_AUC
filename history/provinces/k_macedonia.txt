@@ -175,7 +175,7 @@
 1288 = {		
 	culture = macedonian
 	religion = greek_pagan
-	holding = tribal_holding
+	holding = castle_holding
 }
 
 1289 = {		

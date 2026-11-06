@@ -362,4 +362,7 @@
  lydian:0 "Lydian"
  lydian_prefix:0 "Lydian"
  lydian_collective_noun:1 "Lydians"
- 
+ #Caucasian
+ colchian:0 "Colchian"
+ colchian_prefix:0 "Colchian"
+ colchian_collective_noun:1 "Colchians"

@@ -491,9 +491,9 @@
 }
 
 3334 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = colchian
+	religion = caucasian_pagan
+	holding = tribal_holding
 }
 
 3335 = {		
@@ -509,9 +509,9 @@
 }
 
 3337 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = colchian
+	religion = caucasian_pagan
+	holding = tribal_holding
 }
 
 3338 = {		

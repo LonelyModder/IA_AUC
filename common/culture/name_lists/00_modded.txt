@@ -3870,3 +3870,104 @@ name_list_kassite = {
 
 	
 }
+
+name_list_kassite = {
+	
+	cadet_dynasty_names = {
+		Abeghean
+		Amatuni
+		Andzevatsi
+		Artsruni
+		Bagean
+		Bagratid
+		Bznuni
+		Dimaksean
+		Ensayatsi
+		Gabeghean
+		Gntuni
+		Gnuni
+		Habuzhean
+		Hashteank
+		Hawnuni
+		Kajberuni
+		Kamsarakan
+		Koghean
+		Mamikonean
+		Manawazean
+		Mandakuni
+		Paluni
+		Oroduni
+		Eruanduni
+		Orontid
+		Ropsean
+		Rshtuni
+		Sghkuni
+		Sisakean
+		Siwnid
+		Sruanjit
+		Truni
+		Urts
+		Vahuni
+		Varazhnuni
+	}
+	
+	dynasty_names = {
+		Abeghean
+		Amatuni
+		Andzevatsi
+		Artsruni
+		Bagean
+		Bagratid
+		Bznuni
+		Dimaksean
+		Ensayatsi
+		Gabeghean
+		Gntuni
+		Gnuni
+		Habuzhean
+		Hashteank
+		Hawnuni
+		Kajberuni
+		Kamsarakan
+		Koghean
+		Mamikonean
+		Manawazean
+		Mandakuni
+		Paluni
+		Oroduni
+		Eruanduni
+		Orontid
+		Ropsean
+		Rshtuni
+		Sghkuni
+		Sisakean
+		Siwnid
+		Sruanjit
+		Truni
+		Urts
+		Vahuni
+		Varazhnuni
+	}
+	
+	male_names = {
+		Smbat Khachik Ashot Arsham Zariadres Hamazasp Vardan Artawazd Mzez Eruand Orontes Mithranes Kherkhes Khozrid Sames Arshames Trdat Tigran Zareh Artashes Arshak Vagharsh 
+		Khosrow Varazdat Vasak Ashusha Varazvaghan Hmayeak Vahan Sahak Zarmihr Nikhor
+	}
+	female_names = {
+		Tigranuhi Vanuhi Mihrana Asatera Ariazate Aka Ghadana Erato Zarmandukht Pharantzem Mahbanu Zenobia Satenik 
+	}
+	dynasty_of_location_prefix = "dynnp_of"
+	patronym_prefix_male = "dynnpat_pre_filius"
+
+	# Chance of male children being named after their paternal or maternal grandfather, or their father
+	pat_grf_name_chance = 50
+	mat_grf_name_chance = 0
+	father_name_chance = 50
+	
+	# Chance of female children being named after their paternal or maternal grandmother, or their mother
+	pat_grm_name_chance = 50
+	mat_grm_name_chance = 50
+	mother_name_chance = 0
+
+	
+}

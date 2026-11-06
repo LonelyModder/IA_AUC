@@ -2277,3 +2277,10 @@ eteocretan_drerid = {
 	name = "dynn_Drerid"
 	culture = "eteocretan"
 }
+
+#Colchian
+
+colchian_bekhir = {
+	name = "dynn_Bekhir"
+	culture = "eteocretan"
+}

@@ -22607,3 +22607,8 @@ d_dii = {
 	color = { 169 153 192 }
 	landless = yes 
 }
+
+d_bechiri = {
+	color = { 171 204 67 }
+	landless = yes 
+}
