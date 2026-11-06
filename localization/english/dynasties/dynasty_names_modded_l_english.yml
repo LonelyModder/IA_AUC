@@ -514,7 +514,13 @@
  dynn_Rhytionid:0 "Rhytionid"
  dynn_Kamariad:0 "Kamariad"
  dynn_Cyrbid:0 "Cyrbid"
+ dynn_Ioklid:0 "Ioklid"
  #Eteocretan
  dynn_Drerid:0 "Drerid"
+ dynn_Phidippid:0 "Phidippid"
  #Colchian
  dynn_Bekhir:0 "Bekhir"
+ #Eastern Dorian
+ dynn_Tlepolemid:0 "Tlepolemid"
+ #Aeolian
+ dynn_Penthilid:0 "Penthilid"

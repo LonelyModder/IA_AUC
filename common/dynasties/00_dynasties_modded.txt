@@ -2271,10 +2271,20 @@ cretan_cyrbid = {
 	culture = "cretan"
 }
 
+cretan_ioklid = {
+	name = "dynn_Ioklid"
+	culture = "cretan"
+}
+
 #Eteocretan
 
 eteocretan_drerid = {
 	name = "dynn_Drerid"
+	culture = "eteocretan"
+}
+
+eteocretan_phidippid = {
+	name = "dynn_Phidippid"
 	culture = "eteocretan"
 }
 
@@ -2283,4 +2293,18 @@ eteocretan_drerid = {
 colchian_bekhir = {
 	name = "dynn_Bekhir"
 	culture = "eteocretan"
+}
+
+#Eastern Dorian
+
+dorean_tlepolemid = {
+	name = "dynn_Tlepolemid"
+	culture = "dorean"
+}
+
+#Aeolian
+
+aeolian_penthilid = {
+	name = "dynn_Penthilid"
+	culture = "aeolian"
 }

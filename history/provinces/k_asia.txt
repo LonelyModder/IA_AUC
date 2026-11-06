@@ -35,9 +35,12 @@
 }
 
 1144 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = eteocretan
+	religion = greek_pagan
+	holding = castle_holding
+	437.4.21 = {
+		culture = cretan
+	}
 }
 
 2659 = {		
@@ -557,9 +560,9 @@
 }
 
 2638 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = aeolian
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 2639 = {		
@@ -773,9 +776,9 @@
 }
 
 2679 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = dorean
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 2680 = {		

@@ -1,0 +1,39 @@
+﻿2000782 = {
+	name = "Aineias"
+	dynasty = aeolian_penthilid
+	religion = "greek_pagan"
+	culture = aeolian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_i_lesbos
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000783 = {
+	name = "Mnaseas"
+	dynasty = aeolian_penthilid
+	religion = "greek_pagan"
+	culture = aeolian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_i_lesbos
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
