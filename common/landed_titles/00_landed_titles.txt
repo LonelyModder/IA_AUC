@@ -22612,3 +22612,13 @@ d_bechiri = {
 	color = { 171 204 67 }
 	landless = yes 
 }
+
+d_caiceni = {
+	color = { 2 247 231 }
+	landless = yes 
+}
+
+d_doliones = {
+	color = { 2 102 196 }
+	landless = yes 
+}

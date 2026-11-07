@@ -165,6 +165,8 @@
  d_bessi:0 "Bessi"
  d_dii:0 "Dii"
  d_bechiri:0 "Bechiri"
+ d_caiceni:0 "Caiceni"
+ d_doliones:0 "Doliones"
  # Empires
  e_westernrome:0 "Italia"
  e_africa:0 "Africa"

@@ -57,3 +57,44 @@ c_i_lesbos = {
 		holder = 2000783
 	}
 }
+
+d_caiceni = {
+	
+	258.4.4 = {
+		holder = 2000784
+	}
+	437.4.21 = {
+		holder = 2000785
+	}
+}
+
+c_pergamon = {
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000784
+	}
+	437.4.21 = {
+		holder = 2000785
+	}
+}
+
+d_doliones = {
+	
+	258.4.4 = {
+		holder = 2000786
+	}
+}
+
+c_cyzicus = {
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000786
+	}
+	437.4.21 = {
+		holder = 2000787
+	}
+}

@@ -37,3 +37,23 @@
 		death = "469.1.1"
 	}
 }
+
+2000787 = {
+	name = "Gorgippos"
+	dynasty = dorean_nikid
+	religion = "greek_pagan"
+	culture = dorean
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_cyzicus
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

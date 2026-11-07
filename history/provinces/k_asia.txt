@@ -1,7 +1,10 @@
 ﻿2650 = {		
-	culture = baranis
-	religion = west_african_pagan
+	culture = mysian
+	religion = thracian_pagan
 	holding = tribal_holding
+	437.4.21 = {
+		culture = dorean
+	}
 }
 
 2651 = {		
@@ -860,9 +863,9 @@
 }
 
 2695 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = mysian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 2701 = {		

@@ -2302,9 +2302,26 @@ dorean_tlepolemid = {
 	culture = "dorean"
 }
 
+dorean_nikid = {
+	name = "dynn_Nikid"
+	culture = "dorean"
+}
+
 #Aeolian
 
 aeolian_penthilid = {
 	name = "dynn_Penthilid"
 	culture = "aeolian"
+}
+
+#Mysian
+
+mysian_caicid = {
+	name = "dynn_Caicid"
+	culture = "mysian"
+}
+
+mysian_dolionid = {
+	name = "dynn_Dolionid"
+	culture = "mysian"
 }

@@ -522,5 +522,9 @@
  dynn_Bekhir:0 "Bekhir"
  #Eastern Dorian
  dynn_Tlepolemid:0 "Tlepolemid"
+ dynn_Nikid:0 "Nikid"
  #Aeolian
  dynn_Penthilid:0 "Penthilid"
+ #Mysian
+ dynn_Caicid:0 "Caicid"
+ dynn_Dolionid:0 "Dolionid"
