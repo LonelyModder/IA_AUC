@@ -284,6 +284,9 @@
  pelasgian:0 "Pelasgian"
  pelasgian_prefix:0 "Pelasgian"
  pelasgian_collective_noun:1 "Pelasgians"
+ lelegian:0 "Lelegian"
+ lelegian_prefix:0 "Lelegian"
+ lelegian_collective_noun:1 "Lelegians"
  #Thracian
  thracian:0 "Thracian"
  thracian_prefix:0 "Thracian"
@@ -377,6 +380,9 @@
  lydian:0 "Lydian"
  lydian_prefix:0 "Lydian"
  lydian_collective_noun:1 "Lydians"
+ carian:0 "Carian"
+ carian_prefix:0 "Carian"
+ carian_collective_noun:1 "Carians"
  #Caucasian
  colchian:0 "Colchian"
  colchian_prefix:0 "Colchian"

@@ -2162,6 +2162,21 @@ ionian_abantid = {
 	culture = "ionian"
 }
 
+ionian_neleid = {
+	name = "dynn_Neleid"
+	culture = "ionian"
+}
+
+ionian_amphiklid = {
+	name = "dynn_Amphiklid"
+	culture = "ionian"
+}
+
+ionian_proclid = {
+	name = "dynn_Proclid"
+	culture = "ionian"
+}
+
 ionian_aniad = {
 	name = "dynn_Aniad"
 	culture = "ionian"
@@ -2307,6 +2322,21 @@ dorean_nikid = {
 	culture = "dorean"
 }
 
+dorean_eurypulid = {
+	name = "dynn_Eurypulid"
+	culture = "dorean"
+}
+
+dorean_anthid = {
+	name = "dynn_Anthid"
+	culture = "dorean"
+}
+
+dorean_triopid = {
+	name = "dynn_Triopid"
+	culture = "dorean"
+}
+
 #Aeolian
 
 aeolian_penthilid = {
@@ -2324,4 +2354,11 @@ mysian_caicid = {
 mysian_dolionid = {
 	name = "dynn_Dolionid"
 	culture = "mysian"
+}
+
+#Carian
+
+carian_harunsilis = {
+	name = "dynn_Harunsilis"
+	culture = "carian"
 }

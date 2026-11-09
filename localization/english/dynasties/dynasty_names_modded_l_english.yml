@@ -499,7 +499,10 @@
  dynn_Parid:0 "Parid"
  dynn_Aniad:0 "Aniad"
  dynn_Keid:0 "Keid"
+ dynn_Neleid:0 "Neleid"
  dynn_Cothid:0 "Cothid"
+ dynn_Amphiklid:0 "Amphiklid"
+ dynn_Proclid:0 "Proclid"
  #Beotian
  dynn_Cadmeid:0 "Cadmeid"
  dynn_Minyad:0 "Minyad"
@@ -523,8 +526,13 @@
  #Eastern Dorian
  dynn_Tlepolemid:0 "Tlepolemid"
  dynn_Nikid:0 "Nikid"
+ dynn_Eurypulid:0 "Eurypulid"
+ dynn_Anthid:0 "Anthid"
+ dynn_Triopid:0 "Triopid"
  #Aeolian
  dynn_Penthilid:0 "Penthilid"
  #Mysian
  dynn_Caicid:0 "Caicid"
  dynn_Dolionid:0 "Dolionid"
+ #Carian
+ dynn_Harunsilis:0 "Harunsilis"

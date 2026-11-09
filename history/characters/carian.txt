@@ -1,0 +1,19 @@
+﻿2000794 = {
+	name = "Muwizi"
+	dynasty = carian_harunsilis
+	religion = "anatolian_pagan"
+	culture = carian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_halikarnassus
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}

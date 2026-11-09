@@ -4,6 +4,7 @@
 	holding = tribal_holding
 	437.4.21 = {
 		culture = dorean
+		holding = castle_holding
 	}
 }
 
@@ -569,9 +570,9 @@
 }
 
 2639 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = ionian
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 2640 = {		
@@ -725,9 +726,9 @@
 }
 
 2670 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = ionian
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 2671 = {		
@@ -737,21 +738,29 @@
 }
 
 2672 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = lelegian
+	religion = greek_pagan
+	holding = castle_holding
+	437.4.21 = {
+		culture = dorean
+	}
 }
 
 2673 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = ionian
+	religion = greek_pagan
+	holding = castle_holding
 }
 
 2674 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = carian
+	religion = anatolian_pagan
+	holding = tribal_holding
+	437.4.21 = {
+		culture = dorean
+		religion = greek_pagan
+		holding = castle_holding
+	}
 }
 
 2675 = {		
@@ -761,9 +770,12 @@
 }
 
 2676 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = lelegian
+	religion = greek_pagan
+	holding = castle_holding
+	437.4.21 = {
+		culture = dorean
+	}
 }
 
 2677 = {		

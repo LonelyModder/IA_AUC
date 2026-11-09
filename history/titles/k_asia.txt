@@ -98,3 +98,75 @@ c_cyzicus = {
 		holder = 2000787
 	}
 }
+
+c_chios = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000788
+	}
+	437.4.21 = {
+		holder = 2000789
+	}
+}
+
+c_samos = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000790
+	}
+	437.4.21 = {
+		holder = 2000791
+	}
+}
+
+c_kos = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000792
+	}
+	437.4.21 = {
+		holder = 2000793
+	}
+}
+
+c_halikarnassus = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000794
+	}
+	437.4.21 = {
+		holder = 2000795
+	}
+}
+
+c_knidos = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000796
+	}
+	437.4.21 = {
+		holder = 2000797
+	}
+}
+
+c_miletus = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000798
+	}
+	437.4.21 = {
+		holder = 2000799
+	}
+}
