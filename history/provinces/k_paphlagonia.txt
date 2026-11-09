@@ -272,6 +272,10 @@
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
+	437.4.21 = {
+		culture = ionian
+		religion = greek_pagan
+	}
 }
 
 3213 = {		
@@ -305,9 +309,9 @@
 }
 
 3218 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = mosinoecian
+	religion = caucasian_pagan
+	holding = tribal_holding
 }
 
 3219 = {		
@@ -317,21 +321,21 @@
 }
 
 3220 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = mosinoecian
+	religion = caucasian_pagan
+	holding = tribal_holding
 }
 
 3221 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = mosinoecian
+	religion = caucasian_pagan
+	holding = tribal_holding
 }
 
 3222 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = mosinoecian
+	religion = caucasian_pagan
+	holding = tribal_holding
 }
 
 3223 = {		
@@ -341,15 +345,15 @@
 }
 
 3224 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = mosinoecian
+	religion = caucasian_pagan
+	holding = tribal_holding
 }
 
 3225 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = mosinoecian
+	religion = caucasian_pagan
+	holding = tribal_holding
 }
 
 3226 = {		

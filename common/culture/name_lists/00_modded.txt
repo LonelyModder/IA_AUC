@@ -3871,7 +3871,7 @@ name_list_kassite = {
 	
 }
 
-name_list_kassite = {
+name_list_caucasian = {
 	
 	cadet_dynasty_names = {
 		Abeghean

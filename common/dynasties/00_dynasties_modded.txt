@@ -2167,6 +2167,36 @@ ionian_neleid = {
 	culture = "ionian"
 }
 
+ionian_androclid = {
+	name = "dynn_Androclid"
+	culture = "ionian"
+}
+
+ionian_athamasid = {
+	name = "dynn_Athamasid"
+	culture = "ionian"
+}
+
+ionian_nauclid = {
+	name = "dynn_Nauclid"
+	culture = "ionian"
+}
+
+ionian_andremonid = {
+	name = "dynn_Andremonid"
+	culture = "ionian"
+}
+
+ionian_erythrid = {
+	name = "dynn_Erythrid"
+	culture = "ionian"
+}
+
+ionian_codrid = {
+	name = "dynn_Codrid"
+	culture = "ionian"
+}
+
 ionian_amphiklid = {
 	name = "dynn_Amphiklid"
 	culture = "ionian"
@@ -2219,6 +2249,16 @@ ionian_naxid = {
 
 ionian_parid = {
 	name = "dynn_Parid"
+	culture = "ionian"
+}
+
+ionian_milesid = {
+	name = "dynn_Milesid"
+	culture = "ionian"
+}
+
+ionian_habronid = {
+	name = "dynn_Habronid"
 	culture = "ionian"
 }
 
@@ -2344,6 +2384,16 @@ aeolian_penthilid = {
 	culture = "aeolian"
 }
 
+aeolian_kymeid = {
+	name = "dynn_Kymeid"
+	culture = "aeolian"
+}
+
+aeolian_theseid = {
+	name = "dynn_Theseid"
+	culture = "aeolian"
+}
+
 #Mysian
 
 mysian_caicid = {
@@ -2361,4 +2411,26 @@ mysian_dolionid = {
 carian_harunsilis = {
 	name = "dynn_Harunsilis"
 	culture = "carian"
+}
+
+#Mosinoecian
+
+mosinoecian_truni = {
+	name = "dynn_Truni"
+	culture = "mosinoecian"
+}
+
+mosinoecian_varazhnuni = {
+	name = "dynn_Varazhnuni"
+	culture = "mosinoecian"
+}
+
+mosinoecian_amatuni = {
+	name = "dynn_Amatuni"
+	culture = "mosinoecian"
+}
+
+mosinoecian_gnuni = {
+	name = "dynn_Gnuni"
+	culture = "mosinoecian"
 }

@@ -672,15 +672,23 @@
 }
 
 2661 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = mysian
+	religion = anatolian_pagan
+	holding = castle_holding
+	430.4.21 = {
+		culture = aeolian
+		religion = greek_pagan
+	}
 }
 
 2662 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = lydian
+	religion = anatolian_pagan
+	holding = castle_holding
+	430.4.21 = {
+		culture = ionian
+		religion = greek_pagan
+	}
 }
 
 2663 = {		
@@ -690,21 +698,33 @@
 }
 
 2664 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = lydian
+	religion = anatolian_pagan
+	holding = castle_holding
+	430.4.21 = {
+		culture = ionian
+		religion = greek_pagan
+	}
 }
 
 2665 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = lydian
+	religion = anatolian_pagan
+	holding = castle_holding
+	430.4.21 = {
+		culture = aeolian
+		religion = greek_pagan
+	}
 }
 
 2666 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = lydian
+	religion = anatolian_pagan
+	holding = castle_holding
+	430.4.21 = {
+		culture = ionian
+		religion = greek_pagan
+	}
 }
 
 2667 = {		
@@ -714,9 +734,13 @@
 }
 
 2668 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = lydian
+	religion = anatolian_pagan
+	holding = castle_holding
+	430.4.21 = {
+		culture = ionian
+		religion = greek_pagan
+	}
 }
 
 2669 = {		

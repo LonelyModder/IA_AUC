@@ -287,9 +287,9 @@
 }
 
 3300 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = mosinoecian
+	religion = caucasian_pagan
+	holding = tribal_holding
 }
 
 3301 = {		
@@ -311,9 +311,9 @@
 }
 
 3304 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = mosinoecian
+	religion = caucasian_pagan
+	holding = tribal_holding
 }
 
 3305 = {		
@@ -329,9 +329,9 @@
 }
 
 3307 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = mosinoecian
+	religion = caucasian_pagan
+	holding = tribal_holding
 }
 
 3308 = {		
@@ -359,9 +359,9 @@
 }
 
 3312 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = mosinoecian
+	religion = caucasian_pagan
+	holding = tribal_holding
 }
 
 3313 = {		
@@ -377,9 +377,9 @@
 }
 
 3315 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = mosinoecian
+	religion = caucasian_pagan
+	holding = tribal_holding
 }
 
 3316 = {		
@@ -389,9 +389,9 @@
 }
 
 3317 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = mosinoecian
+	religion = caucasian_pagan
+	holding = tribal_holding
 }
 
 3318 = {		
@@ -413,9 +413,9 @@
 }
 
 3321 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = mosinoecian
+	religion = caucasian_pagan
+	holding = tribal_holding
 }
 
 3322 = {		
@@ -431,9 +431,9 @@
 }
 
 3324 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = mosinoecian
+	religion = caucasian_pagan
+	holding = tribal_holding
 }
 
 3325 = {		
@@ -455,9 +455,9 @@
 }
 
 3328 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = mosinoecian
+	religion = caucasian_pagan
+	holding = tribal_holding
 }
 
 3329 = {		
@@ -473,9 +473,12 @@
 }
 
 3331 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = mosinoecian
+	religion = caucasian_pagan
+	holding = tribal_holding
+	437.4.21 = {
+		holding = castle_holding
+	}
 }
 
 3332 = {		

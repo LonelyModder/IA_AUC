@@ -1,7 +1,7 @@
 ﻿2000776 = {
 	name = "Khachik"
 	dynasty = colchian_bekhir
-	religion = "greek_pagan"
+	religion = "caucasian_pagan"
 	culture = colchian
 	#father = 32974
 	221.1.1 = {
@@ -23,7 +23,7 @@
 2000777 = {
 	name = "Zarmihr"
 	dynasty = colchian_bekhir
-	religion = "greek_pagan"
+	religion = "caucasian_pagan"
 	culture = colchian
 	#father = 32974
 	401.1.1 = {

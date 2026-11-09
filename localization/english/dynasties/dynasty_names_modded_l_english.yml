@@ -491,6 +491,8 @@
  dynn_Epopeid:0 "Epopeid"
  #Ionian
  dynn_Abantid:0 "Abantid"
+ dynn_Milesid:0 "Milesid"
+ dynn_Habronid:0 "Habronid"
  dynn_Chalkodontid:0 "Chalkodontid"
  dynn_Hippobotai:0 "Hippobotai"
  dynn_Eretrieid:0 "Eretrieid"
@@ -500,6 +502,12 @@
  dynn_Aniad:0 "Aniad"
  dynn_Keid:0 "Keid"
  dynn_Neleid:0 "Neleid"
+ dynn_Androclid:0 "Androclid"
+ dynn_Andremonid:0 "Andremonid"
+ dynn_Athamasid:0 "Athamasid"
+ dynn_Erythrid:0 "Erythrid"
+ dynn_Codrid:0 "Codrid"
+ dynn_Nauclid:0 "Nauclid"
  dynn_Cothid:0 "Cothid"
  dynn_Amphiklid:0 "Amphiklid"
  dynn_Proclid:0 "Proclid"
@@ -531,8 +539,15 @@
  dynn_Triopid:0 "Triopid"
  #Aeolian
  dynn_Penthilid:0 "Penthilid"
+ dynn_Kymeid:0 "Kymeid"
+ dynn_Theseid:0 "Theseid"
  #Mysian
  dynn_Caicid:0 "Caicid"
  dynn_Dolionid:0 "Dolionid"
  #Carian
  dynn_Harunsilis:0 "Harunsilis"
+ #Mosinoecian
+ dynn_Truni:0 "Truni"
+ dynn_Varazhnuni:0 "Varazhnuni"
+ dynn_Amatuni:0 "Amatuni"
+ dynn_Gnuni:0 "Gnuni"

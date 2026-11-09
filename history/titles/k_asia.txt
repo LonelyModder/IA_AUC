@@ -170,3 +170,75 @@ c_miletus = {
 		holder = 2000799
 	}
 }
+
+c_apasa = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000800
+	}
+	437.4.21 = {
+		holder = 2000801
+	}
+}
+
+c_teos = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000802
+	}
+	437.4.21 = {
+		holder = 2000803
+	}
+}
+
+c_colophon = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000804
+	}
+	437.4.21 = {
+		holder = 2000805
+	}
+}
+
+c_kimmessos = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000806
+	}
+	437.4.21 = {
+		holder = 2000807
+	}
+}
+
+c_cyme = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000808
+	}
+	437.4.21 = {
+		holder = 2000809
+	}
+}
+
+c_smyrna = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000810
+	}
+	437.4.21 = {
+		holder = 2000811
+	}
+}

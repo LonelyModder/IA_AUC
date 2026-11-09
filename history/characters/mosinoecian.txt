@@ -1,0 +1,190 @@
+﻿2000812 = {
+	name = "Zariadres"
+	dynasty = mosinoecian_truni
+	religion = "caucasian_pagan"
+	culture = mosinoecian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_macrones
+		add_pressed_claim = title:c_trapezus
+		add_pressed_claim = title:c_methateia
+		add_pressed_claim = title:c_massussae
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000813 = {
+	name = "Mithranes"
+	dynasty = mosinoecian_truni
+	religion = "caucasian_pagan"
+	culture = mosinoecian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_macrones
+		add_pressed_claim = title:c_methateia
+		add_pressed_claim = title:c_massussae
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000814 = {
+	name = "Vasak"
+	dynasty = mosinoecian_varazhnuni
+	religion = "caucasian_pagan"
+	culture = mosinoecian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_tibareni
+		add_pressed_claim = title:c_polemonion
+		add_pressed_claim = title:c_kerasus
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000815 = {
+	name = "Nikhor"
+	dynasty = mosinoecian_varazhnuni
+	religion = "caucasian_pagan"
+	culture = mosinoecian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_tibareni
+		add_pressed_claim = title:c_polemonion
+		add_pressed_claim = title:c_kerasus
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000818 = {
+	name = "Zarmihr"
+	dynasty = mosinoecian_amatuni
+	religion = "caucasian_pagan"
+	culture = mosinoecian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_mosinoeci
+		add_pressed_claim = title:c_koloneia
+		add_pressed_claim = title:c_ambiene
+		add_pressed_claim = title:c_kimmaros
+		add_pressed_claim = title:c_thebera
+		add_pressed_claim = title:c_phareron
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000819 = {
+	name = "Ashusha"
+	dynasty = mosinoecian_amatuni
+	religion = "caucasian_pagan"
+	culture = mosinoecian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_mosinoeci
+		add_pressed_claim = title:c_koloneia
+		add_pressed_claim = title:c_ambiene
+		add_pressed_claim = title:c_kimmaros
+		add_pressed_claim = title:c_thebera
+		add_pressed_claim = title:c_phareron
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000820 = {
+	name = "Zarmihr"
+	dynasty = mosinoecian_gnuni
+	religion = "caucasian_pagan"
+	culture = mosinoecian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_chalybes
+		add_pressed_claim = title:c_zalpa
+		add_pressed_claim = title:c_amissos
+		add_pressed_claim = title:c_nauponnos
+		add_pressed_claim = title:c_tegeze
+		add_pressed_claim = title:c_pinyra
+		add_pressed_claim = title:c_solai
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000821 = {
+	name = "Ashusha"
+	dynasty = mosinoecian_gnuni
+	religion = "caucasian_pagan"
+	culture = mosinoecian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_chalybes
+		add_pressed_claim = title:c_zalpa
+		add_pressed_claim = title:c_amissos
+		add_pressed_claim = title:c_nauponnos
+		add_pressed_claim = title:c_tegeze
+		add_pressed_claim = title:c_pinyra
+		add_pressed_claim = title:c_solai
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

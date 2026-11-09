@@ -22622,3 +22622,23 @@ d_doliones = {
 	color = { 2 102 196 }
 	landless = yes 
 }
+
+d_macrones = {
+	color = { 2 102 196 }
+	landless = yes 
+}
+
+d_tibareni = {
+	color = { 171 114 52 }
+	landless = yes 
+}
+
+d_chalybes = {
+	color = { 129 69 9 }
+	landless = yes 
+}
+
+d_mosinoeci = {
+	color = { 45 195 193 }
+	landless = yes 
+}
