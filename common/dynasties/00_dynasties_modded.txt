@@ -2406,6 +2406,21 @@ mysian_dolionid = {
 	culture = "mysian"
 }
 
+mysian_thrakid = {
+	name = "dynn_Thrakid"
+	culture = "mysian"
+}
+
+mysian_abrettid = {
+	name = "dynn_Abrettid"
+	culture = "mysian"
+}
+
+mysian_morenus = {
+	name = "dynn_Morenus"
+	culture = "mysian"
+}
+
 #Carian
 
 carian_harunsilis = {
@@ -2433,4 +2448,38 @@ mosinoecian_amatuni = {
 mosinoecian_gnuni = {
 	name = "dynn_Gnuni"
 	culture = "mosinoecian"
+}
+
+#Bithynian
+
+bithynian_bebricid = {
+	name = "dynn_Bebricid"
+	culture = "bithynian"
+}
+
+bithynian_caucid = {
+	name = "dynn_Caucid"
+	culture = "bithynian"
+}
+
+bithynian_thenid = {
+	name = "dynn_Thenid"
+	culture = "bithynian"
+}
+
+bithynian_medrid = {
+	name = "dynn_Medrid"
+	culture = "bithynian"
+}
+
+bithynian_mariandid = {
+	name = "dynn_Mariandid"
+	culture = "bithynian"
+}
+
+#Phrygian
+
+phrygian_dorianid = {
+	name = "dynn_Dorianid"
+	culture = "phrygian"
 }

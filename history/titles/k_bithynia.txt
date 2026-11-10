@@ -1,0 +1,289 @@
+d_bebryci = {
+	
+	258.4.4 = {
+		holder = 2000822
+	}
+	437.4.21 = {
+		holder = 2000823
+	}
+}
+
+c_kios = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000822
+	}
+	437.4.21 = {
+		holder = 2000823
+	}
+}
+
+c_apamea = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000822
+	}
+	437.4.21 = {
+		holder = 2000823
+	}
+}
+
+d_caucones = {
+	
+	258.4.4 = {
+		holder = 2000824
+	}
+	437.4.21 = {
+		holder = 2000825
+	}
+}
+
+c_tium = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000824
+	}
+	437.4.21 = {
+		holder = 2000825
+	}
+}
+
+c_sesamos = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000824
+	}
+	437.4.21 = {
+		holder = 2000825
+	}
+}
+
+c_kytoros = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000824
+	}
+	437.4.21 = {
+		holder = 2000825
+	}
+}
+
+d_thyni = {
+	
+	258.4.4 = {
+		holder = 2000826
+	}
+	437.4.21 = {
+		holder = 2000827
+	}
+}
+
+c_kamona = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000826
+	}
+	437.4.21 = {
+		holder = 2000827
+	}
+}
+
+c_nicomedia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000826
+	}
+	437.4.21 = {
+		holder = 2000827
+	}
+}
+
+c_chalcedon = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000826
+	}
+	437.4.21 = {
+		holder = 2000827
+	}
+}
+
+c_coranes = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000826
+	}
+	437.4.21 = {
+		holder = 2000827
+	}
+}
+
+d_medobithyni = {
+	
+	258.4.4 = {
+		holder = 2000828
+	}
+	437.4.21 = {
+		holder = 2000829
+	}
+}
+
+c_troezessos = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000828
+	}
+	437.4.21 = {
+		holder = 2000829
+	}
+}
+
+c_nicea = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000828
+	}
+	437.4.21 = {
+		holder = 2000829
+	}
+}
+
+c_stagidaea = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000828
+	}
+	437.4.21 = {
+		holder = 2000829
+	}
+}
+
+c_messidrus = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000828
+	}
+	437.4.21 = {
+		holder = 2000829
+	}
+}
+
+c_actus = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000828
+	}
+	437.4.21 = {
+		holder = 2000829
+	}
+}
+
+d_mariandyni = {
+	
+	258.4.4 = {
+		holder = 2000830
+	}
+	437.4.21 = {
+		holder = 2000831
+	}
+}
+
+c_phasatis = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000830
+	}
+	437.4.21 = {
+		holder = 2000831
+	}
+}
+
+c_kydasae = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000830
+	}
+	437.4.21 = {
+		holder = 2000831
+	}
+}
+
+c_heracleapontica = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000830
+	}
+	437.4.21 = {
+		holder = 2000831
+	}
+}
+
+c_pellamea = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000830
+	}
+	437.4.21 = {
+		holder = 2000831
+	}
+}
+
+c_dimauros = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000830
+	}
+	437.4.21 = {
+		holder = 2000831
+	}
+}
+
+c_soletria = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000830
+	}
+	437.4.21 = {
+		holder = 2000831
+	}
+}

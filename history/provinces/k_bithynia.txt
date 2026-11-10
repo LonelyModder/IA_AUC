@@ -5,9 +5,9 @@
 }
 
 3103 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = bithynian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 3104 = {		
@@ -23,9 +23,9 @@
 }
 
 3106 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = bithynian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 3107 = {		
@@ -35,15 +35,15 @@
 }
 
 3108 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = bithynian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 3109 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = bithynian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 3110 = {		
@@ -59,9 +59,9 @@
 }
 
 3112 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = bithynian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 3113 = {		
@@ -89,9 +89,9 @@
 }
 
 3117 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = bithynian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 3118 = {		
@@ -107,21 +107,21 @@
 }
 
 3120 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = bithynian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 3121 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = bithynian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 3122 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = bithynian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 3123 = {		
@@ -137,9 +137,9 @@
 }
 
 3125 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = bithynian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 3126 = {		
@@ -179,15 +179,15 @@
 }
 
 3132 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = bithynian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 3133 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = bithynian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 3134 = {		
@@ -203,9 +203,9 @@
 }
 
 3136 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = bithynian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 3137 = {		
@@ -215,9 +215,9 @@
 }
 
 3138 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = bithynian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 3139 = {		
@@ -227,9 +227,9 @@
 }
 
 3140 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = bithynian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 3141 = {		
@@ -239,9 +239,9 @@
 }
 
 3142 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = bithynian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 3143 = {		
@@ -257,9 +257,9 @@
 }
 
 3145 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = bithynian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 3146 = {		
@@ -275,9 +275,9 @@
 }
 
 3148 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = bithynian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 3149 = {		
@@ -287,13 +287,13 @@
 }
 
 3150 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = bithynian
+	religion = thracian_pagan
+	holding = tribal_holding
 }
 
 3151 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = bithynian
+	religion = thracian_pagan
+	holding = tribal_holding
 }

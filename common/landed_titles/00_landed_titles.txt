@@ -22642,3 +22642,43 @@ d_mosinoeci = {
 	color = { 45 195 193 }
 	landless = yes 
 }
+
+d_bebryci = {
+	color = { 129 150 179 }
+	landless = yes 
+}
+
+d_caucones = {
+	color = { 171 75 202 }
+	landless = yes 
+}
+
+d_thyni = {
+	color = { 3 201 60 }
+	landless = yes 
+}
+
+d_medobithyni = {
+	color = { 3 201 60 }
+	landless = yes 
+}
+
+d_mariandyni = {
+	color = { 45 36 68 }
+	landless = yes 
+}
+
+d_olympeni = {
+	color = { 70 99 215 }
+	landless = yes 
+}
+
+d_abretteni = {
+	color = { 42 198 245 }
+	landless = yes 
+}
+
+d_doryleum = {
+	color = { 42 198 245 }
+	landless = yes 
+}

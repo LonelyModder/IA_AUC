@@ -1,0 +1,239 @@
+﻿2000822 = {
+	name = "Petipor"
+	dynasty = bithynian_bebricid
+	religion = "thracian_pagan"
+	culture = bithynian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_bebryci
+		add_pressed_claim = title:c_kios
+		add_pressed_claim = title:c_apamea
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000823 = {
+	name = "Mukaporis"
+	dynasty = bithynian_bebricid
+	religion = "thracian_pagan"
+	culture = bithynian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_bebryci
+		add_pressed_claim = title:c_kios
+		add_pressed_claim = title:c_apamea
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000824 = {
+	name = "Blegissa"
+	dynasty = bithynian_caucid
+	religion = "thracian_pagan"
+	culture = bithynian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_caucones
+		add_pressed_claim = title:c_tium
+		add_pressed_claim = title:c_sesamos
+		add_pressed_claim = title:c_kytoros
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000825 = {
+	name = "Drenis"
+	dynasty = bithynian_caucid
+	religion = "thracian_pagan"
+	culture = bithynian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_caucones
+		add_pressed_claim = title:c_tium
+		add_pressed_claim = title:c_sesamos
+		add_pressed_claim = title:c_kytoros
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000826 = {
+	name = "Dizapes"
+	dynasty = bithynian_thenid
+	religion = "thracian_pagan"
+	culture = bithynian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_thyni
+		add_pressed_claim = title:c_kamona
+		add_pressed_claim = title:c_nicomedia
+		add_pressed_claim = title:c_chalcedon
+		add_pressed_claim = title:c_coranes
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000827 = {
+	name = "Berisades"
+	dynasty = bithynian_thenid
+	religion = "thracian_pagan"
+	culture = bithynian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_thyni
+		add_pressed_claim = title:c_kamona
+		add_pressed_claim = title:c_nicomedia
+		add_pressed_claim = title:c_chalcedon
+		add_pressed_claim = title:c_coranes
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000828 = {
+	name = "Dotouzi"
+	dynasty = bithynian_medrid
+	religion = "thracian_pagan"
+	culture = bithynian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_medobithyni
+		add_pressed_claim = title:c_troezessos
+		add_pressed_claim = title:c_nicea
+		add_pressed_claim = title:c_stagidaea
+		add_pressed_claim = title:c_messidrus
+		add_pressed_claim = title:c_actus
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000829 = {
+	name = "Teres"
+	dynasty = bithynian_medrid
+	religion = "thracian_pagan"
+	culture = bithynian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_medobithyni
+		add_pressed_claim = title:c_troezessos
+		add_pressed_claim = title:c_nicea
+		add_pressed_claim = title:c_stagidaea
+		add_pressed_claim = title:c_messidrus
+		add_pressed_claim = title:c_actus
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000830 = {
+	name = "Dablosa"
+	dynasty = bithynian_mariandid
+	religion = "thracian_pagan"
+	culture = bithynian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_mariandyni
+		add_pressed_claim = title:c_phasatis
+		add_pressed_claim = title:c_kydasae
+		add_pressed_claim = title:c_heracleapontica
+		add_pressed_claim = title:c_pellamea
+		add_pressed_claim = title:c_dimauros
+		add_pressed_claim = title:c_soletria
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000831 = {
+	name = "Gaidres"
+	dynasty = bithynian_mariandid
+	religion = "thracian_pagan"
+	culture = bithynian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_mariandyni
+		add_pressed_claim = title:c_phasatis
+		add_pressed_claim = title:c_kydasae
+		add_pressed_claim = title:c_heracleapontica
+		add_pressed_claim = title:c_pellamea
+		add_pressed_claim = title:c_dimauros
+		add_pressed_claim = title:c_soletria
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

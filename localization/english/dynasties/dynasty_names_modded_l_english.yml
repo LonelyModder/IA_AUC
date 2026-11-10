@@ -544,6 +544,9 @@
  #Mysian
  dynn_Caicid:0 "Caicid"
  dynn_Dolionid:0 "Dolionid"
+ dynn_Thrakid:0 "Thrakid"
+ dynn_Abrettid:0 "Abrettid"
+ dynn_Morenus:0 "Morenus"
  #Carian
  dynn_Harunsilis:0 "Harunsilis"
  #Mosinoecian
@@ -551,3 +554,12 @@
  dynn_Varazhnuni:0 "Varazhnuni"
  dynn_Amatuni:0 "Amatuni"
  dynn_Gnuni:0 "Gnuni"
+ #Bithynian
+ dynn_Bebricid:0 "Bebricid"
+ dynn_Caucid:0 "Caucid"
+ dynn_Thenid:0 "Thenid"
+ dynn_Medrid:0 "Medrid"
+ dynn_Mariandid:0 "Mariandid"
+ #Phrygian
+ dynn_Dorianid:0 "Dorianid"
+ 

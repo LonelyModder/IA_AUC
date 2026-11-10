@@ -1,7 +1,7 @@
 ﻿2000784 = {
 	name = "Dizapor"
 	dynasty = mysian_caicid
-	religion = "greek_pagan"
+	religion = "thracian_pagan"
 	culture = mysian
 	#father = 32974
 	221.1.1 = {
@@ -10,6 +10,7 @@
 	258.4.4 = {
 		add_pressed_claim = title:d_caiceni
 		add_pressed_claim = title:c_pergamon
+		add_pressed_claim = title:c_ephiri
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -22,7 +23,7 @@
 2000785 = {
 	name = "Drenis"
 	dynasty = mysian_caicid
-	religion = "greek_pagan"
+	religion = "thracian_pagan"
 	culture = mysian
 	#father = 32974
 	401.1.1 = {
@@ -31,6 +32,7 @@
 	437.4.21 = {
 		add_pressed_claim = title:d_caiceni
 		add_pressed_claim = title:c_pergamon
+		add_pressed_claim = title:c_ephiri
 	}
 	#437.4.21 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -43,7 +45,7 @@
 2000786 = {
 	name = "Ketriporis"
 	dynasty = mysian_dolionid
-	religion = "greek_pagan"
+	religion = "thracian_pagan"
 	culture = mysian
 	#father = 32974
 	221.1.1 = {
@@ -52,11 +54,163 @@
 	258.4.4 = {
 		add_pressed_claim = title:d_doliones
 		add_pressed_claim = title:c_cyzicus
+		add_pressed_claim = title:c_gythaizi
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family
 	#}
 	268.1.1 = {
 		death = "268.1.1"
+	}
+}
+
+2000832 = {
+	name = "Diernais"
+	dynasty = mysian_dolionid
+	religion = "thracian_pagan"
+	culture = mysian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_doliones
+		add_pressed_claim = title:c_gythaizi
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000833 = {
+	name = "Duras"
+	dynasty = mysian_thrakid
+	religion = "thracian_pagan"
+	culture = mysian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_olympeni
+		add_pressed_claim = title:c_posegea
+		add_pressed_claim = title:c_thurolis
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000834 = {
+	name = "Berisades"
+	dynasty = mysian_thrakid
+	religion = "thracian_pagan"
+	culture = mysian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_olympeni
+		add_pressed_claim = title:c_posegea
+		add_pressed_claim = title:c_thurolis
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000835 = {
+	name = "Vezina"
+	dynasty = mysian_abrettid
+	religion = "thracian_pagan"
+	culture = mysian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_abretteni
+		add_pressed_claim = title:c_gournessa
+		add_pressed_claim = title:c_ialione
+		add_pressed_claim = title:c_magnissos
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000836 = {
+	name = "Gaidres"
+	dynasty = mysian_abrettid
+	religion = "thracian_pagan"
+	culture = mysian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_abretteni
+		add_pressed_claim = title:c_gournessa
+		add_pressed_claim = title:c_ialione
+		add_pressed_claim = title:c_magnissos
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000837 = {
+	name = "Seuthes"
+	dynasty = mysian_morenus
+	religion = "thracian_pagan"
+	culture = mysian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_sybenai
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000838 = {
+	name = "Moskon"
+	dynasty = mysian_morenus
+	religion = "thracian_pagan"
+	culture = mysian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_sybenai
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
 	}
 }
