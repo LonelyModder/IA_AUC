@@ -21,3 +21,47 @@ c_thukan = {
 		holder = 2000357
 	}
 }
+
+d_gordion = {
+	
+	258.4.4 = {
+		holder = 2000859
+	}
+	437.4.21 = {
+		holder = 2000860
+	}
+}
+
+c_gordion = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000859
+	}
+	437.4.21 = {
+		holder = 2000860
+	}
+}
+
+d_ancyra = {
+	
+	258.4.4 = {
+		holder = 2000861
+	}
+	437.4.21 = {
+		holder = 2000862
+	}
+}
+
+c_ancyra = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000861
+	}
+	437.4.21 = {
+		holder = 2000862
+	}
+}

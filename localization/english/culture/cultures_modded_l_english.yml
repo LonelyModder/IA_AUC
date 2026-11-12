@@ -264,6 +264,9 @@
  kaskan:0 "Kaskan"
  kaskan_prefix:0 "Kaskan"
  kaskan_collective_noun:1 "Kaskans"
+ hittite:0 "Hittite"
+ hittite_prefix:0 "Hittite"
+ hittite_collective_noun:1 "Hittites"
  #Akkadian
  babylonian:0 "Babylonian"
  babylonian_prefix:0 "Babylonian"
@@ -398,6 +401,9 @@
  sidetan:0 "Sidetan"
  sidetan_prefix:0 "Sidetan"
  sidetan_collective_noun:1 "Sidetans"
+ pisidian:0 "Pisidian"
+ pisidian_prefix:0 "Pisidian"
+ pisidian_collective_noun:1 "Pisidians"
  #Caucasian
  colchian:0 "Colchian"
  colchian_prefix:0 "Colchian"

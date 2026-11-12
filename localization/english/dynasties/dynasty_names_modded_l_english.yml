@@ -549,6 +549,8 @@
  dynn_Morenus:0 "Morenus"
  #Carian
  dynn_Harunsilis:0 "Harunsilis"
+ dynn_Chrysaorid:0 "Chrysaorid"
+ dynn_Alabandid:0 "Alabandid"
  #Mosinoecian
  dynn_Truni:0 "Truni"
  dynn_Varazhnuni:0 "Varazhnuni"
@@ -562,6 +564,9 @@
  dynn_Mariandid:0 "Mariandid"
  #Phrygian
  dynn_Dorianid:0 "Dorianid"
+ dynn_Gordianid:0 "Gordianid"
+ dynn_Ancyrid:0 "Ancyrid"
+ dynn_Khattid:0 "Khattid"
  #Lycian
  dynn_Arnid:0 "Arnid"
  dynn_Telebehid:0 "Telebehid"
@@ -574,4 +579,6 @@
  dynn_Solymid:0 "Solymid"
  #Sidetan
  dynn_Sidetid:0 "Sidetid"
+ #Pisidian
+ dynn_Selgid:0 "Selgid"
  

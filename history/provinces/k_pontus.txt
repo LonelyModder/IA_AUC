@@ -71,9 +71,9 @@
 }
 
 3264 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = phrygian
+	religion = thracian_pagan
+	holding = castle_holding
 }
 
 3265 = {		

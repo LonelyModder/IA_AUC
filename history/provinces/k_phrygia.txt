@@ -341,9 +341,9 @@
 }
 
 2946 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = phrygian
+	religion = thracian_pagan
+	holding = castle_holding
 }
 
 2947 = {		
@@ -383,9 +383,9 @@
 }
 
 2953 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = phrygian
+	religion = thracian_pagan
+	holding = castle_holding
 }
 
 2954 = {		

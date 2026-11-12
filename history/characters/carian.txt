@@ -17,3 +17,83 @@
 		death = "268.1.1"
 	}
 }
+
+2000855 = {
+	name = "Kundaspu"
+	dynasty = carian_chrysaorid
+	religion = "anatolian_pagan"
+	culture = carian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_mylasa
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000856 = {
+	name = "Appuasu"
+	dynasty = carian_chrysaorid
+	religion = "anatolian_pagan"
+	culture = carian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_mylasa
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000857 = {
+	name = "Sastura"
+	dynasty = carian_alabandid
+	religion = "anatolian_pagan"
+	culture = carian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_alabanda
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000858 = {
+	name = "Pisiri"
+	dynasty = carian_alabandid
+	religion = "anatolian_pagan"
+	culture = carian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_alabanda
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

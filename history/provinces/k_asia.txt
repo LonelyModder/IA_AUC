@@ -779,18 +779,17 @@
 2674 = {		
 	culture = carian
 	religion = anatolian_pagan
-	holding = tribal_holding
+	holding = castle_holding
 	437.4.21 = {
 		culture = dorean
 		religion = greek_pagan
-		holding = castle_holding
 	}
 }
 
 2675 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = carian
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 2676 = {		
@@ -875,9 +874,9 @@
 }
 
 2690 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = carian
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 2692 = {		

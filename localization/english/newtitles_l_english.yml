@@ -181,6 +181,10 @@
  d_doryleum:0 "Doryleum"
  d_solymoi:0 "Solymoi"
  d_sidetans:0 "Sidetans"
+ d_gordion:0 "Gordion"
+ d_ancyra:0 "Ancyra"
+ d_hattusa:0 "Hattusa"
+ d_pisidians:0 "Pisidians"
  # Empires
  e_westernrome:0 "Italia"
  e_africa:0 "Africa"

@@ -107,9 +107,9 @@
 }
 
 2835 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = pisidian
+	religion = anatolian_pagan
+	holding = tribal_holding
 }
 
 2836 = {		
@@ -149,9 +149,9 @@
 }
 
 2842 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = pisidian
+	religion = anatolian_pagan
+	holding = tribal_holding
 }
 
 2843 = {		
@@ -161,9 +161,9 @@
 }
 
 2844 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = pisidian
+	religion = anatolian_pagan
+	holding = tribal_holding
 }
 
 2845 = {		

@@ -10,6 +10,7 @@
 	258.4.4 = {
 		add_pressed_claim = title:d_solymoi
 		add_pressed_claim = title:c_termessos
+		add_pressed_claim = title:c_sagalassos
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -31,6 +32,7 @@
 	437.4.21 = {
 		add_pressed_claim = title:d_solymoi
 		add_pressed_claim = title:c_termessos
+		add_pressed_claim = title:c_sagalassos
 	}
 	#437.4.21 = {
 	#	add_character_flag = do_not_generate_starting_family

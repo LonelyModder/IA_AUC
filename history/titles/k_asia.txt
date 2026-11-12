@@ -428,3 +428,27 @@ c_smyrna = {
 		holder = 2000811
 	}
 }
+
+c_mylasa = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000855
+	}
+	437.4.21 = {
+		holder = 2000856
+	}
+}
+
+c_alabanda = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000857
+	}
+	437.4.21 = {
+		holder = 2000858
+	}
+}

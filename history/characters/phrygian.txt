@@ -8,8 +8,8 @@
 		birth = "221.1.1"
 	}
 	258.4.4 = {
-		add_pressed_claim = title:d_doryleum
-		add_pressed_claim = title:c_doryleum
+		add_pressed_claim = title:d_gordion
+		add_pressed_claim = title:c_gordion
 		add_pressed_claim = title:c_paphona
 		add_pressed_claim = title:c_laodotiri
 		add_pressed_claim = title:c_chersolis
@@ -33,12 +33,138 @@
 		birth = "401.1.1"
 	}
 	437.4.21 = {
-		add_pressed_claim = title:d_doryleum
-		add_pressed_claim = title:c_doryleum
+		add_pressed_claim = title:d_gordion
+		add_pressed_claim = title:c_gordion
 		add_pressed_claim = title:c_paphona
 		add_pressed_claim = title:c_laodotiri
 		add_pressed_claim = title:c_chersolis
 		add_pressed_claim = title:c_aizanoi
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000859 = {
+	name = "Gordias"
+	dynasty = phrygian_gordianid
+	religion = "thracian_pagan"
+	culture = phrygian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_gordion
+		add_pressed_claim = title:c_gordion
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000860 = {
+	name = "Mita"
+	dynasty = phrygian_gordianid
+	religion = "thracian_pagan"
+	culture = phrygian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_gordion
+		add_pressed_claim = title:c_gordion
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000861 = {
+	name = "Vezina"
+	dynasty = phrygian_ancyrid
+	religion = "thracian_pagan"
+	culture = phrygian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_ancyra
+		add_pressed_claim = title:c_ancyra
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000862 = {
+	name = "Diazenis"
+	dynasty = phrygian_ancyrid
+	religion = "thracian_pagan"
+	culture = phrygian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_ancyra
+		add_pressed_claim = title:c_ancyra
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000863 = {
+	name = "Byzas"
+	dynasty = phrygian_khattid
+	religion = "thracian_pagan"
+	culture = phrygian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_hattusa
+		add_pressed_claim = title:c_hattusa
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000864 = {
+	name = "Berisades"
+	dynasty = phrygian_khattid
+	religion = "thracian_pagan"
+	culture = phrygian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_hattusa
+		add_pressed_claim = title:c_hattusa
 	}
 	#437.4.21 = {
 	#	add_character_flag = do_not_generate_starting_family

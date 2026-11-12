@@ -22692,3 +22692,23 @@ d_sidetans = {
 	color = { 1 50 244 }
 	landless = yes 
 }
+
+d_gordion = {
+	color = { 144 205 233 }
+	landless = yes 
+}
+
+d_ancyra = {
+	color = { 128 126 204 }
+	landless = yes 
+}
+
+d_hattusa = {
+	color = { 171 207 32 }
+	landless = yes 
+}
+
+d_pisidians = {
+	color = { 110 197 242 }
+	landless = yes 
+}

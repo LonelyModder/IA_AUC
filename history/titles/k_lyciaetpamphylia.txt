@@ -104,6 +104,18 @@ c_termessos = {
 	}
 }
 
+c_sagalassos = {
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000853
+	}
+	437.4.21 = {
+		holder = 2000854
+	}
+}
+
 d_sidetans = {
 	
 	258.4.4 = {
@@ -147,5 +159,39 @@ c_perge = {
 	}
 	437.4.21 = {
 		holder = 2000856
+	}
+}
+
+d_pisidians = {
+	
+	258.4.4 = {
+		holder = 2000865
+	}
+	437.4.21 = {
+		holder = 2000866
+	}
+}
+
+c_selge = {
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000865
+	}
+	437.4.21 = {
+		holder = 2000866
+	}
+}
+
+c_attaleia = {
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000865
+	}
+	437.4.21 = {
+		holder = 2000866
 	}
 }
