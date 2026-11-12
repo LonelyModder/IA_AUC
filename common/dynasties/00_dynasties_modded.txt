@@ -2483,3 +2483,51 @@ phrygian_dorianid = {
 	name = "dynn_Dorianid"
 	culture = "phrygian"
 }
+
+#Lycian
+
+lycian_arnid = {
+	name = "dynn_Arnid"
+	culture = "lycian"
+}
+
+lycian_telebehid = {
+	name = "dynn_Telebehid"
+	culture = "lycian"
+}
+
+lycian_myrid = {
+	name = "dynn_Myrid"
+	culture = "lycian"
+}
+
+lycian_phaselid = {
+	name = "dynn_Phaselid"
+	culture = "lycian"
+}
+
+lycian_tlawaid = {
+	name = "dynn_Tlawaid"
+	culture = "lycian"
+}
+
+#Cabalian
+
+cabalian_boubonid = {
+	name = "dynn_Boubonid"
+	culture = "cabalian"
+}
+
+#Solymian
+
+solymian_solymid = {
+	name = "dynn_Solymid"
+	culture = "solymian"
+}
+
+#Sidetan
+
+sidetan_sidetid = {
+	name = "dynn_Sidetid"
+	culture = "sidetan"
+}

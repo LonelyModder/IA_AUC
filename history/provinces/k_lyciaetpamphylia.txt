@@ -1,7 +1,7 @@
 ﻿2817 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = lycian
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 2818 = {		
@@ -17,9 +17,9 @@
 }
 
 2820 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = cabalian
+	religion = anatolian_pagan
+	holding = tribal_holding
 }
 
 2821 = {		
@@ -29,15 +29,15 @@
 }
 
 2822 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = lycian
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 2823 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = lycian
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 2824 = {		
@@ -59,9 +59,9 @@
 }
 
 2827 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = lycian
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 2828 = {		
@@ -71,9 +71,9 @@
 }
 
 2829 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = lycian
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 2830 = {		
@@ -89,9 +89,9 @@
 }
 
 2832 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = lycian
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 2833 = {		
@@ -101,9 +101,9 @@
 }
 
 2834 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = solymian
+	religion = anatolian_pagan
+	holding = tribal_holding
 }
 
 2835 = {		
@@ -179,9 +179,9 @@
 }
 
 2847 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = sidetan
+	religion = anatolian_pagan
+	holding = tribal_holding
 }
 
 2848 = {		
@@ -197,9 +197,9 @@
 }
 
 2850 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = sidetan
+	religion = anatolian_pagan
+	holding = tribal_holding
 }
 
 2851 = {		
@@ -233,9 +233,9 @@
 }
 
 2856 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = sidetan
+	religion = anatolian_pagan
+	holding = tribal_holding
 }
 
 2857 = {		

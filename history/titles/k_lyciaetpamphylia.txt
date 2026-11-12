@@ -1,0 +1,151 @@
+c_xanthos = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000841
+	}
+	437.4.21 = {
+		holder = 2000842
+	}
+}
+
+c_telmessos = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000843
+	}
+	437.4.21 = {
+		holder = 2000844
+	}
+}
+
+c_myra = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000845
+	}
+	437.4.21 = {
+		holder = 2000846
+	}
+}
+
+c_phaselis = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000847
+	}
+	437.4.21 = {
+		holder = 2000848
+	}
+}
+
+c_aparos = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000849
+	}
+	437.4.21 = {
+		holder = 2000850
+	}
+}
+
+c_itympia = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000849
+	}
+	437.4.21 = {
+		holder = 2000850
+	}
+}
+
+c_boubon = {
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000851
+	}
+	437.4.21 = {
+		holder = 2000852
+	}
+}
+
+d_solymoi = {
+	
+	258.4.4 = {
+		holder = 2000853
+	}
+	437.4.21 = {
+		holder = 2000854
+	}
+}
+
+c_termessos = {
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000853
+	}
+	437.4.21 = {
+		holder = 2000854
+	}
+}
+
+d_sidetans = {
+	
+	258.4.4 = {
+		holder = 2000855
+	}
+	437.4.21 = {
+		holder = 2000856
+	}
+}
+
+c_side = {
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000855
+	}
+	437.4.21 = {
+		holder = 2000856
+	}
+}
+
+c_meginda = {
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000855
+	}
+	437.4.21 = {
+		holder = 2000856
+	}
+}
+
+c_perge = {
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000855
+	}
+	437.4.21 = {
+		holder = 2000856
+	}
+}

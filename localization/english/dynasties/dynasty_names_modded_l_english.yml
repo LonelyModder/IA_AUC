@@ -562,4 +562,16 @@
  dynn_Mariandid:0 "Mariandid"
  #Phrygian
  dynn_Dorianid:0 "Dorianid"
+ #Lycian
+ dynn_Arnid:0 "Arnid"
+ dynn_Telebehid:0 "Telebehid"
+ dynn_Myrid:0 "Myrid"
+ dynn_Phaselid:0 "Phaselid"
+ dynn_Tlawaid:0 "Tlawaid"
+ #Cabalian
+ dynn_Boubonid:0 "Boubonid"
+ #Solymian
+ dynn_Solymid:0 "Solymid"
+ #Sidetan
+ dynn_Sidetid:0 "Sidetid"
  

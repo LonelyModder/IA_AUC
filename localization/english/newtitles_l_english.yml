@@ -179,6 +179,8 @@
  d_olympeni:0 "Olympeni"
  d_abretteni:0 "Abretteni"
  d_doryleum:0 "Doryleum"
+ d_solymoi:0 "Solymoi"
+ d_sidetans:0 "Sidetans"
  # Empires
  e_westernrome:0 "Italia"
  e_africa:0 "Africa"
@@ -1077,7 +1079,8 @@
  c_itympia:0 "Itympia"
  c_phaselis:0 "Phaselis"
  c_myra:0 "Myra"
- c_aparos:0 "Aparos"
+ c_aparos:0 "Tlos"
+ c_meginda:0 "Meginda"
  c_telmessos:0 "Telmessos"
  c_ashur:0 "Ashur"
  c_xanthos:0 "Xanthos"

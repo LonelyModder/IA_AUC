@@ -1,0 +1,201 @@
+﻿2000841 = {
+	name = "Ariyahina"
+	dynasty = lycian_arnid
+	religion = "anatolian_pagan"
+	culture = lycian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_xanthos
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000842 = {
+	name = "Sulumal"
+	dynasty = lycian_arnid
+	religion = "anatolian_pagan"
+	culture = lycian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_xanthos
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000843 = {
+	name = "Yariri"
+	dynasty = lycian_telebehid
+	religion = "anatolian_pagan"
+	culture = lycian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_telmessos
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000844 = {
+	name = "Surri"
+	dynasty = lycian_telebehid
+	religion = "anatolian_pagan"
+	culture = lycian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_telmessos
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000845 = {
+	name = "Kupanta"
+	dynasty = lycian_myrid
+	religion = "anatolian_pagan"
+	culture = lycian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_myra
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000846 = {
+	name = "Appuasu"
+	dynasty = lycian_myrid
+	religion = "anatolian_pagan"
+	culture = lycian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_myra
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000847 = {
+	name = "Kurunta"
+	dynasty = lycian_phaselid
+	religion = "anatolian_pagan"
+	culture = lycian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_phaselis
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000848 = {
+	name = "Sangara"
+	dynasty = lycian_phaselid
+	religion = "anatolian_pagan"
+	culture = lycian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_phaselis
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000849 = {
+	name = "Yariri"
+	dynasty = lycian_tlawaid
+	religion = "anatolian_pagan"
+	culture = lycian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_aparos
+		add_pressed_claim = title:c_itympia
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000850 = {
+	name = "Kamanis"
+	dynasty = lycian_tlawaid
+	religion = "anatolian_pagan"
+	culture = lycian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_aparos
+		add_pressed_claim = title:c_itympia
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

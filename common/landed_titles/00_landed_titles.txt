@@ -22682,3 +22682,13 @@ d_doryleum = {
 	color = { 42 198 245 }
 	landless = yes 
 }
+
+d_solymoi = {
+	color = { 110 197 240 }
+	landless = yes 
+}
+
+d_sidetans = {
+	color = { 1 50 244 }
+	landless = yes 
+}
