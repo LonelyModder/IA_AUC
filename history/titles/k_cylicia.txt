@@ -91,3 +91,51 @@ c_aegae = {
 		holder = 2000286
 	}
 }
+
+c_strachea = {
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000869
+	}
+	437.4.21 = {
+		holder = 2000870
+	}
+}
+
+c_anemurion = {
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000871
+	}
+	437.4.21 = {
+		holder = 2000872
+	}
+}
+
+c_coracesium = {
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000873
+	}
+	437.4.21 = {
+		holder = 2000874
+	}
+}
+
+c_adrasos = {
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000875
+	}
+	437.4.21 = {
+		holder = 2000876
+	}
+}

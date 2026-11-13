@@ -1,0 +1,165 @@
+﻿2000869 = {
+	name = "Paziti"
+	dynasty = kilikian_cietid
+	religion = "anatolian_pagan"
+	culture = kilikian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_strachea
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000870 = {
+	name = "Tutammu"
+	dynasty = kilikian_cietid
+	religion = "anatolian_pagan"
+	culture = kilikian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_strachea
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000871 = {
+	name = "Sangara"
+	dynasty = kilikian_kennatid
+	religion = "anatolian_pagan"
+	culture = kilikian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_anemurion
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000872 = {
+	name = "Halparuntiya"
+	dynasty = kilikian_kennatid
+	religion = "anatolian_pagan"
+	culture = kilikian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_anemurion
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000873 = {
+	name = "Kuzi"
+	dynasty = kilikian_homonadid
+	religion = "anatolian_pagan"
+	culture = kilikian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_coracesium
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000874 = {
+	name = "Uratarhunza"
+	dynasty = kilikian_homonadid
+	religion = "anatolian_pagan"
+	culture = kilikian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_coracesium
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000875 = {
+	name = "Talmi"
+	dynasty = kilikian_adrasid
+	religion = "anatolian_pagan"
+	culture = kilikian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_lalaseians
+		add_pressed_claim = title:c_adrasos
+		add_pressed_claim = title:c_ambepios
+		add_pressed_claim = title:c_rizios
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000876 = {
+	name = "Gunzinanu"
+	dynasty = kilikian_adrasid
+	religion = "anatolian_pagan"
+	culture = kilikian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_lalaseians
+		add_pressed_claim = title:c_adrasos
+		add_pressed_claim = title:c_ambepios
+		add_pressed_claim = title:c_rizios
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

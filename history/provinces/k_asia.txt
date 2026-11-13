@@ -102,9 +102,9 @@
 }
 
 2703 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = carian
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 2704 = {		
@@ -282,9 +282,9 @@
 }
 
 2741 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = cabalian
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 2742 = {		
@@ -318,9 +318,9 @@
 }
 
 2747 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = hapallan
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 2748 = {		
@@ -672,7 +672,7 @@
 }
 
 2661 = {		
-	culture = mysian
+	culture = lydian
 	religion = anatolian_pagan
 	holding = castle_holding
 	430.4.21 = {
@@ -832,9 +832,9 @@
 }
 
 2682 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = carian
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 2683 = {		
@@ -910,7 +910,7 @@
 }
 
 2706 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = carian
+	religion = anatolian_pagan
+	holding = castle_holding
 }

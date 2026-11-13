@@ -97,3 +97,85 @@
 		death = "469.1.1"
 	}
 }
+
+2000867 = {
+	name = "Paziti"
+	dynasty = carian_ninosid
+	religion = "anatolian_pagan"
+	culture = carian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_aphrodisias
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000868 = {
+	name = "Tutammu"
+	dynasty = carian_ninosid
+	religion = "anatolian_pagan"
+	culture = carian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_aphrodisias
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000877 = {
+	name = "Muwatalli"
+	dynasty = carian_tabid
+	religion = "anatolian_pagan"
+	culture = carian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_himicapaeum
+		add_pressed_claim = title:c_tenasus
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000878 = {
+	name = "Manana"
+	dynasty = carian_tabid
+	religion = "anatolian_pagan"
+	culture = carian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_himicapaeum
+		add_pressed_claim = title:c_tenasus
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

@@ -2438,6 +2438,16 @@ carian_alabandid = {
 	culture = "carian"
 }
 
+carian_ninosid = {
+	name = "dynn_Ninosid"
+	culture = "carian"
+}
+
+carian_tabid = {
+	name = "dynn_Tabid"
+	culture = "carian"
+}
+
 #Mosinoecian
 
 mosinoecian_truni = {
@@ -2509,6 +2519,13 @@ phrygian_khattid = {
 	culture = "phrygian"
 }
 
+#Isaurian
+
+isaurian_cibrid = {
+	name = "dynn_Cibrid"
+	culture = "isaurian"
+}
+
 #Lycian
 
 lycian_arnid = {
@@ -2561,6 +2578,35 @@ sidetan_sidetid = {
 
 pisidian_selgid = {
 	name = "dynn_Selgid"
-	culture = "sipisidiandetan"
+	culture = "pisidian"
+}
+
+#Kilikian
+
+kilikian_cietid = {
+	name = "dynn_Cietid"
+	culture = "kilikian"
+}
+
+kilikian_kennatid = {
+	name = "dynn_Kennatid"
+	culture = "kilikian"
+}
+
+kilikian_homonadid = {
+	name = "dynn_Homonadid"
+	culture = "kilikian"
+}
+
+kilikian_adrasid = {
+	name = "dynn_Adrasid"
+	culture = "kilikian"
+}
+
+#Hittite
+
+hittite_hartapid = {
+	name = "dynn_Hartapid"
+	culture = "hittite"
 }
 

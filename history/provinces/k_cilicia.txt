@@ -1,7 +1,7 @@
 ﻿2218 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = kilikian
+	religion = anatolian_pagan
+	holding = tribal_holding
 }
 
 2219 = {		
@@ -17,15 +17,15 @@
 }
 
 2221 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = kilikian
+	religion = anatolian_pagan
+	holding = tribal_holding
 }
 
 2222 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = kilikian
+	religion = anatolian_pagan
+	holding = tribal_holding
 }
 
 2223 = {		
@@ -53,9 +53,9 @@
 }
 
 2227 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = kilikian
+	religion = anatolian_pagan
+	holding = tribal_holding
 }
 
 2228 = {		

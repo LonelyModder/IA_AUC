@@ -452,3 +452,80 @@ c_alabanda = {
 		holder = 2000858
 	}
 }
+
+c_aphrodisias = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000867
+	}
+	437.4.21 = {
+		holder = 2000868
+	}
+}
+
+k_gordion = {
+
+	437.4.21 = {
+		holder = 2000860
+	}
+}
+
+c_himicapaeum = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000877
+	}
+	437.4.21 = {
+		holder = 2000878
+	}
+}
+
+c_tenasus = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000877
+	}
+	437.4.21 = {
+		holder = 2000878
+	}
+}
+
+d_cibyra = {
+	
+	258.4.4 = {
+		holder = 2000879
+	}
+	437.4.21 = {
+		holder = 2000880
+	}
+}
+
+c_cibyra = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000879
+	}
+	437.4.21 = {
+		holder = 2000880
+	}
+}
+
+c_lapamea = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000879
+	}
+	437.4.21 = {
+		holder = 2000880
+	}
+}

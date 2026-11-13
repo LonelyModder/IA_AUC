@@ -5,9 +5,9 @@
 }
 
 2888 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = isaurian
+	religion = anatolian_pagan
+	holding = tribal_holding
 }
 
 2889 = {		
@@ -167,9 +167,9 @@
 }
 
 2915 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = tarhuntassan
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 2916 = {		
@@ -179,9 +179,9 @@
 }
 
 2917 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = tarhuntassan
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 2918 = {		
@@ -221,9 +221,9 @@
 }
 
 2924 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = tarhuntassan
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 2925 = {		

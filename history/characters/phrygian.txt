@@ -8,8 +8,8 @@
 		birth = "221.1.1"
 	}
 	258.4.4 = {
-		add_pressed_claim = title:d_gordion
-		add_pressed_claim = title:c_gordion
+		add_pressed_claim = title:d_doryleum
+		add_pressed_claim = title:c_doryleum
 		add_pressed_claim = title:c_paphona
 		add_pressed_claim = title:c_laodotiri
 		add_pressed_claim = title:c_chersolis
@@ -33,8 +33,8 @@
 		birth = "401.1.1"
 	}
 	437.4.21 = {
-		add_pressed_claim = title:d_gordion
-		add_pressed_claim = title:c_gordion
+		add_pressed_claim = title:d_doryleum
+		add_pressed_claim = title:c_doryleum
 		add_pressed_claim = title:c_paphona
 		add_pressed_claim = title:c_laodotiri
 		add_pressed_claim = title:c_chersolis
@@ -79,6 +79,7 @@
 		birth = "401.1.1"
 	}
 	437.4.21 = {
+		add_pressed_claim = title:k_gordion
 		add_pressed_claim = title:d_gordion
 		add_pressed_claim = title:c_gordion
 	}
@@ -165,6 +166,50 @@
 	437.4.21 = {
 		add_pressed_claim = title:d_hattusa
 		add_pressed_claim = title:c_hattusa
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000879 = {
+	name = "Zoutoula"
+	dynasty = phrygian_cibrid
+	religion = "thracian_pagan"
+	culture = phrygian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_cibyra
+		add_pressed_claim = title:c_cibyra
+		add_pressed_claim = title:c_lapamea
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000880 = {
+	name = "Rhemaxos"
+	dynasty = phrygian_cibrid
+	religion = "thracian_pagan"
+	culture = phrygian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_cibyra
+		add_pressed_claim = title:c_cibyra
+		add_pressed_claim = title:c_lapamea
 	}
 	#437.4.21 = {
 	#	add_character_flag = do_not_generate_starting_family

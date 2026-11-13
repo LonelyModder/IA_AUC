@@ -1,0 +1,45 @@
+﻿2000883 = {
+	name = "Arnuwanti"
+	dynasty = isaurian_cibrid
+	religion = "anatolian_pagan"
+	culture = isaurian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_isauri
+		add_pressed_claim = title:c_eubiene
+		add_pressed_claim = title:c_vaseos
+		add_pressed_claim = title:c_isaura
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000884 = {
+	name = "Surri"
+	dynasty = isaurian_cibrid
+	religion = "anatolian_pagan"
+	culture = isaurian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_isauri
+		add_pressed_claim = title:c_eubiene
+		add_pressed_claim = title:c_vaseos
+		add_pressed_claim = title:c_isaura
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

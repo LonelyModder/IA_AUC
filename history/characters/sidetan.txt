@@ -1,4 +1,4 @@
-﻿2000855 = {
+﻿2000881 = {
 	name = "Uratarhunza"
 	dynasty = sidetan_sidetid
 	religion = "anatolian_pagan"
@@ -21,7 +21,7 @@
 	}
 }
 
-2000856 = {
+2000882 = {
 	name = "Astiruwa"
 	dynasty = sidetan_sidetid
 	religion = "anatolian_pagan"

@@ -7712,6 +7712,11 @@ e_anatolia = {
 			c_laranda = {
 				color = { 110 197 245 }
 				
+				b_bourosse_2868 = {
+					color = { 107 150 237 }
+					province = 2868
+				}
+				
 				b_decena_2863 = {
 					color = { 107 150 236 }
 					province = 2863
@@ -7727,11 +7732,6 @@ e_anatolia = {
 					province = 2867
 				}
 
-				b_bourosse_2868 = {
-					color = { 107 150 237 }
-					province = 2868
-				}
-				
 			}
 			
 			c_rizios = {
@@ -22710,5 +22710,30 @@ d_hattusa = {
 
 d_pisidians = {
 	color = { 110 197 242 }
+	landless = yes 
+}
+
+k_gordion = {
+	color = { 144 205 233 }
+	landless = yes 
+}
+
+d_lalaseians = {
+	color = { 128 51 9 }
+	landless = yes 
+}
+
+d_isauri = {
+	color = { 110 197 245 }
+	landless = yes 
+}
+
+k_tarhuntassa = {
+	color = { 110 197 245 }
+	landless = yes 
+}
+
+d_tarhuntassa = {
+	color = { 110 197 245 }
 	landless = yes 
 }

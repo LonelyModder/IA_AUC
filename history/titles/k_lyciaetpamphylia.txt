@@ -119,10 +119,10 @@ c_sagalassos = {
 d_sidetans = {
 	
 	258.4.4 = {
-		holder = 2000855
+		holder = 2000881
 	}
 	437.4.21 = {
-		holder = 2000856
+		holder = 2000882
 	}
 }
 
@@ -131,10 +131,10 @@ c_side = {
 	437.4.21 = { change_development_level = 5 }
 	
 	258.4.4 = {
-		holder = 2000855
+		holder = 2000881
 	}
 	437.4.21 = {
-		holder = 2000856
+		holder = 2000882
 	}
 }
 
@@ -143,10 +143,10 @@ c_meginda = {
 	437.4.21 = { change_development_level = 5 }
 	
 	258.4.4 = {
-		holder = 2000855
+		holder = 2000881
 	}
 	437.4.21 = {
-		holder = 2000856
+		holder = 2000882
 	}
 }
 
@@ -155,10 +155,10 @@ c_perge = {
 	437.4.21 = { change_development_level = 5 }
 	
 	258.4.4 = {
-		holder = 2000855
+		holder = 2000881
 	}
 	437.4.21 = {
-		holder = 2000856
+		holder = 2000882
 	}
 }
 
@@ -193,5 +193,65 @@ c_attaleia = {
 	}
 	437.4.21 = {
 		holder = 2000866
+	}
+}
+
+d_isauri = {
+	
+	258.4.4 = {
+		holder = 2000883
+	}
+	437.4.21 = {
+		holder = 2000884
+	}
+}
+
+c_eubiene = {
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000883
+	}
+	437.4.21 = {
+		holder = 2000884
+	}
+}
+
+c_isaura = {
+	258.4.4 = {	change_development_level = 3 }
+	437.4.21 = { change_development_level = 5 }
+	
+	258.4.4 = {
+		holder = 2000883
+	}
+	437.4.21 = {
+		holder = 2000884
+	}
+}
+
+k_tarhuntassa = {
+	
+	258.4.4 = {
+		holder = 2000885
+	}
+}
+
+d_tarhuntassa = {
+	
+	437.4.21 = {
+		holder = 2000886
+	}
+}
+
+c_laranda = {
+	258.4.4 = {	change_development_level = 15 }
+	437.4.21 = { change_development_level = 20 }
+	
+	258.4.4 = {
+		holder = 2000885
+	}
+	437.4.21 = {
+		holder = 2000886
 	}
 }
