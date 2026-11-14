@@ -118,10 +118,10 @@ c_rarta = {
 	437.4.21 = { change_development_level = 15 }
 	
 	258.4.4 = {
-		holder = 2000879
+		holder = 2000885
 	}
 	437.4.21 = {
-		holder = 2000880
+		holder = 2000886
 	}
 }
 
@@ -130,10 +130,22 @@ c_oratis = {
 	437.4.21 = { change_development_level = 15 }
 	
 	258.4.4 = {
-		holder = 2000879
+		holder = 2000885
 	}
 	437.4.21 = {
-		holder = 2000880
+		holder = 2000886
+	}
+}
+
+c_pelaza = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000885
+	}
+	437.4.21 = {
+		holder = 2000886
 	}
 }
 
@@ -142,10 +154,46 @@ c_iconium = {
 	437.4.21 = { change_development_level = 15 }
 	
 	258.4.4 = {
-		holder = 2000879
+		holder = 2000885
 	}
 	437.4.21 = {
-		holder = 2000880
+		holder = 2000886
+	}
+}
+
+c_parnassos = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000887
+	}
+	437.4.21 = {
+		holder = 2000888
+	}
+}
+
+c_purushanda = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000889
+	}
+	437.4.21 = {
+		holder = 2000890
+	}
+}
+
+c_tatta = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000891
+	}
+	437.4.21 = {
+		holder = 2000892
 	}
 }
 

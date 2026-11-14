@@ -569,6 +569,9 @@
  dynn_Gordianid:0 "Gordianid"
  dynn_Ancyrid:0 "Ancyrid"
  dynn_Khattid:0 "Khattid"
+ dynn_Parnasid:0 "Parnasid"
+ dynn_Purukid:0 "Purukid"
+ dynn_Tattid:0 "Tattid"
  #Isaurian
  dynn_Cibrid:0 "Cibrid"
  #Lycian
@@ -592,4 +595,5 @@
  dynn_Adrasid:0 "Adrasid"
  #Tarhuntassan
  dynn_Hartapid:0 "Hartapid"
+ dynn_Kiakkid:0 "Kiakkid"
  

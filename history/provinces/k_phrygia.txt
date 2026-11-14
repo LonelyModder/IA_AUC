@@ -281,15 +281,15 @@
 }
 
 2936 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = hittite
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 2937 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = hittite
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 2938 = {		
@@ -311,9 +311,9 @@
 }
 
 2941 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = hittite
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 2942 = {		
@@ -407,9 +407,9 @@
 }
 
 2957 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = hittite
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 2958 = {		

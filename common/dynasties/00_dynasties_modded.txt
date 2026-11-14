@@ -2504,6 +2504,21 @@ phrygian_dorianid = {
 	culture = "phrygian"
 }
 
+phrygian_parnasid = {
+	name = "dynn_Parnasid"
+	culture = "phrygian"
+}
+
+phrygian_purukid = {
+	name = "dynn_Purukid"
+	culture = "phrygian"
+}
+
+phrygian_tattid = {
+	name = "dynn_Tattid"
+	culture = "phrygian"
+}
+
 phrygian_gordianid = {
 	name = "dynn_Gordianid"
 	culture = "phrygian"
@@ -2607,6 +2622,11 @@ kilikian_adrasid = {
 
 hittite_hartapid = {
 	name = "dynn_Hartapid"
+	culture = "hittite"
+}
+
+hittite_kiakkid = {
+	name = "dynn_Kiakkid"
 	culture = "hittite"
 }
 

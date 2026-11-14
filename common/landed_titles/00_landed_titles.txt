@@ -7090,6 +7090,11 @@ e_anatolia = {
 			c_tararos = {
 				color = { 186 230 246 }
 				
+				b_chersantina_2990 = {
+					color = { 212 224 245 }
+					province = 2990
+				}
+
 				b_tararos_2992 = {
 					color = { 186 230 246 }
 					province = 2992
@@ -7108,11 +7113,6 @@ e_anatolia = {
 				b_pharinope_2987 = {
 					color = { 186 215 221 }
 					province = 2987
-				}
-
-				b_chersantina_2990 = {
-					color = { 212 224 245 }
-					province = 2990
 				}
 
 				b_thebypes_3005 = {

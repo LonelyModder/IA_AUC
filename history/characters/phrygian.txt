@@ -218,3 +218,123 @@
 		death = "469.1.1"
 	}
 }
+
+2000887 = {
+	name = "Vezina"
+	dynasty = phrygian_parnasid
+	religion = "thracian_pagan"
+	culture = phrygian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_parnassos
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000888 = {
+	name = "Dentus"
+	dynasty = phrygian_parnasid
+	religion = "thracian_pagan"
+	culture = phrygian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		
+	}   add_pressed_claim = title:c_parnassos
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000889 = {
+	name = "Blaikisa"
+	dynasty = phrygian_purukid
+	religion = "thracian_pagan"
+	culture = phrygian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_purushanda
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000890 = {
+	name = "Cothelas"
+	dynasty = phrygian_purukid
+	religion = "thracian_pagan"
+	culture = phrygian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		
+	}   add_pressed_claim = title:c_purushanda
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000891 = {
+	name = "Blegissa"
+	dynasty = phrygian_tattid
+	religion = "thracian_pagan"
+	culture = phrygian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_tatta
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000892 = {
+	name = "Amadokos"
+	dynasty = phrygian_tattid
+	religion = "thracian_pagan"
+	culture = phrygian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		
+	}   add_pressed_claim = title:c_tatta
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
