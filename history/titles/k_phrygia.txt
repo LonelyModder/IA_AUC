@@ -44,6 +44,54 @@ c_gordion = {
 	}
 }
 
+c_kerkasa = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000859
+	}
+	437.4.21 = {
+		holder = 2000860
+	}
+}
+
+c_cymalia = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000859
+	}
+	437.4.21 = {
+		holder = 2000860
+	}
+}
+
+c_germa = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000859
+	}
+	437.4.21 = {
+		holder = 2000860
+	}
+}
+
+c_mideum = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000859
+	}
+	437.4.21 = {
+		holder = 2000860
+	}
+}
+
 d_ancyra = {
 	
 	258.4.4 = {
@@ -55,6 +103,18 @@ d_ancyra = {
 }
 
 c_ancyra = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000861
+	}
+	437.4.21 = {
+		holder = 2000862
+	}
+}
+
+c_potampos = {
 	258.4.4 = {	change_development_level = 10 }
 	437.4.21 = { change_development_level = 15 }
 	
@@ -194,6 +254,64 @@ c_tatta = {
 	}
 	437.4.21 = {
 		holder = 2000892
+	}
+}
+
+c_larioch = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000889
+	}
+	437.4.21 = {
+		holder = 2000890
+	}
+}
+
+d_amorium = {
+	
+	258.4.4 = {
+		holder = 2000899
+	}
+	437.4.21 = {
+		holder = 2000900
+	}
+}
+
+c_amorium = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000899
+	}
+	437.4.21 = {
+		holder = 2000900
+	}
+}
+
+c_teutherna = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000899
+	}
+	437.4.21 = {
+		holder = 2000900
+	}
+}
+
+c_erythronnos = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000899
+	}
+	437.4.21 = {
+		holder = 2000900
 	}
 }
 

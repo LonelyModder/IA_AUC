@@ -413,6 +413,12 @@
  tarhuntassan:0 "Tarhuntassan"
  tarhuntassan_prefix:0 "Tarhuntassan"
  tarhuntassan_collective_noun:1 "Tarhuntassans"
+ miran:0 "Miran"
+ miran_prefix:0 "Miran"
+ miran_collective_noun:1 "Mirans"
+ arawannite:0 "Arawannite"
+ arawannite_prefix:0 "Arawannite"
+ arawannite_collective_noun:1 "Arawannans"
  #Caucasian
  colchian:0 "Colchian"
  colchian_prefix:0 "Colchian"

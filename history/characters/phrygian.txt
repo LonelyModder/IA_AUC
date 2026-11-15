@@ -60,6 +60,10 @@
 	258.4.4 = {
 		add_pressed_claim = title:d_gordion
 		add_pressed_claim = title:c_gordion
+		add_pressed_claim = title:c_kerkasa
+		add_pressed_claim = title:c_cymalia
+		add_pressed_claim = title:c_germa
+		add_pressed_claim = title:c_mideum
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -82,6 +86,10 @@
 		add_pressed_claim = title:k_gordion
 		add_pressed_claim = title:d_gordion
 		add_pressed_claim = title:c_gordion
+		add_pressed_claim = title:c_kerkasa
+		add_pressed_claim = title:c_cymalia
+		add_pressed_claim = title:c_germa
+		add_pressed_claim = title:c_mideum
 	}
 	#437.4.21 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -102,7 +110,7 @@
 	}
 	258.4.4 = {
 		add_pressed_claim = title:d_ancyra
-		add_pressed_claim = title:c_ancyra
+		add_pressed_claim = title:c_potampos
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -124,6 +132,7 @@
 	437.4.21 = {
 		add_pressed_claim = title:d_ancyra
 		add_pressed_claim = title:c_ancyra
+		add_pressed_claim = title:c_potampos
 	}
 	#437.4.21 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -270,6 +279,7 @@
 	}
 	258.4.4 = {
 		add_pressed_claim = title:c_purushanda
+		add_pressed_claim = title:c_larioch
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -289,8 +299,9 @@
 		birth = "401.1.1"
 	}
 	437.4.21 = {
-		
-	}   add_pressed_claim = title:c_purushanda
+		add_pressed_claim = title:c_purushanda
+		add_pressed_claim = title:c_larioch
+	}   
 	#437.4.21 = {
 	#	add_character_flag = do_not_generate_starting_family
 	#}
@@ -322,6 +333,50 @@
 2000892 = {
 	name = "Amadokos"
 	dynasty = phrygian_tattid
+	religion = "thracian_pagan"
+	culture = phrygian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		
+	}   add_pressed_claim = title:c_tatta
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000899 = {
+	name = "Rhaskos"
+	dynasty = phrygian_amorid
+	religion = "thracian_pagan"
+	culture = phrygian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_amorium
+		add_pressed_claim = title:c_amorium
+		add_pressed_claim = title:c_thespedon
+		add_pressed_claim = title:c_teutherna
+		add_pressed_claim = title:c_erythronnos
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000900 = {
+	name = "Drenis"
+	dynasty = phrygian_amorid
 	religion = "thracian_pagan"
 	culture = phrygian
 	#father = 32974

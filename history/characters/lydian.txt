@@ -10,6 +10,10 @@
 	258.4.4 = {
 		add_pressed_claim = title:d_meonia
 		add_pressed_claim = title:c_sardes
+		add_pressed_claim = title:c_thyraia
+		add_pressed_claim = title:c_potenus
+		add_pressed_claim = title:c_lmagnesia
+		add_pressed_claim = title:c_brauressa
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -31,6 +35,58 @@
 	437.4.21 = {
 		add_pressed_claim = title:k_lydia
 		add_pressed_claim = title:c_sardes
+		add_pressed_claim = title:c_thyraia
+		add_pressed_claim = title:c_potenus
+		add_pressed_claim = title:c_lmagnesia
+		add_pressed_claim = title:c_brauressa
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000897 = {
+	name = "Kupanta"
+	dynasty = lydian_mirid
+	religion = "anatolian_pagan"
+	culture = lydian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_mira
+		add_pressed_claim = title:c_hydeion
+		add_pressed_claim = title:c_sebaste
+		add_pressed_claim = title:c_rhypamnus
+		add_pressed_claim = title:c_thorussae
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000898 = {
+	name = "Kuruntiya"
+	dynasty = lydian_mirid
+	religion = "anatolian_pagan"
+	culture = lydian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_mira
+		add_pressed_claim = title:c_hydeion
+		add_pressed_claim = title:c_sebaste
+		add_pressed_claim = title:c_rhypamnus
+		add_pressed_claim = title:c_thorussae
 	}
 	#437.4.21 = {
 	#	add_character_flag = do_not_generate_starting_family

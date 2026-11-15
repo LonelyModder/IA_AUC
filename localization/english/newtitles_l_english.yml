@@ -192,6 +192,8 @@
  d_tarhuntassa:0 "Tarhuntassa"
  d_meonia:0 "Meonia"
  k_lydia:0 "Lydia"
+ d_mira:0 "Mira"
+ d_amorium:0 "Amorium"
  # Empires
  e_westernrome:0 "Italia"
  e_africa:0 "Africa"

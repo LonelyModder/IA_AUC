@@ -22747,3 +22747,13 @@ k_lydia = {
 	color = { 44 90 211 }
 	landless = yes 
 }
+
+d_mira = {
+	color = { 86 164 232 }
+	landless = yes 
+}
+
+d_amorium = {
+	color = { 151 176 233 }
+	landless = yes 
+}

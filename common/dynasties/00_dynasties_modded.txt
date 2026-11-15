@@ -2509,6 +2509,11 @@ phrygian_parnasid = {
 	culture = "phrygian"
 }
 
+phrygian_amorid = {
+	name = "dynn_Amorid"
+	culture = "phrygian"
+}
+
 phrygian_purukid = {
 	name = "dynn_Purukid"
 	culture = "phrygian"
@@ -2634,6 +2639,11 @@ hittite_kiakkid = {
 
 lydian_omphalid = {
 	name = "dynn_Omphalid"
+	culture = "lydian"
+}
+
+lydian_mirid = {
+	name = "dynn_Mirid"
 	culture = "lydian"
 }
 

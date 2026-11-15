@@ -35,9 +35,9 @@
 }
 
 2893 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = hapallan
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 2894 = {		
@@ -59,9 +59,9 @@
 }
 
 2897 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = phrygian
+	religion = thracian_pagan
+	holding = castle_holding
 }
 
 2898 = {		
@@ -89,9 +89,9 @@
 }
 
 2902 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = hapallan
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 2903 = {		
@@ -119,9 +119,9 @@
 }
 
 2907 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = hapallan
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 2908 = {		
@@ -209,9 +209,9 @@
 }
 
 2922 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = hapallan
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 2923 = {		
@@ -233,9 +233,9 @@
 }
 
 2926 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = tarhuntassan
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 2927 = {		
@@ -419,9 +419,9 @@
 }
 
 2959 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = arawannite
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 2960 = {		
@@ -449,9 +449,9 @@
 }
 
 2964 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = arawannite
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 2965 = {		
@@ -467,9 +467,9 @@
 }
 
 2967 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = hittite
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 2968 = {		

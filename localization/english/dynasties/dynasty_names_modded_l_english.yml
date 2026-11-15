@@ -566,6 +566,7 @@
  dynn_Mariandid:0 "Mariandid"
  #Phrygian
  dynn_Dorianid:0 "Dorianid"
+ dynn_Amorid;0 "Amorid"
  dynn_Gordianid:0 "Gordianid"
  dynn_Ancyrid:0 "Ancyrid"
  dynn_Khattid:0 "Khattid"
@@ -598,4 +599,5 @@
  dynn_Kiakkid:0 "Kiakkid"
  #Lydian
  dynn_Omphalid:0 "Omphalid"
+ dynn_Mirid:0 "Mirid"
  

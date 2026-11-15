@@ -77,15 +77,15 @@
 }
 
 2999 = {		
-	culture = hittite
-	religion = anatolian_pagan
-	holding = castle_holding
-}
-
-3000 = {		
 	culture = baranis
 	religion = west_african_pagan
 	holding = none
+}
+
+3000 = {		
+	culture = hittite
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 3001 = {		

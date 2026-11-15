@@ -540,7 +540,7 @@ d_meonia = {
 	}
 }
 
-c_lapamea = {
+c_sardes = {
 	258.4.4 = {	change_development_level = 10 }
 	437.4.21 = { change_development_level = 15 }
 	
@@ -549,5 +549,127 @@ c_lapamea = {
 	}
 	437.4.21 = {
 		holder = 2000896
+	}
+}
+
+c_thyraia = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000895
+	}
+	437.4.21 = {
+		holder = 2000896
+	}
+}
+
+c_potenus = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000895
+	}
+	437.4.21 = {
+		holder = 2000896
+	}
+}
+
+
+c_lmagnesia = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000895
+	}
+	437.4.21 = {
+		holder = 2000896
+	}
+}
+
+
+c_brauressa = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000895
+	}
+	437.4.21 = {
+		holder = 2000896
+	}
+}
+
+
+d_mira = {
+	
+	258.4.4 = {
+		holder = 2000897
+	}
+	437.4.21 = {
+		holder = 2000898
+	}
+}
+
+c_hydeion = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000897
+	}
+	437.4.21 = {
+		holder = 2000898
+	}
+}
+
+c_sebaste = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000897
+	}
+	437.4.21 = {
+		holder = 2000898
+	}
+}
+
+c_rhypamnus = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000897
+	}
+	437.4.21 = {
+		holder = 2000898
+	}
+}
+
+c_thorussae = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000897
+	}
+	437.4.21 = {
+		holder = 2000898
+	}
+}
+
+
+c_thespedon = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000899
+	}
+	437.4.21 = {
+		holder = 2000900
 	}
 }
