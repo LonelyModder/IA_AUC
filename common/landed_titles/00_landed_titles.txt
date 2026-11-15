@@ -22737,3 +22737,13 @@ d_tarhuntassa = {
 	color = { 110 197 245 }
 	landless = yes 
 }
+
+d_meonia = {
+	color = { 44 90 211 }
+	landless = yes 
+}
+
+k_lydia = {
+	color = { 44 90 211 }
+	landless = yes 
+}

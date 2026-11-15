@@ -190,6 +190,8 @@
  d_isauri:0 "Isauri"
  k_tarhuntassa:0 "Tarhuntassa"
  d_tarhuntassa:0 "Tarhuntassa"
+ d_meonia:0 "Meonia"
+ k_lydia:0 "Lydia"
  # Empires
  e_westernrome:0 "Italia"
  e_africa:0 "Africa"

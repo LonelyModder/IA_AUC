@@ -49,7 +49,7 @@
 }
 
 2000893 = {
-	name = "Kiakki"
+	name = "Piyama"
 	dynasty = hittite_kiakkid
 	religion = "anatolian_pagan"
 	culture = hittite
@@ -70,7 +70,7 @@
 }
 
 2000894 = {
-	name = "Piyama"
+	name = "Kiakki"
 	dynasty = hittite_kiakkid
 	religion = "anatolian_pagan"
 	culture = hittite

@@ -66,9 +66,9 @@
 }
 
 2696 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = lydian
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 2697 = {		

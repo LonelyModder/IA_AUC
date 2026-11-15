@@ -2630,3 +2630,10 @@ hittite_kiakkid = {
 	culture = "hittite"
 }
 
+#Lydian
+
+lydian_omphalid = {
+	name = "dynn_Omphalid"
+	culture = "lydian"
+}
+
