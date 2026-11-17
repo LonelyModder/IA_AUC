@@ -95,9 +95,9 @@
 }
 
 3183 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = palan
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 3184 = {		

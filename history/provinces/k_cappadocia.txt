@@ -485,9 +485,9 @@
 }
 
 3067 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = hittite
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 3068 = {		
@@ -503,9 +503,9 @@
 }
 
 3070 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = hittite
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 3071 = {		
@@ -515,9 +515,9 @@
 }
 
 3072 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = hittite
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 3073 = {		
@@ -551,9 +551,9 @@
 }
 
 3078 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = hittite
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 2932 = {		

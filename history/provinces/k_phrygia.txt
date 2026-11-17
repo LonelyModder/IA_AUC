@@ -233,7 +233,7 @@
 }
 
 2926 = {		
-	culture = tarhuntassan
+	culture = hittite
 	religion = anatolian_pagan
 	holding = castle_holding
 }
@@ -437,9 +437,9 @@
 }
 
 2962 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = arawannite
+	religion = anatolian_pagan
+	holding = tribal_holding
 }
 
 2963 = {		
@@ -455,9 +455,9 @@
 }
 
 2965 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = arawannite
+	religion = anatolian_pagan
+	holding = tribal_holding
 }
 
 2966 = {		
@@ -491,9 +491,9 @@
 }
 
 2971 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = hittite
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 2972 = {		

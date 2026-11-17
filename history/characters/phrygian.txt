@@ -154,6 +154,8 @@
 	258.4.4 = {
 		add_pressed_claim = title:d_hattusa
 		add_pressed_claim = title:c_hattusa
+		add_pressed_claim = title:c_tabia
+		set_primary_title_to = title:c_hattusa
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -175,6 +177,8 @@
 	437.4.21 = {
 		add_pressed_claim = title:d_hattusa
 		add_pressed_claim = title:c_hattusa
+		add_pressed_claim = title:c_tabia
+		set_primary_title_to = title:c_hattusa
 	}
 	#437.4.21 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -384,8 +388,92 @@
 		birth = "401.1.1"
 	}
 	437.4.21 = {
-		
-	}   add_pressed_claim = title:c_tatta
+		add_pressed_claim = title:d_amorium
+		add_pressed_claim = title:c_amorium
+		add_pressed_claim = title:c_thespedon
+		add_pressed_claim = title:c_teutherna
+		add_pressed_claim = title:c_erythronnos
+	}   
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000901 = {
+	name = "Dadas"
+	dynasty = phrygian_tytid
+	religion = "thracian_pagan"
+	culture = phrygian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_tyita
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000902 = {
+	name = "Dapyx"
+	dynasty = phrygian_tytid
+	religion = "thracian_pagan"
+	culture = phrygian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_tyita
+	}   
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000903 = {
+	name = "Bryzos"
+	dynasty = phrygian_ryrid
+	religion = "thracian_pagan"
+	culture = phrygian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_ryreum
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000904 = {
+	name = "Dablosa"
+	dynasty = phrygian_ryrid
+	religion = "thracian_pagan"
+	culture = phrygian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_ryreum
+	}   
 	#437.4.21 = {
 	#	add_character_flag = do_not_generate_starting_family
 	#}

@@ -571,6 +571,8 @@
  dynn_Ancyrid:0 "Ancyrid"
  dynn_Khattid:0 "Khattid"
  dynn_Parnasid:0 "Parnasid"
+ dynn_Tytid:0 "Tytid"
+ dynn_Ryrid:0 "Ryrid"
  dynn_Purukid:0 "Purukid"
  dynn_Tattid:0 "Tattid"
  #Isaurian
@@ -594,10 +596,18 @@
  dynn_Kennatid:0 "Kennatid"
  dynn_Homonadid:0 "Homonadid"
  dynn_Adrasid:0 "Adrasid"
- #Tarhuntassan
+ #Hittite
  dynn_Hartapid:0 "Hartapid"
  dynn_Kiakkid:0 "Kiakkid"
+ dynn_Alishid:0 "Alishid"
+ dynn_Hulutid:0 "Hulutid"
+ dynn_Astamid:0 "Astamid"
  #Lydian
  dynn_Omphalid:0 "Omphalid"
  dynn_Mirid:0 "Mirid"
+ #Arawannite
+ dynn_Tuburid:0 "Tuburid"
+ dynn_Astenaippid:0 "Astenaippid"
+ #Palan
+ dynn_Nerid:0 "Nerid"
  

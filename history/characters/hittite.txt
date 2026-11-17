@@ -89,3 +89,131 @@
 		death = "469.1.1"
 	}
 }
+
+2000905 = {
+	name = "Appuasu"
+	dynasty = hittite_alishid
+	religion = "anatolian_pagan"
+	culture = hittite
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_alisar
+		add_pressed_claim = title:c_alisar
+		add_pressed_claim = title:c_epidessa
+		add_pressed_claim = title:c_sebastianopolis
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000906 = {
+	name = "Kamanis"
+	dynasty = hittite_alishid
+	religion = "anatolian_pagan"
+	culture = hittite
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_alisar
+		add_pressed_claim = title:c_alisar
+		add_pressed_claim = title:c_epidessa
+		add_pressed_claim = title:c_sebastianopolis
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000907 = {
+	name = "Hulut"
+	dynasty = hittite_hulutid
+	religion = "anatolian_pagan"
+	culture = hittite
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_sinetria
+		add_pressed_claim = title:c_mochlanos
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000908 = {
+	name = "Gunzinanu"
+	dynasty = hittite_hulutid
+	religion = "anatolian_pagan"
+	culture = hittite
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_sinetria
+		add_pressed_claim = title:c_mochlanos
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000909 = {
+	name = "Astamu"
+	dynasty = hittite_astamid
+	religion = "anatolian_pagan"
+	culture = hittite
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_metide
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000910 = {
+	name = "Talmi"
+	dynasty = hittite_astamid
+	religion = "anatolian_pagan"
+	culture = hittite
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_metide
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

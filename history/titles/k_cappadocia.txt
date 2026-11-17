@@ -306,5 +306,60 @@ c_trapolis = {
 	}
 }
 
+d_alisar = {
+	
+	258.4.4 = {
+		holder = 2000905
+	}
+	437.4.21 = {
+		holder = 2000906
+	}
+}
 
+c_epidessa = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000905
+	}
+	437.4.21 = {
+		holder = 2000906
+	}
+}
 
+c_sinetria = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000907
+	}
+	437.4.21 = {
+		holder = 2000908
+	}
+}
+
+c_mochlanos = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000907
+	}
+	437.4.21 = {
+		holder = 2000908
+	}
+}
+
+c_metide = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000909
+	}
+	437.4.21 = {
+		holder = 2000910
+	}
+}

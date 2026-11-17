@@ -1,0 +1,79 @@
+﻿2000911 = {
+	name = "Sangara"
+	dynasty = arawannite_tuburid
+	religion = "anatolian_pagan"
+	culture = arawannite
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_tenanes
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000912 = {
+	name = "Runtiya"
+	dynasty = arawannite_tuburid
+	religion = "anatolian_pagan"
+	culture = arawannite
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_tenanes
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000913 = {
+	name = "Piyassili"
+	dynasty = arawannite_astenaippid
+	religion = "anatolian_pagan"
+	culture = arawannite
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_orchia
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000914 = {
+	name = "Sastura"
+	dynasty = arawannite_astenaippid
+	religion = "anatolian_pagan"
+	culture = arawannite
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_orchia
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

@@ -2514,6 +2514,16 @@ phrygian_amorid = {
 	culture = "phrygian"
 }
 
+phrygian_tytid = {
+	name = "dynn_Tytid"
+	culture = "phrygian"
+}
+
+phrygian_ryrid = {
+	name = "dynn_Ryrid"
+	culture = "phrygian"
+}
+
 phrygian_purukid = {
 	name = "dynn_Purukid"
 	culture = "phrygian"
@@ -2635,6 +2645,21 @@ hittite_kiakkid = {
 	culture = "hittite"
 }
 
+hittite_alishid = {
+	name = "dynn_Alishid"
+	culture = "hittite"
+}
+
+hittite_hulutid = {
+	name = "dynn_Hulutid"
+	culture = "hittite"
+}
+
+hittite_astamid = {
+	name = "dynn_Astamid"
+	culture = "hittite"
+}
+
 #Lydian
 
 lydian_omphalid = {
@@ -2645,5 +2670,24 @@ lydian_omphalid = {
 lydian_mirid = {
 	name = "dynn_Mirid"
 	culture = "lydian"
+}
+
+#Arawannite
+
+arawannite_tuburid = {
+	name = "dynn_Tuburid"
+	culture = "arawannite"
+}
+
+arawannite_astenaippid = {
+	name = "dynn_Astenaippid"
+	culture = "arawannite"
+}
+
+#Palan
+
+palan_nerid = {
+	name = "dynn_Nerid"
+	culture = "palan"
 }
 

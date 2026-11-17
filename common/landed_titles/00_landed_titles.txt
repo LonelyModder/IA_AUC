@@ -22757,3 +22757,8 @@ d_amorium = {
 	color = { 151 176 233 }
 	landless = yes 
 }
+
+d_alisar = {
+	color = { 129 6 34 }
+	landless = yes 
+}

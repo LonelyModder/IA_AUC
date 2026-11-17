@@ -65,9 +65,9 @@
 }
 
 2229 = {		
-	culture = hijawan
-	religion = greek_pagan
-	holding = none
+	culture = kizzuwi
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 2230 = {		

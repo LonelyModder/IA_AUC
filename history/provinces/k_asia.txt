@@ -384,9 +384,9 @@
 }
 
 2758 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = hapallan
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 2759 = {		
@@ -444,9 +444,9 @@
 }
 
 2768 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = hapallan
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 2769 = {		

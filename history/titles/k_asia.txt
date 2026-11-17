@@ -673,3 +673,27 @@ c_thespedon = {
 		holder = 2000900
 	}
 }
+
+c_tyita = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000901
+	}
+	437.4.21 = {
+		holder = 2000902
+	}
+}
+
+c_ryreum = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000903
+	}
+	437.4.21 = {
+		holder = 2000904
+	}
+}

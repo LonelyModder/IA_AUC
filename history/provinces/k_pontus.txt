@@ -95,9 +95,9 @@
 }
 
 3268 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = hittite
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 3269 = {		
@@ -143,9 +143,9 @@
 }
 
 3276 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = hittite
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 3277 = {		

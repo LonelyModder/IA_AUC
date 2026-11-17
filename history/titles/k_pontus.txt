@@ -228,3 +228,36 @@ c_hattusa = {
 	}
 }
 
+d_alisar = {
+	
+	258.4.4 = {
+		holder = 2000905
+	}
+	437.4.21 = {
+		holder = 2000906
+	}
+}
+
+c_alisar = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000905
+	}
+	437.4.21 = {
+		holder = 2000906
+	}
+}
+
+c_sebastianopolis = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000905
+	}
+	437.4.21 = {
+		holder = 2000906
+	}
+}

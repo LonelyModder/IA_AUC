@@ -315,3 +315,49 @@ c_erythronnos = {
 	}
 }
 
+d_hattusa = {
+	
+	258.4.4 = {
+		holder = 2000818
+	}
+	437.4.21 = {
+		holder = 2000819
+	}
+}
+
+c_tabia = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000863
+	}
+	437.4.21 = {
+		holder = 2000864
+	}
+}
+
+c_tenanes = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000911
+	}
+	437.4.21 = {
+		holder = 2000912
+	}
+}
+
+c_orchia = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000913
+	}
+	437.4.21 = {
+		holder = 2000914
+	}
+}
+

@@ -89,3 +89,15 @@ c_solai = {
 	}
 }
 
+c_golgamahos = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000915
+	}
+	437.4.21 = {
+		holder = 2000916
+	}
+}
+
