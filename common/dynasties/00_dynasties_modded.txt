@@ -1152,6 +1152,11 @@ kaskan_kattaku = {
 	culture = "kaskan"
 }
 
+kaskan_sapindid = {
+	name = "dynn_Sapindid"
+	culture = "kaskan"
+}
+
 #Veneti
 
 veneti_iaritid = {
@@ -2394,6 +2399,26 @@ aeolian_theseid = {
 	culture = "aeolian"
 }
 
+aeolian_menestheid = {
+	name = "dynn_Menestheid"
+	culture = "aeolian"
+}
+
+aeolian_troadid = {
+	name = "dynn_Troadid"
+	culture = "aeolian"
+}
+
+aeolian_methymnid = {
+	name = "dynn_Methymnid"
+	culture = "aeolian"
+}
+
+aeolian_tamnosid = {
+	name = "dynn_Tamnosid"
+	culture = "aeolian"
+}
+
 #Mysian
 
 mysian_caicid = {
@@ -2506,6 +2531,11 @@ phrygian_dorianid = {
 
 phrygian_parnasid = {
 	name = "dynn_Parnasid"
+	culture = "phrygian"
+}
+
+phrygian_adrastid = {
+	name = "dynn_Adrastid"
 	culture = "phrygian"
 }
 
@@ -2689,5 +2719,71 @@ arawannite_astenaippid = {
 palan_nerid = {
 	name = "dynn_Nerid"
 	culture = "palan"
+}
+
+palan_pylaemenid = {
+	name = "dynn_Pylaemenid"
+	culture = "palan"
+}
+
+palan_potamid = {
+	name = "dynn_Potamid"
+	culture = "palan"
+}
+
+palan_ganedi = {
+	name = "dynn_Ganedi"
+	culture = "palan"
+}
+
+palan_domatid = {
+	name = "dynn_Domatid"
+	culture = "palan"
+}
+
+palan_sesamid = {
+	name = "dynn_Sesamid"
+	culture = "palan"
+}
+
+palan_amnid = {
+	name = "dynn_Amnid"
+	culture = "palan"
+}
+
+palan_phaletrid = {
+	name = "dynn_Phaletrid"
+	culture = "palan"
+}
+
+#Mushkite
+
+mushkite_mushkid = {
+	name = "dynn_Mushkid"
+	culture = "mushkite"
+}
+
+#Wilusan
+
+wilusan_adrymid = {
+	name = "dynn_Adrymid"
+	culture = "wilusan"
+}
+
+wilusan_asirid = {
+	name = "dynn_Asirid"
+	culture = "wilusan"
+}
+
+#Sehan
+
+sehan_elaeid = {
+	name = "dynn_Elaeid"
+	culture = "sehan"
+}
+
+sehan_atawaid = {
+	name = "dynn_Atawaid"
+	culture = "sehan"
 }
 

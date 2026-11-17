@@ -103,7 +103,6 @@
 		add_pressed_claim = title:d_alisar
 		add_pressed_claim = title:c_alisar
 		add_pressed_claim = title:c_epidessa
-		add_pressed_claim = title:c_sebastianopolis
 	}
 	#258.4.4 = {
 	#	add_character_flag = do_not_generate_starting_family
@@ -126,7 +125,6 @@
 		add_pressed_claim = title:d_alisar
 		add_pressed_claim = title:c_alisar
 		add_pressed_claim = title:c_epidessa
-		add_pressed_claim = title:c_sebastianopolis
 	}
 	#437.4.21 = {
 	#	add_character_flag = do_not_generate_starting_family

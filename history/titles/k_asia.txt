@@ -1,3 +1,10 @@
+k_gordion = {
+
+	437.4.21 = {
+		holder = 2000860
+	}
+}
+
 c_lemnos = {
 	258.4.4 = {	change_development_level = 3 }
 	437.4.21 = { change_development_level = 5 }
@@ -64,6 +71,7 @@ d_caiceni = {
 		holder = 2000784
 	}
 	437.4.21 = {
+		liege="k_lydia"
 		holder = 2000785
 	}
 }
@@ -95,6 +103,7 @@ c_ephiri = {
 d_doliones = {
 	
 	258.4.4 = {
+		liege="k_gordion"
 		holder = 2000786
 	}
 }
@@ -129,6 +138,7 @@ d_olympeni = {
 		holder = 2000833
 	}
 	437.4.21 = {
+		liege="k_gordion"
 		holder = 2000834
 	}
 }
@@ -163,6 +173,7 @@ d_abretteni = {
 		holder = 2000835
 	}
 	437.4.21 = {
+		liege="k_gordion"
 		holder = 2000836
 	}
 }
@@ -211,6 +222,7 @@ c_sybenai = {
 		holder = 2000837
 	}
 	437.4.21 = {
+		liege="k_gordion"
 		holder = 2000838
 	}
 }
@@ -221,6 +233,7 @@ d_doryleum = {
 		holder = 2000839
 	}
 	437.4.21 = {
+		liege="k_gordion"
 		holder = 2000840
 	}
 }
@@ -502,6 +515,7 @@ d_cibyra = {
 		holder = 2000879
 	}
 	437.4.21 = {
+		liege="k_gordion"
 		holder = 2000880
 	}
 }
@@ -530,6 +544,13 @@ c_lapamea = {
 	}
 }
 
+k_lydia = {
+	
+	437.4.21 = {
+		holder = 2000896
+	}
+}
+
 d_meonia = {
 	
 	258.4.4 = {
@@ -549,6 +570,18 @@ c_sardes = {
 	}
 	437.4.21 = {
 		holder = 2000896
+	}
+}
+
+c_temnus = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000895
+	}
+	437.4.21 = {
+		holder = 2000943
 	}
 }
 
@@ -621,6 +654,7 @@ c_hydeion = {
 		holder = 2000897
 	}
 	437.4.21 = {
+		liege="k_lydia"
 		holder = 2000898
 	}
 }
@@ -661,6 +695,15 @@ c_thorussae = {
 	}
 }
 
+d_amorium = {
+	
+	258.4.4 = {
+		holder = 2000899
+	}
+	437.4.21 = {
+		holder = 2000900
+	}
+}
 
 c_thespedon = {
 	258.4.4 = {	change_development_level = 10 }
@@ -682,6 +725,7 @@ c_tyita = {
 		holder = 2000901
 	}
 	437.4.21 = {
+		liege="k_gordion"
 		holder = 2000902
 	}
 }
@@ -694,6 +738,113 @@ c_ryreum = {
 		holder = 2000903
 	}
 	437.4.21 = {
+		liege="k_gordion"
 		holder = 2000904
+	}
+}
+
+c_ilion = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000935
+	}
+	437.4.21 = {
+		holder = 2000936
+	}
+}
+
+c_adramyttion = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000937
+	}
+	437.4.21 = {
+		holder = 2000938
+	}
+}
+
+c_assos = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000939
+	}
+	437.4.21 = {
+		holder = 2000940
+	}
+}
+
+d_adrasti = {
+	
+	258.4.4 = {
+		holder = 2000941
+	}
+	437.4.21 = {
+		holder = 2000942
+	}
+}
+
+c_parium = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000941
+	}
+	437.4.21 = {
+		holder = 2000942
+	}
+}
+
+c_nysamea = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000941
+	}
+	437.4.21 = {
+		holder = 2000942
+	}
+}
+
+c_salantina = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000941
+	}
+	437.4.21 = {
+		holder = 2000942
+	}
+}
+
+c_i_elaea = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000944
+	}
+	437.4.21 = {
+		holder = 2000945
+	}
+}
+
+c_attea = {
+	258.4.4 = {	change_development_level = 10 }
+	437.4.21 = { change_development_level = 15 }
+	
+	258.4.4 = {
+		holder = 2000946
+	}
+	437.4.21 = {
+		holder = 2000947
 	}
 }

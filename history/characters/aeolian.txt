@@ -117,3 +117,103 @@
 		death = "469.1.1"
 	}
 }
+
+2000935 = {
+	name = "Troas"
+	dynasty = aeolian_troadid
+	religion = "greek_pagan"
+	culture = aeolian
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_ilion
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000936 = {
+	name = "Kallines"
+	dynasty = aeolian_troadid
+	religion = "greek_pagan"
+	culture = aeolian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_ilion
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000940 = {
+	name = "Hekataios"
+	dynasty = aeolian_methymnid
+	religion = "greek_pagan"
+	culture = aeolian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_assos
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000943 = {
+	name = "Hekataios"
+	dynasty = aeolian_tamnosid
+	religion = "greek_pagan"
+	culture = aeolian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_temnus
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000945 = {
+	name = "Sotas"
+	dynasty = aeolian_menestheid
+	religion = "greek_pagan"
+	culture = aeolian
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_i_elaea
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

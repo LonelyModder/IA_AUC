@@ -265,6 +265,7 @@
  dynn_SuhlamuInzak:0 "Suhlamu-Inzak"
  #Kaskan
  dynn_Kattaku:0 "Kattaku"
+ dynn_Sapindid:0 "Sapindid"
  #Veneti
  dynn_Iaritid:0 "Iaritid"
  #Histrian
@@ -541,6 +542,10 @@
  dynn_Penthilid:0 "Penthilid"
  dynn_Kymeid:0 "Kymeid"
  dynn_Theseid:0 "Theseid"
+ dynn_Troadid:0 "Troadid"
+ dynn_Methymnid:0 "Methymnid"
+ dynn_Tamnosid:0 "Tamnosid"
+ dynn_Menestheid:0 "Menestheid"
  #Mysian
  dynn_Caicid:0 "Caicid"
  dynn_Dolionid:0 "Dolionid"
@@ -566,7 +571,7 @@
  dynn_Mariandid:0 "Mariandid"
  #Phrygian
  dynn_Dorianid:0 "Dorianid"
- dynn_Amorid;0 "Amorid"
+ dynn_Amorid:0 "Amorid"
  dynn_Gordianid:0 "Gordianid"
  dynn_Ancyrid:0 "Ancyrid"
  dynn_Khattid:0 "Khattid"
@@ -575,6 +580,7 @@
  dynn_Ryrid:0 "Ryrid"
  dynn_Purukid:0 "Purukid"
  dynn_Tattid:0 "Tattid"
+ dynn_Adrastid:0 "Adrastid"
  #Isaurian
  dynn_Cibrid:0 "Cibrid"
  #Lycian
@@ -610,4 +616,19 @@
  dynn_Astenaippid:0 "Astenaippid"
  #Palan
  dynn_Nerid:0 "Nerid"
+ dynn_Pylaemenid:0 "Pylaemenid"
+ dynn_Potamid:0 "Potamid"
+ dynn_Ganedi:0 "Ganedi"
+ dynn_Domatid:0 "Domatid"
+ dynn_Sesamid:0 "Sesamid"
+ dynn_Amnid:0 "Amnid"
+ dynn_Phaletrid:0 "Phaletrid"
+ #Mushkite
+ dynn_Mushkid:0 "Mushkid"
+ #Wilusan
+ dynn_Adrymid:0 "Adrymid"
+ dynn_Asirid:0 "Asirid"
+ #Sehan
+ dynn_Elaeid:0 "Elaeid"
+ dynn_Atawaid:0 "Atawaid"
  

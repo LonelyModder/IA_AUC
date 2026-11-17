@@ -37,3 +37,311 @@
 		death = "469.1.1"
 	}
 }
+
+2000917 = {
+	name = "Henetus"
+	dynasty = palan_pylaemenid
+	religion = "anatolian_pagan"
+	culture = palan
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_heneti
+		add_pressed_claim = title:c_astosia
+		add_pressed_claim = title:c_ionopolis
+		add_pressed_claim = title:c_zacotiri
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000918 = {
+	name = "Hapatila"
+	dynasty = palan_pylaemenid
+	religion = "anatolian_pagan"
+	culture = palan
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_heneti
+		add_pressed_claim = title:c_astosia
+		add_pressed_claim = title:c_ionopolis
+		add_pressed_claim = title:c_zacotiri
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000919 = {
+	name = "Kamanis"
+	dynasty = palan_potamid
+	religion = "anatolian_pagan"
+	culture = palan
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_potami
+		add_pressed_claim = title:c_assacuse
+		add_pressed_claim = title:c_petsetros
+		add_pressed_claim = title:c_hyblion
+		add_pressed_claim = title:c_hadrianopolisa
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000920 = {
+	name = "Yariri"
+	dynasty = palan_potamid
+	religion = "anatolian_pagan"
+	culture = palan
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_potami
+		add_pressed_claim = title:c_assacuse
+		add_pressed_claim = title:c_petsetros
+		add_pressed_claim = title:c_hyblion
+		add_pressed_claim = title:c_hadrianopolisa
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000921 = {
+	name = "Ini"
+	dynasty = palan_ganedi
+	religion = "anatolian_pagan"
+	culture = palan
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_ganyri
+		add_pressed_claim = title:c_germanicopolis
+		add_pressed_claim = title:c_pelliene
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000922 = {
+	name = "Suhi"
+	dynasty = palan_ganedi
+	religion = "anatolian_pagan"
+	culture = palan
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_ganyri
+		add_pressed_claim = title:c_germanicopolis
+		add_pressed_claim = title:c_pelliene
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000923 = {
+	name = "Astiruwa"
+	dynasty = palan_domatid
+	religion = "anatolian_pagan"
+	culture = palan
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_domaniti
+		add_pressed_claim = title:c_pompeiopolis
+		add_pressed_claim = title:c_moneusis
+		add_pressed_claim = title:c_zanclai
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000924 = {
+	name = "Runtiya"
+	dynasty = palan_domatid
+	religion = "anatolian_pagan"
+	culture = palan
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_domaniti
+		add_pressed_claim = title:c_pompeiopolis
+		add_pressed_claim = title:c_moneusis
+		add_pressed_claim = title:c_zanclai
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000925 = {
+	name = "Sahurunuwa"
+	dynasty = palan_sesamid
+	religion = "anatolian_pagan"
+	culture = palan
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:d_sesamoni
+		add_pressed_claim = title:c_lisseus
+		add_pressed_claim = title:c_sinope
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000926 = {
+	name = "Sulumal"
+	dynasty = palan_sesamid
+	religion = "anatolian_pagan"
+	culture = palan
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:d_sesamoni
+		add_pressed_claim = title:c_lisseus
+		add_pressed_claim = title:c_sinope
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000927 = {
+	name = "Kamani"
+	dynasty = palan_amnid
+	religion = "anatolian_pagan"
+	culture = palan
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_sidenion
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000928 = {
+	name = "Sastura"
+	dynasty = palan_amnid
+	religion = "anatolian_pagan"
+	culture = palan
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_sidenion
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}
+
+2000929 = {
+	name = "Kundaspu"
+	dynasty = palan_phaletrid
+	religion = "anatolian_pagan"
+	culture = palan
+	#father = 32974
+	221.1.1 = {
+		birth = "221.1.1"
+	}
+	258.4.4 = {
+		add_pressed_claim = title:c_phaletria
+	}
+	#258.4.4 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	268.1.1 = {
+		death = "268.1.1"
+	}
+}
+
+2000930 = {
+	name = "Appuasu"
+	dynasty = palan_phaletrid
+	religion = "anatolian_pagan"
+	culture = palan
+	#father = 32974
+	401.1.1 = {
+		birth = "401.1.1"
+	}
+	437.4.21 = {
+		add_pressed_claim = title:c_phaletria
+	}
+	#437.4.21 = {
+	#	add_character_flag = do_not_generate_starting_family
+	#}
+	469.1.1 = {
+		death = "469.1.1"
+	}
+}

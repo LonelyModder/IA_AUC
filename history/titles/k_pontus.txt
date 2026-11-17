@@ -209,10 +209,11 @@ c_phareron = {
 d_hattusa = {
 	
 	258.4.4 = {
-		holder = 2000818
+		holder = 2000863
 	}
 	437.4.21 = {
-		holder = 2000819
+		liege="k_gordion"
+		holder = 2000864
 	}
 }
 
@@ -250,14 +251,130 @@ c_alisar = {
 	}
 }
 
-c_sebastianopolis = {
-	258.4.4 = {	change_development_level = 10 }
-	437.4.21 = { change_development_level = 15 }
+d_moshoi = {
 	
 	258.4.4 = {
-		holder = 2000905
+		holder = 2000931
 	}
 	437.4.21 = {
-		holder = 2000906
+		holder = 2000932
+	}
+}
+
+c_barike = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000931
+	}
+	437.4.21 = {
+		holder = 2000932
+	}
+}
+
+c_magnopolis = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000931
+	}
+	437.4.21 = {
+		holder = 2000932
+	}
+}
+
+c_neocaseraea = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000931
+	}
+	437.4.21 = {
+		holder = 2000932
+	}
+}
+
+c_croteusis = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000931
+	}
+	437.4.21 = {
+		holder = 2000932
+	}
+}
+
+c_diosamahos = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000931
+	}
+	437.4.21 = {
+		holder = 2000932
+	}
+}
+
+c_sebastianopolis = {
+	258.4.4 = {	change_development_level = 1 }
+	437.4.21 = { change_development_level = 1 }
+	
+	258.4.4 = {
+		holder = 2000931
+	}
+	437.4.21 = {
+		holder = 2000932
+	}
+}
+
+d_sapinuwa = {
+	
+	258.4.4 = {
+		holder = 2000933
+	}
+	437.4.21 = {
+		holder = 2000934
+	}
+}
+
+c_eubetrias = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000933
+	}
+	437.4.21 = {
+		holder = 2000934
+	}
+}
+
+c_epideze = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000933
+	}
+	437.4.21 = {
+		holder = 2000934
+	}
+}
+
+c_megasae = {
+	258.4.4 = {	change_development_level = 5 }
+	437.4.21 = { change_development_level = 10 }
+	
+	258.4.4 = {
+		holder = 2000933
+	}
+	437.4.21 = {
+		holder = 2000934
 	}
 }

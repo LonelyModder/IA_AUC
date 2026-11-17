@@ -22762,3 +22762,43 @@ d_alisar = {
 	color = { 129 6 34 }
 	landless = yes 
 }
+
+d_heneti = {
+	color = { 45 201 223 }
+	landless = yes 
+}
+
+d_potami = {
+	color = { 45 186 93 }
+	landless = yes 
+}
+
+d_ganyri = {
+	color = { 3 153 215 }
+	landless = yes 
+}
+
+d_domaniti = {
+	color = { 3 15 0 }
+	landless = yes 
+}
+
+d_sesamoni = {
+	color = { 3 45 5 }
+	landless = yes 
+}
+
+d_moshoi = {
+	color = { 171 207 32 }
+	landless = yes 
+}
+
+d_sapinuwa = {
+	color = { 45 15 163 }
+	landless = yes 
+}
+
+d_adrasti = {
+	color = { 28 196 226 }
+	landless = yes 
+}

@@ -35,9 +35,9 @@
 }
 
 3258 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = kaskan
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 3259 = {		
@@ -113,9 +113,9 @@
 }
 
 3271 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = kaskan
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 3272 = {		
@@ -143,9 +143,9 @@
 }
 
 3276 = {		
-	culture = hittite
-	religion = anatolian_pagan
-	holding = castle_holding
+	culture = mushkite
+	religion = caucasian_pagan
+	holding = tribal_holding
 }
 
 3277 = {		
@@ -161,15 +161,15 @@
 }
 
 3279 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = kaskan
+	religion = anatolian_pagan
+	holding = castle_holding
 }
 
 3280 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = mushkite
+	religion = caucasian_pagan
+	holding = tribal_holding
 }
 
 3281 = {		
@@ -185,9 +185,9 @@
 }
 
 3283 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = mushkite
+	religion = caucasian_pagan
+	holding = tribal_holding
 }
 
 3284 = {		
@@ -239,9 +239,9 @@
 }
 
 3292 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = mushkite
+	religion = caucasian_pagan
+	holding = tribal_holding
 }
 
 3293 = {		
@@ -257,15 +257,15 @@
 }
 
 3295 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = mushkite
+	religion = caucasian_pagan
+	holding = tribal_holding
 }
 
 3296 = {		
-	culture = baranis
-	religion = west_african_pagan
-	holding = none
+	culture = mushkite
+	religion = caucasian_pagan
+	holding = tribal_holding
 }
 
 3297 = {		

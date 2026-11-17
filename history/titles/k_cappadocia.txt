@@ -290,6 +290,7 @@ c_tararos = {
 		holder = 2000893
 	}
 	437.4.21 = {
+		liege="k_gordion"
 		holder = 2000894
 	}
 }
@@ -302,6 +303,7 @@ c_trapolis = {
 		holder = 2000893
 	}
 	437.4.21 = {
+		liege="k_gordion"
 		holder = 2000894
 	}
 }
@@ -336,6 +338,7 @@ c_sinetria = {
 		holder = 2000907
 	}
 	437.4.21 = {
+		liege="k_gordion"
 		holder = 2000908
 	}
 }
@@ -348,6 +351,7 @@ c_mochlanos = {
 		holder = 2000907
 	}
 	437.4.21 = {
+		liege="k_gordion"
 		holder = 2000908
 	}
 }
