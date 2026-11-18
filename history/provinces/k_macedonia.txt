@@ -5,20 +5,14 @@
 }
 
 1235 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 1236 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 1237 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -35,26 +29,18 @@
 }
 
 1240 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 1241 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 1242 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 1243 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -65,14 +51,10 @@
 }
 
 1245 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 1246 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -83,8 +65,6 @@
 }
 
 1248 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -113,8 +93,6 @@
 }
 
 1253 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -125,50 +103,34 @@
 }
 
 1273 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 1281 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 1282 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 1283 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 1284 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 1285 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 1286 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 1287 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -191,14 +153,10 @@
 }
 
 1292 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 1293 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -215,32 +173,22 @@
 }
 
 1296 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 1297 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 1298 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 1299 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 1300 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -251,20 +199,14 @@
 }
 
 1302 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 1303 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 1304 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -275,8 +217,6 @@
 }
 
 1306 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -292,14 +232,10 @@
 }
 
 1308 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 1309 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -310,14 +246,10 @@
 }
 
 1311 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 1312 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -340,20 +272,14 @@
 }
 
 1316 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 1317 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 1318 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -364,8 +290,6 @@
 }
 
 1320 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -376,8 +300,6 @@
 }
 
 1322 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -388,14 +310,10 @@
 }
 
 1324 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 1325 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -406,8 +324,6 @@
 }
 
 1327 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -424,20 +340,14 @@
 }
 
 1330 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 1331 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 1332 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -454,14 +364,10 @@
 }
 
 1335 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 1336 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -472,14 +378,10 @@
 }
 
 1338 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 1339 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -496,20 +398,14 @@
 }
 
 1342 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 1343 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 1346 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -520,32 +416,22 @@
 }
 
 1348 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 1349 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 1350 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 1368 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 1369 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -556,8 +442,6 @@
 }
 
 1371 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -568,20 +452,14 @@
 }
 
 1373 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 1374 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 1375 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -592,8 +470,6 @@
 }
 
 1377 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -604,7 +480,5 @@
 }
 
 1379 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }

@@ -5,7 +5,6 @@
 }
 
 3464 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
@@ -17,13 +16,11 @@
 }
 
 3466 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
 
 3467 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
@@ -35,25 +32,21 @@
 }
 
 3469 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
 
 3470 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
 
 3471 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
 
 3472 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
@@ -65,13 +58,11 @@
 }
 
 3474 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
 
 3475 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
@@ -83,25 +74,21 @@
 }
 
 3477 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
 
 3478 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
 
 3479 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
 
 3480 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
@@ -113,7 +100,6 @@
 }
 
 3482 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
@@ -125,13 +111,11 @@
 }
 
 3484 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
 
 3485 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
@@ -143,49 +127,41 @@
 }
 
 3487 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
 
 3488 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
 
 3489 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
 
 3490 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
 
 3491 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
 
 3492 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
 
 3493 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
 
 3494 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
@@ -197,7 +173,6 @@
 }
 
 3496 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
@@ -209,13 +184,11 @@
 }
 
 3498 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
 
 3499 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
@@ -227,7 +200,6 @@
 }
 
 3501 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
@@ -239,13 +211,11 @@
 }
 
 3503 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
 
 3504 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
@@ -257,13 +227,11 @@
 }
 
 3506 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
 
 3507 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
@@ -275,13 +243,11 @@
 }
 
 3509 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
 
 3510 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
@@ -293,19 +259,16 @@
 }
 
 3515 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
 
 3516 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
 
 3517 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
@@ -317,37 +280,31 @@
 }
 
 3519 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
 
 3520 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
 
 3521 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
 
 3522 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
 
 3523 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
 
 3524 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
@@ -359,13 +316,11 @@
 }
 
 3526 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
 
 3527 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
@@ -377,19 +332,16 @@
 }
 
 3529 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
 
 3530 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
 
 3531 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
@@ -401,13 +353,11 @@
 }
 
 3533 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
 
 3534 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
@@ -425,25 +375,21 @@
 }
 
 3537 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
 
 3538 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
 
 3539 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
 
 3540 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
@@ -455,19 +401,16 @@
 }
 
 3542 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
 
 3543 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
 
 3544 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }
@@ -479,7 +422,6 @@
 }
 
 3546 = {		
-	culture = baranis
 	religion = ashurism_pagan
 	holding = none
 }

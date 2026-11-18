@@ -1,36 +1,24 @@
 ﻿3252 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 3253 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 3254 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 3255 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 3256 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 3257 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -41,32 +29,22 @@
 }
 
 3259 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 3260 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 3261 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 3262 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 3263 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -77,20 +55,14 @@
 }
 
 3265 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 3266 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 3267 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -101,14 +73,10 @@
 }
 
 3269 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 3270 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -119,26 +87,18 @@
 }
 
 3272 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 3273 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 3274 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 3275 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -149,14 +109,10 @@
 }
 
 3277 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 3278 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -173,14 +129,10 @@
 }
 
 3281 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 3282 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -191,38 +143,26 @@
 }
 
 3284 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 3285 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 3286 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 3287 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 3288 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 3289 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -233,8 +173,6 @@
 }
 
 3291 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -245,8 +183,6 @@
 }
 
 3293 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -269,20 +205,14 @@
 }
 
 3297 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 3298 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 3299 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -293,20 +223,14 @@
 }
 
 3301 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 3302 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 3303 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -317,14 +241,10 @@
 }
 
 3305 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 3306 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -335,26 +255,18 @@
 }
 
 3308 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 3309 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 3310 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 3311 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -365,14 +277,10 @@
 }
 
 3313 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 3314 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -383,8 +291,6 @@
 }
 
 3316 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -395,20 +301,14 @@
 }
 
 3318 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 3319 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 3320 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -419,14 +319,10 @@
 }
 
 3322 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 3323 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -437,20 +333,14 @@
 }
 
 3325 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 3326 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 3327 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -461,14 +351,10 @@
 }
 
 3329 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 3330 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -482,14 +368,10 @@
 }
 
 3332 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 3333 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -500,14 +382,10 @@
 }
 
 3335 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 3336 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -518,7 +396,5 @@
 }
 
 3338 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }

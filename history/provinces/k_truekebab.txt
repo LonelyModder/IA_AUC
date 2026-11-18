@@ -1,6 +1,4 @@
 ﻿2384 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -11,14 +9,10 @@
 }
 
 2386 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 2387 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -29,14 +23,10 @@
 }
 
 2389 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 2390 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -47,26 +37,18 @@
 }
 
 2392 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 2393 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 2394 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 2395 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -77,26 +59,18 @@
 }
 
 2397 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 2398 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 2399 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 2400 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -113,14 +87,10 @@
 }
 
 2403 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 2404 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -131,38 +101,26 @@
 }
 
 2406 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 2407 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 2408 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 2411 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 2413 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 2437 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -173,14 +131,10 @@
 }
 
 2441 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 2442 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -191,38 +145,26 @@
 }
 
 2444 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 2445 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 2446 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 2447 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 2448 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 2449 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -233,20 +175,14 @@
 }
 
 2459 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 2460 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 2461 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -269,14 +205,10 @@
 }
 
 2465 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 2466 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -287,56 +219,38 @@
 }
 
 2468 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 2469 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 2470 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 2471 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 2472 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 2473 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 2474 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 2475 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 2476 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -356,20 +270,14 @@
 }
 
 2488 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 2489 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 2490 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -380,26 +288,18 @@
 }
 
 2492 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 2493 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 2494 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 2495 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -410,19 +310,13 @@
 }
 
 2497 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 2498 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 2499 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }

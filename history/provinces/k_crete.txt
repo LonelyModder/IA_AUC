@@ -1,6 +1,4 @@
 ﻿1131 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -23,8 +21,6 @@
 }
 
 1135 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -41,8 +37,6 @@
 }
 
 1138 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 

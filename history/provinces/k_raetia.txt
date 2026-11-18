@@ -1,6 +1,4 @@
 ﻿565 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -11,8 +9,6 @@
 }
 
 561 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -23,20 +19,14 @@
 }
 
 563 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 558 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 559 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -47,8 +37,6 @@
 }
 
 568 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -71,20 +59,14 @@
 }
 
 604 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 605 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 606 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -95,26 +77,18 @@
 }
 
 616 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 608 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 620 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 621 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -125,14 +99,10 @@
 }
 
 566 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 571 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -143,14 +113,10 @@
 }
 
 573 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 574 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -161,8 +127,6 @@
 }
 
 576 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -173,8 +137,6 @@
 }
 
 578 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -185,8 +147,6 @@
 }
 
 580 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -197,8 +157,6 @@
 }
 
 618 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -215,14 +173,10 @@
 }
 
 609 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 611 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -233,14 +187,10 @@
 }
 
 614 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 619 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -251,20 +201,14 @@
 }
 
 623 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 630 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 631 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -275,20 +219,14 @@
 }
 
 633 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 628 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 629 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -299,38 +237,26 @@
 }
 
 625 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 626 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 627 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 613 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 637 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 634 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -341,8 +267,6 @@
 }
 
 636 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -353,32 +277,22 @@
 }
 
 639 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 640 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 641 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 642 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 643 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -389,7 +303,5 @@
 }
 
 645 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }

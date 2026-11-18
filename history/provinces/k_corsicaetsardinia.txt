@@ -5,19 +5,16 @@
 }
 
 73 = {		
-	culture = baranis
 	religion = nuragic_pagan
 	holding = none
 }
 
 74 = {		
-	culture = baranis
 	religion = nuragic_pagan
 	holding = none
 }
 
 75 = {		
-	culture = baranis
 	religion = nuragic_pagan
 	holding = none
 }
@@ -29,13 +26,11 @@
 }
 
 77 = {		
-	culture = baranis
 	religion = nuragic_pagan
 	holding = none
 }
 
 78 = {		
-	culture = baranis
 	religion = nuragic_pagan
 	holding = none
 }
@@ -53,13 +48,11 @@
 }
 
 81 = {		
-	culture = baranis
 	religion = nuragic_pagan
 	holding = none
 }
 
 82 = {		
-	culture = baranis
 	religion = nuragic_pagan
 	holding = none
 }
@@ -77,7 +70,6 @@
 }
 
 85 = {		
-	culture = baranis
 	religion = nuragic_pagan
 	holding = none
 }
@@ -89,7 +81,6 @@
 }
 
 87 = {		
-	culture = baranis
 	religion = nuragic_pagan
 	holding = none
 }
@@ -101,19 +92,16 @@
 }
 
 89{ 
-	culture = baranis
 	religion = nuragic_pagan
 	holding = none
 }
 
 90 = {		
-	culture = baranis
 	religion = nuragic_pagan
 	holding = none
 }
 
 91 = {		
-	culture = baranis
 	religion = nuragic_pagan
 	holding = none
 }
@@ -125,13 +113,11 @@
 }
 
 93 = {		
-	culture = baranis
 	religion = nuragic_pagan
 	holding = none
 }
 
 94 = {		
-	culture = baranis
 	religion = nuragic_pagan
 	holding = none
 }
@@ -155,19 +141,16 @@
 }
 
 98 = {		
-	culture = baranis
 	religion = nuragic_pagan
 	holding = none
 }
 
 99 = {		
-	culture = baranis
 	religion = nuragic_pagan
 	holding = none
 }
 
 100 = {		
-	culture = baranis
 	religion = nuragic_pagan
 	holding = none
 }
@@ -179,7 +162,6 @@
 }
 
 102 = {		
-	culture = baranis
 	religion = nuragic_pagan
 	holding = none
 }
@@ -191,19 +173,16 @@
 }
 
 104 = {		
-	culture = baranis
 	religion = nuragic_pagan
 	holding = none
 }
 
 105 = {		
-	culture = baranis
 	religion = nuragic_pagan
 	holding = none
 }
 
 106 = {		
-	culture = baranis
 	religion = nuragic_pagan
 	holding = none
 }
@@ -221,7 +200,6 @@
 }
 
 109 = {		
-	culture = baranis
 	religion = nuragic_pagan
 	holding = none
 }
@@ -233,13 +211,11 @@
 }
 
 111 = {		
-	culture = baranis
 	religion = nuragic_pagan
 	holding = none
 }
 
 112 = {		
-	culture = baranis
 	religion = nuragic_pagan
 	holding = none
 }

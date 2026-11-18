@@ -5,8 +5,6 @@
 }
 
 725 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -17,20 +15,14 @@
 }
 
 727 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 728 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 729 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -41,8 +33,6 @@
 }
 
 731 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -53,8 +43,6 @@
 }
 
 733 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -65,14 +53,10 @@
 }
 
 735 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 736 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -83,8 +67,6 @@
 }
 
 738 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -95,8 +77,6 @@
 }
 
 740 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -107,8 +87,6 @@
 }
 
 742 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -131,20 +109,14 @@
 }
 
 746 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 747 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 748 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -155,14 +127,10 @@
 }
 
 750 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 751 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -197,20 +165,14 @@
 }
 
 757 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 758 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 759 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -227,8 +189,6 @@
 }
 
 762 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -239,8 +199,6 @@
 }
 
 764 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -251,20 +209,14 @@
 }
 
 766 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 767 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 768 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -275,14 +227,10 @@
 }
 
 770 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 771 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -309,8 +257,6 @@
 }
 
 774 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -321,14 +267,10 @@
 }
 
 776 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 777 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -339,26 +281,18 @@
 }
 
 779 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 780 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 781 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 782 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -375,8 +309,6 @@
 }
 
 785 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -387,8 +319,6 @@
 }
 
 787 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -399,8 +329,6 @@
 }
 
 789 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -417,32 +345,22 @@
 }
 
 792 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 793 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 794 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 795 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 796 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -453,26 +371,18 @@
 }
 
 798 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 799 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 800 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 801 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -483,14 +393,10 @@
 }
 
 803 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 804 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -501,8 +407,6 @@
 }
 
 806 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -513,8 +417,6 @@
 }
 
 808 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -525,14 +427,10 @@
 }
 
 810 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 811 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -543,8 +441,6 @@
 }
 
 813 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -555,8 +451,6 @@
 }
 
 815 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -567,20 +461,14 @@
 }
 
 817 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 818 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 819 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -591,8 +479,6 @@
 }
 
 821 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -603,13 +489,9 @@
 }
 
 823 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 824 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }

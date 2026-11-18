@@ -5,19 +5,16 @@
 }
 
 1958 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 1959 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 1960 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -29,19 +26,16 @@
 }
 
 1962 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 1963 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 1964 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -53,13 +47,11 @@
 }
 
 1966 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 1967 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -71,7 +63,6 @@
 }
 
 1969 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -83,13 +74,11 @@
 }
 
 1971 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 1972 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -107,13 +96,11 @@
 }
 
 1975 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 1976 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -125,19 +112,16 @@
 }
 
 1978 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 1979 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 1980 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -149,7 +133,6 @@
 }
 
 1982 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -161,13 +144,11 @@
 }
 
 1984 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 1985 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -185,7 +166,6 @@
 }
 
 1988 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -197,19 +177,16 @@
 }
 
 1990 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 1991 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 1992 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -221,7 +198,6 @@
 }
 
 1995 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -233,13 +209,11 @@
 }
 
 1997 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 1998 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -251,13 +225,11 @@
 }
 
 2000 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2001 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -269,49 +241,41 @@
 }
 
 2003 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2004 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2005 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2006 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2007 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2011 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2012 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2013 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -323,7 +287,6 @@
 }
 
 2015 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -335,37 +298,31 @@
 }
 
 2017 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2018 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2019 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2020 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2021 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2022 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -383,31 +340,26 @@
 }
 
 2025 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2026 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2027 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2028 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2029 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -425,19 +377,16 @@
 }
 
 2032 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2116 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2117 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -449,13 +398,11 @@
 }
 
 2081 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2082 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -467,25 +414,21 @@
 }
 
 2084 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2085 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2086 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2087 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -497,49 +440,41 @@
 }
 
 2062 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2063 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2064 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2065 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2066 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2067 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2068 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2069 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -557,31 +492,26 @@
 }
 
 2070 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2078 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2079 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2101 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2102 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -593,13 +523,11 @@
 }
 
 2105 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2106 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -611,25 +539,21 @@
 }
 
 2108 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2080 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2033 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2034 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -641,13 +565,11 @@
 }
 
 2036 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2037 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -665,19 +587,16 @@
 }
 
 2040 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2041 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2042 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -689,19 +608,16 @@
 }
 
 2044 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2045 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2046 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -713,19 +629,16 @@
 }
 
 2048 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2049 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2050 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -737,25 +650,21 @@
 }
 
 2052 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2053 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2054 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2055 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -767,25 +676,21 @@
 }
 
 2057 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2058 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2059 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2060 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -797,43 +702,36 @@
 }
 
 2072 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2073 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 1994 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2074 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2075 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2076 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2088 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -845,13 +743,11 @@
 }
 
 2090 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2091 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -863,7 +759,6 @@
 }
 
 2093 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -875,25 +770,21 @@
 }
 
 2095 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2096 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2097 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2098 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -905,13 +796,11 @@
 }
 
 2100 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2103 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -923,25 +812,21 @@
 }
 
 2109 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2110 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2111 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2112 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -953,31 +838,26 @@
 }
 
 2114 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2115 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2119 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2120 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2121 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -989,49 +869,41 @@
 }
 
 2123 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2124 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2125 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2126 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2127 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2128 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2129 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2130 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -1043,19 +915,16 @@
 }
 
 2132 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2133 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2134 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -1067,25 +936,21 @@
 }
 
 2136 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 2137 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 1898 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 1899 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -1097,13 +962,11 @@
 }
 
 1901 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 1902 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -1121,7 +984,6 @@
 }
 
 1905 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -1133,25 +995,21 @@
 }
 
 1907 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 1908 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 1909 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 1910 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -1163,67 +1021,56 @@
 }
 
 1912 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 1913 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 1914 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 1915 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 1916 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 1917 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 1918 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 1920 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 1921 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 1922 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 1923 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -1247,31 +1094,26 @@
 }
 
 1927 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 1928 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 1929 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 1930 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 1933 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
@@ -1283,31 +1125,26 @@
 }
 
 1935 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 1936 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 1937 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 1938 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }
 
 1939 = {		
-	culture = baranis
 	religion = kemetic_pagan
 	holding = none
 }

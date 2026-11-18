@@ -5,8 +5,6 @@
 }
 
 2204 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -59,14 +57,10 @@
 }
 
 2213 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 2214 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 

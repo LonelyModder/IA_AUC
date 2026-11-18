@@ -10,8 +10,6 @@
 }
 
 12 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -33,8 +31,6 @@
 }
 
 22 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = city_holding
 }
 
@@ -45,14 +41,10 @@
 }
 
 24 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 25 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -80,14 +72,10 @@
 }
 
 29 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
 30 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -104,8 +92,6 @@
 }
 
 33 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -116,8 +102,6 @@
 }
 
 35 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -128,8 +112,6 @@
 }
 
 37 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -140,8 +122,6 @@
 }
 
 39 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -164,8 +144,6 @@
 }
 
 43 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -186,8 +164,6 @@
 }
 
 46 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
@@ -204,8 +180,6 @@
 }
 
 49 = {		
-	culture = baranis
-	religion = west_african_pagan
 	holding = none
 }
 
