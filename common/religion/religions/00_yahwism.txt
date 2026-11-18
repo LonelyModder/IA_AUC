@@ -214,7 +214,7 @@
 
 	faiths = {
 		yahwism_pagan = {
-			color = { 0.86 0.86 0.86 }
+			color = { 0.28 0.82 0.8 }
 			icon = yahwism
 			reformed_icon = yahwism_reformed
 

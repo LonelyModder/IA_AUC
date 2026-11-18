@@ -1,5 +1,5 @@
 ﻿hellenic_group = {
-	color = { 0.82 0.1 0.26 }
+	color = { 0.06 0.75 0.99 }
 
 	ethos = ethos_bellicose
 	heritage = heritage_greek
@@ -23,7 +23,7 @@
 }
 
 doric = {
-	color = { 0.64 0.81 0.94 }
+	color = { 0.06 0.75 0.99 }
 	
 	parents = { hellenic_group }
 	
@@ -52,7 +52,7 @@ doric = {
 }
 
 aeolian = {
-	color = { 0.74 0.81 0.94 }
+	color = { 0.06 0.75 0.99 }
 	
 	parents = { hellenic_group }
 	
@@ -81,7 +81,7 @@ aeolian = {
 }
 
 northwesterngreek = {
-	color = { 0.74 0.81 0.94 }
+	color = { 0.06 0.75 0.99 }
 	
 	parents = { hellenic_group }
 	
@@ -110,7 +110,7 @@ northwesterngreek = {
 }
 
 thessalian = {
-	color = { 0.84 0.81 0.94 }
+	color = { 0.06 0.75 0.99 }
 	
 	parents = { hellenic_group }
 	
@@ -139,7 +139,7 @@ thessalian = {
 }
 
 attic = {
-	color = { 0.94 0.81 0.94 }
+	color = { 0.06 0.75 0.99 }
 	
 	parents = { hellenic_group }
 	
@@ -168,7 +168,7 @@ attic = {
 }
 
 arcadian = {
-	color = { 0.89 0.81 0.94 }
+	color = { 0.06 0.75 0.99 }
 	
 	parents = { hellenic_group }
 	
@@ -197,7 +197,7 @@ arcadian = {
 }
 
 cretan = {
-	color = { 0.59 0.81 0.94 }
+	color = { 0.06 0.75 0.99 }
 	
 	parents = { hellenic_group }
 	
@@ -226,7 +226,7 @@ cretan = {
 }
 
 italiote = {
-	color = { 0.54 0.81 0.94 }
+	color = { 0.06 0.75 0.99 }
 	
 	parents = { hellenic_group }
 	
@@ -255,7 +255,7 @@ italiote = {
 }
 
 dorean = {
-	color = { 0.49 0.81 0.94 }
+	color = { 0.06 0.75 0.99 }
 	
 	parents = { hellenic_group }
 	
@@ -284,7 +284,7 @@ dorean = {
 }
 
 scielote = {
-	color = { 0.44 0.81 0.94 }
+	color = { 0.06 0.75 0.99 }
 	
 	parents = { hellenic_group }
 	
@@ -313,7 +313,7 @@ scielote = {
 }
 
 achean = {
-	color = { 0.39 0.81 0.94 }
+	color = { 0.06 0.75 0.99 }
 	
 	parents = { hellenic_group }
 	
@@ -342,7 +342,7 @@ achean = {
 }
 
 cypriote = {
-	color = { 0.34 0.81 0.94 }
+	color = { 0.06 0.75 0.99 }
 	
 	parents = { hellenic_group }
 	
@@ -371,7 +371,7 @@ cypriote = {
 }
 
 ionian = {
-	color = { 0.29 0.81 0.94 }
+	color = { 0.06 0.75 0.99 }
 	
 	parents = { hellenic_group }
 	
@@ -400,7 +400,7 @@ ionian = {
 }
 
 hijawan = {
-	color = { 0.24 0.81 0.94 }
+	color = { 0.06 0.75 0.99 }
 	
 	parents = { hellenic_group }
 	
@@ -429,7 +429,7 @@ hijawan = {
 }
 
 beotian = {
-	color = { 0.19 0.81 0.94 }
+	color = { 0.06 0.75 0.99 }
 	
 	parents = { hellenic_group }
 	
@@ -458,7 +458,7 @@ beotian = {
 }
 
 epirote = {
-	color = { 0.14 0.81 0.94 }
+	color = { 0.06 0.75 0.99 }
 	
 	parents = { hellenic_group }
 	
@@ -487,7 +487,7 @@ epirote = {
 }
 
 macedonian = {
-	color = { 0.04 0.81 0.94 }
+	color = { 0.06 0.75 0.99 }
 	
 	parents = { hellenic_group }
 	

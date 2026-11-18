@@ -214,7 +214,7 @@
 
 	faiths = {
 		berber_pagan = {
-			color = { 0.48 0.25 0.0 }
+			color = { 0.77 0.7 0.35 }
 			icon = berber
 			reformed_icon = berber_reformed
 

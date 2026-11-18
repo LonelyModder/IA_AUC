@@ -1,5 +1,5 @@
 ﻿villanovan_group = {
-	color = { 0.82 0.1 0.26 }
+	color = { 1.0 0.25 0.25 }
 
 	ethos = ethos_bellicose
 	heritage = heritage_etruscan
@@ -23,7 +23,7 @@
 }
 
 etruscan = {
-	color = { 0.13 0.99 0.64 }
+	color = { 1.0 0.25 0.25 }
 	
 	parents = { villanovan_group }
 	
@@ -52,7 +52,7 @@ etruscan = {
 }
 
 picentian = { 
-	color = { 0.20 0.99 0.64 }
+	color = { 1.0 0.25 0.25 }
 
 	parents = { villanovan_group }
 
@@ -81,7 +81,7 @@ picentian = {
 }
 
 sicanian = { 
-	color = { 0.30 0.99 0.64 }
+	color = { 1.0 0.25 0.25 }
 
 	parents = { villanovan_group }
 
@@ -110,7 +110,7 @@ sicanian = {
 }
 
 raetian = { 
-	color = { 0.40 0.99 0.64 }
+	color = { 1.0 0.25 0.25 }
 
 	parents = { villanovan_group }
 
@@ -139,7 +139,7 @@ raetian = {
 }
 
 eugeneian = { 
-	color = { 0.50 0.99 0.64 }
+	color = { 1.0 0.25 0.25 }
 
 	parents = { villanovan_group }
 
@@ -168,7 +168,7 @@ eugeneian = {
 }
 
 cammunian = { 
-	color = { 0.60 0.99 0.64 }
+	color = { 1.0 0.25 0.25 }
 
 	parents = { villanovan_group }
 
@@ -197,7 +197,7 @@ cammunian = {
 }
 
 bodinci = { 
-	color = { 0.70 0.99 0.64 }
+	color = { 1.0 0.25 0.25 }
 
 	parents = { villanovan_group }
 

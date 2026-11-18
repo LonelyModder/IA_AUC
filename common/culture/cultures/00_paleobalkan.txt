@@ -1,5 +1,5 @@
 ﻿paleobalkan_group = {
-	color = { 0.82 0.1 0.26 }
+	color = { 0.77 0.76 0.82 }
 
 	ethos = ethos_bellicose
 	heritage = heritage_paleobalkan
@@ -23,7 +23,7 @@
 }
 
 histrian = {
-	color = { 0.36 0.54 0.66 }
+	color = { 0.77 0.76 0.82 }
 	
 	parents = { paleobalkan_group }
 	

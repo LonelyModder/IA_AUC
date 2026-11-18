@@ -214,7 +214,7 @@
 
 	faiths = {
 		kemetic_pagan = {
-			color = { 0.94 0.88 0.19 }
+			color = { 0.93 0.9 0.0 }
 			icon = kemetic
 			reformed_icon = kemetic_reformed
 

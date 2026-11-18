@@ -1,5 +1,5 @@
 ﻿canaanite_group = {
-	color = { 0.80 0.58 0.87 }
+	color = { 1.0 0.0 1.0 }
 
 	ethos = ethos_bellicose
 	heritage = heritage_canaanite
@@ -23,7 +23,7 @@
 }
 
 punic = {
-	color = { 0.67 0.38 0.8 }
+	color = { 1.0 0.0 1.0 }
 	
 	parents = { canaanite_group }
 	
@@ -52,7 +52,7 @@ punic = {
 }
 
 phoenician = {
-	color = { 0.57 0.38 0.8 }
+	color = { 1.0 0.0 1.0 }
 	
 	parents = { canaanite_group }
 	
@@ -81,7 +81,7 @@ phoenician = {
 }
 
 philistine = {
-	color = { 0.47 0.38 0.8 }
+	color = { 1.0 0.0 1.0 }
 	
 	parents = { canaanite_group }
 	
@@ -110,7 +110,7 @@ philistine = {
 }
 
 tjeker = {
-	color = { 0.37 0.38 0.8 }
+	color = { 1.0 0.0 1.0 }
 	
 	parents = { canaanite_group }
 	
@@ -139,7 +139,7 @@ tjeker = {
 }
 
 grecopunic = {
-	color = { 0.27 0.38 0.8 }
+	color = { 1.0 0.0 1.0 }
 	
 	parents = { canaanite_group }
 	

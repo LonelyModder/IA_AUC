@@ -214,7 +214,7 @@
 
 	faiths = {
 		anatolian_pagan = {
-			color = { 0.9 0.67 0.44 }
+			color = { 0.0 0.26 0.15 }
 			icon = anatolian
 			reformed_icon = anatolian_reformed
 

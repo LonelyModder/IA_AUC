@@ -214,7 +214,7 @@
 
 	faiths = {
 		mesopotamian_pagan = {
-			color = { 0.4 0.26 0.13 }
+			color = { 0.64 0.0 0.0 }
 			icon = mesopotamian
 			reformed_icon = mesopotamian_reformed
 
@@ -228,7 +228,7 @@
 		}
 		
 		ashurism_pagan = {
-			color = { 0.6 0.0 0.0 }
+			color = { 0.64 0.0 0.0 }
 			icon = mesopotamian
 			reformed_icon = mesopotamian_reformed
 			

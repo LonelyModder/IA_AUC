@@ -1,5 +1,5 @@
 ﻿thracian_group = {
-	color = { 0.82 0.1 0.26 }
+	color = { 0.75 0.25 0.0 }
 
 	ethos = ethos_bellicose
 	heritage = heritage_thracian
@@ -23,7 +23,7 @@
 }
 
 thracian = {
-	color = { 0.76 0.23 0.13 }
+	color = { 0.75 0.25 0.0 }
 	
 	parents = { thracian_group }
 	
@@ -52,7 +52,7 @@ thracian = {
 }
 
 phrygian = {
-	color = { 0.86 0.23 0.13 }
+	color = { 0.75 0.25 0.0 }
 	
 	parents = { thracian_group }
 	
@@ -81,7 +81,7 @@ phrygian = {
 }
 
 mysian = {
-	color = { 0.96 0.23 0.13 }
+	color = { 0.75 0.25 0.0 }
 	
 	parents = { thracian_group }
 	
@@ -110,7 +110,7 @@ mysian = {
 }
 
 bithynian = {
-	color = { 0.9 0.23 0.13 }
+	color = { 0.75 0.25 0.0 }
 	
 	parents = { thracian_group }
 	
@@ -139,7 +139,7 @@ bithynian = {
 }
 
 bosuti = {
-	color = { 0.66 0.23 0.13 }
+	color = { 0.75 0.25 0.0 }
 	
 	parents = { thracian_group }
 	
@@ -168,7 +168,7 @@ bosuti = {
 }
 
 brygian = {
-	color = { 0.56 0.23 0.13 }
+	color = { 0.75 0.25 0.0 }
 	
 	parents = { thracian_group }
 	
@@ -197,7 +197,7 @@ brygian = {
 }
 
 paeonian = {
-	color = { 0.36 0.23 0.13 }
+	color = { 0.75 0.25 0.0 }
 	
 	parents = { thracian_group }
 	
@@ -226,7 +226,7 @@ paeonian = {
 }
 
 dacian = {
-	color = { 0.26 0.23 0.13 }
+	color = { 0.75 0.25 0.0 }
 	
 	parents = { thracian_group }
 	
@@ -255,7 +255,7 @@ dacian = {
 }
 
 getae = {
-	color = { 0.16 0.23 0.13 }
+	color = { 0.75 0.25 0.0 }
 	
 	parents = { thracian_group }
 	

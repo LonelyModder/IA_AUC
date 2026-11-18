@@ -214,7 +214,7 @@
 
 	faiths = {
 		nuragic_pagan = {
-			color = { 0.0 0.18 0.39 }
+			color = { 0.47 0.62 0.8 }
 			icon = nuragian
 			reformed_icon = nuragian_reformed
 

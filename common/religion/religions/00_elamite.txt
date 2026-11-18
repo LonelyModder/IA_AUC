@@ -214,7 +214,7 @@
 
 	faiths = {
 		elamite_pagan = {
-			color = { 0.0 0.81 0.82 }
+			color = { 0.9 0.72 0.23 }
 			icon = elamite
 			reformed_icon = elamite_reformed
 

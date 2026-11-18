@@ -1,5 +1,5 @@
 ﻿italic_group = {
-	color = { 0.82 0.1 0.26 }
+	color = { 1.0 0.03 0.0 }
 
 	ethos = ethos_bellicose
 	heritage = heritage_latin
@@ -23,7 +23,7 @@
 }
 
 rlatin = {
-	color = { 0.6 0.1 0.1 }
+	color = { 1.0 0.03 0.0 }
 	
 	parents = { italic_group }
 	
@@ -52,7 +52,7 @@ rlatin = {
 }
 
 oscan = { 
-	color = { 0.5 0.1 0.1 }
+	color = { 1.0 0.03 0.0 }
 
 	parents = { italic_group }
 
@@ -81,7 +81,7 @@ oscan = {
 }
 
 umbrian = {
-	color = { 0.4 0.1 0.1 }
+	color = { 1.0 0.03 0.0 }
 
 	parents = { italic_group }
 
@@ -109,7 +109,7 @@ umbrian = {
 }
 
 picenian = { 
-	color = { 0.3 0.1 0.1 }
+	color = { 1.0 0.03 0.0 }
 
 	created = 650.1.1
 
@@ -138,7 +138,7 @@ picenian = {
 }
 
 elymian = {
-	color = { 0.2 0.1 0.1 }
+	color = { 1.0 0.03 0.0 }
 
 	parents = { italic_group }
 

@@ -214,7 +214,7 @@
 
 	faiths = {
 		canaanite_pagan = {
-			color = { 0.80 0.58 0.87 }
+			color = { 1.0 0.0 1.0 }
 			icon = canaanite
 			reformed_icon = canaanite_reformed
 

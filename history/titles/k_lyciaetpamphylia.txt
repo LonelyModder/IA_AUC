@@ -240,6 +240,7 @@ k_tarhuntassa = {
 d_tarhuntassa = {
 	
 	437.4.21 = {
+		liege="k_gordion"
 		holder = 2000886
 	}
 }

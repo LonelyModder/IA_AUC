@@ -1,5 +1,5 @@
 ﻿hattian_group = {
-	color = { 0.80 0.58 0.87 }
+	color = { 0.0 0.26 0.15 }
 
 	ethos = ethos_bellicose
 	heritage = heritage_hattian
@@ -23,7 +23,7 @@
 }
 
 syrohittite = {
-	color = { 1.0 0.75 0.0 }
+	color = { 0.0 0.26 0.15 }
 	
 	parents = { hattian_group }
 	
@@ -52,7 +52,7 @@ syrohittite = {
 }
 
 tabali = {
-	color = { 1.0 0.75 0.2 }
+	color = { 0.0 0.26 0.15 }
 	
 	parents = { hattian_group }
 	
@@ -81,7 +81,7 @@ tabali = {
 }
 
 kaskan = {
-	color = { 1.0 0.75 0.4 }
+	color = { 0.0 0.26 0.15 }
 	
 	parents = { hattian_group }
 	
@@ -110,7 +110,7 @@ kaskan = {
 }
 
 hittite = {
-	color = { 1.0 0.75 0.4 }
+	color = { 0.0 0.26 0.15 }
 	
 	parents = { hattian_group }
 	
@@ -139,7 +139,7 @@ hittite = {
 }
 
 palan = {
-	color = { 1.0 0.75 0.4 }
+	color = { 0.0 0.26 0.15 }
 	
 	parents = { hattian_group }
 	
