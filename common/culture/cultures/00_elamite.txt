@@ -1,5 +1,5 @@
 ﻿elamite_group = {
-	color = { 0.9 0.72 0.23 }
+	color = { 0.35 0.15 0.13 }
 
 	ethos = ethos_bellicose
 	heritage = heritage_elamite
@@ -23,7 +23,7 @@
 }
 
 susian = {
-	color = { 0.9 0.72 0.23 }
+	color = { 0.35 0.15 0.13 }
 	
 	parents = { elamite_group }
 	
@@ -52,7 +52,7 @@ susian = {
 }
 
 kadmukhite = {
-	color = { 0.9 0.72 0.23 }
+	color = { 0.35 0.15 0.13 }
 	
 	parents = { elamite_group }
 	

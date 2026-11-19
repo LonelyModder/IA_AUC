@@ -119,9 +119,7 @@
 }
 
 944 = {		
-	culture = pannonian
-	religion = celtic_pagan
-	holding = tribal_holding
+	holding = none
 }
 
 945 = {		
@@ -129,7 +127,9 @@
 }
 
 946 = {		
-	holding = none
+	culture = pannonian
+	religion = celtic_pagan
+	holding = tribal_holding
 }
 
 947 = {		

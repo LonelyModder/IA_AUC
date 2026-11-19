@@ -5,6 +5,13 @@ k_gordion = {
 	}
 }
 
+k_lydia = {
+	
+	437.4.21 = {
+		holder = 2000896
+	}
+}
+
 c_lemnos = {
 	258.4.4 = {	change_development_level = 3 }
 	437.4.21 = { change_development_level = 5 }
@@ -544,13 +551,6 @@ c_lapamea = {
 	}
 }
 
-k_lydia = {
-	
-	437.4.21 = {
-		holder = 2000896
-	}
-}
-
 d_meonia = {
 	
 	258.4.4 = {
@@ -642,6 +642,7 @@ d_mira = {
 		holder = 2000897
 	}
 	437.4.21 = {
+		liege="k_lydia"
 		holder = 2000898
 	}
 }
@@ -654,7 +655,6 @@ c_hydeion = {
 		holder = 2000897
 	}
 	437.4.21 = {
-		liege="k_lydia"
 		holder = 2000898
 	}
 }
