@@ -110,8 +110,11 @@ c_ephiri = {
 d_doliones = {
 	
 	258.4.4 = {
-		liege="k_gordion"
 		holder = 2000786
+	}
+	437.4.21 = {
+		liege="k_gordion"
+		holder = 2000832
 	}
 }
 

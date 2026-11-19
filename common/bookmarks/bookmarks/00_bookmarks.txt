@@ -17,8 +17,8 @@ bm_753BC_aburbaecondita = {
 
 	# Romulus
 	character = {
-		name = "bookmark_canarias_guanarigato"
-		dynasty = 100848
+		name = "romulus_char"
+		dynasty = latin_romos
 		dynasty_splendor_level = 1
 		type = male
 		birth = 400.1.1
@@ -27,8 +27,26 @@ bm_753BC_aburbaecondita = {
 		culture = rlatin
 		religion = "italic_pagan"
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
-		history_id = 20842
+		history_id = 2000002
 		position = { 250 750 }
+
+		animation = happiness
+	}
+	
+	# Tiglath-Pilaser
+	character = {
+		name = "tiglath_char"
+		dynasty = assyrian_adaside
+		dynasty_splendor_level = 1
+		type = male
+		birth = 221.1.1
+		title = c_roma
+		government = feudal_government
+		culture = ashurian
+		religion = "ashurism_pagan"
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+		history_id = 2000315
+		position = { 750 250  }
 
 		animation = happiness
 	}

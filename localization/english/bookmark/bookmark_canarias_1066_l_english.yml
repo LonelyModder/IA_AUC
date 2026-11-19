@@ -1,15 +1,19 @@
 ﻿l_english:
  # Ab Urbae Condita
- bm_group_437:0 "Ab Urbae Condita"
- bm_753BC_aburbaecondita:0 "From the founding of Rome."
- bm_753BC_aburbaecondita_desc:0 "The date in the mod is counted from the fall of Ugarit and the events of Bronze Age Collapse.#!"
+ bm_group_437:0 "753BC"
+ bm_753BC_aburbaecondita:0 "Ab Urbae Condita"
+ bm_753BC_aburbaecondita_desc:0 "The Eternal City was just founded by Romulus which will become one of the most important events in human history but at the time most of the world was busy with rebuilding the wrold after the crisis of the Bronze Age Collapse was finally over. In the east Assyria reclaimed it's old borders forcing the invading aramean tribes into submission aaand entering the crisis of crown authority when local governors became too powerfull. \n\n In anatolia Phrygians founded their own realm on ruins of the Hittite Empire but their success brought the atention of northern tribes escaping the Scythians. Will kings of Gordion defend their new home against Cymmerian invasion? \n\n Egypt and Babylon face civil wars of their own. Egyptian empire collapsed. Kush and Canaan no longer kneel before the pharohs and libyans fight for the Double Crown. In Babylon Chaldeans kill their own kinsmen onthe very streets of the capital fighting for the throne of Marduk. \n\n So is it really end of a crisis? Thats for you to decide. Live throu one of most intresting periods in human history! Build your own Eternal City! \n\n P.S. The date in the mod is counted from the fall of Ugarit (1190BC) and the events of Bronze Age Collapse.#!"
  
  # Cor Tenebrarum
- bm_group_258:0 "Cor Tenebrarum"
- bm_932BC_cor_tenebrarum:0 "Heart of Darkness"
- bm_932BC_cor_tenebrarum_desc:0 "The date in the mod is counted from the fall of Ugarit and the events of Bronze Age Collapse.#!"
+ bm_group_258:0 "932BC"
+ bm_932BC_cor_tenebrarum:0 "Cor Tenebrarum"
+ bm_932BC_cor_tenebrarum_desc:0 "Weak men create dark times and than strong men bring good times back. The age of bronze ended inflames and old empires died with it....or it looked that way. Some never accepted the changes and decided to face the darkness and the hordes of barbarians. Men like Ashur-Dan II of Assyria or Shoshenq I of Kemet accepted the chalenge ahead and decided to protect the light of civilisation by any means necessary! \n\n Live throu the darkest time in the history of civilisation. Will you protect it or maybe destroy it. Or even build a new one on the ashes of the predecessors. It is your time! \n\n P.S. The date in the mod is counted from the fall of Ugarit (1190BC) and the events of Bronze Age Collapse.#!"
 
- # Guanarigato
- bookmark_canarias_guanarigato:0 "Guanarigato"
- bookmark_canarias_guanarigato_desc:0 "This is a character.#!"
+ # Romulus
+ romulus_char:0 "Romulus"
+ romulus_char_desc:0 "Acording to the original Rome's founding myth Romulus was a rich Arcadian merchant who as many in his times wanted to find better life for himself than struggling in war torned Greece when next war could end his business in an instant. He managed to find a group of oportunists just like him and sailde to Italy where the first greek colonies were just founded. For his future homeland he chose however the more civilised land of lower Tiber wher in the neighbourhood of etruscan city-stated settled a more civilised tribe of Latins. The new guests adopted the customs of the locals and in time blended into their society. \n\n There is also Enead written likely on orders of the Octavian and most likely false story claiming trojan ancestry of romans. It was meant to bring back the pride into the people of rome after the horrors of civil wars.#!"
+ 
+ # Tiglath-Pilaser
+ tiglath_char:0 "Tiglath-Pilaser"
+ tiglath_char_desc:0 "Also known by the pre-throne aramean name Pulu (probably given by his aramean mother as some historians suggest). The creator of the national standing army in it's current form. In 753BC country was ruled by his brother who was well .... very weak ruler that allowed his governors for too much. Ultimately Pilaser will challenge his brother and take the throne. Afterwards he will transform Assyria into unstopable warmashine and lead it to many victories. Are you up to the challenge to repeat his achivements?"
 
