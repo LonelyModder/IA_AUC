@@ -5,7 +5,23 @@
 
 	weight = { value = 100 }
 
-	# New Characters Needed
+	# Ashur-Dan II
+	character = {
+		name = "ashur2_char"
+		dynasty = assyrian_adaside
+		dynasty_splendor_level = 1
+		type = male
+		birth = 221.1.1
+		title = k_assyria
+		government = feudal_government
+		culture = ashurian
+		religion = "ashurism_pagan"
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+		history_id = 2000294
+		position = { 750 250  }
+
+		animation = happiness
+	}
 }
 
 bm_753BC_aburbaecondita = {
@@ -32,15 +48,23 @@ bm_753BC_aburbaecondita = {
 
 		animation = happiness
 	}
-	
+}
+
+bm_753BC_interflumina = {
+	start_date = 437.4.21
+	is_playable = yes
+	group = bm_group_437
+
+	weight = { value = 100 }
+
 	# Tiglath-Pilaser
 	character = {
 		name = "tiglath_char"
 		dynasty = assyrian_adaside
 		dynasty_splendor_level = 1
 		type = male
-		birth = 221.1.1
-		title = c_roma
+		birth = 401.1.1
+		title = c_niniveh
 		government = feudal_government
 		culture = ashurian
 		religion = "ashurism_pagan"
