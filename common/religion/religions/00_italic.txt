@@ -218,7 +218,8 @@
 			icon = hellenic
 			reformed_icon = hellenic_reformed
 
-			holy_site = jenne
+			holy_site = modded_rome
+			holy_site = modded_clitunno
 
 			doctrine = unreformed_faith_doctrine
 

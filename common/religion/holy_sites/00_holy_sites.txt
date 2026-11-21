@@ -1,9 +1,4 @@
-﻿#################
-# African Pagans
-#################
-
-#Hellenic:
-#Latin
+﻿#TMP:
 
 jenne = { # An important centre of Siguic influence, albeit not an intrinsically sacred one.
 	county = c_roma
@@ -14,3 +9,27 @@ jenne = { # An important centre of Siguic influence, albeit not an intrinsically
 		max_combat_roll = 4
 	}
 }
+
+#Italic:
+
+modded_rome = {
+	county = c_roma
+	
+	character_modifier = {
+		name = holy_site_modded_rome_effect_name
+		development_growth_factor = 0.1
+		stewardship = 1
+	}
+}
+
+modded_clitunno = {
+	county = c_umbria
+
+	character_modifier = {
+		name = holy_site_modded_clitunno_effect_name
+		stewardship_per_piety_level = 1
+		fertility = 0.1
+	}
+}
+
+#pietrabbondante Samnium
