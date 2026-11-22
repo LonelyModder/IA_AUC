@@ -3,7 +3,7 @@
 	is_playable = yes
 	group = bm_group_258
 
-	#weight = { value = 100 }
+	weight = { value = 100 }
 
 	# Ashur-Dan II
 	character = {
@@ -29,7 +29,7 @@ bm_753BC_aburbaecondita = {
 	is_playable = yes
 	group = bm_group_437
 
-	#weight = { value = 100 }
+	weight = { value = 100 }
 
 	# Romulus
 	character = {
@@ -55,7 +55,7 @@ bm_753BC_interflumina = {
 	is_playable = yes
 	group = bm_group_437
 
-	#weight = { value = 90 }
+	weight = { value = 90 }
 
 	# Tiglath-Pilaser
 	character = {

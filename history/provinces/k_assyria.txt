@@ -12,7 +12,7 @@
 3465 = {		
 	culture = ashurian
 	religion = ashurism_pagan
-	holding = none
+	holding = castle_holding
 }
 
 3466 = {		
@@ -54,7 +54,7 @@
 3473 = {		
 	culture = ashurian
 	religion = ashurism_pagan
-	holding = none
+	holding = castle_holding
 }
 
 3474 = {		

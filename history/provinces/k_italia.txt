@@ -257,7 +257,7 @@
 313 = {		
 	culture = rlatin
 	religion = italic_pagan
-	holding = none
+	holding = castle_holding
 }
 
 314 = {		
