@@ -218,7 +218,11 @@
 			icon = hellenic
 			reformed_icon = hellenic_reformed
 
-			holy_site = jenne
+			holy_site = modded_tarquinia
+			holy_site = modded_capua
+			holy_site = modded_felsina
+			holy_site = modded_caere
+			holy_site = modded_sanzeno
 
 			doctrine = unreformed_faith_doctrine
 

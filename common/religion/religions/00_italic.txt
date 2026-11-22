@@ -220,6 +220,9 @@
 
 			holy_site = modded_rome
 			holy_site = modded_clitunno
+			holy_site = modded_pietrabbondante
+			holy_site = modded_rossanodivaglio
+			holy_site = modded_montetorremagiore
 
 			doctrine = unreformed_faith_doctrine
 

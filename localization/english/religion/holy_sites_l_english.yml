@@ -1,0 +1,23 @@
+﻿l_english:
+ #Holy Sites: Italic
+ holy_site_modded_rome_name:0 "Rome"
+ holy_site_modded_rome_effect_name:0 "From [holy_site|E] #weak ($holy_site_modded_rome_name$)#!"
+ holy_site_modded_clitunno_name:0 "Clitunno"
+ holy_site_modded_clitunno_effect_name:0 "From [holy_site|E] #weak ($holy_site_modded_clitunno_name$)#!"
+ holy_site_modded_pietrabbondante_name:0 "Pietrabbondante"
+ holy_site_modded_pietrabbondante_effect_name:0 "From [holy_site|E] #weak ($holy_site_modded_pietrabbondante_name$)#!"
+ holy_site_modded_rossanodivaglio_name:0 "Rossano di Vaglio"
+ holy_site_modded_rossanodivaglio_effect_name:0 "From [holy_site|E] #weak ($holy_site_modded_rossanodivaglio_name$)#!"
+ holy_site_modded_montetorremagiore_name:0 "Monte Torre Magiore"
+ holy_site_modded_montetorremagiore_effect_name:0 "From [holy_site|E] #weak ($holy_site_modded_montetorremagiore_name$)#!"
+ #Holy Sites: Etruscan
+ holy_site_modded_tarquinia_name:0 "Tarchna"
+ holy_site_modded_tarquinia_effect_name:0 "From [holy_site|E] #weak ($holy_site_modded_tarquinia_name$)#!"
+ holy_site_modded_capua_name:0 "Capua"
+ holy_site_modded_capua_effect_name:0 "From [holy_site|E] #weak ($holy_site_modded_capua_name$)#!"
+ holy_site_modded_felsina_name:0 "Felsina"
+ holy_site_modded_capua_effect_name:0 "From [holy_site|E] #weak ($holy_site_modded_felsina_name$)#!"
+ holy_site_modded_caere_name:0 "Caere"
+ holy_site_modded_caere_effect_name:0 "From [holy_site|E] #weak ($holy_site_modded_caere_name$)#!"
+ holy_site_modded_sanzeno_name:0 "Sanzeno"
+ holy_site_modded_sanzeno_effect_name:0 "From [holy_site|E] #weak ($holy_site_modded_sanzeno_name$)#!"

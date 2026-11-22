@@ -32,4 +32,85 @@ modded_clitunno = {
 	}
 }
 
-#pietrabbondante Samnium
+modded_pietrabbondante = { 
+	county = c_bovianum
+	barony = b_lussonium_294
+	
+	character_modifier = {
+		name = holy_site_modded_pietrabbondante_effect_name
+		mountains_development_growth_factor = 0.2
+		mountains_advantage = 5
+	}
+}
+
+modded_rossanodivaglio = {
+	county = c_potenza
+
+	character_modifier = {
+		name = holy_site_modded_rossanodivaglio_effect_name
+		same_faith_opinion = 5
+	}
+}
+
+modded_montetorremagiore = {
+	county = c_cures
+
+	character_modifier = {
+		name = holy_site_modded_montetorremagiore_effect_name
+		fertility = 0.10
+		monthly_lifestyle_xp_gain_mult = 0.15
+	}
+}
+
+#Etruscan:
+
+modded_tarquinia = {
+	county = c_tarchna
+
+	character_modifier = {
+		name = holy_site_modded_tarquinia_effect_name
+		diplomacy = 1
+		stewardship = 1
+	}
+}
+
+modded_capua = {
+	county = c_capua
+
+	character_modifier = {
+		name = holy_site_modded_capua_effect_name
+		build_gold_cost = -0.1
+		stewardship = 1
+	}
+}
+
+modded_felsina = {
+	county = c_felsina
+
+	character_modifier = {
+		name = holy_site_modded_felsina_effect_name
+		prowess_per_piety_level = 1
+		supply_duration = 0.2
+	}
+}
+
+modded_caere = {
+	county = c_veii
+	barony = b_caisra_341
+
+	character_modifier = {
+		name = holy_site_modded_caere_effect_name
+		defender_advantage = 5
+		diplomacy = 1
+	}
+}
+
+modded_sanzeno = {
+	county = c_lillia
+
+	character_modifier = {
+		name = holy_site_modded_sanzeno_effect_name
+		defender_advantage = 5
+		prowess_per_stress_level = 2
+	}
+}
