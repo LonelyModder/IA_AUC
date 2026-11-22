@@ -5,23 +5,7 @@
 
 	weight = { value = 100 }
 
-	# Ashur-Dan II
-	character = {
-		name = "ashur2_char"
-		dynasty = assyrian_adaside
-		dynasty_splendor_level = 1
-		type = male
-		birth = 221.1.1
-		title = k_assyria
-		government = feudal_government
-		culture = ashurian
-		religion = "ashurism_pagan"
-		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
-		history_id = 2000294
-		position = { 750 250  }
-
-		animation = happiness
-	}
+	
 }
 
 bm_753BC_aburbaecondita = {
@@ -31,23 +15,7 @@ bm_753BC_aburbaecondita = {
 
 	weight = { value = 100 }
 
-	# Romulus
-	character = {
-		name = "romulus_char"
-		dynasty = latin_romos
-		dynasty_splendor_level = 1
-		type = male
-		birth = 400.1.1
-		title = c_roma
-		government = feudal_government
-		culture = rlatin
-		religion = "italic_pagan"
-		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
-		history_id = 2000002
-		position = { 250 750 }
-
-		animation = happiness
-	}
+	
 }
 
 bm_753BC_interflumina = {
@@ -57,21 +25,5 @@ bm_753BC_interflumina = {
 
 	weight = { value = 90 }
 
-	# Tiglath-Pilaser
-	character = {
-		name = "tiglath_char"
-		dynasty = assyrian_adaside
-		dynasty_splendor_level = 1
-		type = male
-		birth = 401.1.1
-		title = c_niniveh
-		government = feudal_government
-		culture = ashurian
-		religion = "ashurism_pagan"
-		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
-		history_id = 2000315
-		position = { 750 250  }
-
-		animation = happiness
-	}
+	
 }
