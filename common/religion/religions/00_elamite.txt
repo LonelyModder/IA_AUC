@@ -218,7 +218,8 @@
 			icon = elamite
 			reformed_icon = elamite_reformed
 
-			holy_site = jenne
+			holy_site = modded_inanna_uruk
+			holy_site = modded_istaran_deru
 
 			doctrine = unreformed_faith_doctrine
 

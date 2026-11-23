@@ -218,7 +218,11 @@
 			icon = yahwism
 			reformed_icon = yahwism_reformed
 
-			holy_site = jenne
+			holy_site = modded_qos_bozrah
+			holy_site = modded_yahweh_jerusalem
+			holy_site = modded_kemosh_dibon
+			holy_site = modded_mount_nebo_jerash
+			holy_site = modded_beersheba
 
 			doctrine = unreformed_faith_doctrine
 

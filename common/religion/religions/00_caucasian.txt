@@ -218,7 +218,7 @@
 			icon = caucasian
 			reformed_icon = caucasian_reformed
 
-			holy_site = jenne
+			holy_site = modded_minthrion
 
 			doctrine = unreformed_faith_doctrine
 

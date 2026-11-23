@@ -232,14 +232,18 @@
 			icon = mesopotamian
 			reformed_icon = mesopotamian_reformed
 			
-			localization = {
+			#localization = {
 				#High God Name
-				HighGodName = ashurism_pagan_high_god_name
-				HighGodName2 = ashurism_pagan_high_god_name_2
-				HighGodNamePossessive = ashurism_pagan_high_god_name_possessive
-			}				
-
-			holy_site = jenne
+			#	HighGodName = ashurism_pagan_high_god_name
+			#	HighGodName2 = ashurism_pagan_high_god_name_2
+			#	HighGodNamePossessive = ashurism_pagan_high_god_name_possessive
+			#}				
+			
+			holy_site = modded_ashur_ashur
+			holy_site = modded_inanna_uruk
+			holy_site = modded_marduk_babylon
+			holy_site = modded_sin_harran
+			holy_site = modded_enlil_nippur
 
 			doctrine = unreformed_faith_doctrine
 

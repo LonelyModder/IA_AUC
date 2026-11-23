@@ -218,7 +218,8 @@
 			icon = kassite
 			reformed_icon = kassite_reformed
 
-			holy_site = jenne
+			holy_site = modded_marduk_babylon
+			holy_site = modded_dur_kurigalzu
 
 			doctrine = unreformed_faith_doctrine
 

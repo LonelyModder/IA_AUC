@@ -114,3 +114,271 @@ modded_sanzeno = {
 		prowess_per_stress_level = 2
 	}
 }
+
+#Caucasian:
+
+modded_minthrion = {
+	county = c_trapezus
+
+	character_modifier = {
+		name = holy_site_modded_minthrion_effect_name
+		supply_duration = 0.25
+		prowess = 1
+	}
+}
+
+#Elamite:
+
+modded_istaran_deru = {
+	county = c_deru
+
+	character_modifier = {
+		name = holy_site_modded_istaran_deru_effect_name
+		learning = 1
+		short_reign_duration_mult = -0.25
+	}
+}
+
+#Mesopotamian:
+
+modded_inanna_uruk = { #+Elamite
+	county = c_uruk
+
+	character_modifier = {
+		name = holy_site_modded_inanna_uruk_effect_name
+		knight_effectiveness_mult = 0.2
+		prowess_per_prestige_level = 1
+	}
+}
+
+modded_ashur_ashur = {
+	county = c_ashur
+
+	character_modifier = {
+		name = holy_site_modded_ashur_ashur_effect_name
+		martial = 1
+		prowess_per_prestige_level = 1
+	}
+}
+
+modded_sin_harran = { #+Hurrian
+	county = c_harran 
+
+	character_modifier = {
+		name = holy_site_modded_sin_harran_effect_name
+		learning = 1
+		clergy_opinion = 5
+	}
+}
+
+modded_marduk_babylon = { #+Kassite
+	county = c_babylon
+
+	character_modifier = {
+		name = holy_site_modded_marduk_babylon_effect_name
+		build_gold_cost = -0.1
+		stewardship = 1
+	}
+}
+
+modded_enlil_nippur = {
+	county = c_nippur
+
+	character_modifier = {
+		name = holy_site_modded_enlil_nippur_effect_name
+		diplomacy = 1
+		stewardship = 1
+	}
+}
+
+#Kassite:
+
+modded_dur_kurigalzu = {
+	county = c_durkurigalzu  
+
+	character_modifier = {
+		name = holy_site_modded_dur_kurigalzu_effect_name
+		same_faith_opinion = 5
+		domain_tax_same_faith_mult = 0.1
+	}
+}
+
+#Hurrian
+
+modded_sauska_niniveh = { 
+	county = c_niniveh
+
+	character_modifier = {
+		name = holy_site_modded_sauska_niniveh_effect_name
+		fertility = 0.10
+		monthly_lifestyle_xp_gain_mult = 0.15
+	}
+}
+
+modded_tessub_arrapha = {
+	county = c_arrapha
+
+	character_modifier = {
+		name = holy_site_modded_tessub_arrapha_effect_name
+		martial_per_piety_level = 1
+		knight_effectiveness_mult = 0.2
+	}
+}
+
+#Canaanite
+
+modded_melquart_tyre = { 
+	county = c_tyre
+	
+	character_modifier = {
+		name = holy_site_modded_melquart_tyre_effect_name
+		stewardship = 1
+		domain_tax_mult = 0.01
+	}
+}
+
+modded_baalat_gebal_byblos = {
+	county = c_byblos
+
+	character_modifier = {
+		name = holy_site_modded_baalat_gebal_byblos_effect_name
+		health = 0.05
+		fertility = 0.1
+	}
+}
+
+modded_hadad_aleppo = { 
+	county = c_arpad
+	barony = b_halab_2334
+
+	character_modifier = {
+		name = holy_site_modded_hadad_aleppo_effect_name
+		martial = 1
+		supply_duration = 0.25
+	}
+}
+
+modded_ramman_damascus = { 
+	county = c_damascus
+
+	character_modifier = {
+		name = holy_site_modded_ramman_damascus_effect_name
+		monthly_prestige_gain_per_knight_mult = 0.02
+		knight_effectiveness_mult = 0.1
+	}
+}
+
+modded_sawla_guzana = {
+	county = c_guzana
+
+	character_modifier = {
+		name = holy_site_modded_sawla_guzana_effect_name
+		fertility = 0.1
+		stewardship = 1
+	}
+}
+
+#Yahwism
+
+modded_qos_bozrah = {
+	county = c_bozrah
+
+	character_modifier = {
+		name = holy_site_modded_qos_bozrah_effect_name
+		desert_mountains_advantage = 5
+		learning = 1
+	}
+}
+
+modded_yahweh_jerusalem = {
+	county = c_jerusalem
+
+	character_modifier = {
+		name = holy_site_modded_yahweh_jerusalem_effect_name
+		stewardship = 1
+		monthly_piety_gain_mult = 0.05
+	}
+}
+
+modded_kemosh_dibon = { 
+	county = c_moab
+
+	character_modifier = {
+		name = holy_site_modded_kemosh_dibon_effect_name
+		martial = 1
+		supply_duration = 0.25
+	}
+}	
+
+modded_mount_nebo_jerash = { 
+	county = c_jerash
+
+	character_modifier = {
+		name = holy_site_modded_mount_nebo_jerash_effect_name
+		mountains_development_growth_factor = 0.2
+		mountains_advantage = 5
+	}
+}
+
+modded_beersheba = { 
+	county = c_beersheba
+
+	character_modifier = {
+		name = holy_site_modded_beersheba_effect_name
+		development_growth_factor = 0.1
+		cultural_head_fascination_mult = 0.1
+	}
+}
+
+#Thracian
+
+modded_thracian_olympus = { 
+	county = c_apamea
+	
+	character_modifier = {
+		name = holy_site_modded_thracian_olympus_effect_name
+		diplomacy = 1
+		learning = 1
+	}
+}
+
+modded_matar_mideum = {
+	county = c_mideum
+
+	character_modifier = {
+		name = holy_site_modded_matar_mideum_effect_name
+		diplomacy = 1
+		powerful_vassal_opinion = 5
+	}
+}
+
+modded_thasos = {
+	county = c_thasos
+	
+	character_modifier = {
+		name = holy_site_modded_thasos_effect_name
+		county_opinion_add = 5
+		different_culture_opinion = 5
+	}
+}
+
+modded_babyak_aspetri = {
+	county = c_aspetri
+
+	character_modifier = {
+		name = holy_site_modded_babyak_aspetri_effect_name
+		build_gold_cost = -0.1
+		stewardship = 1
+	}
+}
+
+modded_kamen_rid_ptalentium = {
+	county = c_ptalentium
+	barony = b_itheneia_1724
+
+	character_modifier = {
+		name = holy_site_modded_kamen_rid_ptalentium_effect_name
+		diplomacy = 1
+		clergy_opinion = 5
+	}
+}

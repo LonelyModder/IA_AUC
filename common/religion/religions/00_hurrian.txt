@@ -218,7 +218,9 @@
 			icon = hurrian
 			reformed_icon = hurrian_reformed
 
-			holy_site = jenne
+			holy_site = modded_sauska_niniveh
+			holy_site = modded_tessub_arrapha
+			holy_site = modded_sin_harran          #Conditionally - hurrian pilgrimages atested 
 
 			doctrine = unreformed_faith_doctrine
 

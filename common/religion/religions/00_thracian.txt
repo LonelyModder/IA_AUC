@@ -218,7 +218,11 @@
 			icon = thracian
 			reformed_icon = thracian_reformed
 
-			holy_site = jenne
+			holy_site = modded_thracian_olympus
+			holy_site = modded_matar_mideum
+			holy_site = modded_thasos
+			holy_site = modded_babyak_aspetri
+			holy_site = modded_kamen_rid_ptalentium
 
 			doctrine = unreformed_faith_doctrine
 

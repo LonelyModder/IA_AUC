@@ -218,7 +218,11 @@
 			icon = canaanite
 			reformed_icon = canaanite_reformed
 
-			holy_site = jenne
+			holy_site = modded_melquart_tyre
+			holy_site = modded_baalat_gebal_byblos
+			holy_site = modded_hadad_aleppo
+			holy_site = modded_ramman_damascus
+			holy_site = modded_sawla_guzana
 
 			doctrine = unreformed_faith_doctrine
 
