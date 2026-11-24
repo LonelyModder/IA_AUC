@@ -382,3 +382,380 @@ modded_kamen_rid_ptalentium = {
 		clergy_opinion = 5
 	}
 }
+
+#Kemetic
+
+modded_amun_thebes = { 
+	county = c_waset
+
+	character_modifier = {
+		name = holy_site_modded_amun_thebes_effect_name
+		clergy_opinion = 10
+		monthly_prestige_gain_mult = 0.2
+	}
+}
+
+modded_ptah_memphis = { 
+	county = c_memphis
+
+	character_modifier = {
+		name = holy_site_modded_ptah_memphis_effect_name
+		learning_per_piety_level = 1
+		monthly_piety_gain_mult = 0.2
+	}
+}
+
+modded_coreamun_tanis = {
+	county = c_tanis 
+
+	character_modifier = {
+		name = holy_site_modded_coreamun_tanis_effect_name
+		same_faith_opinion = 5
+		domain_tax_same_faith_mult = 0.1
+	}
+}
+
+modded_atum_helioupolis = { 
+	county = c_helioupolis
+
+	character_modifier = {
+		name = holy_site_modded_atum_helioupolis_effect_name
+		different_culture_opinion = 10
+		cultural_head_acceptance_gain_mult = 0.15
+	}
+}
+
+modded_neith_sais = { #+Berber
+	county = c_sais
+
+	character_modifier = {
+		name = holy_site_modded_neith_sais_effect_name
+		desert_advantage = 5
+		different_culture_opinion = 5
+	}
+}
+
+#Berber
+
+modded_siwa = { 
+	county = c_ammonium 
+
+	character_modifier = {
+		name = holy_site_modded_siwa_effect_name
+		desert_development_growth_factor = 0.10
+		learn_language_scheme_phase_duration_add = medium_scheme_phase_duration_bonus_value 
+	} 
+}
+
+modded_ain_hofra = {
+	county = c_cyrene
+
+	character_modifier = {
+		name = holy_site_modded_ain_hofra_effect_name
+		stewardship_per_piety_level = 1
+		fertility = 0.1
+	}
+}
+
+modded_thugga = {
+	county = c_thugga
+
+	character_modifier = {
+		name = holy_site_modded_thugga_effect_name
+		controlled_province_advantage = 5
+		stress_loss_mult = 0.1
+	}
+}
+
+modded_mzoura = { 
+	county = c_zilis
+	
+	character_modifier = {
+		name = holy_site_modded_mzoura_effect_name
+		army_maintenance_mult = -0.05
+		martial_per_prestige_level = 1
+	}
+}
+
+#Greek
+
+modded_oracle_delphi = { 
+	county = c_delphi
+
+	character_modifier = {
+		name = holy_site_modded_oracle_delphi_effect_name
+		diplomacy = 1
+		councillor_opinion = 5
+	}
+}
+
+modded_oracle_dodona = { #+Illyrian
+	county = c_dodona
+
+	character_modifier = {
+		name = holy_site_modded_oracle_dodona_effect_name
+		monthly_piety_gain_per_knight_mult = 0.01
+		monthly_prestige_gain_per_knight_mult = 0.01
+	}
+}
+
+modded_zeus_olympia = { 
+	county = c_olympia
+
+	character_modifier = {
+		name = holy_site_modded_zeus_olympia_effect_name
+		learning = 1
+		short_reign_duration_mult = -0.25
+	}
+}
+
+modded_heraion_samos = { 
+	county = c_samos
+
+	character_modifier = {
+		name = holy_site_modded_heraion_samos_effect_name
+		fertility = 0.10
+		monthly_lifestyle_xp_gain_mult = 0.15
+	}
+}
+
+modded_apollo_delos = { 
+	county = c_delos
+
+	character_modifier = {
+		name = holy_site_modded_apollo_delos_effect_name
+		negate_learning_penalty_add = 2
+		learning_per_piety_level = 1
+	}
+}
+
+#Anatolian
+
+modded_yazilikaya_hattusa = { 
+	county = c_hattusa
+	barony = b_yazilikaya_3262
+	
+	character_modifier = {
+		name = holy_site_modded_yazilikaya_hattusa_effect_name
+		stewardship = 1
+		monthly_prestige_gain_mult = 0.05
+	}
+}
+
+modded_storm_kanesh = {
+	county = c_cesarea
+
+	character_modifier = {
+		name = holy_site_modded_storm_kanesh_effect_name
+		martial = 1
+		hard_casualty_modifier = -0.1
+	}
+}
+
+modded_teshub_karkemish = {
+	county = c_karkemish
+	
+	character_modifier = {
+		name = holy_site_modded_teshub_karkemish_effect_name
+		learning = 1
+		tyranny_gain_mult = -0.2
+	}
+}
+
+modded_sagalassos = {
+	county = c_sagalassos
+
+	character_modifier = {
+		name = holy_site_sagalassos_effect_name
+		monthly_piety_gain_per_knight_mult = 0.02
+		knight_effectiveness_mult = 0.1
+	}
+}
+
+modded_sardes = {
+	county = c_sardes
+
+	character_modifier = {
+		name = holy_site_modded_sardes_effect_name
+		same_faith_opinion = 5
+		domain_tax_same_faith_mult = 0.1
+	}
+}
+
+#Arab
+
+modded_timna_valley = {
+	county = c_aila
+	barony = b_auara_2403
+
+	character_modifier = {
+		name = holy_site_modded_timna_valley_effect_name
+		defender_advantage = 5
+		diplomacy = 1
+	}
+}
+
+#Ligurian
+
+modded_monte_bego = {
+	county = c_bivia
+
+	character_modifier = {
+		name = holy_site_modded_monte_bego_effect_name
+		same_faith_opinion = 5
+		mountains_advantage = 5
+	}
+}
+
+modded_monte_beigua = {
+	county = c_genua
+	barony = b_cilaria_411
+
+	character_modifier = {
+		name = holy_site_modded_monte_beigua_effect_name
+		development_growth_factor = 0.1
+		cultural_head_fascination_mult = 0.1
+	}
+}
+
+modded_monte_dragnone = {
+	county = c_mermabia
+	barony = b_mica_409
+
+	character_modifier = {
+		name = holy_site_modded_monte_dragnone_effect_name
+		clergy_opinion = 5
+		personal_scheme_phase_duration_add = minor_scheme_phase_duration_bonus_value
+	}
+}
+
+#Nuragian
+
+modded_son_corro = {
+	county = c_balearismaior
+	barony = b_pollentia_3734
+	
+	character_modifier = {
+		name = holy_site_modded_son_corro_effect_name
+		cultural_head_fascination_mult = 0.05
+		monthly_county_control_growth_factor = 0.05
+	}
+}
+
+modded_cauria = {
+	county = c_pallas
+	
+	character_modifier = {
+		name = holy_site_modded_cauria_effect_name
+		religious_vassal_opinion = 5
+		sway_scheme_phase_duration_add = minor_scheme_phase_duration_bonus_value
+	}
+}
+
+modded_vittoria_di_serri = {
+	county = c_nolza
+
+	character_modifier = {
+		name = holy_site_modded_vittoria_di_serri_effect_name
+		martial_per_piety_level = 1
+		knight_effectiveness_mult = 0.1
+	}
+}
+
+modded_abini_haenna = {
+	county = c_haenna
+
+	character_modifier = {
+		name = holy_site_modded_abini_haenna_effect_name
+		naval_movement_speed_mult = 0.2
+		men_at_arms_maintenance = -0.05
+	}
+}
+
+modded_tempiesu_pompaelo = {
+	county = c_pompaelo
+	barony = b_bosona_85
+
+	character_modifier = {
+		name = holy_site_modded_tempiesu_pompaelo_effect_name
+		supply_duration = 0.25
+		prowess = 1
+	}
+}
+
+#Illyrian
+
+modded_scodra_lake = {
+	county = c_scodra
+
+	character_modifier = {
+		name = holy_site_modded_scodra_lake_effect_name
+		martial_per_piety_level = 1
+		raid_speed = 0.1
+	}
+}
+
+modded_spila_nakovana = { 
+	county = c_korkyra
+
+	character_modifier = {
+		name = holy_site_modded_spila_nakovana_effect_name
+		knight_limit = 1
+		light_cavalry_toughness_mult = 0.1
+	}
+}
+
+modded_butrint_caves = {
+	county = c_buthrotum
+
+	character_modifier = {
+		name = holy_site_modded_butrint_caves_effect_name
+		stewardship_per_piety_level = 1
+		sway_scheme_phase_duration_add = minor_scheme_phase_duration_bonus_value
+	}
+}
+
+modded_glasinac_plateau = { 
+	county = c_oensutania
+	barony = b_paesitus_810
+
+	character_modifier = {
+		name = holy_site_modded_glasinac_plateau_effect_name
+		monthly_lifestyle_xp_gain_mult = 0.15
+		stress_loss_mult = 0.1
+	}
+}
+
+#Celtic
+
+modded_pakozd_sacrificial_pits = {
+	county = c_brigetio
+
+	character_modifier = {
+		name = holy_site_modded_pakozd_sacrificial_pits_effect_name
+		martial = 1
+		stewardship = 1
+	}
+}
+
+modded_manching = {
+	county = c_vindelicum
+	barony = b_numalgia_628
+
+	character_modifier = {
+		name = holy_site_modded_manching_effect_name
+		martial_per_piety_level = 1
+		raid_speed = 0.1
+	}
+}
+
+modded_golasecca_grove = {
+	county = c_mediolanum
+	barony = b_secum_469
+
+	character_modifier = {
+		name = holy_site_modded_golasecca_grove_effect_name
+		learning = 1
+		fertility = 0.1
+	}
+}

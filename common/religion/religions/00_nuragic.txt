@@ -18,7 +18,7 @@
 	doctrine = doctrine_consanguinity_aunt_nephew_and_uncle_niece
 
 	#Crimes
-	doctrine = doctrine_homosexuality_accepted
+	doctrine = doctrine_homosexuality_shunned
 	doctrine = doctrine_adultery_men_shunned
 	doctrine = doctrine_adultery_women_shunned
 	doctrine = doctrine_kinslaying_close_kin_crime
@@ -35,11 +35,11 @@
 	doctrine = doctrine_pilgrimage_encouraged
 
 	#Funeral tradition
-	doctrine = doctrine_funeral_bewailment # Ancient Greeks were encouraged to grieve publicly
+	doctrine = doctrine_funeral_bewailment
 
 	traits = {
-		virtues = { generous just temperate }
-		sins = { greedy arbitrary gluttonous }
+		virtues = { generous just diligent }
+		sins = { greedy deceitful arbitrary }
 	}
 
 	custom_faith_icons = {
@@ -218,13 +218,17 @@
 			icon = nuragian
 			reformed_icon = nuragian_reformed
 
-			holy_site = jenne
+			holy_site = modded_son_corro
+			holy_site = modded_cauria
+			holy_site = modded_vittoria_di_serri
+			holy_site = modded_abini_haenna
+			holy_site = modded_tempiesu_pompaelo
 
 			doctrine = unreformed_faith_doctrine
 
+			doctrine = tenet_warmonger
 			doctrine = tenet_astrology
-			doctrine = tenet_communal_identity
-			doctrine = tenet_esotericism
+			doctrine = tenet_megaliths
 		}
 	}
 }
