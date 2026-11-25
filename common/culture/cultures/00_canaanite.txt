@@ -1,24 +1,26 @@
 ﻿canaanite_group = {
 	color = { 1.0 0.0 1.0 }
 
-	ethos = ethos_bellicose
+	ethos = ethos_spiritual
 	heritage = heritage_canaanite
 	language = language_canaanite
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
-		tradition_republican_legacy
+		tradition_fervent_temple_builders
+		tradition_religious_patronage
+		tradition_mare_nostrum
+		tradition_legalistic
 	}
 	
 	name_list = name_list_canaanite
 	
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
-	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { byzantine_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
 	
 	ethnicities = {
-		10 = mediterranean
+		10 = arab
 	}
 }
 
@@ -27,27 +29,26 @@ punic = {
 	
 	parents = { canaanite_group }
 	
-	ethos = ethos_bellicose
+	ethos = ethos_spiritual
 	heritage = heritage_punic
 	language = language_punic
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
+		tradition_fervent_temple_builders
+		tradition_religious_patronage
+		tradition_mare_nostrum
 		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
 	}
 	
 	name_list = name_list_canaanite
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
-	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
-
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { byzantine_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
 	ethnicities = {
-		10 = mediterranean
+		10 = arab
 	}
 }
 
@@ -56,27 +57,26 @@ phoenician = {
 	
 	parents = { canaanite_group }
 	
-	ethos = ethos_bellicose
+	ethos = ethos_spiritual
 	heritage = heritage_punic
 	language = language_punic
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
+		tradition_fervent_temple_builders
+		tradition_religious_patronage
+		tradition_mare_nostrum
 		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
 	}
 	
 	name_list = name_list_canaanite
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
-	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
-
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { byzantine_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
 	ethnicities = {
-		10 = mediterranean
+		10 = arab
 	}
 }
 
@@ -85,27 +85,26 @@ philistine = {
 	
 	parents = { canaanite_group }
 	
-	ethos = ethos_bellicose
+	ethos = ethos_spiritual
 	heritage = heritage_philistine
 	language = language_philistine
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
+		tradition_fervent_temple_builders
+		tradition_religious_patronage
+		tradition_mare_nostrum
 		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
 	}
 	
 	name_list = name_list_canaanite
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
-	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
-
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { byzantine_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
 	ethnicities = {
-		10 = mediterranean
+		10 = arab
 	}
 }
 
@@ -114,27 +113,26 @@ tjeker = {
 	
 	parents = { canaanite_group }
 	
-	ethos = ethos_bellicose
+	ethos = ethos_spiritual
 	heritage = heritage_philistine
 	language = language_philistine
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
+		tradition_fervent_temple_builders
+		tradition_religious_patronage
+		tradition_mare_nostrum
 		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
 	}
 	
 	name_list = name_list_canaanite
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
-	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
-
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { byzantine_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
 	ethnicities = {
-		10 = mediterranean
+		10 = arab
 	}
 }
 
@@ -143,27 +141,26 @@ grecopunic = {
 	
 	parents = { canaanite_group }
 	
-	ethos = ethos_bellicose
+	ethos = ethos_spiritual
 	heritage = heritage_philistine
 	language = language_philistine
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
+		tradition_fervent_temple_builders
+		tradition_religious_patronage
+		tradition_mare_nostrum
 		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
 	}
 	
 	name_list = name_list_canaanite
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
-	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
-
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { byzantine_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
 	ethnicities = {
-		10 = mediterranean
+		10 = arab
 	}
 }
 

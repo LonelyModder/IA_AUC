@@ -6,19 +6,21 @@
 	language = language_italian
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
-		tradition_republican_legacy
+		tradition_strong_kinship
+		tradition_warrior_culture
+		tradition_metalworkers
+		tradition_festivities
 	}
 	
 	name_list = name_list_italiote
 	
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
-	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { byzantine_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
 	
 	ethnicities = {
-		10 = mediterranean
+		10 = mediterranean_byzantine
 	}
 }
 
@@ -40,14 +42,13 @@ rlatin = {
 	
 	name_list = name_list_italiote
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
-	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
-
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { byzantine_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
 	ethnicities = {
-		10 = mediterranean
+		10 = mediterranean_byzantine
 	}
 }
 
@@ -63,20 +64,21 @@ oscan = {
 	language = language_oscan
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_xenophilic
-		tradition_swords_for_hire
-		tradition_ruling_caste
+		tradition_strong_kinship
+		tradition_warrior_culture
+		tradition_metalworkers
+		tradition_festivities
 	}
 	
 	name_list = name_list_italiote
 	
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
-	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { byzantine_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
 	
 	ethnicities = {
-		10 = mediterranean
+		10 = mediterranean_byzantine
 	}
 }
 
@@ -92,19 +94,21 @@ umbrian = {
 	language = language_umbrian
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_stalwart_defenders
-		tradition_isolationist
+		tradition_strong_kinship
+		tradition_warrior_culture
+		tradition_metalworkers
+		tradition_festivities
 	}
 	
 	name_list = name_list_italiote
 	
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
-	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { byzantine_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
 	
 	ethnicities = {
-		10 = mediterranean
+		10 = mediterranean_byzantine
 	}	
 }
 
@@ -120,20 +124,21 @@ picenian = {
 	language = language_umbrian
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_isolationist
-		tradition_martial_admiration
-		tradition_stand_and_fight
+		tradition_strong_kinship
+		tradition_warrior_culture
+		tradition_metalworkers
+		tradition_festivities
 	}
 	
 	name_list = name_list_italiote
 	
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
-	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { byzantine_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
 	
 	ethnicities = {
-		10 = mediterranean
+		10 = mediterranean_byzantine
 	}
 }
 
@@ -149,18 +154,20 @@ elymian = {
 	language = language_oscan
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_stalwart_defenders
-		tradition_isolationist
+		tradition_strong_kinship
+		tradition_warrior_culture
+		tradition_metalworkers
+		tradition_festivities
 	}
 	
 	name_list = name_list_italiote
 	
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
-	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { byzantine_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
 	
 	ethnicities = {
-		10 = mediterranean
+		10 = mediterranean_byzantine
 	}	
 }

@@ -473,3 +473,255 @@ heritage_albanian = {
 	}
 	audio_parameter = european
 }
+
+#Modded Ones
+
+heritage_hattian = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_hattian
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_elamite = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_elamite
+		}
+	}
+	audio_parameter = mena
+}
+
+heritage_luwian = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_luwian
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_akkadian = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_akkadian
+		}
+	}
+	audio_parameter = mena
+}
+
+heritage_latin = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_latin
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_etruscan = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_etruscan
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_agean = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_agean
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_arab = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_arab
+		}
+	}
+	audio_parameter = mena
+}
+
+heritage_aramean = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_aramean
+		}
+	}
+	audio_parameter = mena
+}
+
+heritage_canaanite = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_canaanite
+		}
+	}
+	audio_parameter = mena
+}
+
+heritage_caucasic = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_caucasic
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_celtic = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_celtic
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_greek = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_greek
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_hurrian = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_hurrian
+		}
+	}
+	audio_parameter = mena
+}
+
+heritage_illyrian = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_illyrian
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_kassite = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_kassite
+		}
+	}
+	audio_parameter = mena
+}
+
+heritage_kemetic = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_kemetic
+		}
+	}
+	audio_parameter = mena
+}
+
+heritage_liburnian = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_liburnian
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_libyan = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_libyan
+		}
+	}
+	audio_parameter = mena
+}
+
+heritage_ligurian = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_ligurian
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_nuragian = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_nuragian
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_nubian = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_nubian
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_paleobalkan = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_paleobalkan
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_thracian = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_thracian
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_shasu = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_shasu
+		}
+	}
+	audio_parameter = mena
+}

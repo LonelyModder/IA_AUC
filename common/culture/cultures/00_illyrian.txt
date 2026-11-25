@@ -2,23 +2,28 @@
 	color = { 0.0 0.48 0.45 }
 
 	ethos = ethos_bellicose
-	heritage = heritage_etruscan
+	heritage = heritage_illyrian
 	language = language_illyrian
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
-		tradition_republican_legacy
+		tradition_warrior_culture
+		tradition_practiced_pirates
+		tradition_hill_dwellers
+		tradition_strong_kinship
 	}
 	
 	name_list = name_list_illyrian
 	
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
-	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { eastern_unit_gfx }
+	coa_gfx = { norse_coa_gfx western_coa_gfx }
+	building_gfx = { norse_building_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { norse_unit_gfx }
 	
 	ethnicities = {
-		10 = mediterranean
+		70 = caucasian_northern_blond
+		15 = caucasian_northern_ginger
+		10 = caucasian_northern_brown_hair
+		5 = caucasian_northern_dark_hair
 	}
 }
 
@@ -28,26 +33,28 @@ lapygian = {
 	parents = { illyrian_group }
 	
 	ethos = ethos_bellicose
-	heritage = heritage_lapygian
+	heritage = heritage_illyrian
 	language = language_illyrian
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
-		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_warrior_culture
+		tradition_practiced_pirates
+		tradition_hill_dwellers
+		tradition_strong_kinship
 	}
 	
 	name_list = name_list_illyrian
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
-	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
-
+	coa_gfx = { norse_coa_gfx western_coa_gfx }
+	building_gfx = { norse_building_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { norse_unit_gfx }
+	
 	ethnicities = {
-		10 = mediterranean
+		70 = caucasian_northern_blond
+		15 = caucasian_northern_ginger
+		10 = caucasian_northern_brown_hair
+		5 = caucasian_northern_dark_hair
 	}
 }
 
@@ -57,26 +64,28 @@ siculian = {
 	parents = { illyrian_group }
 	
 	ethos = ethos_bellicose
-	heritage = heritage_siculian
+	heritage = heritage_illyrian
 	language = language_illyrian
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
-		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_warrior_culture
+		tradition_practiced_pirates
+		tradition_hill_dwellers
+		tradition_strong_kinship
 	}
 	
 	name_list = name_list_illyrian
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
-	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
-
+	coa_gfx = { norse_coa_gfx western_coa_gfx }
+	building_gfx = { norse_building_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { norse_unit_gfx }
+	
 	ethnicities = {
-		10 = mediterranean
+		70 = caucasian_northern_blond
+		15 = caucasian_northern_ginger
+		10 = caucasian_northern_brown_hair
+		5 = caucasian_northern_dark_hair
 	}
 }
 
@@ -86,26 +95,28 @@ delmatian = {
 	parents = { illyrian_group }
 	
 	ethos = ethos_bellicose
-	heritage = heritage_siculian
+	heritage = heritage_illyrian
 	language = language_illyrian
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
-		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_warrior_culture
+		tradition_practiced_pirates
+		tradition_hill_dwellers
+		tradition_strong_kinship
 	}
 	
 	name_list = name_list_illyrian
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
-	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
-
+	coa_gfx = { norse_coa_gfx western_coa_gfx }
+	building_gfx = { norse_building_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { norse_unit_gfx }
+	
 	ethnicities = {
-		10 = mediterranean
+		70 = caucasian_northern_blond
+		15 = caucasian_northern_ginger
+		10 = caucasian_northern_brown_hair
+		5 = caucasian_northern_dark_hair
 	}
 }
 
@@ -115,26 +126,28 @@ ardiaeian = {
 	parents = { illyrian_group }
 	
 	ethos = ethos_bellicose
-	heritage = heritage_siculian
+	heritage = heritage_illyrian
 	language = language_illyrian
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
-		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_warrior_culture
+		tradition_practiced_pirates
+		tradition_hill_dwellers
+		tradition_strong_kinship
 	}
 	
 	name_list = name_list_illyrian
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
-	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
-
+	coa_gfx = { norse_coa_gfx western_coa_gfx }
+	building_gfx = { norse_building_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { norse_unit_gfx }
+	
 	ethnicities = {
-		10 = mediterranean
+		70 = caucasian_northern_blond
+		15 = caucasian_northern_ginger
+		10 = caucasian_northern_brown_hair
+		5 = caucasian_northern_dark_hair
 	}
 }
 
@@ -144,26 +157,28 @@ encheleian = {
 	parents = { illyrian_group }
 	
 	ethos = ethos_bellicose
-	heritage = heritage_siculian
+	heritage = heritage_illyrian
 	language = language_illyrian
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
-		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_warrior_culture
+		tradition_practiced_pirates
+		tradition_hill_dwellers
+		tradition_strong_kinship
 	}
 	
 	name_list = name_list_illyrian
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
-	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
-
+	coa_gfx = { norse_coa_gfx western_coa_gfx }
+	building_gfx = { norse_building_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { norse_unit_gfx }
+	
 	ethnicities = {
-		10 = mediterranean
+		70 = caucasian_northern_blond
+		15 = caucasian_northern_ginger
+		10 = caucasian_northern_brown_hair
+		5 = caucasian_northern_dark_hair
 	}
 }
 
@@ -173,26 +188,28 @@ dindarian = {
 	parents = { illyrian_group }
 	
 	ethos = ethos_bellicose
-	heritage = heritage_siculian
+	heritage = heritage_illyrian
 	language = language_illyrian
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
-		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_warrior_culture
+		tradition_practiced_pirates
+		tradition_hill_dwellers
+		tradition_strong_kinship
 	}
 	
 	name_list = name_list_illyrian
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
-	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
-
+	coa_gfx = { norse_coa_gfx western_coa_gfx }
+	building_gfx = { norse_building_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { norse_unit_gfx }
+	
 	ethnicities = {
-		10 = mediterranean
+		70 = caucasian_northern_blond
+		15 = caucasian_northern_ginger
+		10 = caucasian_northern_brown_hair
+		5 = caucasian_northern_dark_hair
 	}
 }
 
@@ -202,26 +219,28 @@ breucian = {
 	parents = { illyrian_group }
 	
 	ethos = ethos_bellicose
-	heritage = heritage_siculian
+	heritage = heritage_illyrian
 	language = language_illyrian
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
-		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_warrior_culture
+		tradition_practiced_pirates
+		tradition_hill_dwellers
+		tradition_strong_kinship
 	}
 	
 	name_list = name_list_illyrian
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
-	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
-
+	coa_gfx = { norse_coa_gfx western_coa_gfx }
+	building_gfx = { norse_building_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { norse_unit_gfx }
+	
 	ethnicities = {
-		10 = mediterranean
+		70 = caucasian_northern_blond
+		15 = caucasian_northern_ginger
+		10 = caucasian_northern_brown_hair
+		5 = caucasian_northern_dark_hair
 	}
 }
 
@@ -231,26 +250,28 @@ deurian = {
 	parents = { illyrian_group }
 	
 	ethos = ethos_bellicose
-	heritage = heritage_siculian
+	heritage = heritage_illyrian
 	language = language_illyrian
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
-		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_warrior_culture
+		tradition_practiced_pirates
+		tradition_hill_dwellers
+		tradition_strong_kinship
 	}
 	
 	name_list = name_list_illyrian
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
-	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
-
+	coa_gfx = { norse_coa_gfx western_coa_gfx }
+	building_gfx = { norse_building_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { norse_unit_gfx }
+	
 	ethnicities = {
-		10 = mediterranean
+		70 = caucasian_northern_blond
+		15 = caucasian_northern_ginger
+		10 = caucasian_northern_brown_hair
+		5 = caucasian_northern_dark_hair
 	}
 }
 
@@ -260,26 +281,28 @@ dardanian = {
 	parents = { illyrian_group }
 	
 	ethos = ethos_bellicose
-	heritage = heritage_siculian
+	heritage = heritage_illyrian
 	language = language_illyrian
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
-		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_warrior_culture
+		tradition_practiced_pirates
+		tradition_hill_dwellers
+		tradition_strong_kinship
 	}
 	
 	name_list = name_list_illyrian
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
-	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
-
+	coa_gfx = { norse_coa_gfx western_coa_gfx }
+	building_gfx = { norse_building_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { norse_unit_gfx }
+	
 	ethnicities = {
-		10 = mediterranean
+		70 = caucasian_northern_blond
+		15 = caucasian_northern_ginger
+		10 = caucasian_northern_brown_hair
+		5 = caucasian_northern_dark_hair
 	}
 }
 
@@ -289,26 +312,28 @@ pirustaian = {
 	parents = { illyrian_group }
 	
 	ethos = ethos_bellicose
-	heritage = heritage_siculian
+	heritage = heritage_illyrian
 	language = language_illyrian
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
-		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_warrior_culture
+		tradition_practiced_pirates
+		tradition_hill_dwellers
+		tradition_strong_kinship
 	}
 	
 	name_list = name_list_illyrian
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
-	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
-
+	coa_gfx = { norse_coa_gfx western_coa_gfx }
+	building_gfx = { norse_building_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { norse_unit_gfx }
+	
 	ethnicities = {
-		10 = mediterranean
+		70 = caucasian_northern_blond
+		15 = caucasian_northern_ginger
+		10 = caucasian_northern_brown_hair
+		5 = caucasian_northern_dark_hair
 	}
 }
 

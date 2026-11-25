@@ -1,24 +1,27 @@
 ﻿shasu_group = {
 	color = { 0.28 0.82 0.8 }
 
-	ethos = ethos_bellicose
+	ethos = ethos_spiritual
 	heritage = heritage_shasu
 	language = language_shasu
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
-		tradition_republican_legacy
+		tradition_legalistic
+		tradition_strong_kinship
+		tradition_fervent_temple_builders
+		tradition_dryland_dwellers
 	}
 	
 	name_list = name_list_shasu
 	
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
-	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { eastern_unit_gfx }
-	
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { mena_building_gfx } 
+	clothing_gfx = { byzantine_clothing_gfx } 
+	clothing_gfx = { mena_clothing_gfx } 
+	unit_gfx = { mena_unit_gfx } 		
+
 	ethnicities = {
-		10 = mediterranean
+		10 = arab
 	}
 }
 
@@ -27,27 +30,27 @@ shasu = {
 	
 	parents = { shasu_group }
 	
-	ethos = ethos_bellicose
+	ethos = ethos_spiritual
 	heritage = heritage_shasu
 	language = language_shasu
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
 		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_strong_kinship
+		tradition_fervent_temple_builders
+		tradition_dryland_dwellers
 	}
 	
 	name_list = name_list_shasu
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { mena_building_gfx } 
 	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
+	clothing_gfx = { mena_clothing_gfx } 
+	unit_gfx = { mena_unit_gfx } 		
 
 	ethnicities = {
-		10 = mediterranean
+		10 = arab
 	}
 }
 
@@ -56,27 +59,27 @@ edomite = {
 	
 	parents = { shasu_group }
 	
-	ethos = ethos_bellicose
+	ethos = ethos_spiritual
 	heritage = heritage_shasu
 	language = language_shasu
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
 		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_strong_kinship
+		tradition_fervent_temple_builders
+		tradition_dryland_dwellers
 	}
 	
 	name_list = name_list_shasu
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { mena_building_gfx } 
 	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
+	clothing_gfx = { mena_clothing_gfx } 
+	unit_gfx = { mena_unit_gfx } 		
 
 	ethnicities = {
-		10 = mediterranean
+		10 = arab
 	}
 }
 
@@ -85,27 +88,27 @@ moabite = {
 	
 	parents = { shasu_group }
 	
-	ethos = ethos_bellicose
+	ethos = ethos_spiritual
 	heritage = heritage_shasu
 	language = language_shasu
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
 		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_strong_kinship
+		tradition_fervent_temple_builders
+		tradition_dryland_dwellers
 	}
 	
 	name_list = name_list_shasu
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { mena_building_gfx } 
 	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
+	clothing_gfx = { mena_clothing_gfx } 
+	unit_gfx = { mena_unit_gfx } 		
 
 	ethnicities = {
-		10 = mediterranean
+		10 = arab
 	}
 }
 
@@ -114,27 +117,27 @@ ammonite = {
 	
 	parents = { shasu_group }
 	
-	ethos = ethos_bellicose
+	ethos = ethos_spiritual
 	heritage = heritage_shasu
 	language = language_shasu
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
 		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_strong_kinship
+		tradition_fervent_temple_builders
+		tradition_dryland_dwellers
 	}
 	
 	name_list = name_list_shasu
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { mena_building_gfx } 
 	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
+	clothing_gfx = { mena_clothing_gfx } 
+	unit_gfx = { mena_unit_gfx } 		
 
 	ethnicities = {
-		10 = mediterranean
+		10 = arab
 	}
 }
 
@@ -143,27 +146,27 @@ judahite = {
 	
 	parents = { shasu_group }
 	
-	ethos = ethos_bellicose
+	ethos = ethos_spiritual
 	heritage = heritage_shasu
 	language = language_shasu
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
 		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_strong_kinship
+		tradition_fervent_temple_builders
+		tradition_dryland_dwellers
 	}
 	
 	name_list = name_list_shasu
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { mena_building_gfx } 
 	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
+	clothing_gfx = { mena_clothing_gfx } 
+	unit_gfx = { mena_unit_gfx } 		
 
 	ethnicities = {
-		10 = mediterranean
+		10 = arab
 	}
 }
 
@@ -172,26 +175,26 @@ samarian = {
 	
 	parents = { shasu_group }
 	
-	ethos = ethos_bellicose
+	ethos = ethos_spiritual
 	heritage = heritage_shasu
 	language = language_shasu
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
 		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_strong_kinship
+		tradition_fervent_temple_builders
+		tradition_dryland_dwellers
 	}
 	
 	name_list = name_list_shasu
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { mena_building_gfx } 
 	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
+	clothing_gfx = { mena_clothing_gfx } 
+	unit_gfx = { mena_unit_gfx } 		
 
 	ethnicities = {
-		10 = mediterranean
+		10 = arab
 	}
 }

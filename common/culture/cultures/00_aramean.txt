@@ -6,19 +6,22 @@
 	language = language_aramean
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
-		tradition_republican_legacy
+		tradition_strong_kinship
+		tradition_legalistic
+		tradition_caravaneers
+		tradition_religious_patronage
 	}
 	
 	name_list = name_list_aramean
 	
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
-	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { eastern_unit_gfx }
-	
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { mena_building_gfx } 
+	clothing_gfx = { byzantine_clothing_gfx } 
+	clothing_gfx = { mena_clothing_gfx } 
+	unit_gfx = { mena_unit_gfx } 		
+
 	ethnicities = {
-		10 = mediterranean
+		10 = arab
 	}
 }
 
@@ -32,22 +35,22 @@ damascan = {
 	language = language_aramean
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
+		tradition_strong_kinship
 		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_caravaneers
+		tradition_religious_patronage
 	}
 	
 	name_list = name_list_aramean
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { mena_building_gfx } 
 	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
+	clothing_gfx = { mena_clothing_gfx } 
+	unit_gfx = { mena_unit_gfx } 		
 
 	ethnicities = {
-		10 = mediterranean
+		10 = arab
 	}
 }
 
@@ -61,22 +64,22 @@ gusian = {
 	language = language_aramean
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
+		tradition_strong_kinship
 		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_caravaneers
+		tradition_religious_patronage
 	}
 	
 	name_list = name_list_aramean
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { mena_building_gfx } 
 	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
+	clothing_gfx = { mena_clothing_gfx } 
+	unit_gfx = { mena_unit_gfx } 		
 
 	ethnicities = {
-		10 = mediterranean
+		10 = arab
 	}
 }
 
@@ -90,22 +93,22 @@ sutean = {
 	language = language_aramean
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
+		tradition_strong_kinship
 		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_caravaneers
+		tradition_religious_patronage
 	}
 	
 	name_list = name_list_aramean
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { mena_building_gfx } 
 	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
+	clothing_gfx = { mena_clothing_gfx } 
+	unit_gfx = { mena_unit_gfx } 		
 
 	ethnicities = {
-		10 = mediterranean
+		10 = arab
 	}
 }
 
@@ -119,22 +122,22 @@ chaldean = {
 	language = language_aramean
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
+		tradition_strong_kinship
 		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_caravaneers
+		tradition_religious_patronage
 	}
 	
 	name_list = name_list_aramean
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { mena_building_gfx } 
 	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
+	clothing_gfx = { mena_clothing_gfx } 
+	unit_gfx = { mena_unit_gfx } 		
 
 	ethnicities = {
-		10 = mediterranean
+		10 = arab
 	}
 }
 
@@ -148,22 +151,22 @@ itu = {
 	language = language_aramean
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
+		tradition_strong_kinship
 		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_caravaneers
+		tradition_religious_patronage
 	}
 	
 	name_list = name_list_aramean
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { mena_building_gfx } 
 	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
+	clothing_gfx = { mena_clothing_gfx } 
+	unit_gfx = { mena_unit_gfx } 		
 
 	ethnicities = {
-		10 = mediterranean
+		10 = arab
 	}
 }
 
@@ -177,22 +180,22 @@ naharimi = {
 	language = language_aramean
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
+		tradition_strong_kinship
 		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_caravaneers
+		tradition_religious_patronage
 	}
 	
 	name_list = name_list_aramean
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { mena_building_gfx } 
 	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
+	clothing_gfx = { mena_clothing_gfx } 
+	unit_gfx = { mena_unit_gfx } 		
 
 	ethnicities = {
-		10 = mediterranean
+		10 = arab
 	}
 }
 
@@ -206,22 +209,22 @@ akhlamite = {
 	language = language_aramean
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
+		tradition_strong_kinship
 		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_caravaneers
+		tradition_religious_patronage
 	}
 	
 	name_list = name_list_aramean
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { mena_building_gfx } 
 	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
+	clothing_gfx = { mena_clothing_gfx } 
+	unit_gfx = { mena_unit_gfx } 		
 
 	ethnicities = {
-		10 = mediterranean
+		10 = arab
 	}
 }
 

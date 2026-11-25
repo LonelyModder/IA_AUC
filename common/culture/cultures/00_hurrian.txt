@@ -1,24 +1,28 @@
 ﻿hurrian_group = {
 	color = { 0.25 0.51 0.43 }
 
-	ethos = ethos_bellicose
+	ethos = ethos_spiritual
 	heritage = heritage_hurrian
 	language = language_hurrian
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
-		tradition_republican_legacy
+		tradition_fervent_temple_builders
+		tradition_religious_patronage
+		tradition_horse_lords
+		tradition_strong_kinship
 	}
 	
 	name_list = name_list_hurrian
 	
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
-	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
-	unit_gfx = { eastern_unit_gfx }
-	
+	coa_gfx = { magyar_group_coa_gfx ugro_permian_group_coa_gfx steppe_coa_gfx } 
+	building_gfx = { mena_building_gfx }
+	clothing_gfx = { iranian_clothing_gfx } 
+	unit_gfx = { mena_unit_gfx } 	
+
 	ethnicities = {
-		10 = mediterranean
+		60 = circumpolar_dark_hair
+		30 = circumpolar_brown_hair
+		10 = circumpolar_blonde_hair
 	}
 }
 
@@ -27,27 +31,28 @@ qurkhan = {
 	
 	parents = { hurrian_group }
 	
-	ethos = ethos_bellicose
+	ethos = ethos_spiritual
 	heritage = heritage_hurrian
 	language = language_hurrian
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
-		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_fervent_temple_builders
+		tradition_religious_patronage
+		tradition_horse_lords
+		tradition_strong_kinship
 	}
 	
 	name_list = name_list_hurrian
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
-	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
+	coa_gfx = { magyar_group_coa_gfx ugro_permian_group_coa_gfx steppe_coa_gfx } 
+	building_gfx = { mena_building_gfx }
+	clothing_gfx = { iranian_clothing_gfx } 
+	unit_gfx = { mena_unit_gfx } 	
 
 	ethnicities = {
-		10 = mediterranean
+		60 = circumpolar_dark_hair
+		30 = circumpolar_brown_hair
+		10 = circumpolar_blonde_hair
 	}
 }
 
@@ -56,27 +61,28 @@ kadmukhite = {
 	
 	parents = { hurrian_group }
 	
-	ethos = ethos_bellicose
+	ethos = ethos_spiritual
 	heritage = heritage_hurrian
 	language = language_hurrian
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
-		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_fervent_temple_builders
+		tradition_religious_patronage
+		tradition_horse_lords
+		tradition_strong_kinship
 	}
 	
 	name_list = name_list_hurrian
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
-	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
+	coa_gfx = { magyar_group_coa_gfx ugro_permian_group_coa_gfx steppe_coa_gfx } 
+	building_gfx = { mena_building_gfx }
+	clothing_gfx = { iranian_clothing_gfx } 
+	unit_gfx = { mena_unit_gfx } 	
 
 	ethnicities = {
-		10 = mediterranean
+		60 = circumpolar_dark_hair
+		30 = circumpolar_brown_hair
+		10 = circumpolar_blonde_hair
 	}
 }
 
@@ -85,26 +91,27 @@ mannean = {
 	
 	parents = { hurrian_group }
 	
-	ethos = ethos_bellicose
+	ethos = ethos_spiritual
 	heritage = heritage_hurrian
 	language = language_hurrian
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
-		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_fervent_temple_builders
+		tradition_religious_patronage
+		tradition_horse_lords
+		tradition_strong_kinship
 	}
 	
 	name_list = name_list_hurrian
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
-	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
+	coa_gfx = { magyar_group_coa_gfx ugro_permian_group_coa_gfx steppe_coa_gfx } 
+	building_gfx = { mena_building_gfx }
+	clothing_gfx = { iranian_clothing_gfx } 
+	unit_gfx = { mena_unit_gfx } 	
 
 	ethnicities = {
-		10 = mediterranean
+		60 = circumpolar_dark_hair
+		30 = circumpolar_brown_hair
+		10 = circumpolar_blonde_hair
 	}
 }

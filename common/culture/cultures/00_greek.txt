@@ -1,24 +1,26 @@
 ﻿hellenic_group = {
 	color = { 0.06 0.75 0.99 }
 
-	ethos = ethos_bellicose
+	ethos = ethos_bureaucratic
 	heritage = heritage_greek
 	language = language_greek
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
-		tradition_republican_legacy
+		tradition_philosopher_culture
+		tradition_festivities
+		tradition_legalistic
+		tradition_mare_nostrum
 	}
 	
 	name_list = name_list_greek
 	
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx }
-	building_gfx = { mediterranean_building_gfx }
-	clothing_gfx = { western_clothing_gfx }
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { byzantine_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
 	unit_gfx = { eastern_unit_gfx }
 	
 	ethnicities = {
-		10 = mediterranean
+		10 = mediterranean_byzantine
 	}
 }
 
@@ -27,27 +29,26 @@ doric = {
 	
 	parents = { hellenic_group }
 	
-	ethos = ethos_bellicose
+	ethos = ethos_bureaucratic
 	heritage = heritage_italiote
 	language = language_greek
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
+		tradition_philosopher_culture
+		tradition_festivities
 		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_mare_nostrum
 	}
 	
 	name_list = name_list_greek
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
-	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
-
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { byzantine_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
 	ethnicities = {
-		10 = mediterranean
+		10 = mediterranean_byzantine
 	}
 }
 
@@ -56,27 +57,26 @@ aeolian = {
 	
 	parents = { hellenic_group }
 	
-	ethos = ethos_bellicose
+	ethos = ethos_bureaucratic
 	heritage = heritage_italiote
 	language = language_greek
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
+		tradition_philosopher_culture
+		tradition_festivities
 		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_mare_nostrum
 	}
 	
 	name_list = name_list_greek
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
-	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
-
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { byzantine_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
 	ethnicities = {
-		10 = mediterranean
+		10 = mediterranean_byzantine
 	}
 }
 
@@ -85,27 +85,26 @@ northwesterngreek = {
 	
 	parents = { hellenic_group }
 	
-	ethos = ethos_bellicose
+	ethos = ethos_bureaucratic
 	heritage = heritage_italiote
 	language = language_greek
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
+		tradition_philosopher_culture
+		tradition_festivities
 		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_mare_nostrum
 	}
 	
 	name_list = name_list_greek
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
-	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
-
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { byzantine_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
 	ethnicities = {
-		10 = mediterranean
+		10 = mediterranean_byzantine
 	}
 }
 
@@ -114,27 +113,26 @@ thessalian = {
 	
 	parents = { hellenic_group }
 	
-	ethos = ethos_bellicose
+	ethos = ethos_bureaucratic
 	heritage = heritage_italiote
 	language = language_greek
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
+		tradition_philosopher_culture
+		tradition_festivities
 		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_mare_nostrum
 	}
 	
 	name_list = name_list_greek
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
-	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
-
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { byzantine_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
 	ethnicities = {
-		10 = mediterranean
+		10 = mediterranean_byzantine
 	}
 }
 
@@ -143,27 +141,26 @@ attic = {
 	
 	parents = { hellenic_group }
 	
-	ethos = ethos_bellicose
+	ethos = ethos_bureaucratic
 	heritage = heritage_italiote
 	language = language_greek
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
+		tradition_philosopher_culture
+		tradition_festivities
 		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_mare_nostrum
 	}
 	
 	name_list = name_list_greek
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
-	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
-
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { byzantine_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
 	ethnicities = {
-		10 = mediterranean
+		10 = mediterranean_byzantine
 	}
 }
 
@@ -172,27 +169,26 @@ arcadian = {
 	
 	parents = { hellenic_group }
 	
-	ethos = ethos_bellicose
+	ethos = ethos_bureaucratic
 	heritage = heritage_italiote
 	language = language_greek
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
+		tradition_philosopher_culture
+		tradition_festivities
 		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_mare_nostrum
 	}
 	
 	name_list = name_list_greek
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
-	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
-
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { byzantine_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
 	ethnicities = {
-		10 = mediterranean
+		10 = mediterranean_byzantine
 	}
 }
 
@@ -201,27 +197,26 @@ cretan = {
 	
 	parents = { hellenic_group }
 	
-	ethos = ethos_bellicose
+	ethos = ethos_bureaucratic
 	heritage = heritage_italiote
 	language = language_greek
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
+		tradition_philosopher_culture
+		tradition_festivities
 		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_mare_nostrum
 	}
 	
 	name_list = name_list_greek
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
-	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
-
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { byzantine_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
 	ethnicities = {
-		10 = mediterranean
+		10 = mediterranean_byzantine
 	}
 }
 
@@ -230,27 +225,26 @@ italiote = {
 	
 	parents = { hellenic_group }
 	
-	ethos = ethos_bellicose
+	ethos = ethos_bureaucratic
 	heritage = heritage_italiote
 	language = language_greek
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
+		tradition_philosopher_culture
+		tradition_festivities
 		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_mare_nostrum
 	}
 	
 	name_list = name_list_greek
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
-	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
-
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { byzantine_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
 	ethnicities = {
-		10 = mediterranean
+		10 = mediterranean_byzantine
 	}
 }
 
@@ -259,27 +253,26 @@ dorean = {
 	
 	parents = { hellenic_group }
 	
-	ethos = ethos_bellicose
+	ethos = ethos_bureaucratic
 	heritage = heritage_scielote
 	language = language_greek
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
+		tradition_philosopher_culture
+		tradition_festivities
 		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_mare_nostrum
 	}
 	
 	name_list = name_list_greek
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
-	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
-
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { byzantine_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
 	ethnicities = {
-		10 = mediterranean
+		10 = mediterranean_byzantine
 	}
 }
 
@@ -288,27 +281,26 @@ scielote = {
 	
 	parents = { hellenic_group }
 	
-	ethos = ethos_bellicose
+	ethos = ethos_bureaucratic
 	heritage = heritage_scielote
 	language = language_greek
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
+		tradition_philosopher_culture
+		tradition_festivities
 		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_mare_nostrum
 	}
 	
 	name_list = name_list_greek
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
-	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
-
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { byzantine_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
 	ethnicities = {
-		10 = mediterranean
+		10 = mediterranean_byzantine
 	}
 }
 
@@ -317,27 +309,26 @@ achean = {
 	
 	parents = { hellenic_group }
 	
-	ethos = ethos_bellicose
+	ethos = ethos_bureaucratic
 	heritage = heritage_cypriote
 	language = language_greek
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
+		tradition_philosopher_culture
+		tradition_festivities
 		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_mare_nostrum
 	}
 	
 	name_list = name_list_greek
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
-	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
-
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { byzantine_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
 	ethnicities = {
-		10 = mediterranean
+		10 = mediterranean_byzantine
 	}
 }
 
@@ -346,27 +337,26 @@ cypriote = {
 	
 	parents = { hellenic_group }
 	
-	ethos = ethos_bellicose
+	ethos = ethos_bureaucratic
 	heritage = heritage_cypriote
 	language = language_greek
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
+		tradition_philosopher_culture
+		tradition_festivities
 		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_mare_nostrum
 	}
 	
 	name_list = name_list_greek
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
-	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
-
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { byzantine_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
 	ethnicities = {
-		10 = mediterranean
+		10 = mediterranean_byzantine
 	}
 }
 
@@ -375,27 +365,26 @@ ionian = {
 	
 	parents = { hellenic_group }
 	
-	ethos = ethos_bellicose
+	ethos = ethos_bureaucratic
 	heritage = heritage_cypriote
 	language = language_greek
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
+		tradition_philosopher_culture
+		tradition_festivities
 		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_mare_nostrum
 	}
 	
 	name_list = name_list_hattian
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
-	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
-
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { byzantine_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
 	ethnicities = {
-		10 = mediterranean
+		10 = mediterranean_byzantine
 	}
 }
 
@@ -404,27 +393,26 @@ hijawan = {
 	
 	parents = { hellenic_group }
 	
-	ethos = ethos_bellicose
+	ethos = ethos_bureaucratic
 	heritage = heritage_cypriote
 	language = language_greek
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
+		tradition_philosopher_culture
+		tradition_festivities
 		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_mare_nostrum
 	}
 	
 	name_list = name_list_hattian
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
-	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
-
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { byzantine_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
 	ethnicities = {
-		10 = mediterranean
+		10 = mediterranean_byzantine
 	}
 }
 
@@ -433,27 +421,26 @@ beotian = {
 	
 	parents = { hellenic_group }
 	
-	ethos = ethos_bellicose
+	ethos = ethos_bureaucratic
 	heritage = heritage_cypriote
 	language = language_greek
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
+		tradition_philosopher_culture
+		tradition_festivities
 		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_mare_nostrum
 	}
 	
 	name_list = name_list_hattian
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
-	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
-
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { byzantine_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
 	ethnicities = {
-		10 = mediterranean
+		10 = mediterranean_byzantine
 	}
 }
 
@@ -462,27 +449,26 @@ epirote = {
 	
 	parents = { hellenic_group }
 	
-	ethos = ethos_bellicose
+	ethos = ethos_bureaucratic
 	heritage = heritage_cypriote
 	language = language_greek
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
+		tradition_philosopher_culture
+		tradition_festivities
 		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_mare_nostrum
 	}
 	
 	name_list = name_list_hattian
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
-	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
-
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { byzantine_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
 	ethnicities = {
-		10 = mediterranean
+		10 = mediterranean_byzantine
 	}
 }
 
@@ -491,27 +477,26 @@ macedonian = {
 	
 	parents = { hellenic_group }
 	
-	ethos = ethos_bellicose
+	ethos = ethos_bureaucratic
 	heritage = heritage_cypriote
 	language = language_greek
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_formation_fighting
+		tradition_philosopher_culture
+		tradition_festivities
 		tradition_legalistic
-		tradition_hereditary_hierarchy
-		tradition_noble_adoption
+		tradition_polygamous
 	}
 	
 	name_list = name_list_hattian
 
-	coa_gfx = { latin_group_coa_gfx western_coa_gfx } 
-	building_gfx = { mediterranean_building_gfx } 
-	clothing_gfx = { byzantine_clothing_gfx } 
-	clothing_gfx = { western_clothing_gfx } 
-	unit_gfx = { eastern_unit_gfx } 		
-
+	coa_gfx = { byzantine_group_coa_gfx }
+	building_gfx = { byzantine_building_gfx }
+	clothing_gfx = { byzantine_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+	
 	ethnicities = {
-		10 = mediterranean
+		10 = mediterranean_byzantine
 	}
 }
 
