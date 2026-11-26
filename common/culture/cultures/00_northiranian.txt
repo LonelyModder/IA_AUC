@@ -1,0 +1,57 @@
+﻿northiranian_group = {
+	color = { 0.87 1.0 0.0 }
+
+	ethos = ethos_bellicose
+	heritage = heritage_northiranian
+	language = language_northiranian
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_warrior_culture
+		tradition_horse_lords
+		tradition_strong_kinship
+	}
+	
+	name_list = name_list_northiranian
+	
+	coa_gfx = { magyar_group_coa_gfx ugro_permian_group_coa_gfx steppe_coa_gfx } 
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx } 
+	unit_gfx = { mongol_unit_gfx } 	
+
+	ethnicities = {
+		60 = circumpolar_dark_hair
+		30 = circumpolar_brown_hair
+		10 = circumpolar_blonde_hair
+	}
+}
+
+cymmerian = {
+	color = { 0.87 1.0 0.0 }
+	
+	parents = { northiranian_group }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_northiranian
+	language = language_northiranian
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_hereditary_hierarchy
+		tradition_warrior_culture
+		tradition_horse_lords
+		tradition_strong_kinship
+	}
+	
+	name_list = name_list_northiranian
+
+	coa_gfx = { magyar_group_coa_gfx ugro_permian_group_coa_gfx steppe_coa_gfx } 
+	building_gfx = { steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx } 
+	unit_gfx = { mongol_unit_gfx } 	
+
+	ethnicities = {
+		60 = circumpolar_dark_hair
+		30 = circumpolar_brown_hair
+		10 = circumpolar_blonde_hair
+	}
+}

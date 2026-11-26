@@ -1153,6 +1153,24 @@ language_hattian = {
 	color = italian
 }
 
+language_northiranian = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_northiranian
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_northiranian }
+			multiply = 10
+		}
+	}
+	
+	color = italian
+}
+
 language_luwian = {
 	type = language
 	is_shown = {

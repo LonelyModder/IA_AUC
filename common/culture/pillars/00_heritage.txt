@@ -706,6 +706,16 @@ heritage_paleobalkan = {
 	audio_parameter = european
 }
 
+heritage_northiranian = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_northiranian
+		}
+	}
+	audio_parameter = european
+}
+
 heritage_thracian = {
 	type = heritage
 	is_shown = {
