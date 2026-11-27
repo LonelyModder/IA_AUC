@@ -30,7 +30,7 @@ doric = {
 	parents = { hellenic_group }
 	
 	ethos = ethos_bureaucratic
-	heritage = heritage_italiote
+	heritage = heritage_greek
 	language = language_greek
 	martial_custom = martial_custom_male_only
 	traditions = {
@@ -58,7 +58,7 @@ aeolian = {
 	parents = { hellenic_group }
 	
 	ethos = ethos_bureaucratic
-	heritage = heritage_italiote
+	heritage = heritage_greek
 	language = language_greek
 	martial_custom = martial_custom_male_only
 	traditions = {
@@ -86,7 +86,7 @@ northwesterngreek = {
 	parents = { hellenic_group }
 	
 	ethos = ethos_bureaucratic
-	heritage = heritage_italiote
+	heritage = heritage_greek
 	language = language_greek
 	martial_custom = martial_custom_male_only
 	traditions = {
@@ -114,7 +114,7 @@ thessalian = {
 	parents = { hellenic_group }
 	
 	ethos = ethos_bureaucratic
-	heritage = heritage_italiote
+	heritage = heritage_greek
 	language = language_greek
 	martial_custom = martial_custom_male_only
 	traditions = {
@@ -142,7 +142,7 @@ attic = {
 	parents = { hellenic_group }
 	
 	ethos = ethos_bureaucratic
-	heritage = heritage_italiote
+	heritage = heritage_greek
 	language = language_greek
 	martial_custom = martial_custom_male_only
 	traditions = {
@@ -170,7 +170,7 @@ arcadian = {
 	parents = { hellenic_group }
 	
 	ethos = ethos_bureaucratic
-	heritage = heritage_italiote
+	heritage = heritage_greek
 	language = language_greek
 	martial_custom = martial_custom_male_only
 	traditions = {
@@ -198,7 +198,7 @@ cretan = {
 	parents = { hellenic_group }
 	
 	ethos = ethos_bureaucratic
-	heritage = heritage_italiote
+	heritage = heritage_greek
 	language = language_greek
 	martial_custom = martial_custom_male_only
 	traditions = {
@@ -226,7 +226,7 @@ italiote = {
 	parents = { hellenic_group }
 	
 	ethos = ethos_bureaucratic
-	heritage = heritage_italiote
+	heritage = heritage_greek
 	language = language_greek
 	martial_custom = martial_custom_male_only
 	traditions = {
@@ -254,7 +254,7 @@ dorean = {
 	parents = { hellenic_group }
 	
 	ethos = ethos_bureaucratic
-	heritage = heritage_scielote
+	heritage = heritage_greek
 	language = language_greek
 	martial_custom = martial_custom_male_only
 	traditions = {
@@ -282,7 +282,7 @@ scielote = {
 	parents = { hellenic_group }
 	
 	ethos = ethos_bureaucratic
-	heritage = heritage_scielote
+	heritage = heritage_greek
 	language = language_greek
 	martial_custom = martial_custom_male_only
 	traditions = {
@@ -310,7 +310,7 @@ achean = {
 	parents = { hellenic_group }
 	
 	ethos = ethos_bureaucratic
-	heritage = heritage_cypriote
+	heritage = heritage_greek
 	language = language_greek
 	martial_custom = martial_custom_male_only
 	traditions = {
@@ -338,7 +338,7 @@ cypriote = {
 	parents = { hellenic_group }
 	
 	ethos = ethos_bureaucratic
-	heritage = heritage_cypriote
+	heritage = heritage_greek
 	language = language_greek
 	martial_custom = martial_custom_male_only
 	traditions = {
@@ -366,7 +366,7 @@ ionian = {
 	parents = { hellenic_group }
 	
 	ethos = ethos_bureaucratic
-	heritage = heritage_cypriote
+	heritage = heritage_greek
 	language = language_greek
 	martial_custom = martial_custom_male_only
 	traditions = {
@@ -394,7 +394,7 @@ hijawan = {
 	parents = { hellenic_group }
 	
 	ethos = ethos_bureaucratic
-	heritage = heritage_cypriote
+	heritage = heritage_greek
 	language = language_greek
 	martial_custom = martial_custom_male_only
 	traditions = {
@@ -422,7 +422,7 @@ beotian = {
 	parents = { hellenic_group }
 	
 	ethos = ethos_bureaucratic
-	heritage = heritage_cypriote
+	heritage = heritage_greek
 	language = language_greek
 	martial_custom = martial_custom_male_only
 	traditions = {
@@ -450,7 +450,7 @@ epirote = {
 	parents = { hellenic_group }
 	
 	ethos = ethos_bureaucratic
-	heritage = heritage_cypriote
+	heritage = heritage_greek
 	language = language_greek
 	martial_custom = martial_custom_male_only
 	traditions = {
@@ -478,7 +478,7 @@ macedonian = {
 	parents = { hellenic_group }
 	
 	ethos = ethos_bureaucratic
-	heritage = heritage_cypriote
+	heritage = heritage_greek
 	language = language_greek
 	martial_custom = martial_custom_male_only
 	traditions = {

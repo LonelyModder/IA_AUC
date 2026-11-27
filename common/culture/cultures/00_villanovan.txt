@@ -6,7 +6,7 @@
 	language = language_etruscan
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_metalworkers
+		tradition_metal_craftsmanship
 		tradition_maritime_mercantilism
 		tradition_religious_patronage
 		tradition_fervent_temple_builders
@@ -34,7 +34,7 @@ etruscan = {
 	language = language_etruscan
 	martial_custom = martial_custom_male_only
 	traditions = {
-		tradition_metalworkers
+		tradition_metal_craftsmanship
 		tradition_maritime_mercantilism
 		tradition_religious_patronage
 		tradition_fervent_temple_builders
@@ -65,7 +65,7 @@ picentian = {
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_hill_dwellers
-		tradition_metalworkers
+		tradition_metal_craftsmanship
 		tradition_strong_kinship
 		tradition_mountain_homes
 	}
@@ -95,7 +95,7 @@ sicanian = {
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_hill_dwellers
-		tradition_metalworkers
+		tradition_metal_craftsmanship
 		tradition_strong_kinship
 		tradition_mountain_homes
 	}
@@ -125,7 +125,7 @@ raetian = {
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_hill_dwellers
-		tradition_metalworkers
+		tradition_metal_craftsmanship
 		tradition_strong_kinship
 		tradition_mountain_homes
 	}
@@ -158,7 +158,7 @@ eugeneian = {
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_hill_dwellers
-		tradition_metalworkers
+		tradition_metal_craftsmanship
 		tradition_strong_kinship
 		tradition_mountain_homes
 	}
@@ -191,7 +191,7 @@ cammunian = {
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_hill_dwellers
-		tradition_metalworkers
+		tradition_metal_craftsmanship
 		tradition_strong_kinship
 		tradition_mountain_homes
 	}
@@ -224,7 +224,7 @@ bodinci = {
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_hill_dwellers
-		tradition_metalworkers
+		tradition_metal_craftsmanship
 		tradition_strong_kinship
 		tradition_mountain_homes
 	}

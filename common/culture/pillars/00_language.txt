@@ -718,7 +718,7 @@ language_mlatin = {
 		}
 	}
 	
-	color = italian
+	color = { 1.0 0.03 0.0 }
 }
 
 language_etruscan = {
@@ -736,7 +736,7 @@ language_etruscan = {
 		}
 	}
 	
-	color = italian
+	color = { 1.0 0.25 0.25 }
 }
 
 language_ligurian = {
@@ -754,7 +754,7 @@ language_ligurian = {
 		}
 	}
 	
-	color = italian
+	color = { 0.83 0.0 0.25 }
 }
 
 language_paleobalkan = {
@@ -772,7 +772,7 @@ language_paleobalkan = {
 		}
 	}
 	
-	color = italian
+	color = { 0.77 0.76 0.82 }
 }
 
 language_greek = {
@@ -790,7 +790,7 @@ language_greek = {
 		}
 	}
 	
-	color = italian
+	color = { 0.06 0.75 0.99 }
 }
 
 language_illyrian = {
@@ -808,7 +808,7 @@ language_illyrian = {
 		}
 	}
 	
-	color = italian
+	color = { 0.0 0.48 0.45 }
 }
 
 language_liburnian = {
@@ -826,7 +826,7 @@ language_liburnian = {
 		}
 	}
 	
-	color = italian
+	color = { 0.0 0.27 0.13 }
 }
 
 language_hurrian = {
@@ -844,7 +844,7 @@ language_hurrian = {
 		}
 	}
 	
-	color = italian
+	color = { 0.25 0.51 0.43 }
 }
 
 language_elamite = {
@@ -862,7 +862,7 @@ language_elamite = {
 		}
 	}
 	
-	color = italian
+	color = { 0.35 0.15 0.13 }
 }
 
 language_kassite = {
@@ -880,7 +880,7 @@ language_kassite = {
 		}
 	}
 	
-	color = italian
+	color = { 0.81 0.44 0.69 }
 }
 
 language_oscan = {
@@ -898,7 +898,7 @@ language_oscan = {
 		}
 	}
 	
-	color = italian
+	color = { 1.0 0.03 0.0 }
 }
 
 language_punic = {
@@ -916,7 +916,7 @@ language_punic = {
 		}
 	}
 	
-	color = italian
+	color = { 1.0 0.0 1.0 }
 }
 
 language_canaanite = {
@@ -934,7 +934,7 @@ language_canaanite = {
 		}
 	}
 	
-	color = italian
+	color = { 1.0 0.0 1.0 }
 }
 
 language_nuragian = {
@@ -952,7 +952,7 @@ language_nuragian = {
 		}
 	}
 	
-	color = italian
+	color = { 0.47 0.62 0.8 }
 }
 
 language_libyan = {
@@ -970,7 +970,7 @@ language_libyan = {
 		}
 	}
 	
-	color = { 0.63 0.47 0.35 }
+	color = { 0.77 0.7 0.35 }
 }
 
 language_kemetic = {
@@ -988,7 +988,7 @@ language_kemetic = {
 		}
 	}
 	
-	color = { 0.93 0.57 0.13 }
+	color = { 0.93 0.9 0.0 }
 }
 
 language_shasu = {
@@ -1006,7 +1006,7 @@ language_shasu = {
 		}
 	}
 	
-	color = italian
+	color = { 0.28 0.82 0.8 }
 }
 
 language_arabic = {
@@ -1024,7 +1024,7 @@ language_arabic = {
 		}
 	}
 	
-	color = italian
+	color = { 0.0 1.0 0.0 }
 }
 
 language_philistine = {
@@ -1042,7 +1042,7 @@ language_philistine = {
 		}
 	}
 	
-	color = italian
+	color = { 1.0 0.0 1.0 }
 }
 
 language_akkadian = {
@@ -1060,7 +1060,7 @@ language_akkadian = {
 		}
 	}
 	
-	color = italian
+	color = { 0.64 0.0 0.0 }
 }
 
 language_agean = {
@@ -1078,7 +1078,7 @@ language_agean = {
 		}
 	}
 	
-	color = italian
+	color = { 0.0 1.0 1.0 }
 }
 
 language_thracian = {
@@ -1096,7 +1096,7 @@ language_thracian = {
 		}
 	}
 	
-	color = italian
+	color = { 0.75 0.25 0.0 }
 }
 
 language_celtic = {
@@ -1114,7 +1114,7 @@ language_celtic = {
 		}
 	}
 	
-	color = italian
+	color = { 0.16 0.5 0.0 }
 }
 
 language_eteocypriot = {
@@ -1132,7 +1132,7 @@ language_eteocypriot = {
 		}
 	}
 	
-	color = italian
+	color = { 0.0 1.0 1.0 }
 }
 
 language_hattian = {
@@ -1150,7 +1150,7 @@ language_hattian = {
 		}
 	}
 	
-	color = italian
+	color = { 0.48 0.25 0.0 }
 }
 
 language_northiranian = {
@@ -1168,7 +1168,7 @@ language_northiranian = {
 		}
 	}
 	
-	color = italian
+	color = { 0.87 1.0 0.0 }
 }
 
 language_luwian = {
@@ -1186,7 +1186,7 @@ language_luwian = {
 		}
 	}
 	
-	color = italian
+	color = { 0.91 0.45 0.32 }
 }
 
 language_caucasian = {
@@ -1204,7 +1204,7 @@ language_caucasian = {
 		}
 	}
 	
-	color = italian
+	color = { 0.47 0.53 0.6 }
 }
 
 language_aramean = {
@@ -1222,7 +1222,7 @@ language_aramean = {
 		}
 	}
 	
-	color = italian
+	color = { 0.83 0.69 0.22 }
 }
 
 language_nubian = {
@@ -1240,7 +1240,7 @@ language_nubian = {
 		}
 	}
 	
-	color = italian
+	color = { 0.39 0.33 0.32 }
 }
 
 language_umbrian = {
@@ -1258,7 +1258,7 @@ language_umbrian = {
 		}
 	}
 	
-	color = italian
+	color = { 1.0 0.03 0.0 }
 }
 
 language_kru = {
