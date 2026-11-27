@@ -9,7 +9,7 @@
 		tradition_hill_dwellers
 		tradition_warrior_culture
 		tradition_practiced_pirates
-		tradition_metalworkers
+		tradition_metal_craftsmanship
 	}
 	
 	name_list = name_list_italiote
@@ -40,7 +40,7 @@ eligurian = {
 		tradition_hill_dwellers
 		tradition_warrior_culture
 		tradition_practiced_pirates
-		tradition_metalworkers
+		tradition_metal_craftsmanship
 	}
 	
 	name_list = name_list_italiote

@@ -9,7 +9,7 @@
 		tradition_philosopher_culture
 		tradition_festivities
 		tradition_legalistic
-		tradition_mare_nostrum
+		tradition_maritime_mercantilism
 	}
 	
 	name_list = name_list_greek
@@ -37,7 +37,7 @@ doric = {
 		tradition_philosopher_culture
 		tradition_festivities
 		tradition_legalistic
-		tradition_mare_nostrum
+		tradition_maritime_mercantilism
 	}
 	
 	name_list = name_list_greek
@@ -65,7 +65,7 @@ aeolian = {
 		tradition_philosopher_culture
 		tradition_festivities
 		tradition_legalistic
-		tradition_mare_nostrum
+		tradition_maritime_mercantilism
 	}
 	
 	name_list = name_list_greek
@@ -93,7 +93,7 @@ northwesterngreek = {
 		tradition_philosopher_culture
 		tradition_festivities
 		tradition_legalistic
-		tradition_mare_nostrum
+		tradition_maritime_mercantilism
 	}
 	
 	name_list = name_list_greek
@@ -121,7 +121,7 @@ thessalian = {
 		tradition_philosopher_culture
 		tradition_festivities
 		tradition_legalistic
-		tradition_mare_nostrum
+		tradition_maritime_mercantilism
 	}
 	
 	name_list = name_list_greek
@@ -149,7 +149,7 @@ attic = {
 		tradition_philosopher_culture
 		tradition_festivities
 		tradition_legalistic
-		tradition_mare_nostrum
+		tradition_maritime_mercantilism
 	}
 	
 	name_list = name_list_greek
@@ -177,7 +177,7 @@ arcadian = {
 		tradition_philosopher_culture
 		tradition_festivities
 		tradition_legalistic
-		tradition_mare_nostrum
+		tradition_maritime_mercantilism
 	}
 	
 	name_list = name_list_greek
@@ -205,7 +205,7 @@ cretan = {
 		tradition_philosopher_culture
 		tradition_festivities
 		tradition_legalistic
-		tradition_mare_nostrum
+		tradition_maritime_mercantilism
 	}
 	
 	name_list = name_list_greek
@@ -233,7 +233,7 @@ italiote = {
 		tradition_philosopher_culture
 		tradition_festivities
 		tradition_legalistic
-		tradition_mare_nostrum
+		tradition_maritime_mercantilism
 	}
 	
 	name_list = name_list_greek
@@ -261,7 +261,7 @@ dorean = {
 		tradition_philosopher_culture
 		tradition_festivities
 		tradition_legalistic
-		tradition_mare_nostrum
+		tradition_maritime_mercantilism
 	}
 	
 	name_list = name_list_greek
@@ -289,7 +289,7 @@ scielote = {
 		tradition_philosopher_culture
 		tradition_festivities
 		tradition_legalistic
-		tradition_mare_nostrum
+		tradition_maritime_mercantilism
 	}
 	
 	name_list = name_list_greek
@@ -317,7 +317,7 @@ achean = {
 		tradition_philosopher_culture
 		tradition_festivities
 		tradition_legalistic
-		tradition_mare_nostrum
+		tradition_maritime_mercantilism
 	}
 	
 	name_list = name_list_greek
@@ -345,7 +345,7 @@ cypriote = {
 		tradition_philosopher_culture
 		tradition_festivities
 		tradition_legalistic
-		tradition_mare_nostrum
+		tradition_maritime_mercantilism
 	}
 	
 	name_list = name_list_greek
@@ -373,7 +373,7 @@ ionian = {
 		tradition_philosopher_culture
 		tradition_festivities
 		tradition_legalistic
-		tradition_mare_nostrum
+		tradition_maritime_mercantilism
 	}
 	
 	name_list = name_list_hattian
@@ -401,7 +401,7 @@ hijawan = {
 		tradition_philosopher_culture
 		tradition_festivities
 		tradition_legalistic
-		tradition_mare_nostrum
+		tradition_maritime_mercantilism
 	}
 	
 	name_list = name_list_hattian
@@ -429,7 +429,7 @@ beotian = {
 		tradition_philosopher_culture
 		tradition_festivities
 		tradition_legalistic
-		tradition_mare_nostrum
+		tradition_maritime_mercantilism
 	}
 	
 	name_list = name_list_hattian
@@ -457,7 +457,7 @@ epirote = {
 		tradition_philosopher_culture
 		tradition_festivities
 		tradition_legalistic
-		tradition_mare_nostrum
+		tradition_maritime_mercantilism
 	}
 	
 	name_list = name_list_hattian

@@ -9,7 +9,7 @@
 		tradition_caucasian_wolves
 		tradition_hill_dwellers
 		tradition_mountain_homes
-		tradition_metalworkers
+		tradition_metal_craftsmanship
 	}
 	
 	name_list = name_list_caucasian
@@ -40,7 +40,7 @@ colchian = {
 		tradition_caucasian_wolves
 		tradition_hill_dwellers
 		tradition_mountain_homes
-		tradition_metalworkers
+		tradition_metal_craftsmanship
 	}
 	
 	name_list = name_list_caucasian
@@ -71,7 +71,7 @@ mosinoecian = {
 		tradition_caucasian_wolves
 		tradition_hill_dwellers
 		tradition_mountain_homes
-		tradition_metalworkers
+		tradition_metal_craftsmanship
 	}
 	
 	name_list = name_list_caucasian
@@ -102,7 +102,7 @@ mushkite = {
 		tradition_caucasian_wolves
 		tradition_hill_dwellers
 		tradition_mountain_homes
-		tradition_metalworkers
+		tradition_metal_craftsmanship
 	}
 	
 	name_list = name_list_caucasian

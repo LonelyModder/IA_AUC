@@ -8,7 +8,7 @@
 	traditions = {
 		tradition_sacred_groves
 		tradition_hill_dwellers
-		tradition_metalworkers
+		tradition_metal_craftsmanship
 		tradition_strong_kinship
 	}
 	
@@ -36,7 +36,7 @@ eteocypriot = {
 	traditions = {
 		tradition_sacred_groves
 		tradition_hill_dwellers
-		tradition_metalworkers
+		tradition_metal_craftsmanship
 		tradition_strong_kinship
 	}
 	
@@ -64,7 +64,7 @@ eteocretan = {
 	traditions = {
 		tradition_sacred_groves
 		tradition_hill_dwellers
-		tradition_metalworkers
+		tradition_metal_craftsmanship
 		tradition_strong_kinship
 	}
 	
@@ -92,7 +92,7 @@ pelasgian = {
 	traditions = {
 		tradition_sacred_groves
 		tradition_hill_dwellers
-		tradition_metalworkers
+		tradition_metal_craftsmanship
 		tradition_strong_kinship
 	}
 	
@@ -120,7 +120,7 @@ lelegian = {
 	traditions = {
 		tradition_sacred_groves
 		tradition_hill_dwellers
-		tradition_metalworkers
+		tradition_metal_craftsmanship
 		tradition_strong_kinship
 	}
 	

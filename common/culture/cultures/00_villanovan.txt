@@ -7,7 +7,7 @@
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_metalworkers
-		tradition_mare_nostrum
+		tradition_maritime_mercantilism
 		tradition_religious_patronage
 		tradition_fervent_temple_builders
 	}
@@ -35,7 +35,7 @@ etruscan = {
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_metalworkers
-		tradition_mare_nostrum
+		tradition_maritime_mercantilism
 		tradition_religious_patronage
 		tradition_fervent_temple_builders
 	}

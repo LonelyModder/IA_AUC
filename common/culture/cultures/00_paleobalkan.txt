@@ -7,7 +7,7 @@
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_mountain_homes
-		tradition_mare_nostrum
+		tradition_maritime_mercantilism
 		tradition_strong_kinship
 		tradition_warrior_culture
 	}
@@ -38,7 +38,7 @@ histrian = {
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_mountain_homes
-		tradition_mare_nostrum
+		tradition_maritime_mercantilism
 		tradition_strong_kinship
 		tradition_warrior_culture
 	}

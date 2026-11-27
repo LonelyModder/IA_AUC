@@ -7,7 +7,7 @@
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_fervent_temple_builders
-		tradition_metalworkers
+		tradition_metal_craftsmanship
 		tradition_seafaring
 		tradition_practiced_pirates
 	}
@@ -38,7 +38,7 @@ ioleian = {
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_fervent_temple_builders
-		tradition_metalworkers
+		tradition_metal_craftsmanship
 		tradition_seafaring
 		tradition_practiced_pirates
 	}
@@ -69,7 +69,7 @@ balarian = {
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_fervent_temple_builders
-		tradition_metalworkers
+		tradition_metal_craftsmanship
 		tradition_seafaring
 		tradition_practiced_pirates
 	}
@@ -100,7 +100,7 @@ corsian = {
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_fervent_temple_builders
-		tradition_metalworkers
+		tradition_metal_craftsmanship
 		tradition_seafaring
 		tradition_practiced_pirates
 	}
@@ -131,7 +131,7 @@ talayotan = {
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_fervent_temple_builders
-		tradition_metalworkers
+		tradition_metal_craftsmanship
 		tradition_seafaring
 		tradition_practiced_pirates
 	}

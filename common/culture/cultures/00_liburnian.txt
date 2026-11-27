@@ -7,7 +7,7 @@
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_practiced_pirates
-		tradition_mare_nostrum
+		tradition_maritime_mercantilism
 		tradition_warrior_culture
 		tradition_hill_dwellers
 	}
@@ -38,7 +38,7 @@ veneti = {
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_practiced_pirates
-		tradition_mare_nostrum
+		tradition_maritime_mercantilism
 		tradition_warrior_culture
 		tradition_hill_dwellers
 	}
@@ -69,7 +69,7 @@ carnian = {
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_practiced_pirates
-		tradition_mare_nostrum
+		tradition_maritime_mercantilism
 		tradition_warrior_culture
 		tradition_hill_dwellers
 	}
@@ -100,7 +100,7 @@ liburni = {
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_practiced_pirates
-		tradition_mare_nostrum
+		tradition_maritime_mercantilism
 		tradition_warrior_culture
 		tradition_hill_dwellers
 	}
@@ -131,7 +131,7 @@ lapodian = {
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_practiced_pirates
-		tradition_mare_nostrum
+		tradition_maritime_mercantilism
 		tradition_warrior_culture
 		tradition_hill_dwellers
 	}

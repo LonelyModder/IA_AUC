@@ -7,7 +7,7 @@
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_fervent_temple_builders
-		tradition_metalworkers
+		tradition_metal_craftsmanship
 		tradition_warrior_culture
 		tradition_religious_patronage
 	}
@@ -35,7 +35,7 @@ kerman = {
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_fervent_temple_builders
-		tradition_metalworkers
+		tradition_metal_craftsmanship
 		tradition_warrior_culture
 		tradition_religious_patronage
 	}
@@ -63,7 +63,7 @@ napatan = {
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_fervent_temple_builders
-		tradition_metalworkers
+		tradition_metal_craftsmanship
 		tradition_warrior_culture
 		tradition_religious_patronage
 	}
@@ -91,7 +91,7 @@ mededian = {
 	martial_custom = martial_custom_male_only
 	traditions = {
 		tradition_fervent_temple_builders
-		tradition_metalworkers
+		tradition_metal_craftsmanship
 		tradition_warrior_culture
 		tradition_religious_patronage
 	}
